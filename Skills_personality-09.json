@@ -1,0 +1,2100 @@
+{
+  "dataList": [
+    {
+      "id": 1090701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "무지를 밝히리",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 3%)만큼 보호막을 얻음",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 흐트러짐 5 회복"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "무지를 밝히리",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 4%)만큼 보호막을 얻음\n[WhenUse] 탐구한 지식 이 2 이상이면, (탐구한 지식 - 1)만큼 코인 위력이 증가",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 흐트러짐 8 회복"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "무지를 밝히리",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 5%)만큼 보호막을 얻음\n[WhenUse] 탐구한 지식 이 2 이상이면, (탐구한 지식 - 1)만큼 코인 위력이 증가",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 흐트러짐 10 회복"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "지식의 무게",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 5%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "지식의 무게",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 8%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 3 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "지식의 무게",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 10%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 [Sinking]이 5 이상이면, 합 위력 +2",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 5 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "고통스러운 계몽",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 15%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 침잠 횟수 4 증가"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "고통스러운 계몽",
+          "desc": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 20%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 [Sinking]이 7 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 횟수 4 증가"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 침잠 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090704,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "탐구 몰입",
+          "desc": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "탐구 몰입",
+          "desc": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 1090801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "염권격",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "염권격",
+          "desc": "대상의 [Combustion]이 3 이상이면 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "염권격",
+          "desc": "대상의 [Combustion] 3당, 코인 위력 +1(최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "염수격-연",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "염수격-연",
+          "desc": "대상의 [Combustion]이 6 이상이면 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "염수격-연",
+          "desc": "대상의 [Combustion] 6당, 코인 위력 +1(최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "일점돌파",
+          "desc": "대상의 [Combustion]과 [Combustion] 횟수가 6 이상이면, 피해량 +30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 위력의 절반만큼 분노 속성 피해를 줌.(최대 20) 대상의 [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "일점돌파",
+          "desc": "<style=\"highlight\">대상의 [Combustion]이 6 이상이면 코인 위력 +1</style>\n대상의 [Combustion]과 [Combustion] 횟수가 6 이상이면, 피해량 +30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌.(최대 30) 대상의 [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "반격",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "반격",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "징수 준비",
+          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[WinDuelAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "징수 준비",
+          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 6 이상이면, 합 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "징수 준비",
+          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WhenUse] 대상의 [Vibration] <style=\"highlight\">6 당 합 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T사식 제압 격투",
+          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "T사식 제압 격투",
+          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 6 이상이면, 합 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[WinDuelAttack] [Vibration] 횟수 2 증가</style>"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "T사식 제압 격투",
+          "desc": "<style=\"highlight\">대상의 [Binding] 1 당 피해량 +5% (최대 15%)</style>\n[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WhenUse] 대상의 [Vibration] <style=\"highlight\">6 당 합 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 대상의 [Vibration]이 6 이상이면, 다음 턴에 [Binding] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "징수 집행",
+          "desc": "[WhenUse] 대상의 [Vibration]이 8 이상이면, 합 위력 +1\n[WhenUse] 자신의 진동 횟수를 8 소모하여 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신이 [TimeRentalTwoPersonality] 상태면, [TimeSuspend] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "징수 집행",
+          "desc": "<style=\"highlight\">대상의 [Binding] 1 당 피해량 +5% (최대 20%)</style>\n[WhenUse] 대상의 [Vibration]이 8 이상이면, 합 위력 +<style=\"highlight\">2</style>\n[WhenUse] 자신의 [Vibration] 횟수를 8 소모하여 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 소모했다면, 다음 턴에 [Binding] 2 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신이 [TimeRentalTwoPersonality] 상태면, [TimeSuspend] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "시간 대여",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[StartBattle] [TimeRentalTwoPersonality] 상태가 아니면, 턴 종료 시 [TimeRentalTwoPersonality] 3 얻음 (턴 당 1회)\n[WhenUse] 이번 턴 동안 적에게 피격 시, 다음 턴에 대상에게 [Vibration] 2 부여 (턴 당 2회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "시간 대여",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[StartBattle] [TimeRentalTwoPersonality] 상태가 아니면, 턴 종료 시 [TimeRentalTwoPersonality] 3 얻음 (턴 당 1회)\n[WhenUse] 이번 턴 동안 적에게 피격 시, 다음 턴에 대상에게 [Vibration] 2 부여 (턴 당 <style=\"highlight\">6</style>회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "딜리버리 캐리어 - 붕괴 나이프",
+          "desc": "[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "딜리버리 캐리어 - 붕괴 나이프",
+          "desc": "<style=\"highlight\">[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "딜리버리 캐리어 - 붕괴 나이프",
+          "desc": "<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "딜리버리 캐리어 - 가젯 사출",
+          "desc": "[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 10 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 2, 턴 당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "딜리버리 캐리어 - 가젯 사출",
+          "desc": "<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] <style=\"highlight\">5</style> 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">4</style>, 턴 당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "딜리버리 캐리어 - 가젯 사출",
+          "desc": "<style=\"highlight\">[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)</style>\n[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] <style=\"highlight\">2</style> 추가로 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 이상이면, [Agility] 1 추가로 얻음</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 5 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">6</style>, 턴 당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "플루! 힘 좀 써줘!",
+          "desc": "[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)\n[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 3 증가 (턴 당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack]가 15 이상이면, 피해량 +15%"
+                },
+                {
+                  "desc": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망하면, 다음 턴에 [Agility] 1 얻음 (턴 당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "플루! 힘 좀 써줘!",
+          "desc": "[DevyatDimensionalSack] 1당 피해량 <style=\"highlight\">+4%</style> (최대 <style=\"highlight\">80%</style>)\n<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 3 증가 (턴 당 1회)\n<style=\"highlight\">- [DevyatDimensionalSack] 10당 [Burst] 횟수 1 추가로 증가 (최대 2)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack]가 15 이상이면, 피해량 <style=\"highlight\">+25%</style>"
+                },
+                {
+                  "desc": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망하면, 다음 턴에 [Agility] <style=\"highlight\">2</style> 얻음 (턴 당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "배달 보조 및 통제 시퀀스",
+          "desc": "[StartBattle] [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSack]/2)%만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "배달 보조 및 통제 시퀀스",
+          "desc": "[StartBattle] [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSack])%</style>만큼 보호막을 얻음 (최대 <style=\"highlight\">25%</style>, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "이건... 잠시 전략적 휴식이야!",
+          "desc": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSack]/2)%만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "이건... 잠시 전략적 휴식이야!",
+          "desc": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSack])%</style>만큼 보호막을 얻음 (최대 <style=\"highlight\">25%</style>, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "물러가도록...",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+          "coinlist": [
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "물러가도록...",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "물러가도록...",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "흩뿌리며 갈려나가라",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "흩뿌리며 갈려나가라",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1을 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "흩뿌리며 갈려나가라",
+          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "축제는 끝날거야",
+          "desc": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈[TabExplain] 오의 피날레'로 발동됨\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "축제는 끝날거야",
+          "desc": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈[TabExplain] 오의 피날레'로 발동됨\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "돈키호테류 경혈 15식 양산",
+          "desc": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "돈키호테류 경혈 15식 양산",
+          "desc": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n<style=\"highlight\"> - 대상 아군이 <혈귀>면, [Laceration] 횟수 추가 2 감소</style>\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "돈키호테류 경혈 오의 피날레",
+          "desc": "[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "돈키호테류 경혈 오의 피날레",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사섬",
+          "desc": "[WhenUse] 자신의 [Breath] 횟수 1 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "사섬",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합이 10 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 [Breath] 횟수 <style=\"highlight\">2</style> 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 자신에게 [SnakeStance]이 있으면, [Burst] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "사섬",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 자신에게 [SnakeStance]이 있으면, [Burst] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "뱀 송곳니",
+          "desc": "[WinDuel] [Burst] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 1 증가",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BurstPoison] 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "뱀 송곳니",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합이 10 이상이면, 코인 위력 +1</style>\n[WinDuel] [Burst] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 <style=\"highlight\">2</style> 증가",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Breath]이 30 이상이면, [Breath] 10 소모하여 코인 1회 재사용 (최대 1회)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BurstPoison] 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "뱀 송곳니",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)</style>\n[WinDuel] [Burst] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Burst] 1 부여</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath]이 30 이상이면, [Breath] 10 소모하여 코인 1회 재사용 (최대 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BurstPoison] 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] [SnakeStance] 1 얻음</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "절명사난",
+          "desc": "[WideAreaRampage]\n[WhenUse] 자신의 [Breath] 위력과 메인 공격 대상의 [Burst] 위력의 합이 10 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [SnakeStance]만큼 합 위력이 증가\n[WhenUse] [SnakeStance] 3 얻음\n[WinDuel] 모든 대상의 [Burst] 횟수 1 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 대상의 [BurstPoison] 1 감소"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 이 코인 1회 재사용 (스킬당 2회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "절명사난",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 메인 공격 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [SnakeStance]만큼 합 위력이 증가\n[WhenUse] [SnakeStance] 3 얻음\n[WinDuel] 모든 대상의 [Burst] 횟수 1 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 대상의 [BurstPoison] 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 이 코인 1회 재사용 (스킬당 2회)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "반축",
+          "desc": "[CanDuelGuard]\n[StartBattle] 다음 턴에 [SnakeStance] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "반축",
+          "desc": "[CanDuelGuard]\n[StartBattle] 다음 턴에 [SnakeStance] 3 얻음\n<style=\"highlight\">[WhenUse] 자신의 [Breath]이 10 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "기사의 보호",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "기사의 보호",
+          "desc": "<style=\"highlight\">대상의 [Sinking]이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "기사의 보호",
+          "desc": "대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n<style=\"highlight\">[ProtectiveSword]이 3 이상이면, 합 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking] 1 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음<style=\"highlight\">\n- [ProtectiveSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "정의의 힘으로",
+          "desc": "[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "정의의 힘으로",
+          "desc": "<style=\"highlight\">대상의 [Sinking]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n<style=\"highlight\">- [ProtectiveSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "정의의 힘으로",
+          "desc": "대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n<style=\"highlight\">[ProtectiveSword] 2당 합 위력 +1 (최대 2)</style>\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n- [ProtectiveSword] <style=\"highlight\">수치만큼</style> [BlackTearsAlly] 추가로 얻음 (최대 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "아르카나 피어스",
+          "desc": "대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n[ProtectiveSword] 2당 합 위력 +1 (최대 2)\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 1.5)%만큼 증가\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [ProtectiveSword] 수치만큼 [Sinking] 부여 (최대 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "아르카나 피어스",
+          "desc": "대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n[ProtectiveSword] <style=\"highlight\">1</style>당 합 위력 +1 (최대 <style=\"highlight\">5</style>)\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 1.5)%만큼 증가\n<style=\"highlight\">- 소모한 수치 5당 기본 위력 +1</style>\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SwordCutwithTear]를 보유하였거나 이 코인에서 소모하였다면, 피해량 +20%</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [ProtectiveSword] 수치만큼 [Sinking] 부여 (최대 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "기사의 믿음",
+          "desc": "[CanDuelGuard]\n[StartBattle] 최대 체력의 (정신력 / 5)%만큼 보호막 얻음 (턴당 1회)\n[WhenUse] [BlackTearsAlly] 3 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "기사의 믿음",
+          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] [ProtectiveSword] 2당, 코인 위력 +1 (최대 2)</style>\n[StartBattle] 최대 체력의 (정신력 / <style=\"highlight\">3</style>)%만큼 보호막 얻음 (턴당 1회)\n[WhenUse] [BlackTearsAlly] <style=\"highlight\">5</style> 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "빛바랜 믿음",
+          "desc": "[WhenUse] 정신력 7 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "빛바랜 믿음",
+          "desc": "<style=\"highlight\">대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] 정신력 7 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "빛바랜 믿음",
+          "desc": "대상의 [Sinking] 3당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 정신력 7 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking] 1 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 2 얻음<style=\"highlight\">\n- 전투 시작 시 보유한 [PenetratingSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "눈물로 벼려낸 검으로",
+          "desc": "[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "눈물로 벼려낸 검으로",
+          "desc": "<style=\"highlight\">대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n<style=\"highlight\">- 전투 시작 시 보유한 [PenetratingSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "눈물로 벼려낸 검으로",
+          "desc": "대상의 [Sinking] 3당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">[Sinking] 2 부여,</style> [Sinking] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n- 전투 시작 시 보유한 [PenetratingSword] <style=\"highlight\">수치만큼</style> [BlackTearsAlly] 추가로 얻음 (최대 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091307,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "아르카나 티어 앤 피어스",
+          "desc": "대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)\n[WhenUse] 정신력 15 감소\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 3)%만큼 증가\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 3 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인에서 [SwordCutwithTear]를 소모하였다면, 코인 1회 재사용 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "아르카나 티어 앤 피어스",
+          "desc": "대상의 [Sinking] 3당, 최종 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 정신력 15 감소\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 3)%만큼 증가\n<style=\"highlight\">- 소모한 수치 5당 기본 위력 +1</style>\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">4</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">5</style> 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인에서 [SwordCutwithTear]를 소모하였다면, 코인 1회 재사용 (턴당 1회)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "닳아버린 긍지",
+          "desc": "[DuelCounter]\n[WhenUse] [BlackTearsAlly] 3 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "닳아버린 긍지",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] [PenetratingSword] 2당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] [BlackTearsAlly] <style=\"highlight\">5</style> 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
