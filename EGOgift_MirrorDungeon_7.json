@@ -88,7 +88,7 @@
     {
       "id": 9212,
       "name": "全ての悪の終わり",
-      "desc": "編成されたピークォド号所属人員が3人以上の時に発動 (待機人員を含む)\n\n[Laceration]が付与された敵に攻撃スキル的中時、50%の確率で[Breath]回数2増加または[Breath]3を得る (キャラクター1名ごとに1ターンにつき3回発動)\n\nスキル的中時にクリティカルが発生したなら、80%の確率で[Breath]回数が減少しない(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルと反撃を含む)\n基本スキルでクリティカル表面的中時、該当コインで付与するマイナス効果の数値が1増加する。(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルを除く、反撃を含む)\n\n編成順1番の人格が敵を討伐したなら、この戦闘の間ピークォド号所属人員が毎ターン[PenetrateResultUp]1, [Protection]1, [CriticalDamageUp]1を得る (戦闘ごとに最大3回発動)\n\nピークォド号所属人員が攻撃を的中させたなら、編成順が最も早いピークォド号所属人格の精神力を7回復 (スキルごとに1回)\n味方が敵討伐時、編成順が最も早いピークォド号所属人格の精神力が減少したなら、精神力を15回復。",
+      "desc": "編成されたピークォド号所属人格が3人以上の時に発動 (待機人員を含む)\n\n[Laceration]または特殊出血が付与された敵に攻撃スキル的中時、[Breath]回数2増加または[Breath]3を得る (人格別に1ターンにつき3回発動)\n\nスキル的中時にクリティカルが発生したなら、80%の確率で次のターンに[PenetrateResultUp]1を得る (人格別に1ターンにつき2回発動。E.G.Oスキルと反撃を含む)\n- ピークォド号所属人格なら、追加で次のターンに[PlusCoinValueUp]1を得る (人格別に1ターンにつき1回発動)\n\n基本スキルでクリティカル表面的中時、そのコインで付与するマイナス効果の数値が1増加する。(人格別に1ターンにつき1回発動。E.G.Oスキルを除く、反撃を含む)\n\n敵または味方が死亡時、この戦闘の間ピークォド号所属人格が毎ターン[PenetrateResultUp]1, [Protection]1, [CriticalDamageUp]1を得る (戦闘ごとに最大3回発動)\n\nピークォド号所属人格が攻撃を的中させたなら、編成順が最も早いピークォド号所属人格の精神力を7回復 (スキルごとに1回)\n\n味方が敵討伐時、編成順が最も早いピークォド号所属人格の精神力が減少したなら、精神力を15回復。",
       "simpleDesc": [
         {
           "abilityID": 9212,
@@ -96,11 +96,11 @@
         },
         {
           "abilityID": 92121,
-          "simpleDesc": "クリティカル的中時、一定確率で呼吸回数が減少しない。マイナス効果の付与量が増加"
+          "simpleDesc": "クリティカル的中時に一定確率で次のターンに[PenetrateResultUp]を得る、条件を満たした場合は次のターンに[PlusCoinValueUp]を得る、マイナス効果の付与量が増加"
         },
         {
           "abilityID": 92122,
-          "simpleDesc": "クイック・攻撃レベル増加・ダメージ量増加を得る"
+          "simpleDesc": "[PenetrateResultUp]・[Protection]・[CriticalDamageUp]を得る"
         },
         {
           "abilityID": 92123,
@@ -271,7 +271,7 @@
     {
       "id": 9223,
       "name": "凡作",
-      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の色欲属性、または斬撃属性スキルが的中した敵に、次のターンにて[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を持つ薬指所属人員が倒したなら、次のターンに[PlusCoinValueUp]1を得る (1ターンにつき1回)",
+      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の色欲属性、または斬撃属性スキルが的中した敵に、次のターンにて[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を保有する薬指所属人格が倒したなら、次のターンに[PlusCoinValueUp]1を得る (1ターンにつき1回)",
       "simpleDesc": [
         {
           "abilityID": 9223,
@@ -286,7 +286,7 @@
     {
       "id": 9224,
       "name": "秀作",
-      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の攻撃スキルが的中した敵に[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を持つ薬指所属人格が倒したなら、\nその薬指所属人員が[Inspire]を失って、[GreatAesthetics]を得る",
+      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の攻撃スキルが的中した敵に[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を保有する薬指所属人格が倒したなら、\nその薬指所属人格が[Inspire]を失って、[GreatAesthetics]を得る",
       "simpleDesc": [
         {
           "abilityID": 9224,

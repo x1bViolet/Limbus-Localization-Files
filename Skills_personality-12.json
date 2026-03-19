@@ -2420,6 +2420,372 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1121501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電気放流",
+          "desc": "[WhenUse] 自分の[Charge]が3以上なら、コイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "電気放流",
+          "desc": "[WhenUse] 自分の[Charge]が3以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 自分の[Charge]回数が5以上なら、マッチ威力 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">2</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "電気放流",
+          "desc": "<style=\"highlight\">[WhenUse] 自分の[Charge]1につき、ダメージ量 +6% (最大30%)</style>\n[WhenUse] 自分の[Charge]が3<style=\"highlight\">/5</style>以上なら、コイン威力 +1<style=\"highlight\">/+2</style>\n[WhenUse] 自分の[Charge]回数<style=\"highlight\">5につき、マッチ威力 +1 (最大2)</style>\n<style=\"highlight\">[WhenUse] 自分の[Charge]回数が10未満なら、自分の[Charge]回数が2増加</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "直流インバーティング",
+          "desc": "[WhenUse] 自分の[Charge]が3以上なら、コイン威力 +1\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を5消耗して基本威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Charge]だけ、自分の[Charge]回数が増加 (最大3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "直流インバーティング",
+          "desc": "[WhenUse] 自分の[Charge]が3以上なら、コイン威力 +1\n<style=\"highlight\">- [Charge]が3以上なら、最終コインが[SuperCoin]に変更される</style>\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を5消耗して基本威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">4</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">([Charge] + 1)</style>だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]<style=\"highlight\">2</style>を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "直流インバーティング",
+          "desc": "<style=\"highlight\">[WhenUse] 自分の[Charge]1につき、ダメージ量 +3% (最大15%)</style>\n[WhenUse] 自分の[Charge]が3<style=\"highlight\">/5</style>以上なら、コイン威力 +1<style=\"highlight\">/+2</style>\n- [Charge]が3以上なら、最終コインが[SuperCoin]に変更される\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を5消耗して基本威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">5</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">([Charge] + 2)</style>だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]2を付与\n<style=\"highlight\">- [Charge]が3以上なら、代わりに[PhotoElectricity]3を付与</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "高圧電流放電",
+          "desc": "[StartBattle] [HighVoltageExoshell]を[Charge]だけ得る (最大3, 1ターンにつき1回)\n[BeforeUse] 自分の[Charge]が3以上なら、「出力最大 - 超高圧電流放電」として発動 (1ターンにつき1回)\n[WhenUse] 自分の[Charge]が3以上なら、コイン威力 +1\n- [Charge]が3以上なら、最終コインが[SuperCoin]に変更される\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を10消耗してコイン威力 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が1増加"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst]2を付与、[Burst]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]2を付与\n- [Charge]が3以上なら、代わりに[PhotoElectricity]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]だけ、次のターンに[ChargedSting]を付与 (最大3)\n- [Charge]が5以上なら、代わりにこのターンと次のターンに[ChargedSting]3を付与 (1ターンにつき1回)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "高圧電流放電",
+          "desc": "[StartBattle] [HighVoltageExoshell]を[Charge]だけ得る (最大<style=\"highlight\">5</style>, 1ターンにつき1回)\n[BeforeUse] 自分の[Charge]が3以上なら、「出力最大 - 超高圧電流放電」として発動 (1ターンにつき1回)\n[WhenUse] 自分の[Charge]が3<style=\"highlight\">/5</style>以上なら、コイン威力 +1<style=\"highlight\">/+2</style>\n- [Charge]が3以上なら、最終コインが[SuperCoin]に変更される\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を10消耗してコイン威力 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が1増加<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自分の[Charge]回数が2増加</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与、[Burst]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]2を付与\n- [Charge]が3以上なら、代わりに[PhotoElectricity]3を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]だけ、次のターンに[ChargedSting]を付与 (最大<style=\"highlight\">5</style>)\n- [Charge]が5以上なら、代わりにこのターンと次のターンに[ChargedSting]<style=\"highlight\">5</style>を付与 (1ターンにつき1回)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "このE.G.O装備の防御的な能力は、類を見ないほど優秀な部類さ",
+          "desc": "[StartBattle] [HighVoltageExoshell]1を得る (1ターンにつき1回)\n[WhenUse] 自分の[Charge]回数が2増加 (1ターンにつき2回)\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が5増加",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "このE.G.O装備の防御的な能力は、類を見ないほど優秀な部類さ",
+          "desc": "[StartBattle] [HighVoltageExoshell]<style=\"highlight\">2</style>を得る (1ターンにつき1回)\n<style=\"highlight\">[WhenUse] 自分の[Charge]だけコイン威力が増加 (最大5)</style>\n[WhenUse] 自分の[Charge]回数が2増加 (1ターンにつき2回)\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が5増加",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "出力最大 - 超高圧電流放電",
+          "desc": "[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を10消耗して基本威力 +1, コイン威力 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]だけ、次のターンに[ChargedSting]を付与 (最大3)\n- [Charge]が5以上なら、代わりにこのターンと次のターンに[ChargedSting]3を付与 (1ターンにつき1回)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "出力最大 - 超高圧電流放電",
+          "desc": "<style=\"highlight\">このスキルの攻撃加重値よりも少ない攻撃対象1につき、ダメージ量 +50% (集中戦闘では部位で判定)</style>\n<style=\"highlight\">[WhenUse] 自分の[Charge]が5以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[Charge]回数が10以上なら、[Charge]回数を10消耗して基本威力 +1, コイン威力 +2\n<style=\"highlight\">- 残った[Charge]回数があるなら、[Charge]回数を最大10まで消耗してダメージ量 +(この効果で追加消耗した[Charge]回数 × 1.5)% (最大15%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]回数が2増加<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]だけ、次のターンに[ChargedSting]を付与 (最大<style=\"highlight\">5</style>)\n- [Charge]が5以上なら、代わりにこのターンと次のターンに[ChargedSting]<style=\"highlight\">5</style>を付与 (1ターンにつき1回)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

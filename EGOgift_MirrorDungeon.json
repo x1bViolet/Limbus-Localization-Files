@@ -1784,7 +1784,7 @@
     {
       "id": 19065,
       "name": "美的感覚+",
-      "desc": "<style=\"upgradeHighlight\">精神力が0未満の敵への与ダメージ量が40%増加。</style>\n\n[Sinking]威力を付与したり、回数を増加させるスキルの場合、追加でダメージ量が<style=\"upgradeHighlight\">10%</style>増加 (特殊<noparse>沈潜</noparse>を含む)\n\n精神力のない敵に[Sinking]効果が適用された場合、憂鬱属性ダメージを与える代わりに(憂鬱属性を含む)罪悪属性の中で最も効果的な属性ダメージに変更。",
+      "desc": "<style=\"upgradeHighlight\">精神力が0未満の敵への与ダメージ量が40%増加。</style>\n\n[Sinking]威力を付与したり、回数を増加させるスキルの場合、追加でダメージ量が10%増加 (特殊<noparse>沈潜</noparse>を含む)\n\n精神力のない敵に[Sinking]効果が適用された場合、憂鬱属性ダメージを与える代わりに(憂鬱属性を含む)罪悪属性の中で最も効果的な属性ダメージに変更。",
       "simpleDesc": [
         {
           "abilityID": 19065,
@@ -1799,7 +1799,7 @@
     {
       "id": 29065,
       "name": "美的感覚++",
-      "desc": "<style=\"upgradeHighlight\">精神力がないか、0未満の敵への与ダメージ量が50%増加。</style>\n\n[Sinking]威力を付与したり、回数を増加させるスキルの場合、追加でダメージ量が<style=\"upgradeHighlight\">10%</style>増加 (特殊<noparse>沈潜</noparse>を含む)\n\n精神力のない敵に[Sinking]効果が適用された場合、憂鬱属性ダメージを与える代わりに(憂鬱属性を含む)罪悪属性の中で最も効果的な属性ダメージに変更。",
+      "desc": "<style=\"upgradeHighlight\">精神力がないか、0未満の敵への与ダメージ量が50%増加。</style>\n\n[Sinking]威力を付与したり、回数を増加させるスキルの場合、追加でダメージ量が10%増加 (特殊<noparse>沈潜</noparse>を含む)\n\n精神力のない敵に[Sinking]効果が適用された場合、憂鬱属性ダメージを与える代わりに(憂鬱属性を含む)罪悪属性の中で最も効果的な属性ダメージに変更。",
       "simpleDesc": [
         {
           "abilityID": 29065,

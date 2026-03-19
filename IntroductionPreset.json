@@ -1899,6 +1899,22 @@
     {
       "id": "introduce_sentence_238",
       "content": "最上の…{0}だ。"
+    },
+    {
+      "id": "introduce_word_239",
+      "content": "実験"
+    },
+    {
+      "id": "introduce_sentence_239",
+      "content": "どれ、{0}してみるとするか。"
+    },
+    {
+      "id": "introduce_word_240",
+      "content": "揺らめき"
+    },
+    {
+      "id": "introduce_sentence_240",
+      "content": "{0}に手が届くまで、何度でも…！"
     }
   ]
 }

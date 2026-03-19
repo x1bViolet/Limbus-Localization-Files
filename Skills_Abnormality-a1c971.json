@@ -486,7 +486,7 @@
                                     "desc": "[WinDuelAttack] [Vibration]回数が3増加"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] 1回[VibrationExplosion]。対象の[Vibration]回数が1減少"
+                                    "desc": "[CriticalOnSucceedAttack] 1回[VibrationExplosion]。対象が[VibrationExplosion]時、対象の[Vibration]回数が1減少"
                                 }
                             ]
                         }
@@ -500,7 +500,7 @@
                 {
                     "level": 1,
                     "name": "分析施行",
-                    "desc": "[WhenUse] 自分の[Breath]威力が10以上なら[Breath]威力を消耗し、消耗した[Breath]威力3につき最終威力 +2(最大4)",
+                    "desc": "[WhenUse] 自分の[Breath]威力が10以上なら[Breath]威力を消耗し、消耗した[Breath]威力3につき最終威力 +2(最大4) 威力が増加時、増加した威力1につき[Breath]3を追加で消耗",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -508,13 +508,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 対象の[Vibration]回数が5以上なら[VibrationExplosion]。対象の[Vibration]回数が1減少"
+                                    "desc": "[OnSucceedAttack] 対象の[Vibration]回数が5以上なら[VibrationExplosion]。対象が[VibrationExplosion]時、対象の[Vibration]回数が1減少"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] [Vibration]威力を5付与、[Vibration]回数が3増加"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] 2回[VibrationExplosion]。対象の[Vibration]回数が2減少"
+                                    "desc": "[CriticalOnSucceedAttack] 2回[VibrationExplosion]。対象が[VibrationExplosion]時、対象の[Vibration]回数が1減少 (マッチで勝利したなら、減少効果を1回無効)"
                                 }
                             ]
                         }
@@ -542,7 +542,7 @@
                                     "desc": "直前のターンに体力ダメージを受けていれば、クリティカルヒットせずに与ダメージ量が80%減少"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] 3回[VibrationExplosion]。対象の[Vibration]回数が3減少"
+                                    "desc": "[CriticalOnSucceedAttack] 3回[VibrationExplosion]。対象が[VibrationExplosion]時、対象の[VibrationExplosion]1回につき対象の[Vibration]回数が3減少 (最大9減少)"
                                 }
                             ]
                         }
@@ -559,6 +559,124 @@
                     "desc": "[WhenUse] 自分の[Breath]威力3につき、最終威力 +1(最大5)\n[WhenUse] [Breath]威力4を得る\n- バリアがあるなら、[Breath]回数が2追加で増加",
                     "coinlist": [
                         {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "圧搾",
+                    "desc": "[WhenUse] 自分の[Breath]威力5につき、最終威力 +1 (最大3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [Vibration]2を付与"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] [Vibration]威力3を付与、[Vibration]回数が2増加"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "分解",
+                    "desc": "[WhenUse] 自分の[Breath]威力3につき、最終威力 +1 (最大5)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象の[ObservedPerson]が20以上なら、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [Vibration]3を付与"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] [Vibration]回数が3増加"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 1回[VibrationExplosion]。対象の[Vibration]回数が1減少"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "分析施行",
+                    "desc": "[WhenUse] 自分の[Breath]威力が10以上なら[Breath]威力を消耗し、消耗した[Breath]威力3につき最終威力 +2(最大4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対象の[Vibration]回数が5以上なら[VibrationExplosion]。対象の[Vibration]回数が1減少"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] [Vibration]威力を5付与、[Vibration]回数が3増加"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 2回[VibrationExplosion]。対象の[Vibration]回数が2減少"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "消滅シーケンス起動",
+                    "desc": "[WhenUse] [Breath]威力と[Breath]回数を半分消耗\n- (消耗した[Breath]威力と[Breath]回数の合計 ÷ 2)だけ最終威力が増加(最大20)\n- (消耗した[Breath]威力 × 2)%だけダメージ量が増加(最大50%)\n- (消耗した[Breath]回数 × 4)%だけクリティカルダメージ量が増加(最大100%)\n[DefeatDuel] 残った[Breath]回数が半減",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "直前のターンに体力ダメージを受けていなければ、クリティカルヒット"
+                                },
+                                {
+                                    "desc": "直前のターンに体力ダメージを受けていれば、クリティカルヒットせずに与ダメージ量が80%減少"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] 3回[VibrationExplosion]。対象の[Vibration]回数が3減少"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "考察",
+                    "desc": "[CanDuelGuard]\n[WhenUse] 自分の[Breath]威力3につき、最終威力 +1(最大5)\n[WhenUse] [Breath]威力4を得る\n- バリアがあるなら、[Breath]回数が2追加で増加",
+                    "coindescs": [
+                        {
+                            "desc": "[SuperCoin]"
+                        }
                     ]
                 }
             ]

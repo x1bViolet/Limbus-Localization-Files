@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -27,10 +27,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷 3を付与"
+                  "desc": "[OnSucceedAttackHead] [Combustion]3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -45,10 +45,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 3を付与"
+                  "desc": "[OnSucceedAttack] [Combustion]3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少1へ変換 (最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -68,10 +68,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 火傷 4を付与"
+                  "desc": "[OnSucceedAttackTail] [Combustion]4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -89,10 +89,10 @@
                   "desc": "[OnSucceedAttackTail] 次のターンに束縛 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 火傷 4を付与"
+                  "desc": "[OnSucceedAttack] [Combustion]4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少1へ変換 (最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -110,10 +110,10 @@
                   "desc": "[OnSucceedAttackTail] 次のターンに束縛 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 火傷 4を付与"
+                  "desc": "[OnSucceedAttack] [Combustion]4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 2を防御レベル減少1へ変換 (最大10)"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
                 }
               ]
             }
@@ -847,6 +847,187 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が15以上なら、次のターンに[CrimsonDamageUp]1を得る (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 自分の[Combustion]が15以上なら、全攻撃対象へ[FaustFlameMothEmber]1を付与 (1ターンにつき1回、集中戦闘では部位として扱う)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が15以上なら、次のターンに[CrimsonDamageUp]1を得る (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (憤怒共鳴数 ÷ 2)だけ[Combustion]を付与 (最大3, 小数点切り捨て)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 自分の[Combustion]が15以上なら、全攻撃対象へ[FaustFlameMothEmber]1を付与 (1ターンにつき1回、集中戦闘では部位として扱う)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が15以上なら、次のターンに[CrimsonDamageUp]1を得る (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] (憤怒共鳴数 ÷ 2)だけ[Combustion]を付与 (最大3, 小数点切り捨て)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (憤怒共鳴数 ÷ 3)だけ[Combustion]回数が増加 (最大2, 小数点切り捨て)</style>"
+                },
+                {
+                  "desc": "[EndCoin] 自分の[Combustion]が15以上なら、全攻撃対象へ[FaustFlameMothEmber]1を付与 (1ターンにつき1回、集中戦闘では部位として扱う)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が25以上なら、次のターンに[CrimsonDamageUp]2を得る (1ターンにつき1回)\n[EndSkill] 自分が失った体力が50%以上なら、自分の[Combustion]10につき精神力を5回復 (最大10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber]3をランダムに攻撃対象へ分けて付与 (1ターンにつき1回。最大値の対象は除外され、集中戦闘では部位として扱う)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が25以上なら、次のターンに[CrimsonDamageUp]2を得る (1ターンにつき1回)\n[EndSkill] 自分が失った体力が50%以上なら、自分の[Combustion]10につき精神力を5回復 (最大10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (憤怒共鳴数 ÷ 2)だけ[Combustion]を付与 (最大3, 小数点切り捨て)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber]3をランダムに攻撃対象へ分けて付与 (1ターンにつき1回、最大値の対象を除く。集中戦闘では部位として扱う)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "紅炎殺",
+          "abName": "紅炎蛾",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 全攻撃対象と自分の[Combustion]威力の合計10につき、最終威力 +1 (最大2)\n[EndSkill] [Combustion]10を得る、自分の[Combustion]回数が1増加\n[EndSkill] 自分の[Combustion]が25以上なら、次のターンに[CrimsonDamageUp]2を得る (1ターンにつき1回)\n[EndSkill] 自分が失った体力が50%以上なら、自分の[Combustion]10につき精神力を5回復 (<style=\"highlight\">最大15</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (憤怒共鳴数 ÷ 3)だけ[Combustion]回数が増加 (最大2, 小数点切り捨て)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] (憤怒共鳴数 ÷ 2)だけ[Combustion]を付与 (最大3, 小数点切り捨て)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber]<style=\"highlight\">6</style>をランダムに攻撃対象へ分けて (1ターンにつき1回、最大値の対象を除く。集中戦闘では部位として扱う)"
                 }
               ]
             }
