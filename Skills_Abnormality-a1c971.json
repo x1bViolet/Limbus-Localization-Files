@@ -486,7 +486,7 @@
                                     "desc": "[WinDuelAttack] [Vibration] 횟수 3 증가"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 1회. 대상의 [Vibration] 횟수 1 감소"
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 1회. 대상이 [VibrationExplosion] 시, 대상의 [Vibration] 횟수 1 감소"
                                 }
                             ]
                         }
@@ -500,7 +500,7 @@
                 {
                     "level": 1,
                     "name": "분석 시행",
-                    "desc": "[WhenUse] 자신의 [Breath] 위력이 10 이상이면, [Breath] 위력을 소모하여 소모한 [Breath] 위력 3당 최종 위력 +2 (최대 4)",
+                    "desc": "[WhenUse] 자신의 [Breath] 위력이 10 이상이면, [Breath] 위력을 소모하여 소모한 [Breath] 위력 3당 최종 위력 +2 (최대 4). 위력이 증가 시, 증가한 위력 1당 [Breath] 3 추가로 소모",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -508,13 +508,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 5 이상이면 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                                    "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 5 이상이면 [VibrationExplosion]. 대상이 [VibrationExplosion] 시, 대상의 [Vibration] 횟수 1 감소"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] [Vibration] 위력 5 부여, [Vibration] 횟수 3 증가"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 2회. 대상이 [VibrationExplosion] 시, 대상의 [Vibration] 횟수 1 감소 (합에서 승리했다면 감소 효과 1회 무효)"
                                 }
                             ]
                         }
@@ -542,7 +542,7 @@
                                     "desc": "직전 턴에 체력 피해를 받았다면, 크리티컬로 적중하지 않고 피해량이 80%만큼 감소"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 3회. 대상의 [Vibration] 횟수 3 감소"
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 3회. 대상이 [VibrationExplosion] 시, [VibrationExplosion] 1회당 대상의 [Vibration] 횟수 3 감소 (최대 9 감소)"
                                 }
                             ]
                         }
@@ -560,6 +560,126 @@
                     "coinlist": [
                         {}
                     ]
+                }
+            ]
+        },
+
+
+        {
+            "id": 137801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "압착",
+                    "desc": "[WhenUse] 자신의 [Breath] 위력 5당 최종 위력 +1 (최대 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [Vibration] 위력 2 부여"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] [Vibration] 위력 3 부여, 대상의 [Vibration] 횟수 2 증가"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "분해",
+                    "desc": "[WhenUse] 자신의 [Breath] 위력 3당 최종 위력 +1 (최대 5)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상의 [ObservedPerson]가 20 이상이면, 이 스킬의 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [Vibration] 위력 3 부여"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] [Vibration] 횟수 3 증가"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 1회. 대상의 [Vibration] 횟수 1 감소"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "분석 시행",
+                    "desc": "[WhenUse] 자신의 [Breath] 위력이 10 이상이면, [Breath] 위력을 소모하여 소모한 [Breath] 위력 3당 최종 위력 +2 (최대 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 5 이상이면 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] [Vibration] 위력 5 부여, [Vibration] 횟수 3 증가"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "소멸 시퀀스 가동",
+                    "desc": "[WhenUse] [Breath] 위력과 [Breath] 횟수를 절반만큼 소모\n- (소모한 [Breath] 위력과 [Breath] 횟수의 합/2)만큼 최종 위력이 증가 (최대 20)\n- (소모한 [Breath] 위력 x 2)%만큼 피해량이 증가 (최대 50%)\n- (소모한 [Breath] 횟수 x 4)%만큼 크리티컬 피해량이 증가 (최대 100%)\n[DefeatDuel] 남은 [Breath] 횟수가 절반으로 감소",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "직전 턴에 체력 피해를 받지 않았다면, 크리티컬로 적중"
+                                },
+                                {
+                                    "desc": "직전 턴에 체력 피해를 받았다면, 크리티컬로 적중하지 않고 피해량이 80%만큼 감소"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 3회. 대상의 [Vibration] 횟수 3 감소"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "고찰",
+                    "desc": "[CanDuelGuard]\n[WhenUse] 자신의 [Breath] 위력 3당 최종 위력 +1 (최대 5)\n[WhenUse] [Breath] 위력 4 얻음\n- 보호막이 있으면, [Breath] 횟수 2 추가로 증가",
+                    "coindescs": [
+                          {
+                              "desc": "[SuperCoin]"
+                          }
+                      ]
                 }
             ]
         }

@@ -2422,6 +2422,372 @@
           ]
         }
       ]
-    }  
+    },
+    {
+      "id": 1121501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "전기 방류",
+          "desc": "[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "전기 방류",
+          "desc": "[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Charge] 횟수가 5 이상이면, 합 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "전기 방류",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Charge]당 피해량 +6% (최대 30%)</style>\n[WhenUse] 자신의 [Charge]이 3<style=\"highlight\">/5</style> 이상이면, 코인 위력 +1<style=\"highlight\">/+2</style>\n[WhenUse] 자신의 [Charge] 횟수 <style=\"highlight\">5당, 합 위력 +1 (최대 2)</style>\n<style=\"highlight\">[WhenUse] 자신의 [Charge] 횟수가 10 미만이면, 자신의 [Charge] 횟수 2 증가</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "직류 인버팅",
+          "desc": "[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 기본 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Charge]만큼 자신의 [Charge] 횟수 증가 (최대 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "직류 인버팅",
+          "desc": "[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1\n<style=\"highlight\">- [Charge]이 3 이상이면 마지막 코인이 [SuperCoin]으로 변경됨</style>\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 기본 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 <style=\"highlight\">4</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">([Charge]+1)</style>만큼 자신의 [Charge] 횟수 증가 (최대 <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "직류 인버팅",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Charge]당 피해량 +3% (최대 15%)</style>\n[WhenUse] 자신의 [Charge]이 3<style=\"highlight\">/5</style> 이상이면, 코인 위력 +1<style=\"highlight\">/+2</style>\n- [Charge]이 3 이상이면 마지막 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 기본 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 <style=\"highlight\">5</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">([Charge]+2)</style>만큼 자신의 [Charge] 횟수 증가 (최대 <style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 2 부여\n<style=\"highlight\">- [Charge]이 3 이상이면, 대신 [PhotoElectricity] 3 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "고압 전류 방전",
+          "desc": "[StartBattle] [HighVoltageExoshell]를 [Charge]만큼 얻음 (최대 3, 턴당 1회)\n[BeforeUse] 자신의 [Charge]이 3 이상이면, ‘출력 최대 - 초고압 전류 방전’으로 발동됨 (턴당 1회)\n[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1\n- [Charge]이 3 이상이면 마지막 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 10 소모하여 코인 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여, [Burst] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 2 부여\n- [Charge]이 3 이상이면, 대신 [PhotoElectricity] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 다음 턴에 [ChargedSting] 부여 (최대 3)\n- [Charge]이 5 이상이면, 대신 이번 턴과 다음 턴에 [ChargedSting] 3 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "고압 전류 방전",
+          "desc": "[StartBattle] [HighVoltageExoshell]를 [Charge]만큼 얻음 (최대 <style=\"highlight\">5</style>, 턴당 1회)\n[BeforeUse] 자신의 [Charge]이 3 이상이면, ‘출력 최대 - 초고압 전류 방전’으로 발동됨 (턴당 1회)\n[WhenUse] 자신의 [Charge]이 3<style=\"highlight\">/5</style> 이상이면, 코인 위력 +1<style=\"highlight\">/+2</style>\n- [Charge]이 3 이상이면 마지막 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 10 소모하여 코인 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] <style=\"highlight\">3</style> 부여, [Burst] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 2 부여\n- [Charge]이 3 이상이면, 대신 [PhotoElectricity] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 다음 턴에 [ChargedSting] 부여 (최대 <style=\"highlight\">5</style>)\n- [Charge]이 5 이상이면, 대신 이번 턴과 다음 턴에 [ChargedSting] <style=\"highlight\">5</style> 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "이 E.G.O 장비의 방어적인 능력은 독특할 정도로 우수한 편이지",
+          "desc": "[StartBattle] [HighVoltageExoshell] 1 얻음 (턴당 1회)\n[WhenUse] 자신의 [Charge] 횟수 2 증가 (턴당 2회)\n[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "이 E.G.O 장비의 방어적인 능력은 독특할 정도로 우수한 편이지",
+          "desc": "[StartBattle] [HighVoltageExoshell] <style=\"highlight\">2</style> 얻음 (턴당 1회)\n<style=\"highlight\">[WhenUse] 자신의 [Charge]만큼 코인 위력이 증가 (최대 5)</style>\n[WhenUse] 자신의 [Charge] 횟수 2 증가 (턴당 2회)\n[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "출력 최대 - 초고압 전류 방전",
+          "desc": "[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 10 소모하여 기본 위력 +1, 코인 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 다음 턴에 [ChargedSting] 부여 (최대 3)\n- [Charge]이 5 이상이면, 대신 이번 턴과 다음 턴에 [ChargedSting] 3 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "출력 최대 - 초고압 전류 방전",
+          "desc": "<style=\"highlight\">이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +50% (집중 전투인 경우, 부위로 판정)</style>\n<style=\"highlight\">[WhenUse] 자신의 [Charge]이 5 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 [Charge] 횟수가 10 이상이면, [Charge] 횟수를 10 소모하여 기본 위력 +1, 코인 위력 +2\n<style=\"highlight\">- 남은 [Charge] 횟수가 있으면, [Charge] 횟수를 최대 10까지 소모하여, 피해량 +(이 효과로 추가 소모한 [Charge] 횟수 x 1.5)% (최대 15%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Burst] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 다음 턴에 [ChargedSting] 부여 (최대 <style=\"highlight\">5</style>)\n- [Charge]이 5 이상이면, 대신 이번 턴과 다음 턴에 [ChargedSting] <style=\"highlight\">5</style> 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

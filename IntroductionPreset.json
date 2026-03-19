@@ -1899,6 +1899,22 @@
     {
       "id": "introduce_sentence_238",
       "content": "최상의… {0}(이야/야)."
+    },
+    {
+      "id": "introduce_word_239",
+      "content": "시험"
+    },
+    {
+      "id": "introduce_sentence_239",
+      "content": "어디, {0}해보지."
+    },
+    {
+      "id": "introduce_word_240",
+      "content": "일렁임"
+    },
+    {
+      "id": "introduce_sentence_240",
+      "content": "{0}에 닿을 때까지, 몇 번이고…!"
     }
   ]
 }

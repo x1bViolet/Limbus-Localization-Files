@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -27,10 +27,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 3 부여"
+                  "desc": "[OnSucceedAttackHead] [Combustion] 3 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -45,10 +45,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 3 부여"
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -68,10 +68,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 화상 4 부여"
+                  "desc": "[OnSucceedAttackTail] [Combustion] 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -89,10 +89,10 @@
                   "desc": "[OnSucceedAttackTail] 다음 턴에 속박 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] [Combustion] 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -110,10 +110,10 @@
                   "desc": "[OnSucceedAttackTail] 다음 턴에 속박 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] [Combustion] 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)"
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 2를 방어 레벨 감소 1로 전환 (최대 10)"
                 }
               ]
             }
@@ -848,6 +848,187 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 15 이상이면, 다음 턴에 [CrimsonDamageUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 자신의 [Combustion]이 15 이상이면, 모든 공격 대상에게 [FaustFlameMothEmber] 1 부여 (턴당 1회, 집중 전투인 경우 부위로 취급)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 15 이상이면, 다음 턴에 [CrimsonDamageUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (분노 공명 수 / 2)만큼 [Combustion] 부여 (최대 3, 소수점 버림)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 자신의 [Combustion]이 15 이상이면, 모든 공격 대상에게 [FaustFlameMothEmber] 1 부여 (턴당 1회, 집중 전투인 경우 부위로 취급)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 15 이상이면, 다음 턴에 [CrimsonDamageUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] (분노 공명 수 / 2)만큼 [Combustion] 부여 (최대 3, 소수점 버림)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (분노 공명 수 / 3)만큼 [Combustion] 횟수 증가 (최대 2, 소수점 버림)</style>"
+                },
+                {
+                  "desc": "[EndCoin] 자신의 [Combustion]이 15 이상이면, 모든 공격 대상에게 [FaustFlameMothEmber] 1 부여 (턴당 1회, 집중 전투인 경우 부위로 취급)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 25 이상이면, 다음 턴에 [CrimsonDamageUp] 2 얻음 (턴당 1회)\n[EndSkill] 자신의 잃은 체력이 50% 이상이면, 자신의 [Combustion] 10당 정신력 5 회복 (최대 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber] 3을 무작위로 공격 대상에게 나눠서 부여 (턴당 1회, 최댓값인 대상 제외, 집중 전투인 경우 부위로 취급)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 25 이상이면, 다음 턴에 [CrimsonDamageUp] 2 얻음 (턴당 1회)\n[EndSkill] 자신의 잃은 체력이 50% 이상이면, 자신의 [Combustion] 10당 정신력 5 회복 (최대 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (분노 공명 수 / 2)만큼 [Combustion] 부여 (최대 3, 소수점 버림)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber] 3을 무작위로 공격 대상에게 나눠서 부여 (턴당 1회, 최댓값인 대상 제외, 집중 전투인 경우 부위로 취급)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "홍염살",
+          "abName": "홍염나방",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 공격 대상과 자신의 [Combustion] 위력 합 10당 최종 위력 +1 (최대 2)\n[EndSkill] [Combustion] 10 얻음, 자신의 [Combustion] 횟수 1 증가\n[EndSkill] 자신의 [Combustion]이 25 이상이면, 다음 턴에 [CrimsonDamageUp] 2 얻음 (턴당 1회)\n[EndSkill] 자신의 잃은 체력이 50% 이상이면, 자신의 [Combustion] 10당 정신력 5 회복 (<style=\"highlight\">최대 15</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] (분노 공명 수 / 3)만큼 [Combustion] 횟수 증가 (최대 2, 소수점 버림)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] (분노 공명 수 / 2)만큼 [Combustion] 부여 (최대 3, 소수점 버림)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] [FaustFlameMothEmber] <style=\"highlight\">6</style>을 무작위로 공격 대상에게 나눠서 부여 (턴당 1회, 최댓값인 대상 제외, 집중 전투인 경우 부위로 취급)"
                 }
               ]
             }
