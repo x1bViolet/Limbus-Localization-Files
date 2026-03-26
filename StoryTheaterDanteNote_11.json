@@ -19,6 +19,22 @@
     {
       "id": "NestA",
       "content": "A사"
+    },
+    {
+      "id": "HouseofSpiders",
+      "content": "거미집"
+    },
+    {
+      "id": "TheIndex",
+      "content": "검지"
+    },
+    {
+      "id": "SmokeWar",
+      "content": "연기전쟁"
+    },
+    {
+      "id": "ColorFixer",
+      "content": "특색"
     }
   ]
 }
