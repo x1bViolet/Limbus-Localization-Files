@@ -19,6 +19,22 @@
     {
       "id": "NestA",
       "content": "A社"
+    },
+    {
+      "id": "HouseofSpiders",
+      "content": "蜘蛛の巣"
+    },
+    {
+      "id": "TheIndex",
+      "content": "人差し指"
+    },
+    {
+      "id": "SmokeWar",
+      "content": "煙戦争"
+    },
+    {
+      "id": "ColorFixer",
+      "content": "特色"
     }
   ]
 }

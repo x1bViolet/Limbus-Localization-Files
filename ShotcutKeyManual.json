@@ -55,6 +55,22 @@
     {
       "id": "shotcutKeyManual_zoom_inout_battle",
       "content": "[戦闘] 画面拡大・縮小"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_side_move",
+      "content": "[鏡ダンジョン] 画面左右移動"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_move_node",
+      "content": "[鏡ダンジョン] ノード移動"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_cancel_select_node",
+      "content": "[鏡ダンジョン] ノード選択キャンセル"
+    },
+    {
+      "id": "shotcutKeyManual_choice_event_next_dialog",
+      "content": "[選択肢] テキスト送り"
     }
   ]
 }

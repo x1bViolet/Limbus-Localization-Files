@@ -2802,7 +2802,7 @@
       "id": 1041411,
       "name": "枯れない花",
       "desc": "敵が[Sinking]ダメージを受ければ、[AlriuneEGOWe]1を得る\n敵に付与される[AlriuneEGOThey]だけ[AlriuneEGOWe]を得る\n[VibrationExplosion]発生時、[AlriuneEGOWe]2を得る\n\n自分の攻撃終了時、自分の[AlriuneEGOWe]が30以上なら、[AlriuneEGOThey]が最も高い対象へ「恍惚とした終末」を発動\n\n混乱した対象への与ダメージ量 +(対象の[AlriuneEGOThey])%\n\nこのターンに自分の体力を最大値の10%以上失ったなら、体力を最大値の3%, 精神力を10回復 (1ターンにつき1回)",
-      "summary": " "
+      "summary": "[AlriuneEGOWe]を得る"
     },
     {
       "id": 1041421,
