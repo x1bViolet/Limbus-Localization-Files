@@ -77,19 +77,19 @@
 			"content": "クリアした階層のショップにて、保有コストを0にして鏡ダンジョンを{0}階層以上クリア"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005016",
+			"id": "mission_ui_condition_tags_201005016_6",
 			"content": "スキル1回使用で敵へ{0}以上のスキルダメージを与える(バリアダメージ、スキル的中時に発動する沈潜殺到および時間猶予を含む。キーワードダメージを含むその他のダメージを除く)"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005017",
+			"id": "mission_ui_condition_tags_201005017_6",
 			"content": "鏡ダンジョン1プレイの中で、全人格がレベル{0}以上で{1}階層以上クリア"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005018",
+			"id": "mission_ui_condition_tags_201005018_6",
 			"content": "1回の戦闘で、最初のターンに{0}名の囚人が全てのコイン(マッチで減ったコインを除く)で、メインターゲットにクリティカルヒットさせる"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005019",
+			"id": "mission_ui_condition_tags_201005019_6",
 			"content": "1回の戦闘でマッチ威力{0}以上を達成"
 		},
 		{

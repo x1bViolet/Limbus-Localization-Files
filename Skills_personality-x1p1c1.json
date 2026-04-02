@@ -337,7 +337,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "おまかしぇくだしゃい。",
+          "name": "おまかせください。",
           "desc": "",
           "coinlist": [
             {
@@ -363,7 +363,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "めいんりょうり、じゅんび。",
+          "name": "めいん料理、ちゅんび。",
           "desc": "[WhenUse] 次のターンに守備威力増加 3を得る",
           "coinlist": [
             {

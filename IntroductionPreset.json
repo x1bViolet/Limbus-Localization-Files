@@ -1915,6 +1915,22 @@
     {
       "id": "introduce_sentence_240",
       "content": "{0}に手が届くまで、何度でも…！"
+    },
+    {
+      "id": "introduce_word_241",
+      "content": "感想"
+    },
+    {
+      "id": "introduce_sentence_241",
+      "content": "{0}はいかがでしょうか！"
+    },
+    {
+      "id": "introduce_word_242",
+      "content": "ファシア"
+    },
+    {
+      "id": "introduce_sentence_242",
+      "content": "怖いのですか、{0}？"
     }
   ]
 }
