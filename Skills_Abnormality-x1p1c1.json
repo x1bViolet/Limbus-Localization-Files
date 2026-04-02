@@ -145,7 +145,7 @@
         {
           "level": 1,
           "name": "뽕꼬뽀꽁!",
-          "desc": "",
+          "desc": "[DefeatDuel] 피해량이 50% 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [

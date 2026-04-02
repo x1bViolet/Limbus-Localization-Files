@@ -275,6 +275,26 @@
     {
       "id": "UnitKeyword_TRUST_AGENT",
       "content": "신탁 대행자"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_MAESTRO",
+      "content": "마에스트로"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_DOCENT",
+      "content": "도슨트"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_STUDENT",
+      "content": "스튜던트"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_POINTILLISM",
+      "content": "점묘파"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_PHYSICAL",
+      "content": "신체파"
     }
   ]
 }

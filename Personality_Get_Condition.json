@@ -1263,6 +1263,22 @@
     {
       "id": "11215_getCondition_gacksung",
       "content": "LCE E.G.O::AEDD 그레고르 동기화 3단계 달성"
+    },
+    {
+      "id": "10614_getCondition_normal",
+      "content": "거미집 약지 아비 홍루 획득 시"
+    },
+    {
+      "id": "10614_getCondition_gacksung",
+      "content": "거미집 약지 아비 홍루 동기화 3단계 달성"
+    },
+    {
+      "id": "10215_getCondition_normal",
+      "content": "거미집 약지 제자 파우스트 획득 시"
+    },
+    {
+      "id": "10215_getCondition_gacksung",
+      "content": "거미집 약지 제자 파우스트 동기화 3단계 달성"
     }
   ]
 }

@@ -77,19 +77,19 @@
 			"content": "클리어한 층의 상점에서 보유 코스트가 0인 상태로 거울 던전 {0}층 이상 클리어"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005016",
+			"id": "mission_ui_condition_tags_201005016_6",
 			"content": "스킬 1회 사용으로 적에게 {0} 이상의 스킬 피해 가하기 (보호막 피해, 스킬 적중시 발동되는 침잠 쇄도 및 시간 유예 피해 포함, 키워드 피해를 포함한 그 외 피해 제외)"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005017",
+			"id": "mission_ui_condition_tags_201005017_6",
 			"content": "거울 던전 1회 플레이에서 모든 인격 레벨 {0} 이상으로 {1}층 이상 클리어"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005018",
+			"id": "mission_ui_condition_tags_201005018_6",
 			"content": "1회 전투에서 첫번째 턴에 {0}명의 수감자가 남아있는 모든 코인으로 메인 타겟에게 크리티컬 공격 적중하기"
 		},
 		{
-			"id": "mission_ui_condition_tags_201005019",
+			"id": "mission_ui_condition_tags_201005019_6",
 			"content": "1회 전투에서 합 위력 {0} 이상 달성하기"
 		},
 		{

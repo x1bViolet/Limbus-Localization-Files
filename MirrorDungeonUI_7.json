@@ -223,6 +223,14 @@
     {
       "id": "mirror_dungeon_ego_gift_list_popup_theme_ego_gift_pool_scroll_tag_appearable",
       "content": "등장 가능"
+    },
+    {
+      "id": "warning_select_lack_of_ego_gift_desc",
+      "content": "기프트를 선택할 기회가 남아있습니다.\n선택하지 않고 넘어 가시겠습니까?"
+    },
+    {
+      "id": "mainui_settings_select_lack_of_ego_gift_warning",
+      "content": "기프트 선택 팝업"
     }
   ]
 }

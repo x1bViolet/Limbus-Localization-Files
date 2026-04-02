@@ -1915,6 +1915,22 @@
     {
       "id": "introduce_sentence_240",
       "content": "{0}에 닿을 때까지, 몇 번이고…!"
+    },
+    {
+      "id": "introduce_word_241",
+      "content": "감상"
+    },
+    {
+      "id": "introduce_sentence_241",
+      "content": "{0} (은/는) 어떤가요!"
+    },
+    {
+      "id": "introduce_word_242",
+      "content": "파시아"
+    },
+    {
+      "id": "introduce_sentence_242",
+      "content": "두려우신가요, {0}?"
     }
   ]
 }
