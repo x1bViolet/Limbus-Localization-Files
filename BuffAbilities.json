@@ -427,6 +427,34 @@
     {
       "id": "Heishou10313",
       "desc": "黒獣 - 未ドンキホーテ : スキルで破裂 付与時、沈潜1を付与(1ターンにつき3回)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDie",
+      "desc": "味方死亡時、次のターンに{0}{1}, {0}回数を{2}獲得 (1ターンにつき{3}回)",
+      "variation": "味方死亡時、次のターンに{0}{1}を獲得 (1ターンにつき{2}回)",
+      "variation2": "味方死亡時、次のターンに{0}回数{1}を獲得 (1ターンにつき{2}回)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDieAlt",
+      "desc": "味方死亡時、次のターンに{0}{1}, {0}回数を{2}獲得 (1ターンにつき{3}回)",
+      "variation": "味方死亡時、次のターンに{0}{1}を獲得 (1ターンにつき{2}回)",
+      "variation2": "味方死亡時、次のターンに{0}回数{1}を獲得 (1ターンにつき{2}回)"
+    },
+    {
+      "id": "RecoverSelfMpOnRoundStart",
+      "desc": "ターン開始時、精神力を{0}回復"
+    },
+    {
+      "id": "MD7LimitGiveShield",
+      "desc": "バリアを{0}獲得"
+    },
+    {
+      "id": "MD7LimitSinBuffGiveBooster",
+      "desc": "スキル・コインの火傷・出血・振動・破裂・沈潜付与量が{0}倍に増加"
+    },
+    {
+      "id": "GiveRandomNegativeSinbuffOnRoundStart",
+      "desc": "ターン開始時、火傷・出血・振動・破裂・沈潜 の中からランダムに{0}獲得"
     }
   ]
 }

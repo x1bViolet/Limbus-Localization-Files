@@ -557,7 +557,7 @@
         {
           "level": 1,
           "name": "私たちは血と肉を愛しています",
-          "desc": "薬指 子方 - アルビナをターゲットに優先指定する\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[AttackDmgDown]4を得る</u></b></mark></color>",
+          "desc": "薬指の子方 - アルビナをターゲットに優先指定する\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[AttackDmgDown]4を得る</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2696,7 +2696,7 @@
         {
           "level": 1,
           "name": "二連 - 残",
-          "desc": "[DefeatDuel] 最終ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[DefeatDuel] 最終ダメージ量が80%減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [

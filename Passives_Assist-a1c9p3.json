@@ -67,7 +67,7 @@
     {
       "id": 40000901,
       "name": "黄色い銛(命名:エズラ)",
-      "desc": "ステージ開始時、[YellowHarpoon]を得る\n\nターン開始時、中指 親方の[ReinforcedTattooSpider]が2かつ自分の精神力が0以上なら、[YellowHarpoonSin]を得る\n\n自分の精神力が0未満なら、[YellowHarpoonSin]を除去",
+      "desc": "ステージ開始時、[YellowHarpoon]を得る\n\nターン開始時、中指の親方の[ReinforcedTattooSpider]が2かつ自分の精神力が0以上なら、[YellowHarpoonSin]を得る\n\n自分の精神力が0未満なら、[YellowHarpoonSin]を除去",
       "flavor": "<color=#fde55d>「いやぁ聞いてってば！末っ子、あんたはその銛をすっごく上手に使ってるし！\nその銛はガチで特別なヤツだし！あんたは黄色を狙ってたし！\nだから黄色い銛がぴったりっしょ！！！」</color>"
     },
     {
@@ -89,7 +89,7 @@
     {
       "id": 40001002,
       "name": "赤い点",
-      "desc": "中指 親方がレーヴァテインを保有時に[MosesSin]を得て、\n「赤い息を深く吸い込む。」を毎ターン使用する\n\n[MosesRedBreathCharge]を保有しているなら、パニック状態にならない\n\n<color=#ff6000><mark color=#ff000040><b><u>ターン終了時に自分の[MosesRedBreathCharge]が3なら、強力なスキルを使用する</color></mark></b></u>",
+      "desc": "中指の親方がレーヴァテインを保有時に[MosesSin]を得て、\n「赤い息を深く吸い込む。」を毎ターン使用する\n\n[MosesRedBreathCharge]を保有しているなら、パニック状態にならない\n\n<color=#ff6000><mark color=#ff000040><b><u>ターン終了時に自分の[MosesRedBreathCharge]が3なら、強力なスキルを使用する</color></mark></b></u>",
       "flavor": "物理的な力を構成するあらゆるものを一点に集めて作り上げた、積層された円柱を別の一点へと押し出す。"
     },
     {
@@ -141,7 +141,7 @@
     {
       "id": 40001205,
       "name": "シン(心) - 赤い視線",
-      "desc": "「親指 親方 - ヴァレンチーナ」が[ObsessionAndGreed]を保有すれば、次のターンに[VergiliusSin]を得る",
+      "desc": "「親指の親方 - ヴァレンチーナ」が[ObsessionAndGreed]を保有すれば、次のターンに[VergiliusSin]を得る",
       "summary": ""
     },
     {

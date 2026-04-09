@@ -2878,7 +2878,7 @@
     {
       "id": 1021503,
       "name": "保護と抑制のための甲冑",
-      "desc": "ステージに初めて登場したとき、[IronMaidenPersonality]を得る\n\nターン終了時、自分に[FasciaPersonality]があるなら[IronMaidenPersonality]が消滅して、[SilverOpportunity]を得る (戦闘ごとに1回)\n- 混乱状態なら混乱を解除 (強制混乱を除く)",
+      "desc": "ステージに初めて登場したとき、[IronMaidenPersonality]を得る\n\nターン終了時、自分に[FasciaPersonality]があるなら[IronMaidenPersonality]が消滅して[SilverOpportunity]を得る (戦闘ごとに1回)\n- 混乱状態なら混乱を解除 (強制混乱を除く)",
       "summary": "[IronMaidenPersonality]を解除"
     },
     {

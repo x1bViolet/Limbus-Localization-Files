@@ -926,7 +926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血 2を付与"
+                  "desc": "[OnSucceedAttack] 出血 4を付与"
                 }
               ]
             }
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血 2を付与"
+                  "desc": "[OnSucceedAttack] 出血 4を付与"
                 }
               ]
             }
