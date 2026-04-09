@@ -231,6 +231,10 @@
     {
       "id": "mainui_settings_select_lack_of_ego_gift_warning",
       "content": "기프트 선택 팝업"
+    },
+    {
+      "id": "mirror_dungeon_ui_purchase_exp_loss_warning",
+      "content": "※ 최대 레벨 달성 시, 초과 투영도는 획득되지 않습니다."
     }
   ]
 }

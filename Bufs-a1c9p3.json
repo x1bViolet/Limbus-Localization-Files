@@ -369,14 +369,14 @@
     {
       "id": "Cubism_LowMorale",
       "name": "한물간 예술",
-      "desc": "- 사기 저하\n- 턴 시작 시, 체력 5 감소하고 공격 레벨 증가 1 얻음",
+      "desc": "- 사기 저하\n- 턴 시작 시, 공격 레벨 증가 1 얻음",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Cubism_Panic",
       "name": "한물간 예술",
-      "desc": "- 패닉\n- 턴 시작 시, 체력 5 감소하고 공격 레벨 증가 1 얻음",
+      "desc": "- 패닉\n- 턴 시작 시, 공격 레벨 증가 2 얻음",
       "summary": "",
       "undefined": "-"
     },

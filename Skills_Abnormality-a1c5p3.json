@@ -926,7 +926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 출혈 4 부여"
                 }
               ]
             }
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 출혈 4 부여"
                 }
               ]
             }

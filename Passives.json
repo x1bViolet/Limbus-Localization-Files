@@ -2878,7 +2878,7 @@
     {
       "id": 1021503,
       "name": "보호와 억제를 위한 갑주",
-      "desc": "스테이지에 첫 등장 시 [IronMaidenPersonality] 얻음\n\n턴 종료 시 자신에게 [FasciaPersonality]가 있으면, [IronMaidenPersonality]이 소멸하고 [SilverOpportunity] 얻음 (전투당 1회)\n- 흐트러짐 상태면, 흐트러짐 해제 (강제 흐트러짐 제외)",
+      "desc": "스테이지에 첫 등장 시 [IronMaidenPersonality] 얻음\n\n턴 종료 시 자신에게 [FasciaPersonality]가 있으면, [IronMaidenPersonality]이 소멸하고, [SilverOpportunity] 얻음 (전투당 1회)\n- 흐트러짐 상태면, 흐트러짐 해제 (강제 흐트러짐 제외)",
       "summary": "[IronMaidenPersonality] 해제"
     },
     {

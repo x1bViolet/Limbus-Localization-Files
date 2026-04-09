@@ -27,8 +27,8 @@
     {
       "id": 1077,
       "panicName": "한물간 예술",
-      "lowMoraleDescription": "턴 시작 시, 체력 5 감소하고 [AttackUp] 1 얻음",
-      "panicDescription": "턴 시작 시, 체력 15 감소하고 [AttackUp] 2 얻음"
+      "lowMoraleDescription": "턴 시작 시, [AttackUp] 1 얻음",
+      "panicDescription": "턴 시작 시, [AttackUp] 2 얻음"
     },
     {
       "id": 1075,

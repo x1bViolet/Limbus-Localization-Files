@@ -427,6 +427,34 @@
     {
       "id": "Heishou10313",
       "desc": "흑수 - 미 돈키호테 : 스킬로 파열 부여 시, 침잠 1 부여 (턴 당 3회)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDie",
+      "desc": "아군 사망 시 다음 턴에 {0} {1}, {0} 횟수 {2} 획득 (턴 당 {3}회)",
+      "variation": "아군 사망 시 다음 턴에 {0} {1} 획득 (턴 당 {2}회)",
+      "variation2": "아군 사망 시 다음 턴에 {0} 횟수 {1} 획득 (턴 당 {2}회)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDieAlt",
+      "desc": "아군 사망 시 다음 턴에 {0} {1}, {0} 횟수 {2} 획득 (턴 당 {3}회)",
+      "variation": "아군 사망 시 다음 턴에 {0} {1} 획득 (턴 당 {2}회)",
+      "variation2": "아군 사망 시 다음 턴에 {0} 횟수 {1} 획득 (턴 당 {2}회)"
+    },
+    {
+      "id": "RecoverSelfMpOnRoundStart",
+      "desc": "턴 시작 시 정신력 {0} 회복"
+    },
+    {
+      "id": "MD7LimitGiveShield",
+      "desc": "보호막 {0} 획득"
+    },
+    {
+      "id": "MD7LimitSinBuffGiveBooster",
+      "desc": "스킬, 코인의 화상, 출혈, 진동, 파열, 침잠 부여량 {0} 배로 증가"
+    },
+    {
+      "id": "GiveRandomNegativeSinbuffOnRoundStart",
+      "desc": "턴 시작 시 화상, 출혈, 진동, 파열, 침잠 중 무작위로 {0} 획득"
     }
   ]
 }
