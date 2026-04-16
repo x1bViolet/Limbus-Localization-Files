@@ -2031,6 +2031,22 @@
     {
       "id": "mainui_use_optional_piece_package",
       "content": "自我の破片セレクトボックスを使用"
+    },
+    {
+      "id": "mainui_battleresult_consumable",
+      "content": "消耗"
+    },
+    {
+      "id": "mainui_cont_mine_title",
+      "content": "連続進行"
+    },
+    {
+      "id": "mainui_cont_mine_daily_bonus_desc",
+      "content": "デイリーボーナス{0}回適用"
+    },
+    {
+      "id": "mainui_cont_mine_invalid_text",
+      "content": "1回クリア時に連続進行可能"
     }
   ]
 }

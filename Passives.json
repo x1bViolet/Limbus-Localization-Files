@@ -2573,12 +2573,12 @@
       "id": 1091411,
       "name": "クリスマスデコレーションされた角",
       "desc": "戦闘中に累計で自分の[Charge]回数を10消耗するたびに[Charge]1を得る\n\n敵に沈潜威力を付与する基本攻撃スキル使用時、メインターゲットに[Sinking]がないなら[Sinking]を5得て、該当スキル効果で付与する[Sinking]威力が2倍になる (1ターンにつき1回、集中戦闘なら部位で扱う)\n\n<style=\"highlight\">自分の体力が35%未満のとき、基本攻撃スキルの最終威力 +1</style>",
-      "summary": "[Sinking]のない敵なら、[Sinking]を得て[Sinking]威力付与量が増加\n体力が35％未満なら、最終威力 +1"
+      "summary": "[Sinking]のない敵なら、[Sinking]を得て[Sinking]威力付与量が増加\n体力が35%未満なら、最終威力 +1"
     },
     {
       "id": 1091421,
       "name": "キャロルの中、死にゆく仲間たち",
-      "desc": "精神力が最も低い味方1名の[Charge]または特殊充電を消耗し、敵に[Sinking]を付与する効果を持つスキルのダメージ量 +10％ (E.G.Oスキルを除く)"
+      "desc": "精神力が最も低い味方1名の[Charge]または特殊充電を消耗し、敵に[Sinking]を付与する効果を持つスキルのダメージ量 +10% (E.G.Oスキルを除く)"
     },
     {
       "id": 1111401,
@@ -2878,7 +2878,7 @@
     {
       "id": 1021503,
       "name": "保護と抑制のための甲冑",
-      "desc": "ステージに初めて登場したとき、[IronMaidenPersonality]を得る\n\nターン終了時、自分に[FasciaPersonality]があるなら[IronMaidenPersonality]が消滅して[SilverOpportunity]を得る (戦闘ごとに1回)\n- 混乱状態なら混乱を解除 (強制混乱を除く)",
+      "desc": "ステージに初めて登場したとき、[IronMaidenPersonality]を得る\n\nターン終了時、自分に[FasciaPersonality]があるなら[IronMaidenPersonality]が消滅して、[SilverOpportunity]を得る (戦闘ごとに1回)\n- 混乱状態なら混乱を解除 (強制混乱を除く)",
       "summary": "[IronMaidenPersonality]を解除"
     },
     {
@@ -2898,6 +2898,41 @@
       "name": "アイアンメイデン - 棘",
       "desc": "このターンに守備スキルを装着した味方が被ダメージ時、攻撃者へ[Laceration]4を付与 (1ターンにつき2回)\n- 既に[Laceration]があるなら、代わりに攻撃者の[Laceration]回数が2増加",
       "summary": "被ダメージ時、攻撃者に[Laceration]を付与"
+    },
+    {
+      "id": 1051501,
+      "name": "満ちゆく着想",
+      "desc": "自分に[FaubismMaskMeursault]があるなら、[BearClawWoundAlly]付与量 +1\n\n自分が[BearClawWoundAlly]を4付与するたびに、精神力が5回復 (1ターンにつき2回)\n- この効果で精神力回復時、自分の精神力が最大なら次のターンに[HitDamageUp]1を得る (1ターンにつき1回)"
+    },
+    {
+      "id": 1051502,
+      "name": "薬指 野獣派スチューデント",
+      "desc": "基本スキル的中時、[BearClawWoundAlly]1を付与\n- この効果はスキルでマイナス効果を付与するものとして扱われる\n\nターン終了時、この戦闘のあいだ自分が[BearClawWoundAlly]を10以上付与したなら、[FaubismMaskMeursault]を得る\n\n薬指野獣派ドーセントロージャの「クリティーク」スキルのコイントス開始時、薬指野獣派スチューデント ムルソーが[TestWaitingMeursault]を得る"
+    },
+    {
+      "id": 1051521,
+      "name": "重ね描いた傷跡",
+      "desc": "速度が最も高い味方1名が攻撃的中時、対象のマイナス効果2種につき[DefenseDown]1を付与 (1ターンにつき最大1回、最大3)"
+    },
+    {
+      "id": 1091501,
+      "name": "ここはもう少し荒く…！",
+      "desc": "[BearClawWoundAlly]・[EagleClawWoundAlly]・[BoldBrushstrokesRodion]の付与量 +1"
+    },
+    {
+      "id": 1091502,
+      "name": "ご指導ご鞭撻",
+      "desc": "ターン開始時、(戦場にいるスチューデント人格の数)だけ[ThankyouDocentRodion]を得る (戦闘ごとに1回)\n\nターン開始時、ランダムな薬指スチューデント人格2名へ[AttackUp]や[DefenseUp]効果を(戦場にいるスチューデント人格の数)だけランダムに付与 (戦闘ごとに1回、最大付与量2, 野獣派スチューデントに優先して適用)"
+    },
+    {
+      "id": 1091503,
+      "name": "野獣派 - 野性的な色彩",
+      "desc": "戦闘終了時、[BearClawWoundAlly]・[EagleClawWoundAlly]・[BoldBrushstrokesRodion]を全て保有した敵へ、次のターンに[IntenseColorsRodion]1を付与\n- 対象の保有した[BearClawWoundAlly]・[EagleClawWoundAlly]がそれぞれ3/6/9以上なら、代わりに[IntenseColorsRodion]を2/3/4付与 (数値が少ない方を基準とする)\n\n下記の条件のうち1つを満たしたなら、ターン終了時に[FaubismWolfMaskRodion]1を得る\n- [IntenseColorsRodion]を3回付与時 (1ターンにつき1回で判定)\n- 「クリティーク」2回スキル終了時\n- 「あんたの皮膚の下で脈動する赤い絵具を荒く」スキル終了時"
+    },
+    {
+      "id": 1091521,
+      "name": "壊れないようにそーっと…",
+      "desc": "編成順が最も早い人格へ下記の効果を適用\n- 色欲共鳴数が奇数なら、[Laceration]威力付与量 +1\n- 色欲共鳴数が偶数なら、[Sinking]威力付与量 +1\n- 当該人格が薬指所属人格なら、戦闘開始時に[AttackUp]1または[DefenseUp]1を得る"
     }
   ]
 }

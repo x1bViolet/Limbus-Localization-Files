@@ -1230,7 +1230,7 @@
         {
           "level": 1,
           "name": "私たちは血と肉を愛しています",
-          "desc": "薬指の子方 - アルビナをターゲットに優先指定する\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>次のターンに[AttackDmgDown]8を得る</u></b></mark></color>",
+          "desc": "薬指の子方 - アルビナをターゲットに優先指定する\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[AttackDmgDown]8を得る</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [

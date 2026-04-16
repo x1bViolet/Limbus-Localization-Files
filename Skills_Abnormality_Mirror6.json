@@ -146,7 +146,7 @@
         {
           "level": 1,
           "name": "硬血式楔",
-          "desc": "自分が消耗した[BloodDinner]100につき、最終威力 +1 (最大5)\n[StartBattle] 自分の[RegainedStrength]3につき、加重値 +1(最大2)\n[EndSkill] [RegainedStrength]を3消耗\n[DefeatDuel] 最終ダメージ量 -80％",
+          "desc": "自分が消耗した[BloodDinner]100につき、最終威力 +1 (最大5)\n[StartBattle] 自分の[RegainedStrength]3につき、加重値 +1(最大2)\n[EndSkill] [RegainedStrength]を3消耗\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [
@@ -194,7 +194,7 @@
         {
           "level": 1,
           "name": "血の欲望",
-          "desc": "[WhenUse] [BloodDinner]を最大40消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を5回復\n[WhenUse] [RegainedStrength]5につき、付与する[Laceration]回数が1増加 (最大2)\n[DefeatDuel] 最終ダメージ量 -80％",
+          "desc": "[WhenUse] [BloodDinner]を最大40消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を5回復\n[WhenUse] [RegainedStrength]5につき、付与する[Laceration]回数が1増加 (最大2)\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [
@@ -246,7 +246,7 @@
         {
           "level": 1,
           "name": "血餐の時間",
-          "desc": "[CantIdentify]\n[WhenUse] [BloodDinner]を最大300消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を3回復\n[WhenUse] [BloodDinner]を消耗したなら、精神力を30回復\n[DefeatDuel] 最終ダメージ量 -80％",
+          "desc": "[CantIdentify]\n[WhenUse] [BloodDinner]を最大300消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を3回復\n[WhenUse] [BloodDinner]を消耗したなら、精神力を30回復\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
         {
           "level": 1,
           "name": "ドンキホーテ流硬血4式 - 抉り抜き",
-          "desc": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]の数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n[DefeatDuel] 最終ダメージ量 -80％",
+          "desc": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]の数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [
@@ -405,7 +405,7 @@
         {
           "level": 1,
           "name": "ドンキホーテ流硬血奥義 - 球",
-          "desc": "このスキルを使用するまで混乱状態にならない。\n[BloodDinner_Common_Accumulation]だけダメージ量が増加(最大300%)\n[WhenUse] 精神力が30回復\n[WhenUse] [RegainedStrength]10につき、マッチ威力 +1\n[EndSkill] [RegainedStrength]を全て消耗。このターンと次のターンに[Vulnerable]5を得る。次のターンに[Binding]2を得る。\n[DefeatDuel] 最終ダメージ量 -80％",
+          "desc": "このスキルを使用するまで混乱状態にならない。\n[BloodDinner_Common_Accumulation]だけダメージ量が増加(最大300%)\n[WhenUse] 精神力が30回復\n[WhenUse] [RegainedStrength]10につき、マッチ威力 +1\n[EndSkill] [RegainedStrength]を全て消耗。このターンと次のターンに[Vulnerable]5を得る。次のターンに[Binding]2を得る。\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [
@@ -1013,7 +1013,7 @@
         {
           "level": 1,
           "name": "快刀亂麻",
-          "desc": "[Prey]を保有する対象を優先して指定\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [BattleSense]を全て消耗。消耗した数値が\n- 10以上なら、10につき攻撃加重値 +1 (最大2)\n- 25の場合、メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大5)\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱せず、[Combustion]威力と回数、[Vibration]威力と回数付与量が半減 (他の効果で増加する数値を除く)\n[EndSkill] [FullReload] (1ターンにつき1回)\n- [BulletPropellantSpecial]を保有しているなら、代わりに[ReloadKeepAmmo] (1ターンにつき1回)\n[DefeatDuel] 最終ダメージ量 -50％\n[EndSkill] このターンが終了",
+          "desc": "[Prey]を保有する対象を優先して指定\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [BattleSense]を全て消耗。消耗した数値が\n- 10以上なら、10につき攻撃加重値 +1 (最大2)\n- 25の場合、メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大5)\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱せず、[Combustion]威力と回数、[Vibration]威力と回数付与量が半減 (他の効果で増加する数値を除く)\n[EndSkill] [FullReload] (1ターンにつき1回)\n- [BulletPropellantSpecial]を保有しているなら、代わりに[ReloadKeepAmmo] (1ターンにつき1回)\n[DefeatDuel] 最終ダメージ量 -50%\n[EndSkill] このターンが終了",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 1,
           "name": "超絶猛虎殺撃乱斬",
-          "desc": "[Prey]を保有する対象を優先して指定\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [BattleSense]を全て消耗。消耗した数値が\n- 10以上なら、10につき攻撃加重値 +1 (最大4)\n- 25以上なら、メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大6)\n- 50の場合、コイン威力 +1, ダメージ量 +50%\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱せず、[Combustion]威力と回数、[Vibration]威力と回数付与量が半減 (他の効果で増加する数値を除く)\n[EndSkill] [FullReload] (1ターンにつき1回)\n- [BulletPropellantSpecial]を保有しているなら、代わりに[ReloadKeepAmmo] (1ターンにつき1回)\n[DefeatDuel] 最終ダメージ量 -50％\n[EndSkill] このターンが終了",
+          "desc": "[Prey]を保有する対象を優先して指定\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [BattleSense]を全て消耗。消耗した数値が\n- 10以上なら、10につき攻撃加重値 +1 (最大4)\n- 25以上なら、メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大6)\n- 50の場合、コイン威力 +1, ダメージ量 +50%\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱せず、[Combustion]威力と回数、[Vibration]威力と回数付与量が半減 (他の効果で増加する数値を除く)\n[EndSkill] [FullReload] (1ターンにつき1回)\n- [BulletPropellantSpecial]を保有しているなら、代わりに[ReloadKeepAmmo] (1ターンにつき1回)\n[DefeatDuel] 最終ダメージ量 -50%\n[EndSkill] このターンが終了",
           "coinlist": [
             {
               "coindescs": [
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "苦痛を刻む",
-          "desc": "[MiddleFingerBook]の数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n[DefeatDuel] 最終ダメージ量 -50％",
+          "desc": "[MiddleFingerBook]の数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n[DefeatDuel] 最終ダメージ量 -50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1527,7 +1527,7 @@
         {
           "level": 1,
           "name": "全員、処刑だ！！！",
-          "desc": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]の数値が5以上なら、最終威力 +5\n[DefeatDuel] 最終ダメージ量 -80％\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去",
+          "desc": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]の数値が5以上なら、最終威力 +5\n[DefeatDuel] 最終ダメージ量 -80%\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去",
           "coinlist": [
             {
               "coindescs": [

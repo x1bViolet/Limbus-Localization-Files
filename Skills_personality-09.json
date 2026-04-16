@@ -2361,6 +2361,522 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "強烈な重ね塗り",
+          "desc": "対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "強烈な重ね塗り",
+          "desc": "対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、最終威力 +1 (最大2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "強烈な重ね塗り",
+          "desc": "<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +5% (最大15%)</style>\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、<style=\"highlight\">マッチ威力 +1</style>, 最終威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">対象のマイナス効果が4種以上なら、このコインを再使用(最大1回)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "原色表現",
+          "desc": "対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象のマイナス効果が6種以上なら、[BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "原色表現",
+          "desc": "対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、最終威力 +1 (最大2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]<style=\"highlight\">3</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象のマイナス効果が6種以上なら、[BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "原色表現",
+          "desc": "<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +20% (最大60%)</style>\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n<style=\"highlight\">対象に引き裂かれた色彩が2種以上あるなら、ダメージ量 +20%</style>\n[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、最終威力 +1 (最大2)\n<style=\"highlight\">[WhenUse] 対象のマイナス効果2種につき、コイン威力 +1 (最大3)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]3を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象のマイナス効果が<style=\"highlight\">5</style>種以上なら、[BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "野獣派 - 暴悪な展開",
+          "desc": "対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n[BeforeUse] 対象のマイナス効果が6種以上なら、\n「あんたの皮膚の下で脈動する赤い絵具を荒く」として発動 (1ターンにつき1回)\n[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]3を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "野獣派 - 暴悪な展開",
+          "desc": "<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +20% (最大60%)</style>\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n[BeforeUse] 対象が保有したマイナス効果が6種以上なら、\n「あんたの皮膚の下で脈動する赤い絵具を荒く」として発動 (1ターンにつき1回)\n[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]3を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 対象のマイナス効果が5種以上なら、次のターンに[BoldBrushstrokesRodion]1を付与</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "素材の下処理",
+          "desc": "[DuelCounter]\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "素材の下処理",
+          "desc": "[DuelCounter]\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +20%\n<style=\"highlight\">[BeforeUse] 自分に[TestWaitDocentRodion]がなく、対象のマイナス効果が3種以上なら「クリティーク」として発動\n[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、最終威力 +1 (最大2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 対象にこの効果がなければ、1追加で付与</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]1を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 対象にこの効果がなければ、1追加で付与</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "あんたの皮膚の下で脈動する赤い絵具を荒く",
+          "desc": "[WideAreaRampage]\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +40%\n[WhenUse] メインターゲットの[Laceration]と[Sinking]の合計4につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]4を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "このコインは全攻撃対象に的中する"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion]2を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "あんたの皮膚の下で脈動する赤い絵具を荒く",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +15% (最大90%)</style>\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +40%\n[WhenUse] メインターゲットの[Laceration]と[Sinking]の合計4につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly]4を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "このコインは全攻撃対象に的中する"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion]2を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "クリティーク",
+          "desc": "[DuelCounter]\n対象のマイナス効果1種につき、ダメージ量 +8% (最大40%)\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +30%\n[WhenUse] 対象に[IntenseColorsRodion]があるなら、[ParryingResultUp]2を得る\n[WhenUse] 対象の[Laceration]と[Sinking]の合計が4以上なら、最終威力 +3\n[EndSkillAll] [TestWaitDocentRodion]2を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "対象のマイナス効果3種につき、このコインを1回再使用 (最大2回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与 (スキルにつき1回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与 (スキルにつき1回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]と[EagleClawWoundAlly]のうち、どちらかをランダムに1付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインが3回目に使用するコインなら、[BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "クリティーク",
+          "desc": "[DuelCounter]\n対象のマイナス効果1種につき、ダメージ量 <style=\"highlight\">+10%</style> (最大40%)\n対象に[IntenseColorsRodion]があるなら、ダメージ量 +30%\n[WhenUse] 対象に[IntenseColorsRodion]があるなら、[ParryingResultUp]2を得る\n[WhenUse] 対象の[Laceration]と[Sinking]の合計が4以上なら、最終威力 +3\n<style=\"highlight\">[WhenUse] 対象のマイナス効果2種につき、マッチ威力 +2 (最大6)</style>\n[EndSkillAll] [TestWaitDocentRodion]2を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "対象のマイナス効果3種につき、このコインを1回再使用 (最大2回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与 (スキルにつき1回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与 (スキルにつき1回)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]と[EagleClawWoundAlly]のうち、どちらかをランダムに1付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインが3回目に使用するコインなら、[BoldBrushstrokesRodion]1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

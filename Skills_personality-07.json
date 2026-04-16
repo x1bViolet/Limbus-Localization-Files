@@ -2283,7 +2283,7 @@
         {
           "level": 3,
           "name": "血天下鷄舞乱刀",
-          "desc": "[WideAreaRampage]\n[WhenUse] [ChickenStance]3を得る\n[WinDuel] [Combustion]10を得る\n[EndSkill] [ChickenFightlust]を全て消耗\n[EndSkill] 自分の[Combustion]が20を超過しているなら、超過した[Combustion]から最大25消耗して体力を最大値の(消耗した[Combustion] × 2)％だけ回復",
+          "desc": "[WideAreaRampage]\n[WhenUse] [ChickenStance]3を得る\n[WinDuel] [Combustion]10を得る\n[EndSkill] [ChickenFightlust]を全て消耗\n[EndSkill] 自分の[Combustion]が20を超過しているなら、超過した[Combustion]から最大25消耗して体力を最大値の(消耗した[Combustion] × 2)%だけ回復",
           "coinlist": [
             {
               "coindescs": [
@@ -2333,7 +2333,7 @@
         {
           "level": 4,
           "name": "血天下鷄舞乱刀",
-          "desc": "[WideAreaRampage]\n<style=\"highlight\">自分の[Combustion]1につき、ダメージ量 +3% (最大60%)\n対象と自分の失った体力の合計2%につき、ダメージ量 +1% (最大50%)</style>\n[WhenUse] [ChickenStance]3を得る\n<style=\"highlight\">[WhenUse] メインターゲットの[Combustion]と[Burst]の合計6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の失った体力20%につき、マッチ威力 +1 (最大3)</style>\n[WinDuel] [Combustion]10を得る\n[EndSkill] [ChickenFightlust]を全て消耗\n[EndSkill] 自分の[Combustion]が20を超過しているなら、超過した[Combustion]から最大25消耗して体力を最大値の(消耗した[Combustion] × 2)％だけ回復",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">自分の[Combustion]1につき、ダメージ量 +3% (最大60%)\n対象と自分の失った体力の合計2%につき、ダメージ量 +1% (最大50%)</style>\n[WhenUse] [ChickenStance]3を得る\n<style=\"highlight\">[WhenUse] メインターゲットの[Combustion]と[Burst]の合計6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の失った体力20%につき、マッチ威力 +1 (最大3)</style>\n[WinDuel] [Combustion]10を得る\n[EndSkill] [ChickenFightlust]を全て消耗\n[EndSkill] 自分の[Combustion]が20を超過しているなら、超過した[Combustion]から最大25消耗して体力を最大値の(消耗した[Combustion] × 2)%だけ回復",
           "coinlist": [
             {
               "coindescs": [

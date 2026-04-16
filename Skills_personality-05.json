@@ -2384,6 +2384,295 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "荒い描写",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "荒い描写",
+          "desc": "<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計6につき、コイン威力 +1 (最大2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "荒い描写",
+          "desc": "<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +5% (最大15%)</style>\n[WhenUse] 対象の[Laceration]と[Sinking]の合計6につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking]回数が1増加</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "本能的な描き殴り",
+          "desc": "[WhenUse] 対象に[BearClawWoundAlly]がないなら、マッチ威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "本能的な描き殴り",
+          "desc": "[WhenUse] 対象に[BearClawWoundAlly]がないなら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計6につき、コイン威力 +1 (最大2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "本能的な描き殴り",
+          "desc": "<style=\"highlight\">対象のマイナス効果1種につき、ダメージ量 +5% (最大20%)</style>\n[WhenUse] 対象に[BearClawWoundAlly]がないなら、マッチ威力 +1\n[WhenUse] 対象の[Laceration]と[Sinking]の合計6につき、コイン威力 +1 (最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "野獣派 - 出品作展開",
+          "desc": "対象のマイナス効果1種につき、ダメージ量 +10% (最大60%)\n[WhenUse] 自分の体力が50%未満か、対象の引き裂かれた色彩が5以上なら、スキルに3コインが追加されて全コインが[SuperCoin]に変更される",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]回数が2増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "野獣派 - 出品作展開",
+          "desc": "対象のマイナス効果1種につき、ダメージ量 +10% (最大60%)\n<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計4につき、最終威力 +1 (最大4)</style>\n[WhenUse] 自分の体力が50%未満か、対象の引き裂かれた色彩が5以上なら、スキルに3コインが1つ追加されて全コインが[SuperCoin]に変更される<style=\"highlight\">\n- 追加されたコインが攻撃的中時、対象の(引き裂かれた色彩 ÷ 3)だけ[Laceration]または[Sinking]威力をランダムに付与 (それぞれ最大3, 小数点切り捨て)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [BearClawWoundAlly]1を付与</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "彩色準備",
+          "desc": "[DuelCounter] \n自分に[FaubismMaskMeursault]があるなら、基本威力 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "彩色準備",
+          "desc": "[DuelCounter]\n自分に[FaubismMaskMeursault]があるなら、基本威力 +2\n<style=\"highlight\">[WhenUse] 対象の[Laceration]と[Sinking]の合計が6以上なら、コイン威力 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -455,6 +455,10 @@
     {
       "id": "GiveRandomNegativeSinbuffOnRoundStart",
       "desc": "ターン開始時、火傷・出血・振動・破裂・沈潜 の中からランダムに{0}獲得"
+    },
+    {
+      "id": "MD7LimitMpAdjuster",
+      "desc": "ターン開始時に精神力を{0}回復\n- 全スキルが減算コインなら、代わりに精神力が{1}減少"
     }
   ]
 }

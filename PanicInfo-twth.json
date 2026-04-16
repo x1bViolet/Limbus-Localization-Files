@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1088,
+      "panicName": "衰える着想",
+      "lowMoraleDescription": "- 対象に引き裂かれた色彩があるなら、ダメージ量10%増加\n- [Vulnerable]1を得る",
+      "panicDescription": "- 対象に引き裂かれた色彩があるなら、ダメージ量20%増加\n- [Vulnerable]2を得る"
+    },
+    {
+      "id": 1090,
+      "panicName": "衝動的な彩色",
+      "lowMoraleDescription": "- 対象のマイナス効果1種につきダメージ量 +2.5% (最大15%)\n- [Vulnerable]1を得る",
+      "panicDescription": "- 対象のマイナス効果1種につき、ダメージ量 +5% (最大30%)\n- [Vulnerable]2を得る"
+    }
+  ]
+}

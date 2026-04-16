@@ -1279,6 +1279,22 @@
     {
       "id": "10215_getCondition_gacksung",
       "content": "蜘蛛の巣 薬指の子方ファウスト 同期化3段階達成"
+    },
+    {
+      "id": "10915_getCondition_normal",
+      "content": "薬指野獣派ドーセント ロージャ獲得時"
+    },
+    {
+      "id": "10915_getCondition_gacksung",
+      "content": "薬指野獣派ドーセントロージャ 同期化3段階達成"
+    },
+    {
+      "id": "10515_getCondition_normal",
+      "content": "薬指野獣派スチューデント ムルソー獲得時"
+    },
+    {
+      "id": "10515_getCondition_gacksung",
+      "content": "薬指野獣派スチューデントムルソー 同期化3段階達成"
     }
   ]
 }

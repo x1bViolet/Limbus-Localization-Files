@@ -27,8 +27,8 @@
     {
       "id": 1077,
       "panicName": "時代遅れの芸術",
-      "lowMoraleDescription": "ターン開始時に、体力が5減少して[AttackUp]1を得る",
-      "panicDescription": "ターン開始時に、体力が15減少して[AttackUp]2を得る"
+      "lowMoraleDescription": "ターン開始時、[AttackUp]1を得る",
+      "panicDescription": "ターン開始時、[AttackUp]2を得る"
     },
     {
       "id": 1075,

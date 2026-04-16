@@ -2051,9 +2051,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象へ精神力ダメージ7"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 体力を最大値の10%回復"
                 }
               ]
             }
@@ -2147,9 +2144,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象へ精神力ダメージ5"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 体力を最大値の10%回復"
                 }
               ]
             }

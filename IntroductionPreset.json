@@ -1931,6 +1931,22 @@
     {
       "id": "introduce_sentence_242",
       "content": "怖いのですか、{0}？"
+    },
+    {
+      "id": "introduce_word_243",
+      "content": "審査"
+    },
+    {
+      "id": "introduce_sentence_243",
+      "content": "厳正なる{0}、よろしくお願いいたします。"
+    },
+    {
+      "id": "introduce_word_244",
+      "content": "色彩"
+    },
+    {
+      "id": "introduce_sentence_244",
+      "content": "どこでも見られない{0}で。"
     }
   ]
 }

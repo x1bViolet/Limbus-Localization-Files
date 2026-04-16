@@ -2381,7 +2381,7 @@
         {
           "level": 4,
           "name": "突破",
-          "desc": "<style=\"highlight\">対象に[CrushMarks]があるなら、ダメージ量 +25％</style>\n対象の[Burst]と[Sinking]の合計<style=\"highlight\">6につき、コイン威力 +1 (最大2)</style>",
+          "desc": "<style=\"highlight\">対象に[CrushMarks]があるなら、ダメージ量 +25%</style>\n対象の[Burst]と[Sinking]の合計<style=\"highlight\">6につき、コイン威力 +1 (最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2469,7 +2469,7 @@
                   "desc": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自分に[GrownHorns]があるなら、数値1につきこのコインの最終ダメージ量の5％だけ斬撃ダメージ (最大15％)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自分に[GrownHorns]があるなら、数値1につきこのコインの最終ダメージ量の5%だけ斬撃ダメージ (最大15%)</style>"
                 }
               ]
             }
@@ -2503,7 +2503,7 @@
                   "desc": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分に[GrownHorns]があるなら、数値1につきこのコインの最終ダメージ量の<style=\"highlight\">10％</style>だけ斬撃ダメージ (最大<style=\"highlight\">30％</style>)"
+                  "desc": "[OnSucceedAttack] 自分に[GrownHorns]があるなら、数値1につきこのコインの最終ダメージ量の<style=\"highlight\">10%</style>だけ斬撃ダメージ (最大<style=\"highlight\">30%</style>)"
                 }
               ]
             }

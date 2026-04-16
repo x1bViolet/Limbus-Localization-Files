@@ -286,7 +286,7 @@
     {
       "id": 9224,
       "name": "秀作",
-      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の攻撃スキルが的中した敵に[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を保有する薬指所属人格が倒したなら、\nその薬指所属人格が[Inspire]を失って、[GreatAesthetics]を得る",
+      "desc": "薬指所属人格が[Inspire]を得る\n\n[Inspire]を保有した薬指所属人格の攻撃スキルが的中した敵に[ObjectOfExploration]を付与\n- 敵が[ObjectOfExploration]を既に保有しているとき、[ObjectOfExploration]が[PaintingMaterial]に入れ替わる\n\n[PaintingMaterial]がある対象を[Inspire]を保有する薬指所属人格が倒したなら、\nその薬指所属人格が[Inspire]を失って、[GreatAesthetics]を得る\n\n[Laceration]が15以上ある敵に加算コインの攻撃スキル的中時、精神力が3回復 (人格別に1ターンにつき1回)\n- 自分または対象にマイナス効果が3種以上あるなら、代わりに精神力を6回復",
       "simpleDesc": [
         {
           "abilityID": 9224,

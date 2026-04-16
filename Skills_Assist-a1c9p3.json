@@ -1421,7 +1421,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "([Burst] + [Burst]回数)1につき、ダメージ量 +1％ (最大100%)"
+                  "desc": "([Burst] + [Burst]回数)1につき、ダメージ量 +1% (最大100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の([Breath] × 4)だけ傲慢属性ダメージを与える (最大80)"
