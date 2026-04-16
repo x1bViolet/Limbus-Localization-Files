@@ -2031,6 +2031,22 @@
     {
       "id": "mainui_use_optional_piece_package",
       "content": "자아 파편 선택 상자 사용"
+    },
+    {
+      "id": "mainui_battleresult_consumable",
+      "content": ""
+    },
+    {
+      "id": "mainui_cont_mine_title",
+      "content": "(더미)연속 진행"
+    },
+    {
+      "id": "mainui_cont_mine_daily_bonus_desc",
+      "content": "(더미)일일 보너스 {0}회 적용"
+    },
+    {
+      "id": "mainui_cont_mine_invalid_text",
+      "content": "(더미)1회 클리어 시 연속 진행 가능"
     }
   ]
 }

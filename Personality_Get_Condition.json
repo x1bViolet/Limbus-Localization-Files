@@ -1279,6 +1279,22 @@
     {
       "id": "10215_getCondition_gacksung",
       "content": "거미집 약지 제자 파우스트 동기화 3단계 달성"
+    },
+    {
+      "id": "10915_getCondition_normal",
+      "content": "약지 야수파 도슨트 로쟈 획득 시"
+    },
+    {
+      "id": "10915_getCondition_gacksung",
+      "content": "약지 야수파 도슨트 로쟈 동기화 3단계 달성"
+    },
+    {
+      "id": "10515_getCondition_normal",
+      "content": "약지 야수파 스튜던트 뫼르소 획득 시"
+    },
+    {
+      "id": "10515_getCondition_gacksung",
+      "content": "약지 야수파 스튜던트 뫼르소 동기화 3단계 달성"
     }
   ]
 }

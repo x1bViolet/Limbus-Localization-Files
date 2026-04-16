@@ -4775,7 +4775,7 @@
         {
           "level": 1,
           "name": "드리우는 그늘",
-          "desc": "[WhenUse] 다음 턴에 거대 클로버 생성\n[WhenUse] 출혈 횟수당 피해량 5% 증가\n[DefeatDuel] 거대 클로버의 체력이 70%인 상태로 생성됨.",
+          "desc": "[WhenUse] 다음 턴에 거대 클로버 생성\n[DefeatDuel] 거대 클로버의 체력이 70%인 상태로 생성됨.",
           "coinlist": [
             {
               "coindescs": [

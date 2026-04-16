@@ -2369,6 +2369,522 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "강렬한 덧칠",
+          "desc": "대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "강렬한 덧칠",
+          "desc": "대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "강렬한 덧칠",
+          "desc": "<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +5% (최대 15%)</style>\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, <style=\"highlight\">합 위력 +1</style>, 최종 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">대상의 부정적인 효과가 4개 이상이면, 이 코인 재사용 (최대 1회)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "원색 표현",
+          "desc": "대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 부정적인 효과가 6개 이상이면, [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "원색 표현",
+          "desc": "대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] <style=\"highlight\">3</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 부정적인 효과가 6개 이상이면, [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "원색 표현",
+          "desc": "<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +20% (최대 60%)</style>\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n<style=\"highlight\">대상에게 찢긴 색채가 2종류 이상 있으면, 피해량 +20%</style>\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 2)\n<style=\"highlight\">[WhenUse] 대상의 부정적인 효과 2개당, 코인 위력 +1 (최대 3)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 부정적인 효과가 <style=\"highlight\">5</style>개 이상이면, [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "야수파 - 포악한 전개",
+          "desc": "대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n[BeforeUse] 대상의 부정적인 효과가 6개 이상이면,\n‘네 피부 아래 맥동하는 붉은 색감을 거칠게’로 발동됨 (턴당 1회)\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "야수파 - 포악한 전개",
+          "desc": "<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +20% (최대 60%)</style>\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n[BeforeUse] 대상의 부정적인 효과가 6개 이상이면,\n‘네 피부 아래 맥동하는 붉은 색감을 거칠게’로 발동됨 (턴당 1회)\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 대상의 부정적인 효과가 5개 이상이면, 다음 턴에 [BoldBrushstrokesRodion] 1 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "소재 다듬기",
+          "desc": "[DuelCounter]\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "소재 다듬기",
+          "desc": "[DuelCounter]\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +20%\n<style=\"highlight\">[BeforeUse] 자신에게 [TestWaitDocentRodion]이 없고, 대상의 부정적인 효과가 3개 이상이면, ‘크리틱’으로 발동됨\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 대상에게 이 효과가 없으면, 1 추가 부여</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- 대상에게 이 효과가 없으면, 1 추가 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "네 피부 아래 맥동하는 붉은 색감을 거칠게",
+          "desc": "[WideAreaRampage]\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +40%\n[WhenUse] 메인 타겟의 [Laceration]과 [Sinking]의 합 4당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "이 코인은 모든 공격 대상에게 적중함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "네 피부 아래 맥동하는 붉은 색감을 거칠게",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +15% (최대 90%)</style>\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +40%\n[WhenUse] 메인 타겟의 [Laceration]과 [Sinking]의 합 4당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [EagleClawWoundAlly] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "이 코인은 모든 공격 대상에게 적중함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BoldBrushstrokesRodion] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "크리틱",
+          "desc": "[DuelCounter]\n대상의 부정적인 효과 1개당, 피해량 +8% (최대 40%)\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +30%\n[WhenUse] 대상에게 [IntenseColorsRodion]가 있으면, [ParryingResultUp] 2 얻음\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4 이상이면, 최종 위력 +3\n[EndSkillAll] [TestWaitDocentRodion] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 부정적인 효과 3개당, 이 코인 재사용 1회 (최대 2회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]와 [EagleClawWoundAlly] 중 무작위로 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인이 3번째 사용하는 코인이면, [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "크리틱",
+          "desc": "[DuelCounter]\n대상의 부정적인 효과 1개당, 피해량 <style=\"highlight\">+10%</style> (최대 40%)\n대상에게 [IntenseColorsRodion]가 있으면, 피해량 +30%\n[WhenUse] 대상에게 [IntenseColorsRodion]가 있으면, [ParryingResultUp] 2 얻음\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4 이상이면, 최종 위력 +3\n<style=\"highlight\">[WhenUse] 대상의 부정적인 효과 2개당, 합 위력 +2 (최대 6)</style>\n[EndSkillAll] [TestWaitDocentRodion] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 부정적인 효과 3개당, 이 코인 재사용 1회 (최대 2회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [BearClawWoundAlly]와 [EagleClawWoundAlly] 중 무작위로 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인이 3번째 사용하는 코인이면, [BoldBrushstrokesRodion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1931,6 +1931,22 @@
     {
       "id": "introduce_sentence_242",
       "content": "두려우신가요, {0}?"
+    },
+    {
+      "id": "introduce_word_243",
+      "content": "심사"
+    },
+    {
+      "id": "introduce_sentence_243",
+      "content": "엄중한 {0}, 부탁드립니다."
+    },
+    {
+      "id": "introduce_word_244",
+      "content": "색채"
+    },
+    {
+      "id": "introduce_sentence_244",
+      "content": "어디에서도 볼 수 없을 {0}(으로/로)."
     }
   ]
 }

@@ -2388,6 +2388,295 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거친 묘사",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "거친 묘사",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 6당, 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거친 묘사",
+          "desc": "<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +5% (최대 15%)</style>\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 6당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking] 횟수 1 증가</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "본능적인 휘갈김",
+          "desc": "[WhenUse] 대상에게 [BearClawWoundAlly]가 없으면 합 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "본능적인 휘갈김",
+          "desc": "[WhenUse] 대상에게 [BearClawWoundAlly]가 없으면 합 위력 +1\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 6당, 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "본능적인 휘갈김",
+          "desc": "<style=\"highlight\">대상의 부정적인 효과 1개당, 피해량 +5% (최대 20%)</style>\n[WhenUse] 대상에게 [BearClawWoundAlly]가 없으면 합 위력 +1\n[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 6당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking] 1 부여</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "야수파 - 출품작 전개",
+          "desc": "대상의 부정적인 효과 1개당, 피해량 +10% (최대 60%)\n[WhenUse] 자신의 체력이 50% 미만이거나 대상의 찢긴 색채가 5 이상이면, 스킬의 3코인이 추가되며 모든 코인이 [SuperCoin]으로 변경됨",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "야수파 - 출품작 전개",
+          "desc": "대상의 부정적인 효과 1개당, 피해량 +10% (최대 60%)\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 4)</style>\n[WhenUse] 자신의 체력이 50% 미만이거나 대상의 찢긴 색채가 5 이상이면, 스킬의 3코인이 1개 추가되고, 모든 코인이 [SuperCoin]으로 변경됨<style=\"highlight\">\n- 추가된 코인의 공격 적중 시 대상의 (찢긴 색채/3)만큼 [Laceration] 또는 [Sinking] 위력을 무작위로 부여 (각각 최대 3, 소수점 버림)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [BearClawWoundAlly] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "채색 준비",
+          "desc": "[DuelCounter]\n자신에게 [FaubismMaskMeursault]이 있으면, 기본 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "채색 준비",
+          "desc": "[DuelCounter]\n자신에게 [FaubismMaskMeursault]이 있으면, 기본 위력 +2\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]과 [Sinking]의 합이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2898,6 +2898,41 @@
       "name": "아이언메이든 - 가시",
       "desc": "이번 턴에 수비 스킬을 장착한 아군이 피격 시 공격자에게 [Laceration] 4 부여 (턴당 2회)\n- 이미 [Laceration]이 있으면, 대신 공격자의 [Laceration] 횟수 2 증가",
       "summary": "피격 시 공격자에게 [Laceration] 부여"
+    },
+    {
+      "id": 1051501,
+      "name": "차오르는 영감",
+      "desc": "자신에게 [FaubismMaskMeursault]이 있으면, [BearClawWoundAlly] 부여량 +1\n\n자신이 [BearClawWoundAlly]를 4 부여 할 때마다, 정신력 5 회복 (턴당 2회)\n- 이 효과로 정신력 회복 시 자신의 정신력이 최대면, 다음 턴에 [HitDamageUp] 1 얻음 (턴당 1회)"
+    },
+    {
+      "id": 1051502,
+      "name": "약지 야수파 스튜던트",
+      "desc": "기본 스킬 적중 시 [BearClawWoundAlly] 1 부여\n- 이 효과는 스킬에서 부정적인 효과를 부여하는 것으로 취급됨\n\n턴 종료 시 이번 전투 동안 자신이 [BearClawWoundAlly]를 10 이상 부여했으면, [FaubismMaskMeursault] 얻음\n\n약지 야수파 도슨트 로쟈의 ‘크리틱’ 스킬 코인 시작 시, 약지 야수파 스튜던트 뫼르소가 [TestWaitingMeursault] 얻음"
+    },
+    {
+      "id": 1051521,
+      "name": "겹쳐 그린 상흔",
+      "desc": "속도가 가장 빠른 아군 1명이 공격 적중 시 대상의 부정적인 효과 2개당 [DefenseDown] 1 부여(턴당 최대 1회, 최대 3)"
+    },
+    {
+      "id": 1091501,
+      "name": "여기서는 조금 더 거칠게…!",
+      "desc": "[BearClawWoundAlly], [EagleClawWoundAlly], [BoldBrushstrokesRodion] 부여량 +1"
+    },
+    {
+      "id": 1091502,
+      "name": "지도 편달",
+      "desc": "턴 시작시 (전장에 있는 스튜던트 인격 수)만큼 [ThankyouDocentRodion]를 얻음 (전투당 1회)\n\n턴 시작 시 무작위 약지 스튜던트 인격 2명에게 [AttackUp]나 [DefenseUp] 효과를 (전장에 있는 스튜던트 인격 수)만큼 무작위로 부여 (전투당 1회, 최대 부여량 2개, 야수파 스튜던트 우선 적용)"
+    },
+    {
+      "id": 1091503,
+      "name": "야수파 - 야성적인 색채",
+      "desc": "전투 종료 시 [BearClawWoundAlly], [EagleClawWoundAlly], [BoldBrushstrokesRodion]를 전부 보유한 적에게 다음 턴에 [IntenseColorsRodion] 1 부여\n- 대상이 보유한 [BearClawWoundAlly], [EagleClawWoundAlly]가 각각 3/6/9 이상이면, 대신 [IntenseColorsRodion] 2/3/4 부여 (수치가 더 적은 쪽을 기준으로 함)\n\n다음 조건 중 1개를 만족했으면, 턴 종료 시 [FaubismWolfMaskRodion] 1 얻음\n- [IntenseColorsRodion] 3회 부여 시 (턴당 1회로 판정)\n- ‘크리틱’ 2회 스킬 종료 시\n- ‘네 피부 아래 맥동하는 붉은 색감을 거칠게’ 스킬 종료 시"
+    },
+    {
+      "id": 1091521,
+      "name": "부서지진 않게 조심조심…",
+      "desc": "편성 순서가 가장 빠른 인격에게 아래 효과 적용\n- 색욕 공명 수가 홀수면, [Laceration] 위력 부여량 +1\n- 색욕 공명 수가 짝수면, [Sinking] 위력 부여량 +1\n- 해당 인격이 약지 소속 인격이면, 전투 시작시 [AttackUp] 1 또는 [DefenseUp] 1을 얻음"
     }
   ]
 }

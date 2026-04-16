@@ -455,6 +455,10 @@
     {
       "id": "GiveRandomNegativeSinbuffOnRoundStart",
       "desc": "턴 시작 시 화상, 출혈, 진동, 파열, 침잠 중 무작위로 {0} 획득"
+    },
+    {
+      "id": "MD7LimitMpAdjuster",
+      "desc": "턴 시작 시 정신력 {0} 회복\n- 모든 스킬이 빼기 코인이면 대신 정신력 {1} 감소"
     }
   ]
 }

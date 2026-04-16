@@ -290,7 +290,7 @@
     {
       "id": 9012,
       "name": "오늘의 표정",
-      "desc": "타격 스킬 또는 나태 속성의 스킬로 적 처치 시, 다음 턴까지 해당 아군의 타격 스킬 위력 +2.",
+      "desc": "타격 스킬 또는 나태 속성 스킬로 공격 종료시 적이 사망했으면, 해당 아군이 이번 턴을 제외한 다음 턴부터 2턴 동안 타격 스킬 위력 +2.",
       "simpleDesc": [
         {
           "abilityID": 9012,
@@ -510,7 +510,7 @@
     {
       "id": 9020,
       "name": "흰 목화",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 (8+흐트러짐 단계x4)만큼 [Laceration] 위력을 얻고 그 수치의 절반만큼 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 (8+흐트러짐 단계x4)만큼 [Laceration] 위력을 얻고 그 수치의 절반만큼 이번 턴과 다음 턴 동안 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
       "simpleDesc": [
         {
           "abilityID": 9020,
@@ -521,7 +521,7 @@
     {
       "id": 19020,
       "name": "흰 목화+",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(10+흐트러짐 단계x5)만큼</style> <style=\"upgradeHighlight\">[Laceration] 위력을 얻고 그 수치만큼</style> 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(10+흐트러짐 단계x5)만큼</style> <style=\"upgradeHighlight\">[Laceration] 위력을 얻고 그 수치만큼 </style>이번 턴과 다음 턴 동안 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
       "simpleDesc": [
         {
           "abilityID": 19020,
@@ -532,7 +532,7 @@
     {
       "id": 29020,
       "name": "흰 목화++",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(12+흐트러짐 단계x6)만큼</style> [Laceration] 위력을 얻고 그 수치만큼 대상에게 [AttackDown]와 <style=\"upgradeHighlight\">[DefenseDown]</style> 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(12+흐트러짐 단계x6)만큼</style> [Laceration] 위력을 얻고 그 수치만큼 이번 턴과 다음 턴 동안 대상에게 [AttackDown]와 <style=\"upgradeHighlight\">[DefenseDown]</style> 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
       "simpleDesc": [
         {
           "abilityID": 29020,
@@ -726,7 +726,7 @@
     {
       "id": 9030,
       "name": "수집하는 해골",
-      "desc": "관통 피해를 입히는 스킬 또는 오만 속성의 스킬로 적 처치 시, 해당 아군이 다음 2턴 동안 관통 위력이 2 증가.",
+      "desc": "관통 스킬 또는 오만 속성 스킬로 공격 종료시 적이 사망했으면, 해당 아군이 이번 턴을 제외한 다음 턴부터 2턴 동안 관통 스킬 위력 +2.",
       "simpleDesc": [
         {
           "abilityID": 9030,
@@ -785,7 +785,7 @@
     {
       "id": 9032,
       "name": "꿈을 꾸는 전기양",
-      "desc": "참격 스킬 또는 질투 속성 스킬로 적 처치 시, 해당 아군이 다음 2턴 동안 참격 스킬 위력 +2.\n\n질투 완전 공명을 발동하였다면, 전투 시작 시 모든 아군이 [AttackUp] 2, [DefenseUp] 2 얻음.",
+      "desc": "참격 스킬 또는 질투 속성 스킬로 공격 종료시 적이 사망했으면, 해당 아군이 이번 턴을 제외한 다음 턴부터 2턴 동안 참격 스킬 위력 +2.\n\n질투 완전 공명을 발동하였다면, 전투 시작 시 모든 아군이 [AttackUp] 2, [DefenseUp] 2 얻음.",
       "simpleDesc": [
         {
           "abilityID": 9032,
@@ -3611,7 +3611,7 @@
     {
       "id": 9134,
       "name": "순찰용 손전등",
-      "desc": "[편성 1번, 2번 인격 전용 효과]\n\n턴 시작 시 효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때 대상의 스킬 1 합 위력 +1, 피해량 +10%.\n\n턴 종료 시 효과 적용 대상 인격이 [ChargeForceField]을 보유하지 않았다면 다음 턴에 [ChargeForceField] 2 부여.",
+      "desc": "[편성 1번, 2번 인격 전용 효과]\n\n턴 시작 시 효과 대상 인격이 [ChargeForceField] 2 얻음\n\n효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때 대상의 스킬 1 합 위력 +1, 피해량 +10%.",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3626,7 +3626,7 @@
     {
       "id": 19134,
       "name": "순찰용 손전등+",
-      "desc": "[편성 1번, 2번, <style=\"upgradeHighlight\">3번</style> 인격 전용 효과]\n\n턴 시작 시 효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때, 아군의 스킬 1 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">15</style>%.\n\n턴 종료 시 효과 적용 대상 인격이 [ChargeForceField]을 보유하지 않았다면 다음 턴에 [ChargeForceField] <style=\"upgradeHighlight\">3</style> 부여.",
+      "desc": "[편성 1번, 2번, <style=\"upgradeHighlight\">3번</style> 인격 전용 효과]\n\n턴 시작 시 효과 대상 인격이 [ChargeForceField] <style=\"upgradeHighlight\">3</style> 얻음\n\n효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때, 아군의 스킬 1 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">15</style>%.",
       "simpleDesc": [
         {
           "abilityID": 19134,
@@ -3641,7 +3641,7 @@
     {
       "id": 29134,
       "name": "순찰용 손전등++",
-      "desc": "[편성 1번, 2번, 3번 인격 전용 효과]\n\n턴 시작 시 효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때, 아군의 스킬 1 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">25</style>%.\n\n턴 종료 시 효과 적용 대상 인격이 [ChargeForceField]을 보유하지 않았다면 다음 턴에 [ChargeForceField] <style=\"upgradeHighlight\">4</style> 부여.",
+      "desc": "[편성 1번, 2번, 3번 인격 전용 효과]\n\n턴 시작 시 효과 대상 인격이 [ChargeForceField] <style=\"upgradeHighlight\">4</style> 얻음\n\n효과 적용 대상 인격이 [Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유하였다면, [ChargeForceField] 상태일 때, 아군의 스킬 1 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">25</style>%.",
       "simpleDesc": [
         {
           "abilityID": 29134,

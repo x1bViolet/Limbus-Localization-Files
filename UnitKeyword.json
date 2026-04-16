@@ -289,12 +289,32 @@
       "content": "스튜던트"
     },
     {
+      "id": "UnitKeyword_RING_FINGER_FAUVISM",
+      "content": "야수파"
+    },
+    {
       "id": "UnitKeyword_RING_FINGER_POINTILLISM",
       "content": "점묘파"
     },
     {
       "id": "UnitKeyword_RING_FINGER_PHYSICAL",
       "content": "신체파"
+    },
+    {
+      "id": "UnitKeyword_FINGER_CANCELED",
+      "content": "<s>손가락</s>"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER_CANCELED",
+      "content": "<s>중지</s>"
+    },
+    {
+      "id": "UnitKeyword_SPIDER_HOUSE_CANCELED",
+      "content": "<s>거미집</s>"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
+      "content": "LCE?"
     }
   ]
 }

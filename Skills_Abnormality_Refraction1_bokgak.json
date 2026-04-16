@@ -2062,9 +2062,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 대상에게 정신력 피해 7"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 최대 체력의 10%만큼 체력 회복"
                 }
               ]
             }
@@ -2158,9 +2155,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 대상에게 정신력 피해 5"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 최대 체력의 10%만큼 체력 회복"
                 }
               ]
             }

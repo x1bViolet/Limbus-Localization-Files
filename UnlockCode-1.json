@@ -98,6 +98,18 @@
     {
       "id": 9123,
       "openCondition": "제8회 발푸르기스의 밤 클리어"
+    },
+    {
+      "id": 9125,
+      "openCondition": "타래 엮기 클리어"
+    },
+    {
+      "id": 912520,
+      "openCondition": "(더미) 10001 NORMAL 클리어"
+    },
+    {
+      "id": 912521,
+      "openCondition": "(더미) 10001 HARD 클리어"
     }
   ]
 }
