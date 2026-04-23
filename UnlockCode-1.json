@@ -101,15 +101,16 @@
     },
     {
       "id": 9125,
-      "openCondition": "타래 엮기 클리어"
+      "openCondition": "타래 엮기 클리어",
+      "openConditionNumber" : "9.5-14 클리어"
     },
     {
       "id": 912520,
-      "openCondition": "(더미) 10001 NORMAL 클리어"
+      "openCondition": "사영전투][투전영사 - 타래 엮기 Normal 난이도 클리어"
     },
     {
       "id": 912521,
-      "openCondition": "(더미) 10001 HARD 클리어"
+      "openCondition": "사영전투][투전영사 - 타래 엮기 Hard 난이도 클리어"
     }
   ]
 }

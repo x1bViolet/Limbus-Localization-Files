@@ -861,6 +861,18 @@
     {
       "id": "KAA1C9ActivateEffect",
       "content": "사용된 K사 앰플"
+    },
+    {
+      "id": "contMineInfo_Title",
+      "content": "현재 진행 중인 회차"
+    },
+    {
+      "id": "contMineInfo_Desc_Valid_Reward",
+      "content": "※ 스테이지 포기 시 모듈 {0}개 소모 및 보상 획득"
+    },
+    {
+      "id": "contMineInfo_Desc_Invalid_Reward",
+      "content": "※ 스테이지 포기 시 모듈 소모·보상 획득 없음"
     }
   ]
 }

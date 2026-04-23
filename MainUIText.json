@@ -2034,19 +2034,19 @@
     },
     {
       "id": "mainui_battleresult_consumable",
-      "content": ""
+      "content": "소모 모듈"
     },
     {
       "id": "mainui_cont_mine_title",
-      "content": "(더미)연속 진행"
+      "content": "연속 진행"
     },
     {
       "id": "mainui_cont_mine_daily_bonus_desc",
-      "content": "(더미)일일 보너스 {0}회 적용"
+      "content": "일일 추가 보상 {0}회 적용"
     },
     {
       "id": "mainui_cont_mine_invalid_text",
-      "content": "(더미)1회 클리어 시 연속 진행 가능"
+      "content": "1회 클리어 이후 연속 진행 가능"
     }
   ]
 }
