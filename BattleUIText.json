@@ -859,6 +859,18 @@
     {
       "id": "KAA1C9ActivateEffect",
       "content": "使用済みのK社アンプル"
+    },
+    {
+      "id": "contMineInfo_Title",
+      "content": "現在進行中の回"
+    },
+    {
+      "id": "contMineInfo_Desc_Valid_Reward",
+      "content": "※ステージギブアップ時、モジュールを{0}個消耗および報酬獲得"
+    },
+    {
+      "id": "contMineInfo_Desc_Invalid_Reward",
+      "content": "※ステージギブアップ時、モジュール消耗・報酬獲得なし"
     }
   ]
 }

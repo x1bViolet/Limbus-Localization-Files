@@ -2034,7 +2034,7 @@
     },
     {
       "id": "mainui_battleresult_consumable",
-      "content": "消耗"
+      "content": "消耗モジュール"
     },
     {
       "id": "mainui_cont_mine_title",
@@ -2042,11 +2042,11 @@
     },
     {
       "id": "mainui_cont_mine_daily_bonus_desc",
-      "content": "デイリーボーナス{0}回適用"
+      "content": "デイリー追加報酬 {0}回適用"
     },
     {
       "id": "mainui_cont_mine_invalid_text",
-      "content": "1回クリア時に連続進行可能"
+      "content": "1回クリア後に連続進行可能"
     }
   ]
 }

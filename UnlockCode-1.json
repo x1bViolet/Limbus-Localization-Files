@@ -101,7 +101,16 @@
     },
     {
       "id": 9125,
-      "openCondition": "縒り合せ クリア"
+      "openCondition": "縒り合せ クリア",
+      "openConditionNumber": "9.5-14クリア"
+    },
+    {
+      "id": 912520,
+      "openCondition": "射影戦闘][闘戦影射 - 縒り合せ Normalクリア"
+    },
+    {
+      "id": 912521,
+      "openCondition": "射影戦闘][闘戦影射 - 縒り合せ Hardクリア"
     }
   ]
 }
