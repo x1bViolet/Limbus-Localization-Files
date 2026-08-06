@@ -271,7 +271,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 자신의 [Breath]만큼 흐트러짐 손상"
+                  "desc": "[OnSucceedAttack] 자신의 [Breath]만큼 흐트러짐 손상"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 자신의 [Breath]이 5이상이면, 피해량의 50%만큼 흐트러짐 손상"
+                  "desc": "[OnSucceedAttack] 자신의 [Breath]이 5이상이면, 피해량의 50%만큼 흐트러짐 손상"
                 },
                 {
                   "desc": "[OnSucceedAttack] 모든 부위에 [Breath] 8, [Breath] 횟수 4를 얻음"
