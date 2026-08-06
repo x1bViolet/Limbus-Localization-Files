@@ -271,7 +271,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[Breath]だけ混乱区間を前進"
+                  "desc": "[OnSucceedAttack] 自分の[Breath]だけ混乱区間を前進"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[Breath]が5以上なら、ダメージ量の50%分混乱区間を前進"
+                  "desc": "[OnSucceedAttack] 自分の[Breath]が5以上なら、ダメージ量の50%分混乱区間を前進"
                 },
                 {
                   "desc": "[OnSucceedAttack] 全部位が[Breath]8, [Breath]回数4を得る"
