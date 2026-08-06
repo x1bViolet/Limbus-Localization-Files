@@ -3282,7 +3282,7 @@
                   "desc": "<style=\"highlight\">- Heal target for (5 x number of allies targeted by this Skill)% of user's Max HP (max 20%)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Gain 1 [GainSinStockAdder] and 2 [Agility] next turn</style>"
+                  "desc": "<style=\"highlight\">- Apply 1 [GainSinStockAdder] and 2 [Agility] next turn</style>"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflict 7 [Combustion]<style=\"highlight\"></style>"
