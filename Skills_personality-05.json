@@ -521,7 +521,6 @@
         }
       ]
     },
-
     {
       "id": 1050901,
       "levelList": [
@@ -706,7 +705,6 @@
         }
       ]
     },
-
     {
       "id": 1051001,
       "levelList": [
@@ -949,7 +947,7 @@
           "level": 1,
           "name": "팡트",
           "desc": "[WinDuel] 자신의 [Breath] 횟수 2 증가",
-          "coinlist": [            
+          "coinlist": [
             {
               "coindescs": [
                 {
@@ -977,7 +975,7 @@
           "level": 2,
           "name": "팡트",
           "desc": "자신의 속도가 대상보다 3 이상 높으면 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 위력, [Burst] 횟수를 부여하지 않고, 적중 시 [Burst] 횟수를 소모하지 않음\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
-          "coinlist": [            
+          "coinlist": [
             {
               "coindescs": [
                 {
@@ -1008,7 +1006,7 @@
           "level": 4,
           "name": "팡트",
           "desc": "자신의 속도가 대상보다 3 이상 높으면 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 위력, [Burst] 횟수를 부여하지 않고, 적중 시 [Burst] 횟수를 소모하지 않음\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
-          "coinlist": [            
+          "coinlist": [
             {
               "coindescs": [
                 {
@@ -1048,7 +1046,6 @@
           "name": "살뤼",
           "desc": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 적중 시 [Burst] 횟수를 소모하지 않음\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [ConcentratedAttackMeursault]가 있으면 추가로 호흡 5 얻음",
           "coinlist": [
-            
             {
               "coindescs": [
                 {
@@ -1080,7 +1077,6 @@
           "name": "살뤼",
           "desc": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 3)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 적중 시 [Burst] 횟수를 소모하지 않음\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [ConcentratedAttackMeursault]가 있으면 추가로 호흡 5 얻음",
           "coinlist": [
-            
             {
               "coindescs": [
                 {

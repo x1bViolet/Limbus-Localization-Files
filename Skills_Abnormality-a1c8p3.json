@@ -508,7 +508,7 @@
                 }
               ]
             },
-                        {
+            {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Laceration] 6 부여"
@@ -804,7 +804,6 @@
         }
       ]
     },
-
     {
       "id": 114601,
       "levelList": [
@@ -1121,7 +1120,7 @@
                 }
               ]
             },
-                        {
+            {
               "coindescs": [
                 {
                   "desc": "[SuperCoin]"
@@ -1134,7 +1133,7 @@
                 }
               ]
             },
-             {
+            {
               "coindescs": [
                 {
                   "desc": "[SuperCoin]"

@@ -109,7 +109,6 @@
         }
       ]
     },
-
     {
       "id": 2010711,
       "levelList": [
@@ -225,7 +224,7 @@
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여"
-                } 
+                }
               ]
             }
           ]

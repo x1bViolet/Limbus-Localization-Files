@@ -121,7 +121,6 @@
         }
       ]
     },
-
     {
       "id": 2020611,
       "levelList": [
@@ -291,7 +290,7 @@
           "name": "영속",
           "abName": "시간오리",
           "desc": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x<style=\"highlight\">2</style>)% (최대 <style=\"highlight\">16%</style>)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, 최대 공명 수만큼 [Vibration] 위력 부여 (최대 4)\n<style=\"highlight\">- [BeforeAttack] 최대 공명이 나태 완전 공명일 경우, [Vibration] 횟수 2 부여</style>",
-         "coinlist": [
+          "coinlist": [
             {
               "coindescs": [
                 {

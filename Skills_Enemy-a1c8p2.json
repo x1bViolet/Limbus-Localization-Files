@@ -643,7 +643,7 @@
               ]
             },
             {
-            "coindescs": [
+              "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 대상의 [OminousTalisman] 2 소모"
                 }
@@ -683,8 +683,7 @@
           "name": "부령술(符靈術) - 방어",
           "desc": "[StartBattle] (20 - 자신의 정신력)만큼 보호막 얻음 (최소 0, 최대 20)",
           "coinlist": [
-            {
-            }
+            {}
           ]
         }
       ]
@@ -822,8 +821,7 @@
           "name": "부령술(符靈術) - 방어",
           "desc": "[StartBattle] (20 - 자신의 정신력)만큼 보호막 얻음 (최소 0, 최대 40)",
           "coinlist": [
-            {
-            }
+            {}
           ]
         }
       ]

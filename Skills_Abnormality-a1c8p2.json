@@ -230,7 +230,6 @@
         }
       ]
     },
-
     {
       "id": 113701,
       "levelList": [
@@ -1113,7 +1112,7 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
-                }             
+                }
               ]
             }
           ]
@@ -1161,7 +1160,7 @@
               ]
             },
             {
-            "coindescs": [
+              "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 대상의 [OminousTalisman] 2 소모"
                 }
@@ -1214,7 +1213,7 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [OminousTalisman] 10 부여"
-                }            
+                }
               ]
             },
             {
@@ -1227,7 +1226,7 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [OminousTalisman] 10 부여"
-                }     
+                }
               ]
             },
             {
@@ -1260,7 +1259,6 @@
                 {
                   "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
                 }
-                
               ]
             },
             {

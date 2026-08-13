@@ -350,7 +350,7 @@
                   "desc": "[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여<style=\"highlight\"></style>"
                 }
               ]
-          }
+            }
           ]
         },
         {
@@ -504,7 +504,6 @@
                 {
                   "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 2 감소"
                 }
-
               ]
             },
             {
@@ -533,7 +532,6 @@
                 {
                   "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion] <style=\"highlight\">2회.</style> 대상의 [Vibration] 횟수 2 감소"
                 }
-
               ]
             },
             {
@@ -610,7 +608,6 @@
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
                 }
-
               ]
             }
           ]

@@ -560,7 +560,6 @@
                 {
                   "desc": "[OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]"
                 }
-
               ]
             },
             {
@@ -609,7 +608,6 @@
                 {
                   "desc": "[OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]<style=\"highlight\"></style>"
                 }
-
               ]
             },
             {
@@ -658,7 +656,6 @@
                 {
                   "desc": "[OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]<style=\"highlight\"></style>"
                 }
-
               ]
             },
             {

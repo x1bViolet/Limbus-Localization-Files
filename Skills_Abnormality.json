@@ -73,8 +73,7 @@
         {
           "level": 1,
           "name": "뿌리 가시",
-          "keywords": [
-          ],
+          "keywords": [],
           "coinlist": [
             {
               "coindescs": [
@@ -455,9 +454,7 @@
           "level": 1,
           "name": "단단한 황금",
           "coinlist": [
-            {
-
-            }
+            {}
           ]
         }
       ]
@@ -1968,8 +1965,7 @@
           "coinlist": [
             {
               "coindescs": [
-                {
-                }
+                {}
               ]
             }
           ]
@@ -4807,7 +4803,6 @@
         }
       ]
     },
-
     {
       "id": 806401,
       "levelList": [

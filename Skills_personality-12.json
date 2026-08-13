@@ -840,11 +840,11 @@
             },
             {
               "coindescs": [
-              {
-                "desc": "[OnSucceedAttack] [Sinking] 1 부여"
-              }
-            ]
-          },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            },
             {
               "coindescs": [
                 {

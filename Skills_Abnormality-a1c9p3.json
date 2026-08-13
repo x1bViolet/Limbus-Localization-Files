@@ -3035,7 +3035,7 @@
       ]
     },
     {
-      "id": 133803 ,
+      "id": 133803,
       "levelList": [
         {
           "level": 1,
@@ -3203,8 +3203,6 @@
         }
       ]
     },
-
-
     {
       "id": 134701,
       "levelList": [
@@ -3316,7 +3314,7 @@
           "desc": "[UnlockBuff_Base] 단계 1당 최종 위력 +1 (최대 2)\n사용하는 무기의 공격 유형에 따라 효과 적용\n- 관통 무기일 경우, 피해량 +30%\n- 관통 무기가 아닐 경우, 피해량 -15%\n[StartBattle] 다음 효과 누적 적용\n- [UnlockBuff_Rien2]면, 마지막 코인이 [SuperCoin]으로 변경됨\n- [UnlockBuff_Rien3]면, 이 스킬로 합 승리 시 다음 턴에 [ResultReduction] 1 부여\n[WhenUse] [Breath] 2 얻음",
           "coinlist": [
             {
-               "coindescs": [
+              "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Sinking] 2 부여"
                 }
@@ -3557,7 +3555,6 @@
         }
       ]
     },
-
     {
       "id": 134801,
       "levelList": [
@@ -3629,7 +3626,7 @@
                 {
                   "desc": "[OnSucceedAttack] [Breath] 1 얻음"
                 }
-              ] 
+              ]
             },
             {
               "coindescs": [

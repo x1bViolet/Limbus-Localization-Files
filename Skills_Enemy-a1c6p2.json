@@ -64,7 +64,7 @@
         {
           "level": 1,
           "name": "위반자 집행",
-            "desc": "[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음",
+          "desc": "[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음",
           "coinlist": [
             {
               "coindescs": [
@@ -248,21 +248,21 @@
             {
               "coindescs": [
                 {
-                    "desc": "[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 다음 턴에 [AttackDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 다음 턴에 [AttackDown] 2 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] [Laceration] 5 부여"
-              }
+                }
               ]
             },
             {
               "coindescs": [
                 {
-                    "desc": "[OnSucceedAttack] (대상의 [Laceration] / 2)만큼 [Burst] 부여"
+                  "desc": "[OnSucceedAttack] (대상의 [Laceration] / 2)만큼 [Burst] 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 7 회복"
-              }
+                }
               ]
             }
           ]

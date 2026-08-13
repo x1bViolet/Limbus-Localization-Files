@@ -107,7 +107,7 @@
                 {
                   "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음"
                 },
-                                {
+                {
                   "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 3 부여"
                 }
               ]

@@ -584,7 +584,8 @@
                   "desc": "[OnSucceedAttack] 다음 턴에 파열 2 부여"
                 }
               ]
-            },{
+            },
+            {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 다음 턴에 파열 2 부여"
@@ -2154,7 +2155,8 @@
                   "desc": "[OnSucceedAttack] 다음 턴에 파열 2 부여"
                 }
               ]
-            },{
+            },
+            {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 다음 턴에 파열 2 부여"
