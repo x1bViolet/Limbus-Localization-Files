@@ -598,7 +598,8 @@
     {
       "id": 2100312,
       "name": "Stew Spewage",
-      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that inflict [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, heal 4 SP\n· At 40 or higher SP, deal +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (this effect cannot reduce this unit's SP below -40)\n· At -25 or lower SP, deal +10% damage</style>"
+      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that inflict [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, heal 4 SP\n· At 40 or higher SP, deal +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (this effect cannot reduce this unit's SP below -40)\n· At -25 or lower SP, deal +10% damage</style>",
+      "summary": "On Tails Hit, inflict [Combustion] on target. Heal or lose SP on self; or deal more damage"
     }
   ]
 }
