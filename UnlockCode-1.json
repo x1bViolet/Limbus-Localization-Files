@@ -36,6 +36,7 @@
       "id": 108,
       "openCondition": "メインストーリー8章 クリア",
       "askLevelUp": "人格のレベル上限はストーリーの進捗によって開放され、\nこのチケットで達成できる最大レベル(Lv. {0})は\nメインストーリーの8章をクリアすると開放されます。",
+      "openConditionNumber": "8-33クリア",
       "relatedChapterText": "Canto VIII"
     },
     {
@@ -204,6 +205,14 @@
       "id": 101002,
       "openCondition": "鏡屈折鉄道2号線BokGak クリア",
       "relatedChapterText": "鏡屈折鉄道2号線 BokGak"
+    },
+    {
+      "id": 912722,
+      "openCondition": "射影戦闘][闘戦影射 - 挿翅虎 Normalクリア"
+    },
+    {
+      "id": 912723,
+      "openCondition": "射影戦闘][闘戦影射 - 挿翅虎 Hardクリア"
     }
   ]
 }
