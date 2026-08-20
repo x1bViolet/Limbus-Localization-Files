@@ -3391,6 +3391,263 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "발경",
+          "desc": "[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "발경",
+          "desc": "<style=\"highlight\">자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1</style>\n[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [Combustion] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "발경",
+          "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합 6당, 합 위력 +1 (최대 2)</style>\n[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "초염장",
+          "desc": "[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "초염장",
+          "desc": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Combustion] 횟수 1 증가</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [DianxueHongLu]만큼 [DefenseDown] 부여 (턴당 1회)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "초염장",
+          "desc": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합이 6 이상이면, 최종 위력 +1</style>\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [DianxueHongLu]만큼 [DefenseDown] 부여 (턴당 1회)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "마지막 수까지 받아주시겠어요?",
+          "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [DefenseDown] 2 부여 (턴당 2회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상에게 [DianxueHongLu]가 있으면, 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [Combustion] x 2)%만큼 분노 피해 (최대 40%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "마지막 수까지 받아주시겠어요?",
+          "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합이 6 이상이면, 코인 위력 +1</style>\n[WinDuel] [Breath] <style=\"highlight\">5</style> 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 <style=\"highlight\">30</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [DefenseDown] 2 부여 (턴당 2회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상에게 [DianxueHongLu]가 있으면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [Combustion] x 2)%만큼 분노 피해 (최대 40%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구름처럼 가벼이",
+          "desc": "자신의 속도가 공격자보다 2 이상 높으면, 코인 위력 +1\n[StartBattle] 자신의 [Breath] 횟수 2 증가 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "구름처럼 가벼이",
+          "desc": "자신의 속도가 공격자보다 2 이상 높으면, 코인 위력 +1\n[StartBattle] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

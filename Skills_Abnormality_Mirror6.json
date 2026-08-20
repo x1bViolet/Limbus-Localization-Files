@@ -1139,20 +1139,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": ""
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletPropellant] 1 소모"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 3 증가"
+                  "desc": ""
                 }
               ]
             }

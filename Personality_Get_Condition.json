@@ -1375,6 +1375,14 @@
     {
       "id": "10116_getCondition_gacksung",
       "content": "LCE E.G.O::차원찢개 이상 동기화 3단계 달성"
+    },
+    {
+      "id": "10616_getCondition_normal",
+      "content": "동부 섕크 협회 3과 홍루 획득 시"
+    },
+    {
+      "id": "10616_getCondition_gacksung",
+      "content": "동부 섕크 협회 3과 홍루 동기화 3단계 달성"
     }
   ]
 }

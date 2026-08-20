@@ -3234,6 +3234,26 @@
       "desc": "속도가 가장 빠른 아군 1명이 [Charge] 횟수를 얻거나 소모하는 스킬 사용시, 다음 턴에 [Agility] 1 얻음 (턴당 1회)",
       "summary": "",
       "flavor": ""
+    },
+    {
+      "id": 1061601,
+      "name": "초염옥구",
+      "desc": "합 승리 시 대상에게 점혈이 있으면, [DianxueHongLu] 1 부여 (턴당 1회)\n\n턴 종료 시 자신의 [Breath] 위력 5당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)"
+    },
+    {
+      "id": 1061602,
+      "name": "입회하의 결투",
+      "desc": "스테이지 첫 등장 시 대기 인원 또는 서포트 인원으로 편성된 섕크 협회 소속 아군 인격 수만큼 [DuelSousTemoinsEast] 얻음 (최대 3, 사망자 포함)\n\n기본 공격 스킬로 마지막에 적중한 대상에게 다음 턴에 [DianxueHongLu] 1 부여 (턴당 1회, 집중 전투면, 부위에 부여)"
+    },
+    {
+      "id": 1061611,
+      "name": "초염옥구",
+      "desc": "합 승리 시 대상에게 점혈이 있으면, [DianxueHongLu] 1 부여 (턴당 1회)\n\n턴 종료 시 자신의 [Breath] 위력 <style=\"highlight\">3</style>당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)\n<style=\"highlight\">- 대상의 [DianxueHongLu] 1당, 최댓값 5% 증가</style>"
+    },
+    {
+      "id": 1061621,
+      "name": "퇴로를 녹여둘게요",
+      "desc": "속도가 가장 빠른 아군이 [Combustion] 또는 특수 화상을 보유한 적에게 합 승리 시, 다음 턴에 [Binding] 1 부여 (턴당 1회)\n- 대상의 [Combustion] 횟수가 4 이하면, 추가로 이번 턴에 대상의 [Combustion] 횟수 1 증가\n- 대상의 [Combustion] 횟수가 5 이상이면, 추가로 이번 턴에 [Combustion] 3 부여"
     }
   ]
 }

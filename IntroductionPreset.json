@@ -2059,6 +2059,14 @@
     {
       "id": "introduce_sentence_258",
       "content": "{0}(이다/다)! {0}(이/가) 왔어!"
+    },
+    {
+      "id": "introduce_word_259",
+      "content": "의뢰"
+    },
+    {
+      "id": "introduce_sentence_259",
+      "content": "{0}의 초과 예약은 금지되어 있어서요~"
     }
   ]
 }

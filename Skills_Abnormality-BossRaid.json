@@ -648,6 +648,378 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 501901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "이연참",
+          "desc": "대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "삼연격",
+          "desc": "대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여, [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "이연참-폭[爆]",
+          "desc": "대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 4)\n[DefeatDuel] [BulletPropellant] 1 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "삼연격-폭[爆]",
+          "desc": "대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 4)\n[DefeatDuel] [BulletPropellant] 1 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "폭쇄참 [爆碎斬]",
+          "desc": "[Prey_leiheng]을 보유한 대상을 우선으로 지정\n<color=#ff6000><mark=#ff000040><b><u>속도에 상관없이 이 스킬과 합을 할 수 있음</u></b></mark></color>\n대상의 [Combustion]과 [Vibration]의 합 6당 코인 위력 +1 (최대 3)\n[DefeatDuel] 자신의 정신력 10 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Vibration] 4 부여, [Vibration] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>이 코인 효과로 [BulletPropellant]을 소모하였다면, 피해량 +50%</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 3 증가"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쾌도난마 [快刀亂麻]",
+          "desc": "[Prey_leiheng]을 보유한 대상을 우선으로 지정\n<color=#ff6000><mark=#ff000040><b><u>속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음</u></b></mark></color>\n[WhenUse] [BattleSense]을 전부 소모. 소모한 수치가\n- 10 이상이면, 10당 공격 가중치 +1 (최대 2)\n- 25일 경우, 메인 타겟의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 5)\n[DefeatDuel] [Paralysis] 1 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않으며, <color=#ff6000><mark=#ff000040><b><u>[Combustion] 위력과 횟수, [Vibration] 위력과 횟수 부여량이 절반으로 감소</u></b></mark></color> (다른 효과로 증가되는 수치 제외)\n[EndSkill] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)\n[EndSkill] 이번 턴 종료",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 전부 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 소모한 [BulletPropellant]만큼 [Combustion] 부여, [Combustion] 횟수 증가, [Vibration] 부여, [Vibration] 횟수 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> [VibrationExplosion] 3회. 대상의 [Vibration] 횟수 3 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "초절맹호살격난참 [超絕猛虎殺擊亂斬]",
+          "desc": "[Prey_leiheng]을 보유한 대상을 우선으로 지정\n<color=#ff6000><mark=#ff000040><b><u>속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음</u></b></mark></color>\n[WhenUse] [BattleSense]을 전부 소모. 소모한 수치가\n- 10 이상이면, 10당 공격 가중치 +1 (최대 4)\n- 25 이상이면, 메인 타겟의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 6)\n- 50일 경우, 코인 위력 +1, 피해량 +50%\n[DefeatDuel] [Paralysis] 6 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않으며, <color=#ff6000><mark=#ff000040><b><u>[Combustion] 위력과 횟수, [Vibration] 위력과 횟수 부여량이 절반으로 감소</u></b></mark></color> (다른 효과로 증가되는 수치 제외)\n[EndSkill] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)\n[EndSkill] 이번 턴 종료",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 6 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 6 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> [VibrationExplosion] 5회. 대상의 [Vibration] 횟수 5 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "천퇴성도 장전",
+          "desc": "[DuelCounter]\n[DefeatDuel] [BulletPropellant] 1 감소\n[EndBattle] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 1 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 502001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "맹호표탄 지원",
+          "desc": "[EndBattle] 뇌횡에게 [BulletPropellantSpecial] 6 부여\n[EndBattle] [DisengageCombat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }
