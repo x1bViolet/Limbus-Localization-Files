@@ -244,6 +244,18 @@
     {
       "id": "mainui_settings_renderingscale_warning",
       "content": "PC 환경에서는 「고」, 모바일 환경에서는 「중」 이하의 값을 권장합니다.\n렌더링 스케일 값이 높을수록 전력 소모 증가 및 발열 현상이 유발될 수 있습니다."
+    },
+    {
+      "id": "mainui_settings_story_voice_download_title",
+      "content": "(더미)스토리 보이스"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_desc",
+      "content": "(더미)스토리 보이스 다운로드 및 삭제 어쩌구 저쩌구를 관리합니다"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_button",
+      "content": "(더미)관리"
     }
   ]
 }
