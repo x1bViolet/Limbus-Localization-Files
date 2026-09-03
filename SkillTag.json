@@ -287,6 +287,10 @@
     {
       "id": "AlwaysUseEGOPassive2010911",
       "name": "[로보토미 E.G.O::엄숙한 애도 이상 전용 상시 효과]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[상시 효과]"
     }
   ]
 }

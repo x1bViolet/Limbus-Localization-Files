@@ -247,15 +247,15 @@
     },
     {
       "id": "mainui_settings_story_voice_download_title",
-      "content": "(더미)스토리 보이스"
+      "content": "스토리 보이스"
     },
     {
       "id": "mainui_settings_story_voice_download_desc",
-      "content": "(더미)스토리 보이스 다운로드 및 삭제 어쩌구 저쩌구를 관리합니다"
+      "content": "스토리 보이스 다운로드 및 삭제를 관리합니다"
     },
     {
       "id": "mainui_settings_story_voice_download_button",
-      "content": "(더미)관리"
+      "content": "관리"
     }
   ]
 }

@@ -2067,6 +2067,14 @@
     {
       "id": "introduce_sentence_259",
       "content": "{0}의 초과 예약은 금지되어 있어서요~"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "포획"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0} 절차를 계속, 계속! 계속 수행해!!!"
     }
   ]
 }

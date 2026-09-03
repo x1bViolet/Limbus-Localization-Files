@@ -56,6 +56,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "소다",
+          "abName": "웰치어스",
+          "desc": "<style=\"highlight\">대상의 현재 체력이 최대 체력의 25% 미만이면, 피해량 +40%\n[BeforeAttack] 최대 공명수가 4 이상이면, 공격 가중치 +1\n\n[EndSkill] 다음 턴에 자신을 포함한 무작위 아군 2+ (최대 공명 수)명에게 [GainSinStockAdder] 1 부여 (최대 7명)\n[EndSkill] 공격 대상 중 흐트러짐이나 패닉 상태인 대상이 있으면, 가장 적게 보유한 E.G.O 자원 1개를 얻음. 자신의 정신력 3 회복</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration] 4 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 6 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] 현재 보유 중인 E.G.O 자원 중 무작위 속성 1개의 E.G.O 자원을 3개 얻음. 모든 아군의 정신력 3 회복<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -111,6 +132,33 @@
                 },
                 {
                   "desc": "[EndSkill] 모든 아군에게 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O 자원 획득량 +</color></link></u>1, 다음 턴에 신속 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "소다",
+          "abName": "웰치어스",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n\n<style=\"highlight\">대상의 현재 체력이 최대 체력의 25% 미만이면, 피해량 +40%\n[DefeatDuel] 기본 위력 -12\n[BeforeAttack] 최대 공명수가 4 이상이면, 공격 가중치 +1\n[EndSkill] 공격 대상 중 흐트러짐이나 패닉 상태인 대상이 있으면, 가장 적게 보유한 E.G.O 자원 1개를 얻음. 자신의 정신력 3 회복</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration] 4 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 6 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] 모든 아군에게 [GainSinStockAdder] 1, 다음 턴에 [Agility] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] 다음 턴에 모든 아군에게 [GainSinStockAdder] 1 부여 (턴 당 1회)</style>"
                 }
               ]
             }
