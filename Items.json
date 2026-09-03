@@ -502,7 +502,7 @@
       "id": 234,
       "name": "Takeoff Module - E.G.O Spinning [HE] x1",
       "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os HE Level or lower)",
-      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
+      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [HE]-level or lower E.G.O at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
     },
     {
       "id": 20024,
@@ -629,6 +629,12 @@
       "name": "Nominable Announcer Ticket [Yisang Exchange]",
       "desc": "Use this item to select and obtain an Announcer from a list of Announcers that can be acquired through Yisang Exchange on the Extraction menu.\n(※ Does not include Walpurgis Night Announcers)",
       "flavor": "Contains recordings of Announcers who relay the current battlefield status.\n\n\"Hey, so... some of these tapes are recordings of people who are already long dead. Wonder where they got these voices from?\"\n\"By capturing and trapping a few—situationally relevant, of course—voices observed from beyond the Mirror Worlds, they say.\"\n\"It's the Mirror again? Mirror this, Mirror that—might as well use the Mirror to deal with everything, this company!\"\n\"Aren't we already doing that?\"\n\"... Yeah, but... Have we thought about the consequences of using this technology...?\""
+    },
+    {
+      "id": 237,
+      "name": "Takeoff Module - E.G.O Spinning [TETH]",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os TETH Level or lower)",
+      "flavor": "The fourth E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [TETH]-level or lower E.G.O at an accelerated pace.\nClothes are assembled from fabric, and fabric is woven from threads. Those threads are themselves twisted together from still finer strands. What was the term for these repeating patterns again—a fractal? Sometimes, when I see these patterns, I get an odd sense of deja vu.\n\n<i>Something</i> is recurring."
     }
   ]
 }
