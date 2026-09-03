@@ -243,6 +243,18 @@
     {
       "id": "mainui_settings_renderingscale_warning",
       "content": "PC環境では「高」、モバイル環境では「中」以下の値を推奨します。\nレンダリングスケールの値が高くなるほど、電力消耗増加および発熱現象が誘発されることがあります。"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_title",
+      "content": "ストーリーボイス"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_desc",
+      "content": "ストーリーボイスのダウンロード・削除を管理します。"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_button",
+      "content": "管理"
     }
   ]
 }

@@ -56,6 +56,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "ソーダ",
+          "abName": "ウェルチアース",
+          "desc": "<style=\"highlight\">対象の現体力が最大値の25%未満なら、ダメージ量 +40%\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n\n[EndSkill] 次のターンに自分を含むランダムな味方2 + (最大共鳴数)名へ[GainSinStockAdder]1を付与 (最大7名)\n[EndSkill] 攻撃対象のうち、混乱状態またはパニック状態の対象がいるなら、保有量が最も少ないE.G.O資源を1つ得る。自分の精神力を3回復</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration]4を付与</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]6を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] 現在保有中のE.G.O資源のうち、ランダムな属性1つのE.G.O資源を3つ得る。全味方の精神力を3回復<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -111,6 +132,33 @@
                 },
                 {
                   "desc": "[EndSkill] 全味方に<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O資源獲得量+</color></link></u>を1付与、次のターンにクイック 1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "ソーダ",
+          "abName": "ウェルチアース",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n\n<style=\"highlight\">対象の現体力が最大値の25%未満なら、ダメージ量 +40%\n[DefeatDuel] 基本威力 -12\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[EndSkill] 攻撃対象のうち、混乱状態またはパニック状態の対象がいるなら、保有量が最も少ないE.G.O資源を1つ得る。自分の精神力を3回復</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration]4を付与</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking]6を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] 全味方へ[GainSinStockAdder]1を付与、次のターンに[Agility]1を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] 次のターンに、全味方へ[GainSinStockAdder]1を付与(1ターンにつき1回)</style>"
                 }
               ]
             }

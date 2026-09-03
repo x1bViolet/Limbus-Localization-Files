@@ -2067,6 +2067,14 @@
     {
       "id": "introduce_sentence_259",
       "content": "{0}のオーバーブッキングは禁止されていますので～。"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "捕獲"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0}手順を続行、続行！このまま続行ォ！！"
     }
   ]
 }

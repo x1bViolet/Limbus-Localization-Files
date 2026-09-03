@@ -53,6 +53,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "9章2節",
+          "abName": "皮膚の予言者",
+          "desc": "<style=\"highlight\">スキル使用時に必要な暴食E.G.O資源が1減少</style>\n[BeforeAttack] (<style=\"highlight\">最大共鳴数</style>)が4以上なら、攻撃加重値 +1\n(<style=\"highlight\">最大共鳴数</style>)が6以上なら、追加で攻撃加重値 +1\n\n<style=\"highlight\">[BeforeAttack] 円攻撃対象と自分の[Combustion]威力の合計1につき、ダメージ量 +5% (最大100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]3を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [DefenseDown]5を付与</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を[DefenseDown]1へ変換 (<style=\"highlight\">最大5, この効果で対象の[Combustion]威力が1未満にならない)\n- 対象の[Combustion]が不足している分だけ、自分の[Combustion]のうち30を超過した分を代わりに変換可能</style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -114,6 +135,33 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の[Combustion]2を防御レベル減少1へ変換 (最大10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "9章2節",
+          "abName": "皮膚の予言者",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">スキル使用時に必要な暴食E.G.O資源が1減少</style>\n[BeforeAttack] (<style=\"highlight\">最大共鳴数</style>)が4以上なら、攻撃加重値 +1\n(<style=\"highlight\">最大共鳴数</style>)が6以上なら、追加で攻撃加重値 +1\n\n<style=\"highlight\">[BeforeAttack] 円攻撃対象と自分の[Combustion]威力の合計1につき、ダメージ量 +6% (最大120%)\n[DefeatDuel] 基本威力 -10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンに[Binding]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]4を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [DefenseDown]5を付与</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]2を[DefenseDown]1へ変換 (<style=\"highlight\">最大5, この効果で対象の[Combustion]威力が1未満にならない)\n- 対象の[Combustion]が不足している分だけ、自分の[Combustion]のうち30を超過した分を代わりに変換可能</style>"
                 }
               ]
             }

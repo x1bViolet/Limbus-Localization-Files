@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "ui_settings_popup_tab_title_change_lobby_cg",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ローディングイラスト設定</font>"
+    },
+    {
+      "id": "ui_loading_cg_tab_personality",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">人格イラスト</font>"
+    },
+    {
+      "id": "ui_loading_cg_tab_story",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ストーリーイラスト</font>"
+    },
+    {
+      "id": "ui_loading_cg_selected_count",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">選択</font>"
+    },
+    {
+      "id": "ui_loading_cg_random_toggle",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ランダム指定</font>"
+    },
+    {
+      "id": "ui_loading_cg_random_warning",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ランダム設定中には、イラストを個別選択できません。</font>"
+    },
+    {
+      "id": "ui_loading_cg_max_count_warning",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">イラストは最大{0}個まで選択できます。</font>"
+    },
+    {
+      "id": "ui_loading_cg_chapter_title",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">{0}章</font>"
+    },
+    {
+      "id": "ui_loading_cg_chapter_lock",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">{0} クリアで解放</font>"
+    },
+    {
+      "id": "ui_loading_cg_cancel",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">キャンセル</font>"
+    },
+    {
+      "id": "ui_loading_cg_apply",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">変更</font>"
+    },
+    {
+      "id": "ui_loading_cg_random_confirm",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">選択されたイラストがありません。\nイラストの選択をやめて、\nローディングイラストをランダム指定にしますか？</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_01",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ローディングイラスト変更</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_02",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">シーンのローディング中に表示されるイラストを人格イラスト、ストーリーCGの中から選択して変更できます。</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_03",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">フィルター</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_04",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">特定キーワードを選択肢、お好みのイラストのみ表示されるよう設定できます。</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_05",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">選択したイラストを確認</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_06",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">現在選択したイラストの一覧を確認できます。イラストは最大10枚まで選択できます。</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_07",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">イラストランダム指定</font>"
+    },
+    {
+      "id": "tutorial_loading_cg_08",
+      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">ランダム指定機能をONにすると、保有しているイラストからランダムに選択されてローディング画面に表示されます。</font>"
+    }
+  ]
+}
