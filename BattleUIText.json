@@ -873,6 +873,10 @@
     {
       "id": "contMineInfo_Desc_Invalid_Reward",
       "content": "※ 스테이지 포기 시 모듈 소모·보상 획득 없음"
+    },
+    {
+      "id": "battle_operation_player_support",
+      "content": "서포트"
     }
   ]
 }

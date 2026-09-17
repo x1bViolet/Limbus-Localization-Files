@@ -271,6 +271,14 @@
     {
       "id": "boss_raid_limited_coin_converted",
       "content": "이벤트 기간이 종료되어, 사용하지 않은 {0} {1}개가 {2} {3}개로 변환되었습니다."
+    },
+    {
+      "id": "boss_raid_ui_max_level_adjusted",
+      "content": "초과 레벨이 {0}으로 조정되었습니다."
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_desc_with_max_level_adjust",
+      "content": "- 인격 : 동기화 <color=#ff0000>{1}단계</color>·레벨 <color=#ff0000>{0}</color>\n(최대 레벨 <color=#ff0000>{2}</color>)\n- E.G.O : 환상 해석 <color=#ff0000>{1}단계</color>"
     }
   ]
 }

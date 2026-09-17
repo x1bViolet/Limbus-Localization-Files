@@ -197,10 +197,6 @@
       "name": "[합 가능 반격]"
     },
     {
-      "id": "CantBreak",
-      "name": "[파괴 불가 코인]"
-    },
-    {
       "id": "DuelGuard",
       "name": "[합 가능 가드]"
     },

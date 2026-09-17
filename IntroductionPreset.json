@@ -2075,6 +2075,22 @@
     {
       "id": "introduce_sentence_260",
       "content": "{0} 절차를 계속, 계속! 계속 수행해!!!"
+    },
+    {
+      "id": "introduce_word_261",
+      "content": "르누아르"
+    },
+    {
+      "id": "introduce_sentence_261",
+      "content": "{0}의 미학은 절제에서 시작된다."
+    },
+    {
+      "id": "introduce_word_262",
+      "content": "르루주"
+    },
+    {
+      "id": "introduce_sentence_262",
+      "content": "더 많은 고객들이 {0}의 패션에 열광하도록!"
     }
   ]
 }

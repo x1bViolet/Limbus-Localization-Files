@@ -129,6 +129,10 @@
       "content": "스킵 하시겠습니까?"
     },
     {
+      "id": "mainui_story_continue_next_desc",
+      "content": "다음 화를 이어보시겠습니까?\n(초회 보상이 있다면 수령후 이어봄)"
+    },
+    {
       "id": "mainui_battleresult_reward",
       "content": "보상"
     },
@@ -2055,6 +2059,30 @@
     {
       "id": "formation_announcer_reset_desc",
       "content": "{0}을(를) 초기화하시겠습니까?"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_title",
+      "content": "경험치 채광-10 (참격)"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_open_day",
+      "content": "경험치 채광 10단계 (참격) 스테이지는 월요일, 화요일, 일요일에 개방됩니다."
+    },
+    {
+      "id": "mainui_exp_dungeon_17_title",
+      "content": "경험치 채광-10 (관통)"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_open_day",
+      "content": "경험치 채광 10단계 (관통) 스테이지는 수요일, 목요일, 일요일에 개방됩니다."
+    },
+    {
+      "id": "mainui_exp_dungeon_18_title",
+      "content": "경험치 채광-10 (타격)"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_open_day",
+      "content": "경험치 채광 10단계 (타격) 스테이지는 금요일, 토요일, 일요일에 개방됩니다."
     }
   ]
 }

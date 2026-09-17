@@ -138,7 +138,7 @@
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</style> 패키지"
+      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</font> 패키지"
     },
     {
       "id": "battlepass_package_desc_level",
@@ -218,7 +218,7 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "패스 레벨 초과 보상으로 획득할 수 있는 시즌 7 자아 파편 선택 상자의 수량이 <style=\"highlightConverted\">{0}</style>개에서 <style=\"highlightConverted\">{1}</style>개로 증가"
+      "content": "패스 레벨 초과 보상으로 획득할 수 있는 시즌 8 자아 파편 선택 상자의 수량이 <style=\"highlightConverted\">{0}</style>개에서 <style=\"highlightConverted\">{1}</style>개로 증가"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",

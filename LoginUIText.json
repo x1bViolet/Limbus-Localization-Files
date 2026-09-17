@@ -89,6 +89,10 @@
       "content": "서버 에러가 발생하였습니다.\n잠시 후에 다시 시도해 주세요."
     },
     {
+      "id": "serverstate_server_busy",
+      "content": "서버가 혼잡합니다.\n잠시 후에 다시 시도해 주세요."
+    },
+    {
       "id": "forcequit_content",
       "content": "게임을 진행할 수 없습니다.\n게임이 종료됩니다."
     },

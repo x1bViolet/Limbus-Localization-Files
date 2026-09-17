@@ -3418,6 +3418,379 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "불결하군",
+          "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 10 미만이면, 자신의 [ChargeNoirAlly] 횟수 1 증가\n[WhenUse] [RealisationAlly] 최대 15 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "불결하군",
+          "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 10 미만이면, 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">2</style> 증가\n[WhenUse] [RealisationAlly] 최대 15 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "불결하군",
+          "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 <style=\"highlight\">12</style> 미만이면, 자신의 [ChargeNoirAlly] 횟수 2 증가\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]가 50 이상이면,\n합 위력 +1, 피해량 +30%</style>\n[WhenUse] [RealisationAlly] 최대 15 소모\n<style=\"highlight\">- 최종 위력 +1</style>\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "와서 시착해봐라",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면, 6 소모하여 합 위력 +1, 피해량 +10%\n- 자신의 [ChargeNoirAlly] 횟수 2 증가\n[WhenUse] [RealisationAlly] 최대 20 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력+1)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 4)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "와서 시착해봐라",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면, 6 소모하여 합 위력 +1, 피해량 +10%\n- 자신의 [ChargeNoirAlly] 횟수 2 증가\n[WhenUse] [RealisationAlly] 최대 20 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력+1)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 <style=\"highlight\">6</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "와서 시착해봐라",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면,\n6 소모하여 <style=\"highlight\">최종 위력 +1</style>, 피해량 <style=\"highlight\">+20%</style>\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]가 50 이상이면, 피해량 +15%</style>\n[WhenUse] [RealisationAlly] 최대 20 소모\n<style=\"highlight\">- 최종 위력 +1</style>\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력 + <style=\"highlight\">3</style>)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 6)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "트리플 스탬피드 스티칭",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 10 이상이면, 최대 20까지 소모하여\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 3 증가\n[WhenUse] [NoirSuitAlly] 40당, 합 위력 +1, 피해량 +10% (각각 최대 2, 최대 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "피해량 +([NoirSuitAlly] 수치/2)% (최대 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "트리플 스탬피드 스티칭",
+          "desc": "<style=\"highlight\">[StartBattle] [NoirSuitAlly] 20 얻음 (턴당 1회)</style>\n[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 10 이상이면, 최대 20까지 소모하여\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가\n[WhenUse] [NoirSuitAlly] <style=\"highlight\">30</style>당, 합 위력 +1, 피해량 <style=\"highlight\">+20%</style> <style=\"highlight\">(각각 최대 3, 최대 60%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여, [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "피해량 +(<style=\"highlight\">[NoirSuitAlly] 수치</style>)% (최대 <style=\"highlight\">100%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion] <style=\"highlight\">2회</style>. 대상의 [Vibration] 횟수 <style=\"highlight\">2</style> 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면, 해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면, 해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여 (턴당 2회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면,\n해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면,\n해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n<style=\"highlight\">[BeforeUse] 자신의 [RealisationAlly]가 60 이상이면,\n‘원 킥 - 쿠튀르 뮐티플’로 발동됨 (턴당 1회)\n- 이 효과가 발동했으면, 공격 종료 시 [RealisationAlly] 전부 소모</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여 (턴당 2회)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면,\n해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면,\n해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n[BeforeUse] 자신의 [RealisationAlly]가 60 이상이면,\n‘원 킥 - 쿠튀르 뮐티플’로 발동됨 (턴당 1회)\n- 이 효과가 발동했으면, 공격 종료 시 [RealisationAlly] 전부 소모\n<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3/5 이상이면, 코인 위력 +1/+2</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여 (턴당 2회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "원 킥 - 쿠튀르 뮐티플",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수를 최대 20까지 소모하여,\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 3 증가\n[WhenUse] [RealisationAlly] 최대 60 소모\n- 소모한 [RealisationAlly]가 60 이상이면, 최종 위력 +1\n- 피해량 +(소모한 [RealisationAlly]/3)% (최대 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 2 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "원 킥 - 쿠튀르 뮐티플",
+          "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수를 최대 20까지 소모하여,\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가\n[WhenUse] [RealisationAlly] 최대 60 소모\n- 소모한 [RealisationAlly] <style=\"highlight\">30당</style>, 최종 위력 +1 <style=\"highlight\">(최대 2)</style>\n- 피해량 +(소모한 [RealisationAlly]/3)% (최대 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면,\n[VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 2 이상이면,\n[VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 <style=\"highlight\">15%</style>만큼 관통 피해"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

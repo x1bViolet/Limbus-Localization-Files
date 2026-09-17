@@ -2772,6 +2772,331 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "아아 당신한테는 들리지 않나보죠?",
+          "desc": "[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "아아 당신한테는 들리지 않나보죠?",
+          "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly]이 2 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "아아 당신한테는 들리지 않나보죠?",
+          "desc": "자신의 [ChargeRougeAlly]이 2 이상이면, 코인 위력 +1\n[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 <style=\"highlight\">5</style> 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 3당 합 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 2)%만큼 체력 회복 (최대 10%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+          "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly] 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 3 x (10 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +20%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [ChargeRougeAlly]이 3 이상이면, 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)</style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x <style=\"highlight\">3</style>)%만큼 체력 회복 (최대 <style=\"highlight\">15%</style>)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+          "desc": "자신의 [ChargeRougeAlly] 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 3 x (10 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +<style=\"highlight\">40%</style>\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly]이 <style=\"highlight\">2</style> 이상이면, 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 3)%만큼 체력 회복 (최대 15%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "긁어내고, 뜯어내고, 못 박으라!",
+          "desc": "자신의 [ChargeRougeAlly] 1당 피해량 +5% (최대 25%)\n[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이거나 자신에게 [RougeIshmaelEclose]이 있으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 15 미만이면, 최대 체력의 3 x (15 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 15로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 15 소모하여 코인 위력 +3\n[WhenUse] 대상의 [Laceration] 6당 코인 위력 +1 (최대 2)\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +40%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (자신의 [ChargeRougeAlly] 위력 x 10)% 만큼 색욕 피해 (최대 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 4)%만큼 체력 회복 (최대 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "긁어내고, 뜯어내고, 못 박으라!",
+          "desc": "자신의 [ChargeRougeAlly] 1당 피해량 +<style=\"highlight\">10%</style> (최대 <style=\"highlight\">50%</style>)\n[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이거나 자신에게 [RougeIshmaelEclose]이 있으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 15 미만이면, 최대 체력의 3 x (15 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 15로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 15 소모하여 코인 위력 +3\n[WhenUse] 대상의 [Laceration] 6당 코인 위력 +1 (최대 2)\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +40%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (자신의 [ChargeRougeAlly] 위력 x 10)% 만큼 색욕 피해 (최대 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 4)%만큼 체력 회복 (최대 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "역시.. 이 세상에 의미는 있던 거죠?",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 현재 체력이 최대 체력의 10% 이하면, [RougeIshmaelCocoon] 2를 얻고 [RougeIshmaelCocoon] 상태가 됨 (전투당 1회)\n[StartBattle] 자신에게 [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모하고 다음 턴에 이 슬롯의 [Aggro] 10 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "역시.. 이 세상에 의미는 있던 거죠?",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 현재 체력이 최대 체력의 10% 이하면, [RougeIshmaelCocoon] 2를 얻고 [RougeIshmaelCocoon] 상태가 됨 (전투당 1회)\n[StartBattle] 자신에게 [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모하고 다음 턴에 이 슬롯의 [Aggro] 10 증가 (턴당 1회)\n<style=\"highlight\">[WhenUse] 자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)\n[WhenUse] 대상의 [Laceration] 4당 피해량 +10% (최대 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 최대 체력의 10%만큼 체력 회복 (턴당 1회)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "목소리에 따라 기꺼이 나의 안으로",
+          "desc": "[RougeIshmaelCocoon] 전용 스킬\n[CanDuelGuard]\n[StartBattle] 자신의 [ChargeRougeAlly] 횟수가 10 이상이면, 10 소모하여 다음 턴에 편성 순서가 가장 빠른 아군 2명에게 [ResultEnhancement] 1 부여 (턴당 1회)\n[StartBattle] 자신의 최대 체력의 50%만큼 체력 회복 (턴당 1회)\n[WinDuel] 자신의 [ChargeRougeAlly] 횟수 5 증가 (턴당 4회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "목소리에 따라 기꺼이 나의 안으로",
+          "desc": "[RougeIshmaelCocoon] 전용 스킬\n[CanDuelGuard]\n[StartBattle] 자신의 [ChargeRougeAlly] 횟수가 10 이상이면, 10 소모하여 다음 턴에 편성 순서가 가장 빠른 아군 2명에게 [ResultEnhancement] 1 부여 (턴당 1회)\n<style=\"highlight\">- 대상이 르루주 소속이면, 다음 턴에 자신의 [ChargeRougeAlly] 횟수가 5 증가하고, 대상에게 [AttackDmgUp] 1 추가 부여</style>\n[StartBattle] 자신의 최대 체력의 <style=\"highlight\">100%</style>만큼 체력 회복 (턴당 1회)\n<style=\"highlight\">[WinDuel] 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 1개 제거 (턴당 1회)</style>\n[WinDuel] 자신의 [ChargeRougeAlly] 횟수 5 증가 (턴당 4회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
