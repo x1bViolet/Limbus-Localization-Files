@@ -123,12 +123,12 @@
     {
       "id": "battle_awaken_21210_1",
       "desc": "E.G.O Activation",
-      "dlg": "... Hah! Clawed out a real catch!\nNow, any tourists who refuse to cooperate... will be processed under Rule A62GBFE1!"
+      "dlg": "... Hah! Clawed out a real catch! Now, any tourists who refuse to cooperate...\nwill be processed under Rule A62GBFE1!"
     },
     {
       "id": "battle_erosion_21210_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Calling Administrator... FAILED, FAILED. Rebooting... DENIED, DENIED!\nCapture Protocol... CONTINUE, CONTINUE! CONTINUE EXECUTION!!"
+      "dlg": "Calling Administrator... FAILED, FAILED. Rebooting... DENIED, DENIED!\nCapture Protocol... CONTINUE, CONTINUE! CONTINUE PROTOCOL EXECUTION!!"
     }
   ]
 }
