@@ -89,12 +89,16 @@
       "content": "サーバーエラーが発生しました。\nしばらくしてからやり直してください。"
     },
     {
+      "id": "serverstate_server_busy",
+      "content": "サーバーが混雑しています。\nしばらくしてからやり直してください。"
+    },
+    {
       "id": "forcequit_content",
       "content": "ゲームを進行することが出来ません。\nゲームが終了します。"
     },
     {
       "id": "serverstate_openpreparation",
-      "content": "準備中です。"
+      "content": "オープン準備中です。"
     },
     {
       "id": "serverstate_regularcheck",
@@ -122,7 +126,7 @@
     },
     {
       "id": "secession_remain_days",
-      "content": "該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n\nログイン時、アカウントが復旧されます。\nアカウント復旧を進行しますか？"
+      "content": "当該アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n\nログイン時、アカウントが復旧されます。\nアカウント復旧を進行しますか？"
     },
     {
       "id": "secession_canceled",
@@ -218,7 +222,7 @@
     },
     {
       "id": "push_notification_message_full_stamina_1_text",
-      "content": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…要件は以上なり。"
+      "content": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…用件は以上なり。"
     },
     {
       "id": "push_notification_message_full_stamina_2_title",
@@ -274,7 +278,7 @@
     },
     {
       "id": "push_notification_message_full_stamina_8_text",
-      "content": "エンケファリン充填完了…。ふむ、またバスを動かせられそうですね。早く行きましょう。"
+      "content": "エンケファリン充填完了…。ふむ、またバスを動かせそうですね。早く行きましょう。"
     },
     {
       "id": "push_notification_message_full_stamina_9_title",
@@ -354,7 +358,7 @@
     },
     {
       "id": "invalid_login_is_not_guest",
-      "content": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を推して連携されたプラットフォームからログインしてください。"
+      "content": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を押して連携されたプラットフォームからログインしてください。"
     },
     {
       "id": "try_new_guest",

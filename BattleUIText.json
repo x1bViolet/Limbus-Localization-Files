@@ -871,6 +871,10 @@
     {
       "id": "contMineInfo_Desc_Invalid_Reward",
       "content": "※ステージギブアップ時、モジュール消耗・報酬獲得なし"
+    },
+    {
+      "id": "battle_operation_player_support",
+      "content": "サポート"
     }
   ]
 }

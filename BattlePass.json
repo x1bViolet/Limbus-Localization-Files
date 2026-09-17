@@ -138,7 +138,7 @@
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</style>パッケージ"
+      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</font>パッケージ"
     },
     {
       "id": "battlepass_package_desc_level",
@@ -218,7 +218,7 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "パスレベル超過報酬で獲得できるシーズン7自我の破片セレクトボックスの数量が<style=\"highlightConverted\">{0}</style>個から<style=\"highlightConverted\">{1}</style>個に増加"
+      "content": "パスレベル超過報酬で獲得できるシーズン8自我の破片セレクトボックスの数量が<style=\"highlightConverted\">{0}</style>個から<style=\"highlightConverted\">{1}</style>個に増加"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",

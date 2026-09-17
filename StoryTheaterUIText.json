@@ -347,6 +347,14 @@
     {
       "id": "OtherStoryOpenCondition_9127",
       "content": "9.5-15ステージクリア"
+    },
+    {
+      "id": "MainStoryOpenCondition_110",
+      "content": "10-1ステージクリア"
+    },
+    {
+      "id": "A",
+      "content": "A"
     }
   ]
 }
