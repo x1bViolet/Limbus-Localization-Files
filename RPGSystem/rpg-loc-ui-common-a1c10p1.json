@@ -2,7 +2,7 @@
   "dataList": [
     {
       "key": "ReturnToMainUiScene",
-      "text": "Save your progress and\nreturn to the Main Menu?"
+      "text": "Return to the Window?\n<color=#ff0000>Recent progress may be lost.</color>\n\n※ The game saves at the following points: Quest finished / Floor or Area transition.\nPlease verify your last savepoint before exiting to the Window."
     },
     {
       "key": "AskToMoveFloor",
