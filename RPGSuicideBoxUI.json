@@ -6,7 +6,7 @@
     },
     {
       "id": "rpg_suicidebox_reset_confirm_desc",
-      "content": "在庫整理を行いますか？\n\n選択すると、進行中の周回の記録が初期化されて\n復元できなくなります。"
+      "content": "在庫整理を行いますか？\n\n選択すると、進行中の周回の記録が初期化されて\n復元できなくなります。\n※進行中に得られなかったアイテムは\n今後のプレイにて獲得できます。\n※在庫整理を行わずとも、アイテムは全て獲得できます。"
     },
     {
       "id": "rpg_suicidebox_hardreset_button_text",
@@ -46,7 +46,7 @@
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_b",
-      "content": "- 人格 : 同期化4段階\n- E.G.O : 幻想解析4段階"
+      "content": "- 人格 : 同期化4段階"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_b",
@@ -54,7 +54,7 @@
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_c",
-      "content": "- 人格 : 同期化4段階\n- E.G.O : 幻想解析4段階"
+      "content": "- 人格 : 同期化4段階"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_c",

@@ -40,7 +40,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5、1ターンにつき1回、小数点以下切り捨て)"
+                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点以下切り捨て)"
                 }
               ]
             }
@@ -68,7 +68,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値だけ対象に[Laceration]回数を付与 (最大8、1ターンにつき1回)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値だけ対象に[Laceration]回数を付与 (最大8, 1ターンにつき1回)"
                 }
               ]
             },
@@ -139,7 +139,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5、1ターンにつき1回、小数点以下切り捨て)"
+                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点以下切り捨て)"
                 }
               ]
             }
@@ -167,7 +167,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値だけ対象に[Laceration]回数を付与 (最大8、1ターンにつき1回)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値だけ対象に[Laceration]回数を付与 (最大8, 1ターンにつき1回)"
                 }
               ]
             },
@@ -588,7 +588,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインを1回再使用 (スキルにつき1回)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインを1回再使用 (スキルごとに1回)"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Laceration]威力だけ貫通ダメージ (最大30)"
@@ -681,7 +681,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインを1回再使用 (スキルにつき1回)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインを1回再使用 (スキルごとに1回)"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Laceration]威力だけ貫通ダメージ (最大30)"

@@ -13,6 +13,14 @@
       "text": "どの階へ移動しよう？"
     },
     {
+      "key": "FloorMoveUnboughtConfirmDesc",
+      "text": "この階には、まだ購入していない\nアイテムが残っています。\n別の階に移動しますか？"
+    },
+    {
+      "key": "FloorMoveUnboughtDontShowAgain",
+      "text": "このポップアップを再表示しない"
+    },
+    {
       "key": "DialogueSkipConfirmDesc",
       "text": "ストーリーをスキップしますか？"
     },
@@ -185,10 +193,6 @@
       "text": "目標進行度: {0}"
     },
     {
-      "key": "Log_PlayerHit",
-      "text": "被撃：{0}"
-    },
-    {
       "key": "Log_BattleResultSync",
       "text": "戦闘結果反映({0}): HP {1}/{2}, MP {3}/{4}"
     },
@@ -214,19 +218,7 @@
     },
     {
       "key": "Log_NpcDefeated",
-      "text": "{0}を撃破 (ダメージ{1})"
-    },
-    {
-      "key": "Log_NpcDefeatedWeakness",
-      "text": "{0}を撃破 (弱点攻撃ダメージ{1})"
-    },
-    {
-      "key": "Log_DamageDealt",
-      "text": "{0}にダメージ {1}"
-    },
-    {
-      "key": "Log_DamageDealtWeakness",
-      "text": "{0}に弱点攻撃ダメージ {1}"
+      "text": "{0}を撃破"
     },
     {
       "key": "Log_PlayerDead",
@@ -266,7 +258,7 @@
     },
     {
       "key": "ProgressPopup_Suicide",
-      "text": "ガントレットで\n自殺する"
+      "text": "泉へ\n戻る"
     },
     {
       "key": "ProgressPopup_EnemyAttackIndication",
@@ -286,7 +278,7 @@
     },
     {
       "key": "RestorePopup_Checking",
-      "text": "確認中…"
+      "text": "確認中…。"
     },
     {
       "key": "RestorePopup_FoundNoQuest",
@@ -326,7 +318,7 @@
     },
     {
       "key": "RestorePopup_Running",
-      "text": "復元中です…"
+      "text": "復元中です…。"
     },
     {
       "key": "RestorePopup_NeedRestart",
@@ -349,6 +341,14 @@
       "text": "すべてのログ"
     },
     {
+      "key": "LogPopup_Tab_Story",
+      "text": "ストーリーログ"
+    },
+    {
+      "key": "LogPopup_Tab_System",
+      "text": "システムログ"
+    },
+    {
       "key": "Setting_Tab_Sisyphus",
       "text": "シーシュポス"
     },
@@ -365,6 +365,46 @@
       "text": "死亡シーンの規制"
     },
     {
+      "key": "Setting_Sisyphus_LightMode",
+      "text": "ライトモード"
+    },
+    {
+      "key": "Setting_Sisyphus_Brightness",
+      "text": "明るさ調整"
+    },
+    {
+      "key": "Setting_Sisyphus_BrightnessCeiling",
+      "text": "明るさの上限"
+    },
+    {
+      "key": "Setting_Sisyphus_MoveAssist",
+      "text": "移動方向の補正"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelay",
+      "text": "ダッシュ制限時間"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadWalkStart",
+      "text": "歩行開始半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunKeep",
+      "text": "ダッシュ維持半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunStart",
+      "text": "ダッシュ開始半径"
+    },
+    {
+      "key": "Setting_Sisyphus_TurnAssist",
+      "text": "移動中の方向転換補助"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelayValue",
+      "text": "{0}秒"
+    },
+    {
       "key": "Setting_Sisyphus_Move",
       "text": "移動"
     },
@@ -378,7 +418,7 @@
     },
     {
       "key": "Setting_Sisyphus_GauntletSuicide",
-      "text": "ガントレットで自殺する"
+      "text": "泉へ戻る"
     },
     {
       "key": "Setting_Sisyphus_Attack",

@@ -1399,6 +1399,14 @@
     {
       "id": "10816_getCondition_gacksung",
       "content": "オートクチュール::ル・ルージュ ブティーク イシュメール 同期化3段階達成"
+    },
+    {
+      "id": "10917_getCondition_normal",
+      "content": "オートクチュール::お直し室 ロージャ獲得時"
+    },
+    {
+      "id": "10917_getCondition_gacksung",
+      "content": "オートクチュール::お直し室 ロージャ 同期化3段階達成"
     }
   ]
 }

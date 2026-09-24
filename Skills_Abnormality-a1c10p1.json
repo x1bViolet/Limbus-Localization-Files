@@ -298,7 +298,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインの最終ダメージ量だけ、自分の体力を回復 (スキルにつき最大100)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] このコインの最終ダメージ量だけ、自分の体力を回復 (スキルごとに最大100)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の[ChargeRouge]回数3を消耗し、このコインを再使用 (最大3回)"
@@ -762,7 +762,7 @@
         {
           "level": 1,
           "name": "案内放送",
-          "desc": "マッチ可能な守備スキルとマッチする場合、マッチ威力 +20\nこのスキルは対象の守備スキルを発動させない\nこのスキルで与えるダメージ量が0に固定される\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] 対象に[Wariness]10を付与</u></b></mark></color>",
+          "desc": "マッチ可能守備スキルとマッチする場合、マッチ威力 +20\nこのスキルは対象の守備スキルを発動させない\nこのスキルでの与ダメージ量が0に固定される\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] 対象に[Wariness]10を付与</u></b></mark></color>",
           "flavor": "聞け…声を聞け…。",
           "coinlist": [
             {
@@ -807,7 +807,7 @@
         {
           "level": 1,
           "name": "聞いてくれて…ありがとう…。",
-          "desc": "[CantChangeTarget]\n- 指定された囚人と[ReliefSense]の数値が同じ囚人の場合、速度に関係なく対象を変更可能\n[ReliefSense]が最も高い対象を優先してターゲットにする\n[DefeatDuel] このスキルとマッチしたスキルから受けるダメージ量 +150%\n[EndSkill] 対象の[ReliefSense]を全て除去",
+          "desc": "[CantChangeTarget]\n- 指定された囚人と[ReliefSense]の数値が同じ囚人の場合、速度に関係なく対象を変更可能\n[ReliefSense]が最も高い対象を優先してターゲットにする\n[DefeatDuel] このスキルとマッチしたスキルからの被ダメージ量 +150%\n[EndSkill] 対象の[ReliefSense]を全て除去",
           "flavor": "魅惑には様々な種類がある。結果も、過程も異なる。だが、魅惑された状態は等しい。心が開かれ、無防備になるということ。",
           "coinlist": [
             {
@@ -1172,10 +1172,10 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>自分の[RougeThreeCocoonHit]が10以上なら、このコインを再使用 (スキルにつき1回)</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>自分の[RougeThreeCocoonHit]が10以上なら、このコインを再使用 (スキルごとに1回)</u></b></mark></color>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>自分の[RougeThreeCocoonHit]が20以上なら、このコインを再使用 (スキルにつき1回)</u></b></mark></color>"
+                  "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>自分の[RougeThreeCocoonHit]が20以上なら、このコインを再使用 (スキルごとに1回)</u></b></mark></color>"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] [ChargeRouge]回数1を得る"
@@ -1740,7 +1740,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NiddlePinned]状態の対象へ与えるダメージ量 +100%"
+                  "desc": "[OnSucceedAttack] [NiddlePinned]状態の対象への与ダメージ量 +100%"
                 }
               ]
             }
@@ -1810,7 +1810,7 @@
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>対象が[NiddlePinned]状態なら、体力最大値の99%だけ固定ダメージ</u></b></mark></color>"
                 },
                 {
-                  "desc": "[EnemyKill] 自分の体力最大値の5%だけ体力を回復"
+                  "desc": "[EnemyKill] 自分の体力を最大値の5%だけ回復"
                 }
               ]
             }

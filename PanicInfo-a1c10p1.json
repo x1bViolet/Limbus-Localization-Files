@@ -9,8 +9,8 @@
     {
       "id": 1099,
       "panicName": "殻の中へ…",
-      "lowMoraleDescription": "速度最大値 -1、防御レベル +1",
-      "panicDescription": "速度最大値 -5、防御レベル +3"
+      "lowMoraleDescription": "速度最大値 -1, 防御レベル +1",
+      "panicDescription": "速度最大値 -5, 防御レベル +3"
     },
     {
       "id": 1102,
@@ -29,12 +29,6 @@
       "panicName": "もつれた縫製",
       "lowMoraleDescription": "ターン開始時、[Reduction]1を得る",
       "panicDescription": "ターン開始時、[Reduction]1, [AttackDmgDown]1を得る"
-    },
-    {
-      "id": 1109,
-      "panicName": "繰り返される死",
-      "lowMoraleDescription": "[Protection]3を得る",
-      "panicDescription": "[Protection]5を得る"
     },
     {
       "id": 1121,

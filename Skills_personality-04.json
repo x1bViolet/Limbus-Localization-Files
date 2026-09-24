@@ -3425,7 +3425,7 @@
         {
           "level": 1,
           "name": "不潔だな",
-          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3、[ChargeNoirAlly]回数が\n12以上なら、[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が10未満なら、\n自分の[ChargeNoirAlly]回数が1増加\n[WhenUse] [RealisationAlly]を最大15消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
+          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3, [ChargeNoirAlly]回数が\n12以上なら、[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が10未満なら、\n自分の[ChargeNoirAlly]回数が1増加\n[WhenUse] [RealisationAlly]を最大15消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3446,7 +3446,7 @@
         {
           "level": 2,
           "name": "不潔だな",
-          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3、[ChargeNoirAlly]回数が12以上なら、\n[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が10未満なら、自分の[ChargeNoirAlly]回数が<style=\"highlight\">2</style>増加\n[WhenUse] [RealisationAlly]を最大15消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
+          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3, [ChargeNoirAlly]回数が12以上なら、\n[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が10未満なら、自分の[ChargeNoirAlly]回数が<style=\"highlight\">2</style>増加\n[WhenUse] [RealisationAlly]を最大15消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3467,7 +3467,7 @@
         {
           "level": 4,
           "name": "不潔だな",
-          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3、[ChargeNoirAlly]回数が12以上なら、\n[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">12</style>未満なら、自分の[ChargeNoirAlly]回数が2増加\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]が50以上なら、\nマッチ威力 +1、ダメージ量 +30%</style>\n[WhenUse] [RealisationAlly]を最大15消耗\n<style=\"highlight\">- 最終威力 +1</style>\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
+          "desc": "[StartBattle] 自分の[ChargeNoirAlly]威力が3, [ChargeNoirAlly]回数が12以上なら、\n[ChargeNoirAlly]回数を6消耗して体力最大値の5%だけバリアを得る (1ターンにつき2回)\n[WhenUse] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">12</style>未満なら、自分の[ChargeNoirAlly]回数が2増加\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]が50以上なら、\nマッチ威力 +1, ダメージ量 +30%</style>\n[WhenUse] [RealisationAlly]を最大15消耗\n<style=\"highlight\">- 最終威力 +1</style>\n- ダメージ量 +(消耗した[RealisationAlly] × 3)% (最大45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3493,7 +3493,7 @@
         {
           "level": 1,
           "name": "来て試着してみろ",
-          "desc": "[WhenUse]\n- 自分の[ChargeNoirAlly]回数が12以上なら、6消耗してマッチ威力 +1、ダメージ量 +10%\n- 自分の[ChargeNoirAlly]回数が2増加\n[WhenUse] [RealisationAlly]を最大20消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly])% (最大20%)",
+          "desc": "[WhenUse]\n- 自分の[ChargeNoirAlly]回数が12以上なら、6消耗してマッチ威力 +1, ダメージ量 +10%\n- 自分の[ChargeNoirAlly]回数が2増加\n[WhenUse] [RealisationAlly]を最大20消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly])% (最大20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3515,7 +3515,7 @@
         {
           "level": 2,
           "name": "来て試着してみろ",
-          "desc": "[WhenUse]\n- 自分の[ChargeNoirAlly]回数が12以上なら、\n6消耗してマッチ威力 +1、ダメージ量 +10%\n- 自分の[ChargeNoirAlly]回数が2増加\n[WhenUse] [RealisationAlly]を最大20消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly])% (最大20%)<style=\"highlight\"></style>",
+          "desc": "[WhenUse]\n- 自分の[ChargeNoirAlly]回数が12以上なら、\n6消耗してマッチ威力 +1, ダメージ量 +10%\n- 自分の[ChargeNoirAlly]回数が2増加\n[WhenUse] [RealisationAlly]を最大20消耗\n- マッチ威力 +1\n- ダメージ量 +(消耗した[RealisationAlly])% (最大20%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3610,7 +3610,7 @@
         {
           "level": 4,
           "name": "トリプル・スタンピード・ステッチング",
-          "desc": "<style=\"highlight\">[StartBattle] [NoirSuitAlly]20を得る (1ターンにつき1回)</style>\n[WhenUse]\n- 自分の[ChargeNoirAlly]回数が10以上なら最大20まで消耗し、\nダメージ量 +(消耗した[ChargeNoirAlly]回数)% (最大20%)\n- 自分の[ChargeNoirAlly]回数が<style=\"highlight\">5</style>増加\n[WhenUse] [NoirSuitAlly]<style=\"highlight\">30</style>につき、マッチ威力 +1、ダメージ量 <style=\"highlight\">+20%</style> <style=\"highlight\">(それぞれ最大3, 最大60%)</style>",
+          "desc": "<style=\"highlight\">[StartBattle] [NoirSuitAlly]20を得る (1ターンにつき1回)</style>\n[WhenUse]\n- 自分の[ChargeNoirAlly]回数が10以上なら最大20まで消耗し、\nダメージ量 +(消耗した[ChargeNoirAlly]回数)% (最大20%)\n- 自分の[ChargeNoirAlly]回数が<style=\"highlight\">5</style>増加\n[WhenUse] [NoirSuitAlly]<style=\"highlight\">30</style>につき、マッチ威力 +1, ダメージ量 <style=\"highlight\">+20%</style> <style=\"highlight\">(それぞれ最大3, 最大60%)</style>",
           "coinlist": [
             {
               "coindescs": [

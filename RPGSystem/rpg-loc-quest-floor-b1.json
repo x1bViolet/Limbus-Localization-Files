@@ -109,7 +109,6 @@
     {
       "key": "Q-1010",
       "title": "エスカレーターを作動させる",
-      "description": "未使用",
       "steps": [
         {
           "index": 0,
@@ -120,7 +119,6 @@
     {
       "key": "Q-1011",
       "title": "エスカレーターで下りる",
-      "description": "未使用",
       "steps": [
         {
           "index": 0,

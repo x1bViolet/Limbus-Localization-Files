@@ -9,7 +9,7 @@
     {
       "id": 146502,
       "name": "顧客案内",
-      "desc": "対象の[NoirNoComply]1につき、対象へ与えるダメージ量と対象から受けるダメージ量 +10%\n[NoirNoComply]が3の対象への与ダメージ量 +200%",
+      "desc": "対象の[NoirNoComply]1につき、対象への被・与ダメージ量  +10%\n[NoirNoComply]が3の対象への与ダメージ量 +200%",
       "flavor": "ル・ノワールでは、本社の厳格な管理マニュアルに則ってお客様に対応しております。"
     },
     {
@@ -26,7 +26,7 @@
     {
       "id": 149401,
       "name": "ル・ルージュ ジャケット",
-      "desc": "ターン終了時、[ChargeRouge]回数を最大10まで獲得または失う\n\n自分の被撃時、攻撃者が[Charge]を得るスキルを使用していれば、[Charge]回数1を攻撃者に移す (攻撃者のスキルごとに1回)\n当該効果が発動するたびに[AttackUp]1を得る\nターン開始時、自分の[ChargeRouge]回数の15を超過する分を最大5まで消耗し、体力最大値の(消耗値)%を回復"
+      "desc": "ターン終了時、[ChargeRouge]回数を最大10まで獲得または失う\n\n自分の被撃時、攻撃者が[Charge]を得るスキルを使用していれば、[Charge]回数1を攻撃者に移す (攻撃者のスキルごとに1回)\n当該効果が発動するたびに[AttackUp]1を得る\nターン開始時、自分の[ChargeRouge]回数の15を超過する分を最大5まで消耗し、体力を最大値の(消耗値)%回復"
     },
     {
       "id": 149402,
@@ -52,7 +52,7 @@
     {
       "id": 146601,
       "name": "ル・ルージュ ブティーク 新作ルックブック",
-      "desc": "[RougeThreeNormal]パターン\n\n保有する[RougeThreeCocoon], [RougeThreeCocoonShield]を除去し、[RougeThreeNormal]を得る\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeNormal]1を得る\nターン終了時に[RougeThreeNormal]が20なら、次のターンに[RougeThreeCocoon]パターンへ変更される</u></b></mark></color>\n\n[RougeThreeNormal]で体力が10未満になるダメージを受けると、そのダメージを受けずに体力最大値の30%だけ回復してターンを終了。その後、[RougeThreeCocoon]に変更され、今回の戦闘中[Enhancement]2を得る (戦闘につき1回)"
+      "desc": "[RougeThreeNormal]パターン\n\n保有する[RougeThreeCocoon], [RougeThreeCocoonShield]を除去し、[RougeThreeNormal]を得る\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeNormal]1を得る\nターン終了時に[RougeThreeNormal]が20なら、次のターンに[RougeThreeCocoon]パターンへ変更される</u></b></mark></color>\n\n[RougeThreeNormal]で体力が10未満になるダメージを受けると、そのダメージを受けずに体力を最大値の30%だけ回復してターンを終了。その後、[RougeThreeCocoon]に変更され、今回の戦闘中[Enhancement]2を得る (戦闘ごとに1回)"
     },
     {
       "id": 146602,
@@ -62,7 +62,7 @@
     {
       "id": 147401,
       "name": "スーシェフ",
-      "desc": "<color=#ff6000><mark=#ff000040><b><u>攻撃スキルで対象を倒すと[SapsareeCooking]1を得る</u></b></mark></color>\n- スキル使用時に対象が保有していた効果3つにつき、[SapsareeCooking]を追加で1得る (最大2を得る)",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>攻撃スキルで対象を倒すと[SapsareeCooking]1を得る</u></b></mark></color>\n- スキル使用時に対象が保有していた効果3種につき、[SapsareeCooking]を追加で1得る (最大2を得る)",
       "flavor": "肩書きはシェフだが、5階のレストランでは決して認められない。"
     },
     {
@@ -229,7 +229,7 @@
     {
       "id": 148402,
       "name": "薔薇色に脈動する筋肉",
-      "desc": "ターン開始時、自分に[Gourmandise]がなく、<color=#ff6000><mark=#ff000040><b><u>自分の[ChargeRouge]回数が15以上なら、[ChargeRouge]回数を全て消耗して[Gourmandise]を得る</u></b></mark></color>\n\n[Gourmandise]がある状態で下記の効果を得る\n- スキル使用時、自分の[Laceration]回数が3増加\n- スキル的中時、[Laceration]1を得る\n- 部位が攻撃を受けると[BuffetSick]1を得る\n- マッチ敗北時、[BuffetSick]3を得る\n- 対象を倒した際に対象の[BloodyMucus]が3以上なら、次のターンに「赤き神の引きちぎられた肉片」を生成\n- 戦闘終了時、[BloodyMucus]を保有する敵1名につき精神力を3回復\n\nターン終了時に[Gourmandise]効果が消滅するとき、<color=#ff6000><mark=#ff000040><b><u>自分が保有する[BuffetSick]の総和が30以上なら</u></b></mark></color>、次のターンにパターンが弱化し、戦場の「赤き神の引きちぎられた肉片」が混乱状態になる\n\n※[BloodyMucus]は<color=#ff6000><mark=#ff000040><b><u>E.G.Oスキル, 守備スキルの使用</u></b></mark></color>により数値を減少させられる\n※「赤き神の引きちぎられた肉片」は死亡した対象の[BloodyMucus]だけ[DeterioratingBody]を得る\n※[DeterioratingBody]を保有する「赤き神の引きちぎられた肉片」は死亡しない\n※「赤き神の引きちぎられた肉片」は戦場に最大3体まで生成される",
+      "desc": "ターン開始時、自分に[Gourmandise]がなく、<color=#ff6000><mark=#ff000040><b><u>自分の[ChargeRouge]回数が15以上なら、[ChargeRouge]回数を全て消耗して[Gourmandise]を得る</u></b></mark></color>\n\n[Gourmandise]がある状態で下記の効果を得る\n- スキル使用時、自分の[Laceration]回数が3増加\n- スキル的中時、[Laceration]1を得る\n- 部位が被撃時に[BuffetSick]1を得る\n- マッチ敗北時、[BuffetSick]3を得る\n- 対象を倒した際に対象の[BloodyMucus]が3以上なら、次のターンに「赤き神の引きちぎられた肉片」を生成\n- 戦闘終了時、[BloodyMucus]を保有する敵1名につき精神力を3回復\n\nターン終了時に[Gourmandise]効果が消滅するとき、<color=#ff6000><mark=#ff000040><b><u>自分が保有する[BuffetSick]の総和が30以上なら</u></b></mark></color>、次のターンにパターンが弱化し、戦場の「赤き神の引きちぎられた肉片」が混乱状態になる\n\n※[BloodyMucus]は<color=#ff6000><mark=#ff000040><b><u>E.G.Oスキル, 守備スキルの使用</u></b></mark></color>により数値を減少させられる\n※「赤き神の引きちぎられた肉片」は死亡した対象の[BloodyMucus]だけ[DeterioratingBody]を得る\n※[DeterioratingBody]を保有する「赤き神の引きちぎられた肉片」は死亡しない\n※「赤き神の引きちぎられた肉片」は戦場に最大3体まで生成される",
       "flavor": "腕と脚が狂ったようにばたつく。もともと自分の身体についていたものではなかったかのように。"
     },
     {
