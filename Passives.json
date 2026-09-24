@@ -3303,6 +3303,25 @@
       "name": "[Actrice Haute Couture du Rouge] - Robes",
       "desc": "#1 and #2 Deployed allies heal +20% more HP from Passive, Skill, and Coin effects\n\nOn Lust A-Reson., #1 and #2 allies take -10% damage from Skills for the turn",
       "flavor": "When it isn't feasible to overwrite the subject with the exact form of the Mirrored Identity, a \"costume\" fitted for each actor is designed and worn.\n\nHaute Couture is a form of cinematic reinterpretation; it replaces an existent being with an outfit, and the actor, now overwritten, dutifully performs the given role in full immersion. \n\nThis deception of reality is readily accepted by the audience at the theater while the actor, at least within the confines of the narrative, embodies the original existence in earnest recreation."
+    },
+    {
+      "id": 1091701,
+      "name": "Snipping in the Alteration Shop are Blossom Scissors",
+      "desc": "Turn End: Gain Shield next turn equal to [ChargeKhaki] Count\nAt 2+/3+/5+ [ChargeKhaki] Potency, Base Skill Final Power +1/+2/+3",
+      "summary": "Gain Base Skill Final Power"
+    },
+    {
+      "id": 1091702,
+      "name": "Inertia of Drifting",
+      "desc": "Gain 1 [ChargeKhaki] Potency for every 10 cumulative [ChargeKhaki] Count this unit consumes in this Encounter\n\nAt Attack End of another ally that has [NoirScissorShield], activate \"Patterning\" against the said ally's target (once per turn)\n- [BeforeUse] If the said target has 2+ [NoirScissorAlly], activate as \"Cutout\" instead (once per turn)",
+      "summary": "Activate additional attack"
+    },
+    {
+      "id": 1091721,
+      "name": "First is Thanks-snipping",
+      "desc": "1 ally with the fastest Speed deals +10% damage using Slash Base Skills",
+      "summary": "Bonus Slash damage",
+      "flavor": "The single pair dearest to me, above all the rest... will be yours as well."
     }
   ]
 }

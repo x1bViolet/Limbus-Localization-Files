@@ -31,12 +31,6 @@
       "panicDescription": "Turn Start: Gain 1 [Reduction] and 1 [AttackDmgDown]"
     },
     {
-      "id": 1109,
-      "panicName": "Death Loop",
-      "lowMoraleDescription": "Gain 3 [Protection]",
-      "panicDescription": "Gain 5 [Protection]"
-    },
-    {
       "id": 1121,
       "panicName": "Inner Schism",
       "lowMoraleDescription": "Defense Level -3, Offense Level +3\nIn a Clash against targets that have 5 [BloodyMucus], Clash Power +2",
