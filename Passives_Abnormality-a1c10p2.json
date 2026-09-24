@@ -10,18 +10,18 @@
       "id": 150302,
       "name": "絡まった黒い糸",
       "desc": "スキルと士気低下・パニック効果で敵に[TangleBlackYarn]を付与\n※[TangleBlackYarn]は<color=#ff6000><mark color=#ff000040><b><u>守備スキルの使用、または特定のスキルによって減少させられる</color></mark></b></u>\n\n被撃時、以下の効果が発動\n- 被撃時、[SickBlackYarn]1を得る\n- 攻撃を受けたスキルが<color=#ff6000><mark color=#ff000040><b><u>斬撃属性</color></mark></b></u>なら、[SickBlackYarn]1を追加で得る\n- <color=#ff6000><mark color=#ff000040><b><u>加重値5以上</color></mark></b></u>のスキルで被撃時、次のターンに[HeavyBlackYarn]を得る（1ターンにつき1回）",
-      "flavor": "この身体に巻きついた黒い糸は、以前は存在しなかった。幸運にも時代が移り変わるとき、糸が古きものの身体に巻きつき、糸に包まれた身体のおかげで百貨店の時代を生き延びられた。そしてその黒い糸が今、ほどかれていく。"
+      "flavor": "この身体に巻きついた黒い糸は、以前は存在しなかった。幸運にも時代が移り変わるとき、糸が古きものの身体に巻きつき、糸に包まれた身体のおかげで百貨店の時代を生き延びられた。そしてその黒い糸が今、ほどかれていく。\n\nアクアリウムの時代より前には、プラザの時代、防空壕の時代、法廷の時代など、様々な時代があり、その名前や形式は違えどシーシュポスシステムを動かす本質は同じだった。\n\nそして時代が移り変わるたび、人々は人間の姿のまま変わった世界に適応し、シーシュポスの中で時代を耐え忍んできた。\n\n今、この絡まった糸は二つの時代だけでなく、堆積してきた全ての時代の絡まりなのだ。"
     },
     {
       "id": 150303,
       "name": "古き海の中へ",
-      "desc": "部位が<color=#ff6000><mark color=#ff000040><b><u>混乱状態</color></mark></b></u>になると、他の部位の<color=#ff6000><mark color=#ff000040><b><u>混乱区間を1つずつ除去し、ターンを終了</color></mark></b></u>\nその後、次のターンに全部位が[HideBlackYarn]を得る\n\n<color=#ff6000><mark color=#ff000040><b><u>被撃で[HideBlackYarn]が消滅</color></mark></b></u>した場合、\n- [SickBlackYarn]10を得る\n- [SickBlackYarn]を最大値を超えて得た場合、このターンと次のターンに脆弱3を得る\n\nターン終了時に[HideBlackYarn]が消滅した場合、\n- [SickBlackYarn]を（7 - 残りの威力）だけ得る\n- 次のターンに[AngryBlackYarn]1を得る",
+      "desc": "部位が<color=#ff6000><mark color=#ff000040><b><u>混乱状態</color></mark></b></u>になると、他の部位の<color=#ff6000><mark color=#ff000040><b><u>混乱区間を1つずつ除去し、ターンを終了</color></mark></b></u>\nその後、次のターンに全部位が[HideBlackYarn]を得る\n\n<color=#ff6000><mark color=#ff000040><b><u>被ダメージで[HideBlackYarn]が消滅</color></mark></b></u>した場合、\n- [SickBlackYarn]10を得る\n- [SickBlackYarn]を最大値を超えて得た場合、このターンと次のターンに脆弱3を得る\n\nターン終了時に[HideBlackYarn]が消滅した場合、\n- [SickBlackYarn]を（7 - 残りの威力）だけ得る\n- 次のターンに[AngryBlackYarn]1を得る",
       "flavor": "かつて当然のように自由に泳いでいた、今はもう消えた時代の海の懐へ。"
     },
     {
       "id": 150304,
       "name": "まだ乾かぬ水気",
-      "desc": "[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力ダメージ量および混乱区間前進量 -50%\n\nパニックタイプが変更されず、ターン終了時にパニック状態なら精神力が0になる",
+      "desc": "[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力・混乱区間前進量 -50%\n\nパニックタイプが変更されず、ターン終了時にパニック状態なら精神力が0になる",
       "flavor": "シーシュポスアクアリウムは消えたが、この身体にはまだ、糸に変わっていないあの頃のわずかな水気が残っている。"
     },
     {
