@@ -1732,7 +1732,7 @@
         {
           "level": 1,
           "name": "옆선 바깥에 박음선 두 줄 보이면 더블니들. 탈락!",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>전장의 바늘이 1개당 피해량 +50%\n • 전장에 바늘이가 없으면, 스킬이 취소됨</u></b></mark></color>\n\n[EndSkill] 모든 바늘이 처치\n • 이 효과로 처치한 잡몹 1개당 다음 턴에 [Enhancement] 1 얻음",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>전장의 바늘이 1개당 피해량 +50%\n • 전장에 바늘이가 없으면, 스킬이 취소됨</u></b></mark></color>\n\n[EndSkill] 모든 바늘이 처치\n • 이 효과로 처치한 바늘이 1개당 다음 턴에 [Enhancement] 1 얻음",
           "coinlist": [
             {
               "coindescs": [

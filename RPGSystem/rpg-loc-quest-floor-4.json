@@ -53,7 +53,7 @@
     {
       "key": "Q4007",
       "title": "가구들에게 옷을 전해주기",
-      "description": "행복한 옷장으로부터 몇 가지 옷들을 꺼내왔다. 이제 가구들에게 각각 옷을 전해주도록 하자.",
+      "description": "행복한 옷장으로부터 몇 가지 옷들을 꺼내 왔다. 이제 가구들에게 각각 옷을 전해주도록 하자.",
       "steps": [
          { "index": 0, "goalDescription1": "뼛걸이에게 옷을 전해주기", "goalDescription2": "느긋한 가죽 침대에게 옷을 전해주기", "goalDescription3": "박제된 가죽 커튼에게 옷을 전해주기", "goalDescription4": "빨간 방석 스툴에게 옷을 전해주기", "goalDescription5": "살갗 소파에게 옷을 전해주기", "goalDescription6": "쌍둥이 램프에게 옷을 전해주기" }
       ]

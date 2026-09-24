@@ -2091,6 +2091,30 @@
     {
       "id": "introduce_sentence_262",
       "content": "더 많은 고객들이 {0}의 패션에 열광하도록!"
+    },
+    {
+      "id": "introduce_word_263",
+      "content": "원단"
+    },
+    {
+      "id": "introduce_sentence_263",
+      "content": "수준 높은 {0}(을/를) 원한다면 기다림의 시간을 가져야 할 거야."
+    },
+    {
+      "id": "introduce_word_264",
+      "content": "손"
+    },
+    {
+      "id": "introduce_sentence_264",
+      "content": "다가오지 마, 내게 {0}(을/를) 내밀지 마!!"
+    },
+    {
+      "id": "introduce_word_265",
+      "content": "허상"
+    },
+    {
+      "id": "introduce_sentence_265",
+      "content": "나의 텅 빈 {0} 속으로."
     }
   ]
 }

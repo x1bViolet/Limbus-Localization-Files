@@ -70,8 +70,8 @@
     },
     {
       "key": "Q-2008",
-      "title": "깊은 바다 염료 소문 수집",
-      "description": "타래둥지에 줄 서 있는 사람들에게 깊은 바다 염료에 대해 물어보자.",
+      "title": "깊은 바다 염료 소문 수집/미사용",
+      "description": "",
       "steps": [
         { "index": 0, "goalDescription1": "대기 중인 르누아르에게 묻기" }
       ]
@@ -103,7 +103,7 @@
     },
     {
       "key": "Q-2012",
-      "title": "황금염료",
+      "title": "황금염료/미사용",
       "description": "팔레트에게서 황금염료를 받아 오자.",
       "steps": [
         { "index": 0, "goalDescription1": "팔레트에게서 황금염료 받기" }

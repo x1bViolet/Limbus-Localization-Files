@@ -1399,6 +1399,14 @@
     {
       "id": "10816_getCondition_gacksung",
       "content": "오트쿠튀르::르루주 부티크 이스마엘 동기화 3단계 달성"
+    },
+    {
+      "id": "10917_getCondition_normal",
+      "content": "오트쿠튀르::수선실 로쟈 획득 시"
+    },
+    {
+      "id": "10917_getCondition_gacksung",
+      "content": "오트쿠튀르::수선실 로쟈 동기화 3단계 달성"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "id": "rpg_suicidebox_reset_confirm_desc",
-      "content": "재고정리를 진행하시겠습니까?\n\n선택 시, 현재 진행 중인 회차의 기록이 초기화되며 복구할 수 없습니다."
+      "content": "재고정리를 진행하시겠습니까?\n\n선택 시, 현재 진행 중인 회차의 기록이 초기화되며 복구할 수 없습니다.\n※진행 중 얻지 못한 아이템은\n이후 플레이에서 획득하실 수 있습니다.\n※재고정리를 하지 않아도 아이템은 전부 획득하실 수 있습니다."
     },
     {
       "id": "rpg_suicidebox_hardreset_button_text",
@@ -46,7 +46,7 @@
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_b",
-      "content": "- 인격 : 동기화 4단계\n- E.G.O : 환상 해석 4단계"
+      "content": "- 인격 : 동기화 4단계"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_b",
@@ -54,7 +54,7 @@
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_c",
-      "content": "- 인격 : 동기화 4단계\n- E.G.O : 환상 해석 4단계"
+      "content": "- 인격 : 동기화 4단계"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_c",

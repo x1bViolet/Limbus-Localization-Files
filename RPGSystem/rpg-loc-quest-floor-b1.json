@@ -79,14 +79,14 @@
       "key": "Q-1010",
       "title": "에스컬레이터 작동 시키기",
       "steps": [
-        { "index": 0, "goalDescription1": "에스컬레이터 작동" }
+        { "index": 0, "goalDescription1": "" }
       ]
     },
     {
       "key": "Q-1011",
       "title": "에스컬레이터로 내려가기",
       "steps": [
-        { "index": 0, "goalDescription1": "지하 2층으로 내려가기" }
+        { "index": 0, "goalDescription1": "" }
       ]
     }
   ]

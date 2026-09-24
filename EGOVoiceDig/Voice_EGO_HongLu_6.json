@@ -99,6 +99,41 @@
       "id": "battle_erosion_20609_2",
       "desc": "E.G.O 침식",
       "dlg": "하나 된 잔향이 만종을 울릴지어다!"
+    },
+    {
+      "id": "battle_awaken_20610_1",
+      "desc": "E.G.O 발동",
+      "dlg": "당신도 언젠가 그리워질 거예요. 우리의 세상이. 아─ 아아─!"
+    },
+    {
+      "id": "battle_awaken_20610_2",
+      "desc": "E.G.O 발동",
+      "dlg": "당신도 언젠가 그리워질 거예요. 우리의 세상이."
+    },
+    {
+      "id": "battle_awaken_20610_3",
+      "desc": "E.G.O 발동",
+      "dlg": "아─"
+    },
+    {
+      "id": "battle_awaken_20610_4",
+      "desc": "E.G.O 발동",
+      "dlg": "아아─!"
+    },
+    {
+      "id": "battle_awaken_20610_3-01",
+      "desc": "E.G.O 발동",
+      "dlg": "아─"
+    },
+    {
+      "id": "battle_awaken_20610_4-01",
+      "desc": "E.G.O 발동",
+      "dlg": "아아─!"
+    },
+    {
+      "id": "battle_erosion_20610_1",
+      "desc": "E.G.O 침식",
+      "dlg": "안 돼! 안 돼! 안 돼! 다가오지마, 내게 손을 내밀지 마!!"
     }
   ]
 }

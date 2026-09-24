@@ -31,12 +31,6 @@
       "panicDescription": "턴 시작 시 [Reduction] 1, [AttackDmgDown] 1 얻음"
     },
     {
-      "id": 1109,
-      "panicName": "반복되는 죽음",
-      "lowMoraleDescription": "[Protection] 3 얻음",
-      "panicDescription": "[Protection] 5 얻음"
-    },
-    {
       "id": 1121,
       "panicName": "분열",
       "lowMoraleDescription": "방어 레벨 -3, 공격 레벨 +3\n[BloodyMucus]을 5 보유한 대상과 합 진행 시, 합 위력 +2",

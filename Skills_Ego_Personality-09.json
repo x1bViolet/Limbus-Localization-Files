@@ -911,6 +911,268 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 2)\n[BeforeAttack] (2 + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 2 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] (<style=\"highlight\">3</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">4</style>)\n[BeforeAttack] (<style=\"highlight\">4</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">4</style> 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 2)\n[BeforeAttack] (2 + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 2 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +20%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] (<style=\"highlight\">3</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +<style=\"highlight\">30</style>%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration] 횟수 1 증가</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">4</style>)\n[BeforeAttack] (<style=\"highlight\">4</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">4</style> 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +<style=\"highlight\">40</style>%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">5</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

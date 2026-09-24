@@ -143,26 +143,26 @@
     },
     {
       "key": "Q3016T",
-      "title": "플로어 매니저 전투시작 신호",
-      "description": "0901",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "description": "0901추가",
       "steps": [
-        { "index": 0, "goalDescription1": "플로어 매니저 전투시작 신호" }
+        { "index": 0, "goalDescription1": "(내부) 플로어 매니저 개전" }
       ]
     },
     {
       "key": "Q3016H1",
-      "title": "플로어 매니저 타격 1",
+      "title": "(내부) 플로어 매니저 타격 1",
       "description": "0901",
       "steps": [
-        { "index": 0, "goalDescription1": "플로어 매니저 타격 1회" }
+        { "index": 0, "goalDescription1": "(내부) 플로어 매니저 타격 1" }
       ]
     },
     {
       "key": "Q3016H2",
-      "title": "플로어 매니저 타격 2",
-      "description": "0901",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "description": "0901추가",
       "steps": [
-        { "index": 0, "goalDescription1": "플로어 매니저 타격 2회" }
+        { "index": 0, "goalDescription1": "(내부) 플로어 매니저 타격 2" }
       ]
     }
   ]

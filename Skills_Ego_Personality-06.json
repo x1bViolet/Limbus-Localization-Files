@@ -1150,6 +1150,166 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2061011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "[BeforeAttack] 자신의 [Charge] 횟수 1 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 6까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 5 부여 (최대 5명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Charge] 위력만큼 <noparse>합 위력 증가</noparse> (최대 2)</style>\n[BeforeAttack] 자신의 [Charge] 횟수 <style=\"highlight\">3</style> 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 <style=\"highlight\">8</style>까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 5 부여 (최대 <style=\"highlight\">6</style>명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [PhotoElectricity] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "[WhenUse] 자신의 [Charge] 위력만큼 <noparse>합 위력 증가</noparse> (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] 자신의 [Charge] 횟수 <style=\"highlight\">5</style> 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 <style=\"highlight\">10</style>까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 5 부여 (최대 <style=\"highlight\">7</style>명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n보호막을 보유한 대상에게 가하는 피해량 +15%\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -12)\n[BeforeAttack] 자신의 [Charge] 횟수 3 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 6까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 7 부여 (최대 5명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수를 최대 10까지 소모하고, 소모한 수치만큼 이 코인의 <noparse>최종 위력 증가</noparse>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n보호막을 보유한 대상에게 가하는 피해량 +<style=\"highlight\">20</style>%\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -12)\n<style=\"highlight\">[BeforeAttack] 자신의 [Charge] 위력만큼 <noparse>최종 위력 증가</noparse> (최대 2)</style>\n[BeforeAttack] 자신의 [Charge] 횟수 <style=\"highlight\">4</style> 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 <style=\"highlight\">8</style>까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 7 부여 (최대 <style=\"highlight\">6</style>명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수를 최대 10까지 소모하고, 소모한 수치만큼 이 코인의 <noparse>최종 위력 증가</noparse>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [PhotoElectricity] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거절선포",
+          "abName": "메트로폴라리스의 주민",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n보호막을 보유한 대상에게 가하는 피해량 +<style=\"highlight\">25</style>%\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -12)\n[BeforeAttack] 자신의 [Charge] 위력만큼 <noparse>최종 위력 증가</noparse> (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] 자신의 [Charge] 횟수 <style=\"highlight\">5</style> 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 <style=\"highlight\">10</style>까지 소모하고, 자신과 자신을 제외한 무작위 아군 (1 + 소모한 [Charge] 횟수/2)명에게 [ChargeForceField] 7 부여 (최대 <style=\"highlight\">7</style>명, 소수점 버림)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수를 최대 10까지 소모하고, 소모한 수치만큼 이 코인의 <noparse>최종 위력 증가</noparse>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PhotoElectricity] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
