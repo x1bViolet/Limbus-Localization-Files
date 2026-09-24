@@ -115,12 +115,12 @@
     },
     {
       "key": "Q4008",
-      "title": "Ask the Happy Wardrobe whether we can get a shard of heart",
+      "title": "Ask the Happy Closet whether we can get a shard of heart",
       "description": "We've finished helping the Furnishings. Time to ask the Happy Closet for a shard of heart.",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "Ask the Happy Wardrobe whether we can get a shard of heart"
+          "goalDescription1": "Ask the Happy Closet whether we can get a shard of heart"
         }
       ]
     },

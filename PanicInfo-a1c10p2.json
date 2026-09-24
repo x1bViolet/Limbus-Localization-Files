@@ -18,13 +18,15 @@
       "id": 1110,
       "panicName": "Trembling Hands",
       "lowMoraleDescription": "- Take +7.5% damage\n- Every time this unit is hit, gain +1 [Vibration] Count (once per Skill, max 5 per turn)",
-      "panicDescription": "- Take +15% damage\n- Every time this unit is hit, gain 1 [Vibration] Potency and +1 [Vibration] Count (once per Skill, max 5 per turn)"
+      "panicDescription": "- Take +15% damage\n- Every time this unit is hit, gain 1 [Vibration] Potency and +1 [Vibration] Count (once per Skill, max 5 per turn)",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
     },
     {
       "id": 1115,
       "panicName": "Jammed Machine",
       "lowMoraleDescription": "Skills deal -5% damage against targets with slower Speed than this unit's",
-      "panicDescription": "Skills deal -10% damage against targets with slower Speed than this unit's"
+      "panicDescription": "Skills deal -10% damage against targets with slower Speed than this unit's",
+      "flavor": "Can that which moves faster than oneself truly be fixed in place?"
     },
     {
       "id": 1112,

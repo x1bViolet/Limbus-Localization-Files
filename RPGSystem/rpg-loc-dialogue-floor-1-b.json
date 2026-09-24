@@ -1173,7 +1173,7 @@
         },
         {
           "index": 7,
-          "text": "<Come on, let's get going.>",
+          "text": "Come on, let's get going.",
           "speaker": "Rodion"
         },
         {
@@ -3195,7 +3195,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "The corpse of a Rouge. Blood pours from the holes in the face as her head hangs limply forward."
+          "text": "The corpse of a Rouge. Blood has pooled under her skin, making her face appear red and swollen."
         }
       ]
     },
