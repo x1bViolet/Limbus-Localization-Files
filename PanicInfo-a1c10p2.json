@@ -18,13 +18,15 @@
       "id": 1110,
       "panicName": "손떨림",
       "lowMoraleDescription": "받는 피해량 +7.5%\n피격받을 때마다 자신의 [Vibration] 횟수 1 증가 (스킬당 1회, 턴당 최대 5)",
-      "panicDescription": "받는 피해량 +15%\n피격받을 때마다 자신의 [Vibration] 위력 1, [Vibration] 횟수 1 증가 (스킬당 1회, 턴당 최대 5)"
+      "panicDescription": "받는 피해량 +15%\n피격받을 때마다 자신의 [Vibration] 위력 1, [Vibration] 횟수 1 증가 (스킬당 1회, 턴당 최대 5)",
+      "flavor": "손이 떨리면, 가위질도 흔들려… 이대로는 재단할 수 없어…"
     },
     {
       "id": 1115,
       "panicName": "머신 잼",
       "lowMoraleDescription": "자신보다 속도가 낮은 대상에게 가하는 스킬 피해량 -5%",
-      "panicDescription": "자신보다 속도가 낮은 대상에게 가하는 스킬 피해량 -10%"
+      "panicDescription": "자신보다 속도가 낮은 대상에게 가하는 스킬 피해량 -10%",
+      "flavor": "자신보다 빠른 것을 고정시킬 수 있는가?"
     },
     {
       "id": 1112,
