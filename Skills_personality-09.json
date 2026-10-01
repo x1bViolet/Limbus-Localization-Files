@@ -3636,7 +3636,7 @@
         {
           "level": 1,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] 自分を除く編成順が最も早い味方1名（[PersonalityCharge]を優先）に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3664,7 +3664,7 @@
         {
           "level": 2,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] <style=\"highlight\">自分と、</style>自分を除く編成順が最も早い味方1名（[PersonalityCharge]を優先）に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] <style=\"highlight\">自分と、</style>自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3692,7 +3692,7 @@
         {
           "level": 4,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] 自分と、自分を除く編成順が最も早い味方1名（[PersonalityCharge]を優先）、<style=\"highlight\">現体力の比率が最も低い味方1名</style>に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、<style=\"highlight\">現体力の比率が最も低い味方1名</style>に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3728,7 +3728,7 @@
         {
           "level": 3,
           "name": "クーペ・ダン・ル・ビエ",
-          "desc": "自分の[NoirScissorCut]1につき、ダメージ量+15% (最大30%)\n\n[StartBattle] 自分を除く編成順が最も早い味方1名（[PersonalityCharge]を優先）、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
+          "desc": "自分の[NoirScissorCut]1につき、ダメージ量+15% (最大30%)\n\n[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -3765,7 +3765,7 @@
         {
           "level": 4,
           "name": "クーペ・ダン・ル・ビエ",
-          "desc": "自分の[NoirScissorCut]1につき、ダメージ量<style=\"highlight\">+30% (最大60%)</style>\n\n[StartBattle] 自分と、自分を除く編成順が最も早い味方1名（[PersonalityCharge]を優先）、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
+          "desc": "自分の[NoirScissorCut]1につき、ダメージ量<style=\"highlight\">+30% (最大60%)</style>\n\n[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
           "coinlist": [
             {
               "coindescs": [

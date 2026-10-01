@@ -9,7 +9,7 @@
     {
       "id": 146502,
       "name": "顧客案内",
-      "desc": "対象の[NoirNoComply]1につき、対象への被・与ダメージ量  +10%\n[NoirNoComply]が3の対象への与ダメージ量 +200%",
+      "desc": "対象の[NoirNoComply]1につき、対象への被・与ダメージ量 +10%\n[NoirNoComply]が3の対象への与ダメージ量 +200%",
       "flavor": "ル・ノワールでは、本社の厳格な管理マニュアルに則ってお客様に対応しております。"
     },
     {
@@ -41,23 +41,23 @@
     {
       "id": 149302,
       "name": "切迫",
-      "desc": "ターン開始時、自分の[ChargeRouge]が3, [ChargeRouge]回数が10以上なら、「攻撃的マーケティング」を使用\n\n自分の失った体力1%につき、スキルダメージ量 +1% "
+      "desc": "ターン開始時、自分の[ChargeRouge]が3, [ChargeRouge]回数が10以上なら、「攻撃的マーケティング」を使用\n\n自分の失った体力1%につき、スキルダメージ量 +1%"
     },
     {
       "id": 149303,
       "name": "聞こえる…別の神の声が…。",
-      "desc": "ステージ開始時、[RisingMadnessRouge]を得る\n- ターン開始時、今回の戦闘にて体力が初めて50%以下になると、\n[RisingMadnessRouge]が[RisingMadnessRouge2nd]に変更される\n\nマッチ敗北時、[ChargeRouge]回数2を得る",
+      "desc": "ステージ開始時、[RisingMadnessRouge]を得る\n- ターン開始時、この戦闘にて体力が初めて50%以下になると、\n[RisingMadnessRouge]が[RisingMadnessRouge2nd]に変更される\n\nマッチ敗北時、[ChargeRouge]回数2を得る",
       "flavor": "温かな声を聞いたが、それ以上変わることができず、精神が肉体に閉じ込められたまま分裂によって狂症に陥った。"
     },
     {
       "id": 146601,
       "name": "ル・ルージュ ブティーク 新作ルックブック",
-      "desc": "[RougeThreeNormal]パターン\n\n保有する[RougeThreeCocoon], [RougeThreeCocoonShield]を除去し、[RougeThreeNormal]を得る\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeNormal]1を得る\nターン終了時に[RougeThreeNormal]が20なら、次のターンに[RougeThreeCocoon]パターンへ変更される</u></b></mark></color>\n\n[RougeThreeNormal]で体力が10未満になるダメージを受けると、そのダメージを受けずに体力を最大値の30%だけ回復してターンを終了。その後、[RougeThreeCocoon]に変更され、今回の戦闘中[Enhancement]2を得る (戦闘ごとに1回)"
+      "desc": "[RougeThreeNormal]パターン\n\n保有する[RougeThreeCocoon], [RougeThreeCocoonShield]を除去し、[RougeThreeNormal]を得る\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeNormal]1を得る\nターン終了時に[RougeThreeNormal]が20なら、次のターンに[RougeThreeCocoon]パターンへ変更される</u></b></mark></color>\n\n[RougeThreeNormal]で体力が10未満になるダメージを受けると、そのダメージを受けずに体力を最大値の30%だけ回復してターンを終了。その後、[RougeThreeCocoon]に変更され、この戦闘中[Enhancement]2を得る (戦闘ごとに1回)"
     },
     {
       "id": 146602,
       "name": "試着室の中へ",
-      "desc": "[RougeThreeCocoon]パターン\n\n保有する[RougeThreeNormal]を除去し、[RougeThreeCocoon]1, [RougeThreeCocoonShield]500を得る\n\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeCocoonHit]を得る</u></b></mark></color>\n[RougeThreeCocoonShield]が0になるか、[RougeThreeCocoon]が3になると精神力が20減少してターン終了。次のターンに[RougeThreeNormal]パターンへ変更され、今回の戦闘中[AttackDmgUp]1を得る (混乱状態なら混乱状態を解除)"
+      "desc": "[RougeThreeCocoon]パターン\n\n保有する[RougeThreeNormal]を除去し、[RougeThreeCocoon]1, [RougeThreeCocoonShield]500を得る\n\n<color=#ff6000><mark=#ff000040><b><u>被撃時、[RougeThreeCocoonHit]を得る</u></b></mark></color>\n[RougeThreeCocoonShield]が0になるか、[RougeThreeCocoon]が3になると精神力が20減少してターン終了。次のターンに[RougeThreeNormal]パターンへ変更され、この戦闘中[AttackDmgUp]1を得る (混乱状態なら混乱状態を解除)"
     },
     {
       "id": 147401,
@@ -152,7 +152,7 @@
     {
       "id": 149204,
       "name": "聞こえる…別の神の声が…。",
-      "desc": "ステージ開始時、[RisingMadnessNoir]2を得る\n- ターン開始時、今回の戦闘にて体力が初めて50%以下になると、\n[RisingMadnessNoir]が[RisingMadnessNoir2nd]に変更される\n\nマッチ敗北時、[ChargeNoir]回数2を得る",
+      "desc": "ステージ開始時、[RisingMadnessNoir]2を得る\n- ターン開始時、この戦闘にて体力が初めて50%以下になると、\n[RisingMadnessNoir]が[RisingMadnessNoir2nd]に変更される\n\nマッチ敗北時、[ChargeNoir]回数2を得る",
       "flavor": "温かな声を聞いたが、それ以上変わることができず、精神が肉体に閉じ込められたまま分裂によって狂症に陥った。"
     },
     {

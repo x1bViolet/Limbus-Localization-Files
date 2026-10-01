@@ -209,34 +209,34 @@
     },
     {
       "key": "Q3016T",
-      "title": "（内部）フロアマネージャー・戦闘開始通知",
+      "title": "(内部)フロアマネージャー・戦闘開始通知",
       "description": "0901追加",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "（内部）フロアマネージャー・戦闘開始"
+          "goalDescription1": "(内部)フロアマネージャー・戦闘開始"
         }
       ]
     },
     {
       "key": "Q3016H1",
-      "title": "（内部）フロアマネージャー・打撃1",
+      "title": "(内部)フロアマネージャー・打撃1",
       "description": "0901",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "（内部）フロアマネージャー・打撃1"
+          "goalDescription1": "(内部)フロアマネージャー・打撃1"
         }
       ]
     },
     {
       "key": "Q3016H2",
-      "title": "（内部）フロアマネージャー・打撃2",
+      "title": "(内部)フロアマネージャー・打撃2",
       "description": "0901追加",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "（内部）フロアマネージャー・打撃2"
+          "goalDescription1": "(内部)フロアマネージャー・打撃2"
         }
       ]
     }

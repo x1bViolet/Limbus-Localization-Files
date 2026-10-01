@@ -70,7 +70,7 @@
     },
     {
       "key": "Item_Suffix_Disabled",
-      "text": "{0}（無効）"
+      "text": "{0}(無効)"
     },
     {
       "key": "rpg_quest_tag_dialogue",
@@ -242,7 +242,7 @@
     },
     {
       "key": "Log_EscapeBlocked",
-      "text": "今はここから出られない"
+      "text": "今はここから出られない。"
     },
     {
       "key": "Log_WardenAppeared",
@@ -399,6 +399,18 @@
     {
       "key": "Setting_Sisyphus_TurnAssist",
       "text": "移動中の方向転換補助"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadMode",
+      "text": "バーチャルパッド方式"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFixed",
+      "text": "固定型"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFloating",
+      "text": "可動型"
     },
     {
       "key": "Setting_Sisyphus_RunStartDelayValue",

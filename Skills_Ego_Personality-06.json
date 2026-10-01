@@ -1282,7 +1282,7 @@
           "level": 4,
           "name": "拒絶宣布",
           "abName": "メトロポラリスの住民",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\nバリアを保有する対象への与ダメージ量 +<style=\"highlight\">25</style>%\n[BeforeAttack] 破壊されたコイン1枚につき、基本威力 -6(最大-12)\n[BeforeAttack] 自分の[Charge]威力だけ<noparse>最終威力が増加</noparse>(最大<style=\"highlight\">3</style>)\n[BeforeAttack] 自分の[Charge]回数が<style=\"highlight\">5</style>増加\n[BeforeAttack] 自分の[Charge]回数を最大<style=\"highlight\">10</style>消耗し、自分と自分以外のランダムな味方(1 + 消耗した[Charge]回数/2)名へ[ChargeForceField]7を付与(最大<style=\"highlight\">7</style>名、小数点切り捨て)",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\nバリアを保有する対象への与ダメージ量 +<style=\"highlight\">25</style>%\n[BeforeAttack] 破壊されたコイン1枚につき、基本威力 -6(最大-12)\n[BeforeAttack] 自分の[Charge]威力だけ<noparse>最終威力が増加</noparse>(最大<style=\"highlight\">3</style>)\n[BeforeAttack] 自分の[Charge]回数が<style=\"highlight\">5</style>増加\n[BeforeAttack] 自分の[Charge]回数を最大<style=\"highlight\">10</style>消耗し、自分と自分以外のランダムな味方(1 + 消耗した[Charge]回数÷2)名へ[ChargeForceField]7を付与(最大<style=\"highlight\">7</style>名、小数点切り捨て)",
           "coinlist": [
             {
               "coindescs": [

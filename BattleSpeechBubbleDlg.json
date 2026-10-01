@@ -3789,6 +3789,61 @@
       "id": "battle_special_10816_2",
       "desc": "羽化状態に突入",
       "dlg": "誰かが被せた偽りを剥ぎ取り、真の私の姿へ！"
+    },
+    {
+      "id": "battle_s3_10315_1_1",
+      "desc": "",
+      "dlg": "釘を立てよ。"
+    },
+    {
+      "id": "battle_s3_10315_1_3",
+      "desc": "",
+      "dlg": "打ち下ろさん！"
+    },
+    {
+      "id": "battle_special_10315_1_1",
+      "desc": "",
+      "dlg": "閃光！"
+    },
+    {
+      "id": "battle_special_10315_1_2",
+      "desc": "",
+      "dlg": "審判！"
+    },
+    {
+      "id": "battle_special_10315_2_1",
+      "desc": "",
+      "dlg": "そなたの罪、限りなく重きゆえ。"
+    },
+    {
+      "id": "battle_special_10315_2_1-02",
+      "desc": "",
+      "dlg": "神罰を告げよう！"
+    },
+    {
+      "id": "battle_special_10315_2_2",
+      "desc": "",
+      "dlg": "幾度も振り下ろし、人生を砕き"
+    },
+    {
+      "id": "battle_special_10315_2_2-02",
+      "desc": "",
+      "dlg": "粉々に打ち砕かん！"
+    },
+    {
+      "id": "battle_special_10315_3",
+      "desc": "",
+      "dlg": "約束されし安息を。"
+    },
+    {
+      "id": "battle_special_10315_4",
+      "desc": "",
+      "dlg": "神域を宣言す。燦然と輝かん。"
+    },
+    {
+      "id": "battle_special_10315_8",
+      "desc": "",
+      "dlg": "秩序に従って行動せよ。"
     }
   ]
 }

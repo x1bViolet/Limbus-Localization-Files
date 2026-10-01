@@ -36,7 +36,7 @@
     {
       "id": 9106604,
       "name": "聞こえる…別の神の声が…。",
-      "desc": "戦闘に初めて登場時、[RisingMadnessNoir]2を得る\n- ターン開始時、今回の戦闘にて体力が初めて50%以下になると、\n[RisingMadnessNoir]が[RisingMadnessNoir2nd]に変更される\n\nマッチ敗北時、[ChargeNoir]回数2を得る",
+      "desc": "戦闘に初めて登場時、[RisingMadnessNoir]2を得る\n- ターン開始時、この戦闘にて体力が初めて50%以下になると、\n[RisingMadnessNoir]が[RisingMadnessNoir2nd]に変更される\n\nマッチ敗北時、[ChargeNoir]回数2を得る",
       "flavor": "温かな声を聞いたが、それ以上変わることができず、精神が肉体に閉じ込められたまま分裂によって狂症に陥った。"
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": 9106004,
       "name": "聞こえる…別の神の声が…。",
-      "desc": "戦闘に初めて登場時、[RisingMadnessSisyphe]2を得る\n- ターン開始時、今回の戦闘にて体力が初めて50%以下になると、\n[RisingMadnessSisyphe]が[RisingMadnessSisyphe2nd]に変更される",
+      "desc": "戦闘に初めて登場時、[RisingMadnessSisyphe]2を得る\n- ターン開始時、この戦闘にて体力が初めて50%以下になると、\n[RisingMadnessSisyphe]が[RisingMadnessSisyphe2nd]に変更される",
       "flavor": "温かな声を聞いたが、それ以上変わることができず、精神が肉体に閉じ込められたまま分裂によって狂症に陥った。"
     },
     {
@@ -83,7 +83,7 @@
     {
       "id": 9106702,
       "name": "聞こえる…別の神の声が…。",
-      "desc": "ステージ開始時、[RisingMadnessRouge]を得る\n- ターン開始時、今回の戦闘にて体力が初めて50%以下になると、\n[RisingMadnessRouge]が[RisingMadnessRouge2nd]に変更される\n\nマッチ敗北時、[ChargeRouge]回数2を得る",
+      "desc": "ステージ開始時、[RisingMadnessRouge]を得る\n- ターン開始時、この戦闘にて体力が初めて50%以下になると、\n[RisingMadnessRouge]が[RisingMadnessRouge2nd]に変更される\n\nマッチ敗北時、[ChargeRouge]回数2を得る",
       "flavor": "温かな声を聞いたが、それ以上変わることができず、精神が肉体に閉じ込められたまま分裂によって狂症に陥った。"
     }
   ]

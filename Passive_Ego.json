@@ -625,6 +625,18 @@
       "id": 2091011,
       "name": "分裂した触覚",
       "desc": "[Breath]威力または回数を得るとき、自分の[Breath]回数が1増加(1ターンにつき2回)\n\n自分が[PersonalityBreath]または[PersonalityVibration]なら、基本攻撃加重値が1、または[WideAreaRampage]の基本スキルでの与ダメージ量 +10%\n\n攻撃終了時、対象が混乱状態または死亡していれば、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵へ分けて付与(小数点切り上げ、集中戦闘では部位単位で判定)\n- この効果はE.G.Oギフトの鏡触覚共感覚の効果と重複して発動しない"
+    },
+    {
+      "id": 2021111,
+      "name": "ル・トゥルー・ドゥ・ヴィダンジュ(le trou de vidange)",
+      "desc": "自分の[BulletHole]が5なら、「穴」E.G.Oスキル(覚醒、侵蝕)使用時にE.G.O資源を消耗しない\n\nターン開始時、[BulletHole]1、[BlackWingHole]1を得る\n\n味方が敵を倒すと、そのキャラクターの精神力を5回復し、次のターンに[Enhancement]1を付与 (1ターンにつき1回)\n\n[Charge]回数の最大値 +5\n\n自分の[Charge]回数の最大値を超えて[Charge]回数を得ると、超過した数値だけ[Breath]の威力または回数をランダムに得る (1ターンにつき最大6まで変換可能)",
+      "flavor": "穴は穿たれて生じるのではなく、欠如によって生じるもの。穴は満たされることを望むが、かえって溢れ出る。"
+    },
+    {
+      "id": 2051011,
+      "name": "レモラジー・アンテルヌ(l'hémorragie interne)",
+      "desc": "[AlwaysUseEGOPassive]\n自分の[BulletHole]が5なら、「穴」E.G.Oスキル(覚醒、侵蝕)使用時にE.G.O資源を消耗しない\n\nターン開始時、[BulletHole]1を得る\n\n[WhenUseEGOPassive]\nターン開始時、[BlackWingHole]1を得る\n\n自分が[Bullet]を累計3個消耗するか失うたびに精神力を5回復し、次のターンに[ResultEnhancement]1を得る (特殊[Bullet]を含む。1ターンにつき[Bullet]最大9個まで判定)",
+      "flavor": "他者の視線が私に突き刺さって穴を開け、あらゆるものを溢れ出させる。溢れ出たものは弾丸となり、再び君へ撃ち出されて穴を穿つ。"
     }
   ]
 }

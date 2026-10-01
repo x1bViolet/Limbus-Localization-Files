@@ -45,6 +45,10 @@
       "content": "妊娠中の方、ご高齢の方や体の弱い方、薬物を\n使用されている方、および心血管疾患をお持ちの方は、\nご利用にご注意ください。\n無理なご利用により事故が発生した場合、\nその責任は全てご利用者様ご本人に帰属します。"
     },
     {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "数多のものが締めつけてくる。動けなくても、痛くならないように。"
+    },
+    {
       "id": "rpg_suicidebox_enter_notice_condition_b",
       "content": "- 人格 : 同期化4段階"
     },

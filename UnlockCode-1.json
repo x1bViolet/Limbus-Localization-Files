@@ -213,6 +213,18 @@
     {
       "id": 912723,
       "openCondition": "射影戦闘][闘戦影射 - 挿翅虎 Hardクリア"
+    },
+    {
+      "id": 110,
+      "openCondition": "メインストーリー10章 クリア",
+      "openConditionNumber": "10-7クリア",
+      "relatedChapterText": "Canto X"
+    },
+    {
+      "id": 9128,
+      "openCondition": "メインストーリー10章 クリア",
+      "openConditionNumber": "10-7クリア",
+      "relatedChapterText": "Canto X"
     }
   ]
 }

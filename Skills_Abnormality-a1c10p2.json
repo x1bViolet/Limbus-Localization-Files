@@ -968,7 +968,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "スュルフィル・ア・ラ・シェン",
+          "name": "シュルフィレ・ア・ラ・シェン",
           "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\n[TailoringTarget]をターゲットにする</u></b></mark></color>\n自分の[LargeTailoringShears]1につき、\n最終威力+1, ダメージ量+20% (それぞれ最大3, 60%)\n自分の[ChargeKhaki]威力1につき、\nダメージ量+4% (最大20%)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象の囚人が守備スキルを\n- 装着しているなら[Paralysis]4を得て、このスキルのダメージでは対象が混乱しない\n- 装着していないなら、次のターンに[FinishedFabric]10を得る</u></b></mark></color>\n[EndSkill]\n- <color=#ff6000><mark=#ff000040><b><u>マッチを行ったなら、</u></b></mark></color>その囚人のスキルの最終マッチ威力の数値の半分だけ対象に[DamagedFabric]を付与 (最大20)\n<color=#ff6000><mark=#ff000040><b><u>- 対象の[ScissorsMark]を全て消耗</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>[EndBattle] 次のターンに[LargeTailoringShears]1を得る</u></b></mark></color>",
           "coinlist": [
             {
@@ -1022,6 +1022,7 @@
           "level": 1,
           "name": "釘刺されよ",
           "desc": "[WhenUse] 自分の[ChargeNoir]威力3につき、コイン威力+1 (最大3)",
+          "flavor": "釘は金鎚に打ち込まれるために存在する。金鎚が打ち込むものは釘である。",
           "coinlist": [
             {
               "coindescs": [
@@ -1057,6 +1058,7 @@
           "level": 1,
           "name": "釘よ、生まれよ",
           "desc": "[WhenUse] 自分の[ChargeNoir]威力3につき、コイン威力+1 (最大3)\n[DefeatDuel] ダメージ量が80%減少し、このスキルのダメージでは混乱しない",
+          "flavor": "金鎚が振るわれた場所に、釘は存在する。",
           "coinlist": [
             {
               "coindescs": [

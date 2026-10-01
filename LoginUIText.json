@@ -222,7 +222,7 @@
     },
     {
       "id": "push_notification_message_full_stamina_1_text",
-      "content": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…用件は以上なり。"
+      "content": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…要件は以上なり。"
     },
     {
       "id": "push_notification_message_full_stamina_2_title",
@@ -278,7 +278,7 @@
     },
     {
       "id": "push_notification_message_full_stamina_8_text",
-      "content": "エンケファリン充填完了…。ふむ、またバスを動かせそうですね。早く行きましょう。"
+      "content": "エンケファリン充填完了…。ふむ、またバスを動かせられそうですね。早く行きましょう。"
     },
     {
       "id": "push_notification_message_full_stamina_9_title",
@@ -358,7 +358,7 @@
     },
     {
       "id": "invalid_login_is_not_guest",
-      "content": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を押して連携されたプラットフォームからログインしてください。"
+      "content": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を推して連携されたプラットフォームからログインしてください。"
     },
     {
       "id": "try_new_guest",

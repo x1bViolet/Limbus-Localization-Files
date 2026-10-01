@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "攻撃的マーケティング",
-          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更され、[DefenseDown]3, [ChargeRouge]回数6を得る\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象は混乱しない\n[WhenUse] 自分の[ChargeRouge]1につき、このスキルのダメージ量 +10% (最大30%)",
+          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更され、[DefenseDown]3, [ChargeRouge]回数6を得る\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象は混乱しない\n[WhenUse] 自分の[ChargeRouge]1につき、このスキルのダメージ量 +10% (最大30%)",
           "coinlist": [
             {
               "coindescs": [
@@ -940,7 +940,7 @@
         {
           "level": 1,
           "name": "フロアを揺るがす",
-          "desc": "[CantChangeTarget]\nパニック状態の対象を優先して指定\n[ReliefSense]を保有する囚人の場合、対象を変更可能\nこのスキルは対象の守備スキルを発動させない\n速度に関係なく、このスキルとマッチ可能\n[WhenUse] 攻撃加重値 +3\n- メインターゲットの[ReliefSense]1につき、増加する攻撃加重値が1ずつ減少\n[WhenUse] 下記の効果を適用\n- メインターゲットの[Vibration]と[Sinking]の合計4につき、最終威力 +1 (最大4)\n- メインターゲットの[Wariness]3につき、マッチ威力 +1 (最大3)\n- ダメージ量 +(対象の[Wariness] × 10)% (最大100%、ターゲットごとに適用)\n[DefeatDuel] 下記の効果を適用\n- ダメージ量 -50%\n- このスキルのダメージでは対象が混乱せず、的中時に対象の[Sinking]効果が発動しない",
+          "desc": "[CantChangeTarget]\nパニック状態の対象を優先して指定\n[ReliefSense]を保有する囚人の場合、対象を変更可能\nこのスキルは対象の守備スキルを発動させない\n速度に関係なく、このスキルとマッチ可能\n[WhenUse] 攻撃加重値 +3\n- メインターゲットの[ReliefSense]1につき、増加する攻撃加重値が1ずつ減少\n[WhenUse] 下記の効果を適用\n- メインターゲットの[Vibration]と[Sinking]の合計4につき、最終威力 +1 (最大4)\n- メインターゲットの[Wariness]3につき、マッチ威力 +1 (最大3)\n- ダメージ量 +(対象の[Wariness] × 10)% (最大100%, ターゲットごとに適用)\n[DefeatDuel] 下記の効果を適用\n- ダメージ量 -50%\n- このスキルのダメージでは対象が混乱せず、的中時に対象の[Sinking]効果が発動しない",
           "coinlist": [
             {
               "coindescs": [
@@ -982,7 +982,7 @@
         {
           "level": 1,
           "name": "ドン！ドン！ドカン！ドカーーーン！！！",
-          "desc": "このスキルは対象の守備スキルを発動させない\n速度に関係なく、このスキルとマッチ可能\n[StartBattle] バリア100を得る\n- 失った体力1%につき、バリア4を追加で得る (最大400)\n- 攻撃開始前にバリアが破壊されていない場合、残りのバリアの数値100につき、最終コインを1回再使用 (最大3回)\n[WhenUse] 下記の効果を適用\n- メインターゲットの[Vibration]と[Sinking]の合計6につき、最終威力 +1, コイン威力 +1 (それぞれ最大4)\n- メインターゲットの[Wariness]2につき、マッチ威力 +1 (最大5)\n- ダメージ量 +(対象の[Wariness] × 10)% (最大100%、ターゲットごとに適用)\n[DefeatDuel] 下記の効果を適用\n- ダメージ量 -75%\n- このスキルのダメージでは対象が混乱せず、的中時に対象の[Sinking]効果が発動しない",
+          "desc": "このスキルは対象の守備スキルを発動させない\n速度に関係なく、このスキルとマッチ可能\n[StartBattle] バリア100を得る\n- 失った体力1%につき、バリア4を追加で得る (最大400)\n- 攻撃開始前にバリアが破壊されていない場合、残りのバリアの数値100につき、最終コインを1回再使用 (最大3回)\n[WhenUse] 下記の効果を適用\n- メインターゲットの[Vibration]と[Sinking]の合計6につき、最終威力 +1, コイン威力 +1 (それぞれ最大4)\n- メインターゲットの[Wariness]2につき、マッチ威力 +1 (最大5)\n- ダメージ量 +(対象の[Wariness] × 10)% (最大100%, ターゲットごとに適用)\n[DefeatDuel] 下記の効果を適用\n- ダメージ量 -75%\n- このスキルのダメージでは対象が混乱せず、的中時に対象の[Sinking]効果が発動しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1562,7 +1562,7 @@
         {
           "level": 1,
           "name": "緯糸がこうだの",
-          "desc": "[WideAreaRampage]\n\n対象の[NiddlePin]1につき、ダメージ量 +5% (最大25%)\n\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは混乱しない",
+          "desc": "[WideAreaRampage]\n\n対象の[NiddlePin]1につき、ダメージ量 +5% (最大25%)\n\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1631,7 +1631,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin] "
+                  "desc": "[SuperCoin]"
                 },
                 {
                   "desc": "[OnSucceedAttack] [NiddlePin]1を付与"
@@ -1677,7 +1677,7 @@
         {
           "level": 1,
           "name": "1インチあたりの針数は20以上で！！！",
-          "desc": "[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは混乱しない",
+          "desc": "[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1824,7 +1824,7 @@
         {
           "level": 1,
           "name": "ひっく…",
-          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がないなら、ダメージ量 -80%、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[WinDuel] 対象のプラス効果をランダムに1つ除去 (充電、呼吸を除く)、自分が[Nutrition]1を得る",
+          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がないなら、ダメージ量 -80%, このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[WinDuel] 対象のプラス効果をランダムに1つ除去 (充電・呼吸を除く)、自分が[Nutrition]1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1846,7 +1846,7 @@
         {
           "level": 1,
           "name": "ううっ…",
-          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がないなら、ダメージ量 -80%、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>",
+          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がないなら、ダメージ量 -80%, このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1857,7 +1857,7 @@
                   "desc": "[OnSucceedAttack] [BloodyMucus]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象のプラス効果をランダムに1つ除去 (充電、呼吸を除く)、自分が[Nutrition]1を得る"
+                  "desc": "[OnSucceedAttack] 対象のプラス効果をランダムに1つ除去 (充電・呼吸を除く)、自分が[Nutrition]1を得る"
                 }
               ]
             },
@@ -1881,7 +1881,7 @@
         {
           "level": 1,
           "name": "ビュ…ッフェ…",
-          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] メインターゲットに[Laceration]がないなら、ダメージ量 -80%、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>",
+          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] メインターゲットに[Laceration]がないなら、ダメージ量 -80%, このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1892,7 +1892,7 @@
                   "desc": "[OnSucceedAttack] [BloodyMucus]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象のプラス効果をランダムに1つ除去 (充電、呼吸を除く)、自分が[Nutrition]1を得る"
+                  "desc": "[OnSucceedAttack] 対象のプラス効果をランダムに1つ除去 (充電・呼吸を除く)、自分が[Nutrition]1を得る"
                 }
               ]
             },
@@ -1916,7 +1916,7 @@
         {
           "level": 1,
           "name": "さ…むい…",
-          "desc": "体力が最も低い対象を優先して指定\n対象の失った体力1%につき、ダメージ量 +5% (最大250%)\n[WhenUse] 対象の[Laceration]4につき、最終威力 +2 (最大4)\n[WhenUse] 対象の現体力が50%未満なら、基本威力 +3\n[WinDuel] 対象のプラス効果をランダムに1つ除去 (充電、呼吸を除く)、自分が[Nutrition]2を得る\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象が混乱しない",
+          "desc": "体力が最も低い対象を優先して指定\n対象の失った体力1%につき、ダメージ量 +5% (最大250%)\n[WhenUse] 対象の[Laceration]4につき、最終威力 +2 (最大4)\n[WhenUse] 対象の現体力が50%未満なら、基本威力 +3\n[WinDuel] 対象のプラス効果をランダムに1つ除去 (充電・呼吸を除く)、自分が[Nutrition]2を得る\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1944,7 +1944,7 @@
         {
           "level": 1,
           "name": "痛い…！身体が…勝手に…！！！",
-          "desc": "体力が最も低い対象をメインターゲットとして優先して指定\n対象の失った体力3%につき、ダメージ量 +5% (最大50%)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +2 (最大4)\n[WhenUse] メインターゲットの現体力が50%未満なら、基本威力 +2\n[WinDuel] メインターゲットのプラス効果をランダムに1つ除去 (充電、呼吸を除く)、自分が[Nutrition]2を得る\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象が混乱しない",
+          "desc": "体力が最も低い対象をメインターゲットとして優先して指定\n対象の失った体力3%につき、ダメージ量 +5% (最大50%)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +2 (最大4)\n[WhenUse] メインターゲットの現体力が50%未満なら、基本威力 +2\n[WinDuel] メインターゲットのプラス効果をランダムに1つ除去 (充電・呼吸を除く)、自分が[Nutrition]2を得る\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -2004,7 +2004,7 @@
         {
           "level": 1,
           "name": "お腹が空いた…寒い…痛い…！",
-          "desc": "体力が最も低い対象をメインターゲットとして優先して指定\n対象の失った体力1%につき、ダメージ量 +1% (最大30%)\n[WhenUse] メインターゲットの[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] メインターゲットの現体力が50%未満なら、基本威力 +2\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を全て消耗し、コイン威力 +2, 加重値 +2\n[DefeatDuel] ダメージ量 -95%、このスキルのダメージでは対象が混乱しない",
+          "desc": "体力が最も低い対象をメインターゲットとして優先して指定\n対象の失った体力1%につき、ダメージ量 +1% (最大30%)\n[WhenUse] メインターゲットの[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] メインターゲットの現体力が50%未満なら、基本威力 +2\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を全て消耗し、コイン威力 +2, 加重値 +2\n[DefeatDuel] ダメージ量 -95%, このスキルのダメージでは対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -2141,7 +2141,7 @@
         {
           "level": 1,
           "name": "声が聞こえる…",
-          "desc": "[WhenUse] メインターゲットの[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ChargeRouge]回数が15未満なら、15まで増加し、増加した数値5につき次のターンに[BuffetFailed]1を得る\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象が混乱しない",
+          "desc": "[WhenUse] メインターゲットの[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ChargeRouge]回数が15未満なら、15まで増加し、増加した数値5につき次のターンに[BuffetFailed]1を得る\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象が混乱しない",
           "flavor": "百貨店には様々な声がある。誰の声だろうか。",
           "coinlist": [
             {
@@ -2203,7 +2203,7 @@
         {
           "level": 1,
           "name": "し…た…い",
-          "desc": "自分の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +2 (最大4)\n[DefeatDuel] 自分の[ChargeRouge]回数が2減少\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象が混乱しない",
+          "desc": "自分の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +2 (最大4)\n[DefeatDuel] 自分の[ChargeRouge]回数が2減少\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -2245,7 +2245,7 @@
         {
           "level": 1,
           "name": "私は…何…？",
-          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数10を消耗し、コイン威力 +2\n[DefeatDuel] ダメージ量 -80%、このスキルのダメージでは対象が混乱しない",
+          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数10を消耗し、コイン威力 +2\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージでは対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
