@@ -228,7 +228,7 @@
     {
       "id": 151703,
       "name": "Le Moi",
-      "desc": "<color=#ff6000><mark=#ff000040><b><u>Raise max Potency and Count cap</u></b></mark></color> for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to <color=#ff6000><mark=#ff000040><b><u>50 and 15</u></b></mark></color>, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
+      "desc": "When the Sinner who has [BuffetScruple] wins a Clash against a certain Skill, <color=#ff6000><mark=#ff000040><b><u>The Crimson God gains 1 [BuffetDream]</u></b></mark></color>\nWhen The Crimson God reaches 5 [BuffetDream] Stacks, it gains a new pattern; winning the Clash against the Skill in that new pattern will win the Encounter\n\n<color=#ff6000><mark=#ff000040><b><u>Raise max Potency and Count cap</u></b></mark></color> for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to <color=#ff6000><mark=#ff000040><b><u>50 and 15</u></b></mark></color>, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
       "flavor": "I saw my reflection in the water. My body, it's been... completed..."
     },
     {

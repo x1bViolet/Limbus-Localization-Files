@@ -10,8 +10,8 @@
     {
       "id": 1116,
       "panicName": "Sync Error",
-      "lowMoraleDescription": "- Take +12.5% damage\n- Min & Max Speed -1\n- Deal -15% damage using Skills that consume Preservation",
-      "panicDescription": "- Take +20% damage\n- Min & Max Speed -2\n- Deal -25% damage using Skills that consume Preservation"
+      "lowMoraleDescription": "- Take +12.5% damage\n- Min & Max Speed -1\n- Deal -15% damage using Skills that consume [ChargeNoir]",
+      "panicDescription": "- Take +20% damage\n- Min & Max Speed -2\n- Deal -25% damage using Skills that consume [ChargeNoir]"
     },
     {
       "id": 1117,

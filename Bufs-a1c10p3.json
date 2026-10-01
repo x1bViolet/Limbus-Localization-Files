@@ -201,7 +201,7 @@
       "name": "Nail [Console]",
       "desc": "- Max Stack: 9\n- Combat Start: <color=#ff6000><mark=#ff000040><b><u>At 9 Stacks, On Hit against the Chaplain</u></b></mark></color>, the Sinner who has this effect for this turn <color=#ff6000><mark=#ff000040><b><u>takes fixed damage equal to 2% of max HP</u></b></mark></color> (this effect cannot Stagger this unit)\n- If this effect is triggered by \"Do you seriously mean to break the Sisyphe System?\", gain Sinking equal to Stack and raise Stagger Threshold by (Stack x 2)",
       "summary": "When activated, gain Sinking and raise Stagger Threshold\nAt max Stack, take fixed damage when hit",
-      "flavor": "\"Let's see, the manual for this nail... 'You feel your sins crawling on your back...' Mm, no, not this one.\"\n\n\"It should be in Drawer 42 over here... I know I put it... ah, there it is! 'Console Manual for Le Noir Sisyphe System Administrator'.\""
+      "flavor": "\"Let's see, the manual for this nail... 'You feel your sins crawling on your back...' Mm, no, not this one.\"\n\n\"It should be in Drawer 42 over here... I know I put it... ah, there it is! 'Le Noir Administrator's Guide to the Sisyphe System Console Commands'.\""
     },
     {
       "id": "VibrationFocusing",
