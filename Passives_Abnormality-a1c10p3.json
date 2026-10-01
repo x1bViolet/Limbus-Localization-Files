@@ -228,7 +228,7 @@
     {
       "id": 151703,
       "name": "르 무아(le moi)",
-      "desc": "[Combustion], [Laceration], [Vibration], [Burst], [Sinking]의 <color=#ff6000><mark=#ff000040><b><u>위력이 최대 50까지 누적</u></b></mark></color>되고 <color=#ff6000><mark=#ff000040><b><u>횟수는 최대 15까지 누적</u></b></mark></color>됨\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 체력, 정신력 피해량 -50%\n패닉 변경 불가\n턴 종료 시 패닉 상태라면 정신력이 0이 됨",
+      "desc": "[BuffetScruple]을 가진 수감자가 특정 스킬과 합 승리 시\n<color=#ff6000><mark=#ff000040><b><u>붉은 신이 [BuffetDream] 1 얻음</u></b></mark></color>\n[BuffetDream]이 5가 되면 패턴이 변경되며, 변경된 패턴의 스킬과 합 승리 시 전투 승리\n\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]의 <color=#ff6000><mark=#ff000040><b><u>위력이 최대 50까지 누적</u></b></mark></color>되고 <color=#ff6000><mark=#ff000040><b><u>횟수는 최대 15까지 누적</u></b></mark></color>됨\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 체력, 정신력 피해량 -50%\n패닉 변경 불가\n턴 종료 시 패닉 상태라면 정신력이 0이 됨",
       "flavor": "나. 물속에 비친 나의 모습을 봤어. 난 완전한 몸을 지녔어…"
     },
     {
@@ -278,7 +278,7 @@
     {
       "id": 152103,
       "name": "그분 곁에서 식지 않는 맥동",
-      "desc": "전장에 붉은 신[완숙]이 있으면, 턴 종료 시 자신의 [ChargeRouge] 횟수가 감소하지 않음\n\n피격으로 인해 흐트러짐 상태가 되었을 때, 붉은 신[완숙]의 스킬로 흐트러짐 상태에서 해제되면, 자신을 공격했던 대상에게 스킬'이 낫으로 답하나이다!'로 일방공격",
+      "desc": "전장에 붉은 신이 있으면, 턴 종료 시 자신의 [ChargeRouge] 횟수가 감소하지 않음\n\n피격으로 인해 흐트러짐 상태가 되었을 때, 붉은 신의 스킬로 흐트러짐 상태에서 해제되면, 자신을 공격했던 대상에게 스킬'이 낫으로 답하나이다!'로 일방공격",
       "flavor": "숨이, 박동이 멈추지 않는다. 멈추고 싶다 해도, 멈추지 않는다."
     },
     {

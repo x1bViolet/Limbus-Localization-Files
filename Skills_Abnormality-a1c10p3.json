@@ -2148,7 +2148,7 @@
         {
           "level": 1,
           "name": "목소리를 향한 예배",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n붉은 신[완숙]을 타겟으로 지정\n\n이 스킬은 아래 효과가 적용됨\n- 수비 스킬을 발동시키지 않음\n- 외부 효과로 재사용할 수 없음\n- 공격이 적중하지 않음\n\n[EndCoin] 대상의 정신력 20 회복",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n붉은 신을 타겟으로 지정\n\n이 스킬은 아래 효과가 적용됨\n- 수비 스킬을 발동시키지 않음\n- 외부 효과로 재사용할 수 없음\n- 공격이 적중하지 않음\n\n[EndCoin] 대상의 정신력 20 회복",
           "coinlist": [
             {
               "coindescs": []
