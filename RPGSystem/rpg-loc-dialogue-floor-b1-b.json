@@ -744,7 +744,7 @@
         },
         {
           "index": 20,
-          "text": "Oh, then that must be where the sand leaking from the opening on the right came from....",
+          "text": "<Oh, then that must be where the sand leaking from the opening on the right came from...>",
           "speaker": "Dante"
         },
         {
@@ -1815,16 +1815,16 @@
       "texts": [
         {
           "index": 0,
-          "text": "[미사용] (임시) 푸드코트의 열기가 아직 식지 않았다."
+          "text": "....."
         },
         {
           "index": 1,
-          "text": "[미사용] (임시) 여기 것은 삽살이다.",
+          "text": ".....",
           "speaker": "Meursault"
         },
         {
           "index": 2,
-          "text": "[미사용] (임시) 챙기고 1층으로 올라간다."
+          "text": "....."
         }
       ]
     },
@@ -2266,7 +2266,7 @@
         },
         {
           "index": 5,
-          "text": "Considering what happened when we tried this etrance before the Liquidation... it would be common sense not to try it again."
+          "text": "Considering what happened when we tried this entrance before the Liquidation... it would be common sense not to try it again."
         },
         {
           "index": 6,

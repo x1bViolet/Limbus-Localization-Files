@@ -81,6 +81,10 @@
       "description": "Before the department store was built, a being of eld survived as if by miracle and left behind an offspring. That surviving descendant was beached on the Shore, there to become material for a new age."
     },
     {
+      "key": "I990926",
+      "displayName": "Colorful Skein"
+    },
+    {
       "key": "I990423",
       "displayName": "The Lights",
       "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Taken -2 when hit while standing still (min 1 <color=#fe4b48>Damage</color> taken)",
@@ -233,7 +237,7 @@
     {
       "key": "I990912",
       "displayName": "Mordant",
-      "statText": "In the Symbolic, <color=#F8C200>Sprinting</color> leaves behind <color=#F8C200>Yellow Pus Tiles</color> that last for 3 seconds\n- Enemies standing on these tiles have Movement Speed -30%\n\nSymbolic <color=#00ff9c>HP</color> +4",
+      "statText": "In the Symbolic, <color=#F8C200>Sprinting</color> leaves behind <color=#F8C200>Pus Tiles</color> that last for 3 seconds\n- Enemies standing on these tiles have Movement Speed -30%\n\nSymbolic <color=#00ff9c>HP</color> +4",
       "description": "One carries enough tears to burst; the other, not a drop."
     },
     {
@@ -288,7 +292,7 @@
       "key": "I991018",
       "displayName": "Voidbearing Eye",
       "statText": "In the Symbolic, enhance Pwie's <color=#F8C200>Overseer Projectile</color>\n- Upon landing the projectile, deals 3 <color=#fe4b48>Damage</color> within 2 tiles (0.1 seconds Hitstun)",
-      "description": "When the Aquarium transformed into the Grand Magasin, every remnant of the Aquarium should have disappeared with it. Yet something remained—something that still remembers its time there. For the Sisyphe System, which had long been believed to be flawless, this is a defect that must be resolved.\n\nFor whatever reason, the fish that was left behind without ever becoming a customer will remain a fish, no matter how many times the Grand Magasin resets.\n\nTo correct this flaw within the Sisyphe System, the Sinner responsible for that fish would have to die.\n\nBut the Sisyphe System is at once a punishment device, a resource-harvesting apparatus, and an embodiment of N Corp.'s morality. By design, it cannot forcibly kill one of its own prisoners."
+      "description": "When the Aquarium transformed into the Grand Magasin, every remnant of the Aquarium should have disappeared with it. Yet something remained—something that still remembers its time there. For the Sisyphe System, which had long been believed to be flawless, this is a defect that must be resolved.\n\nFor whatever reason, the fish that was left behind without ever becoming a customer will remain a fish, no matter how many times the Grand Magasin resets.\n\nTo correct this flaw within the Sisyphe System, the convict responsible for that fish would have to die.\n\nBut the Sisyphe System is at once a punishment device, a resource-harvesting apparatus, and an embodiment of N Corp.'s morality. By design, it cannot forcibly kill one of its own prisoners."
     },
     {
       "key": "I990918",

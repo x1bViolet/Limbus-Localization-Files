@@ -3322,6 +3322,46 @@
       "desc": "1 ally with the fastest Speed deals +10% damage using Slash Base Skills",
       "summary": "Bonus Slash damage",
       "flavor": "The single pair dearest to me, above all the rest... will be yours as well."
+    },
+    {
+      "id": 1031501,
+      "name": "Obsidian Covenant",
+      "desc": "Combat End: If this unit has [OathFieldDonQuixote], gain 1 [Agility] next turn\n\nThis unit's Base Attack Skills deal +([ChargeNoirAlly] Potency on self x 3)% damage against the main target (max 15%)",
+      "summary": "If [OathFieldDonQuixote] is active, gain [Agility] next turn\nBase Attack Skills deal more damage against the main target",
+      "flavor": "I heard His voice, His promise: \"Everything that exists has meaning.\""
+    },
+    {
+      "id": 1031502,
+      "name": "Malleus Promissionis",
+      "desc": "Upon entering the Encounter for the first time, gain +10 [ChargeNoirAlly] Count and apply +2 [Charge] Count on other \"Le Noir\" allied Identities\n\nWhen inflicting [NoirNailDonQuixote] using Skill effects:\n- At 12+ [ChargeNoirAlly] Count, inflict +1 more [NoirNailDonQuixote] and consume 4 [ChargeNoirAlly] Count\n- At fewer than 12 [ChargeNoirAlly] Count, consume 2 [ChargeNoirAlly] Count\n- At insufficient [ChargeNoirAlly] Count, does not inflict [NoirNailDonQuixote]\n- Skills that inflict [NoirNailDonQuixote] due to this effect count as Skills that consume [Charge] Count\n\nGain 1 [ChargeNoirAlly] Potency every time this unit consumes 10 cumulative [ChargeNoirAlly] Count in this Encounter",
+      "summary": "Gain [ChargeNoirAlly] Count; \"Le Noir\" allies gain [Charge] Count\nConsume [ChargeNoirAlly] Count when inflicting [NoirNailDonQuixote]; inflict more [NoirNailDonQuixote] when at sufficient [ChargeNoirAlly] Count\nGain [ChargeNoirAlly] Potency by consuming [ChargeNoirAlly] Count",
+      "flavor": "A hammer drives nails. This hammer strikes nothing but nails. Whatever it strikes is a nail. That is what was agreed upon."
+    },
+    {
+      "id": 1031503,
+      "name": "Mission of Conservation",
+      "desc": "Upon entering the Encounter for the first time, gain 25 [NoirShieldUpDonQuixote]\n\nWhen consuming [ChargeNoirAlly] Count, or when gaining [ChargeNoirAlly] Count past its max cap, gain ([ChargeNoirAlly] Count consumed or surplus [ChargeNoirAlly] Count x 5) [NoirShieldUpDonQuixote] (max 30 per turn)\n\nWhen an allied Identity that has Shield is hit, this unit gains 2 [NoirShieldUpDonQuixote] (max 10 per turn)\n- If the said allied Identity is a [PersonalityCharge], gain 5 [NoirShieldUpDonQuixote] instead",
+      "summary": "Gain [NoirShieldUpDonQuixote]"
+    },
+    {
+      "id": 1031504,
+      "name": "The Lord's Will and Values Be With Us...",
+      "desc": "Before Attack of another \"Le Noir\" allied Identity on an enemy, this unit uses \"Judgment!\" Skill as an Unopposed Attack against the main target (once per turn)\n\nOn the final Coin Start of a Base Skill, the said Coin gains Final Power +([ChargeNoirAlly] Potency on self + ([NoirNailDonQuixote] on target / 2)) (max 5)\n\nIf this unit has [OathFieldDonQuixote], Base Skill 1/2/3 gains Clash Power +1/+2/+3\n\nWhen [VibrationExplosion] triggers on a target that has [NoirNailDonQuixote], this unit and 1 other allied [PersonalityCharge] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)",
+      "summary": "Use \"Judgment!\" Skill before a \"Le Noir\" ally attacks\nBase Skill final Coins gain Final Power\nIf [OathFieldDonQuixote] is active, Base Skills gain Clash Power\nGain [Charge] Count when triggering [VibrationExplosion] on targets that have [NoirNailDonQuixote]",
+      "flavor": "The Obsidian God's words be our guiding light, our armor and shield in this troubled world of uncertainties; becometh His Voice the shining beam of light upon us, thereby bestowing us with meaning so coveted."
+    },
+    {
+      "id": 1031511,
+      "name": "Obsidian Covenant",
+      "desc": "Combat End: If this unit has [OathFieldDonQuixote], gain 2 [Agility] next turn\n\nThis unit's Base Attack Skills deal +([ChargeNoirAlly] Potency on self x 6)% damage against the main target (max 30%)",
+      "summary": "If [OathFieldDonQuixote] is active, gain [Agility] next turn\nBase Attack Skills deal more damage against the main target",
+      "flavor": "I heard His voice, His promise: \"Everything that exists has meaning.\""
+    },
+    {
+      "id": 1031521,
+      "name": "Formation Conservation",
+      "desc": "All allied [PersonalityCharge] take -2% damage this turn for every allied [PersonalityCharge] on the field at Combat Start (max -10%)",
+      "summary": "Allied [PersonalityCharge] take less damage"
     }
   ]
 }

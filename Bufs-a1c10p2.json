@@ -194,7 +194,7 @@
       "name": "Promised Nail",
       "desc": "- Max Stack: 3\n- When Tremor Burst is triggered on this unit,\n · Take Sloth damage equal to Tremor Potency on self\n · Gain 1 Fragile\n · Lose 1 Stack",
       "summary": "",
-      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if none was there before."
+      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if there is none."
     },
     {
       "id": "BuffetField",

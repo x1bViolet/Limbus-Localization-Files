@@ -401,6 +401,18 @@
       "text": "Directional Change Threshold Adjustment"
     },
     {
+      "key": "Setting_Sisyphus_VirtualPadMode",
+      "text": "Virtual Pad"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFixed",
+      "text": "Fixed"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFloating",
+      "text": "Floating"
+    },
+    {
       "key": "Setting_Sisyphus_RunStartDelayValue",
       "text": "{0} Seconds"
     },
@@ -450,7 +462,7 @@
     },
     {
       "key": "Setting_Sisyphus_Inventory",
-      "text": "View inventory"
+      "text": "View Inventory"
     },
     {
       "key": "Setting_Sisyphus_DialogueNext",
@@ -478,7 +490,7 @@
     },
     {
       "key": "Setting_Sisyphus_QuestNavigation",
-      "text": "Toggle quest navigation arrow"
+      "text": "Toggle Quest Navigation Arrow"
     },
     {
       "key": "Setting_Sisyphus_TabDefault",

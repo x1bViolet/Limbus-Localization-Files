@@ -22,7 +22,7 @@
     },
     {
       "id": "rpg_suicidebox_coming_soon",
-      "content": "To be updated on 10-1 (KST)"
+      "content": "To be updated on {0}-{1} (KST)"
     },
     {
       "id": "rpg_suicidebox_intro_ab_1",
@@ -43,6 +43,10 @@
     {
       "id": "rpg_suicidebox_pressed_dialog_ab",
       "content": "Pregnant users, elderly guests, persons using substances, and patients with cardiovascular conditions are advised to proceed with caution.\nAny accidents resulting from excessive use remain the sole responsibility of the user."
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "The multitude tightens its hold.\nYour motion will stop, and pain will cease with it."
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_b",
