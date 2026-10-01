@@ -136,7 +136,7 @@
     {
       "key": "Q4023B",
       "title": "벽에 생긴 입구를 통해 안으로 들어가기",
-      "description": "도로테아가 신발을 맞부딫히자 벽에서부터 어딘가로 통하는 입구가 생겼다. 안으로 들어가보자.",
+      "description": "도로테아가 신발을 맞부딪히자 벽에서부터 어딘가로 통하는 입구가 생겼다. 안으로 들어가보자.",
       "steps": [
         { "index": 0, "goalDescription1": "벽에 생긴 입구를 통해 안으로 들어가기" }
       ]
@@ -220,7 +220,7 @@
       "description": "황금 재료들을 다 모아왔다. 디자이너에게 돌아가서 말을 걸어보자.",
       "steps": [
         { "index": 0, "goalDescription1": "르누아르 가방관 디자이너에게 돌아가기" },
-        { "index": 1, "goalDescription1": "첫 번째 걸작에게 말 걸기", "goalDescription2": "두번째 걸작에게 말 걸기", "goalDescription3": "세 번째 걸작에게 말 걸기" }
+        { "index": 1, "goalDescription1": "첫 번째 걸작에게 말 걸기", "goalDescription2": "두 번째 걸작에게 말 걸기", "goalDescription3": "세 번째 걸작에게 말 걸기" }
      
       ]
     },

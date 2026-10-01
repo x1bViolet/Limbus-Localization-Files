@@ -45,6 +45,10 @@
       "content": "임산부, 노약자, 약물 사용자 및 심혈관계 질환자는 이용에 주의하세요.\n무리한 사용으로 인한 사고 발생 시, 모든 책임은 사용자 본인에게 있습니다."
     },
     {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "수많은 것들이 옥죄어 온다. 움직이지 못해도, 아프지 않도록."
+    },
+    {
       "id": "rpg_suicidebox_enter_notice_condition_b",
       "content": "- 인격 : 동기화 4단계"
     },

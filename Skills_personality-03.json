@@ -3232,6 +3232,467 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "못 박히라",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1\n[WhenUse] 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 르누아르 소속 아군 인격 1명의 [Charge] 횟수 2 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 4 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "못 박히라",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, <style=\"highlight\">피해량 +20%</style>\n[WhenUse] 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 르누아르 소속 아군 인격 1명의 [Charge] 횟수 <style=\"highlight\">3</style> 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "못 박히라",
+          "desc": "[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">40%</style>\n[WhenUse] 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 르누아르 소속 아군 인격 1명의 [Charge] 횟수 <style=\"highlight\">4</style> 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">6</style> 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "못 생기라",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 6 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "못 생기라",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, <style=\"highlight\">피해량 +20%</style>\n<style=\"highlight\">[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +1 (최대 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">7</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "못 생기라",
+          "desc": "[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">30%</style>\n[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +1 (최대 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">8</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "탄생을 끊으리라!",
+          "desc": "[StartBattle] [OathFieldDonQuixote] 3 얻음 (턴당 1회)\n[StartBattle] 자신과 자신을 제외한 속도가 가장 빠른 르누아르 소속 아군 인격 1명에게 [AttackUp] 2, [DefenseUp] 2 부여 (턴당 1회)\n[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +20%\n[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +1 (최대 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationFocusing]으로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [NoirNailDonQuixote]이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "탄생을 끊으리라!",
+          "desc": "[StartBattle] [OathFieldDonQuixote] 3 얻음 (턴당 1회)\n[StartBattle] 자신과 자신을 제외한 속도가 가장 빠른 르누아르 소속 아군 인격 1명에게 [AttackUp] 2, [DefenseUp] 2 부여 (턴당 1회)\n[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 <style=\"highlight\">6당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">40%</style>\n[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +1 (최대 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationFocusing]으로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [NoirNailDonQuixote]이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "묵시",
+          "desc": "[StartBattle] [OathFieldDonQuixote] 3 얻음 (턴당 1회)\n[StartBattle] 자신과 자신을 제외한 정신력이 가장 낮은 르누아르 소속 아군 인격 1명의 정신력 4 회복 (턴당 1회)\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 1회)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "묵시",
+          "desc": "[StartBattle] [OathFieldDonQuixote] 3 얻음 (턴당 1회)\n[StartBattle] 자신과 자신을 제외한 정신력이 가장 낮은 르누아르 소속 아군 인격 1명의 정신력 <style=\"highlight\">5</style> 회복 (턴당 1회)\n<style=\"highlight\">[StartBattle] 자신의 [NoirShieldUpDonQuixote]가</style>\n<style=\"highlight\">- 100이면, 대신 ‘거듭 내리쳐, 탄생을 끊으리라!’로 발동됨 (턴당 1회, 이 효과는 일방 공격에도 발동함)</style>\n<style=\"highlight\">- 100 미만이면, 자신의 최대 체력의 ([NoirShieldUpDonQuixote]/10)%만큼 보호막 얻음 (턴당 1회)</style>\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">3</style> 증가 (턴당 1회)\n<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, <style=\"highlight\">피해량 +10%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "묵시",
+          "desc": "[StartBattle] [OathFieldDonQuixote] 3 얻음 (턴당 1회)\n[StartBattle] 자신과 자신을 제외한 정신력이 가장 낮은 르누아르 소속 아군 인격 1명의 정신력 <style=\"highlight\">6</style> 회복 (턴당 1회)\n[StartBattle] 자신의 [NoirShieldUpDonQuixote]가\n- 100이면, 대신 ‘거듭 내리쳐, 탄생을 끊으리라!’로 발동됨 (턴당 1회, 이 효과는 일방 공격에도 발동함)\n- 100 미만이면, 자신의 최대 체력의 ([NoirShieldUpDonQuixote]/10)%만큼 보호막 얻음 (턴당 1회)\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가 (턴당 1회)\n[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 <style=\"highlight\">6당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">20%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "심판!",
+          "desc": "[CantDuel]\n이 스킬은 아래 효과가 적용됨\n- 수비 스킬을 발동시키지 않음\n- 외부 효과로 재사용할 수 없음\n- 이 스킬 종료 시까지 대상의 체력이 1 미만으로 감소하지 않음\n[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "심판!",
+          "desc": "[CantDuel]\n이 스킬은 아래 효과가 적용됨\n- 수비 스킬을 발동시키지 않음\n- 외부 효과로 재사용할 수 없음\n- 이 스킬 종료 시까지 대상의 체력이 1 미만으로 감소하지 않음\n[WhenUse] 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">40%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "거듭 내리쳐, 탄생을 끊으리라!",
+          "desc": "이 스킬은 수비 스킬 대신 발동해도 공격 스킬로 취급되어, 수비 위력 변경 효과를 받지 않고, 공격 위력 변경 효과가 적용됨\n[StartBattle] 모든 르누아르 소속 아군 인격에게 [AttackUp] 2, [DefenseUp] 2 부여 (턴당 1회)\n[WhenUse] 모든 공격 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +2 (최대 8)\n[EndSkill] [NoirShieldUpDonQuixote] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가 (코인당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationFocusing]으로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상별로 [NoirNailDonQuixote] 수치에 따라 아래 효과 적용\n- [NoirNailDonQuixote]이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- 이 코인 최종 피해량의 ([NoirNailDonQuixote] x 1.5)%만큼 나태 피해 (최대 45%)\n- 대상의 [NoirNailDonQuixote] 전부 소모"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거듭 내리쳐, 탄생을 끊으리라!",
+          "desc": "이 스킬은 수비 스킬 대신 발동해도 공격 스킬로 취급되어, 수비 위력 변경 효과를 받지 않고, 공격 위력 변경 효과가 적용됨\n[StartBattle] 모든 르누아르 소속 아군 인격에게 [AttackUp] 2, [DefenseUp] 2 부여 (턴당 1회)\n[WhenUse] 모든 공격 대상의 [Vibration] 위력과 [NoirNailDonQuixote]의 합 <style=\"highlight\">6당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +<style=\"highlight\">50%</style> (집중 전투인 경우, 부위로 판정)\n[BeforeAttack] 최대 공명 수 1당, 마지막 코인의 최종 위력 +2 (최대 8)\n[EndSkill] [NoirShieldUpDonQuixote] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirNailDonQuixote] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가 (코인당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationFocusing]으로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상별로 [NoirNailDonQuixote] 수치에 따라 아래 효과 적용\n- [NoirNailDonQuixote]이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- 이 코인 최종 피해량의 ([NoirNailDonQuixote] x <style=\"highlight\">3</style>)%만큼 나태 피해 (최대 <style=\"highlight\">90%</style>)\n- 대상의 [NoirNailDonQuixote] 전부 소모"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

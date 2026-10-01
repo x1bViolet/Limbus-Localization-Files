@@ -1082,6 +1082,216 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구멍(le trou)",
+          "abName": "구멍난 사람",
+          "desc": "[CantDuel]\n전투에서 처음 사용 시 정신력 소모량이 5 감소하고, 필요한 E.G.O 자원이 우울 2, 오만 2, 질투 2 감소\n[BulletHole]이 1 이상이면, ‘부셰’로 발동됨\n이 스킬은 적에게 적중하지 않고, 수비 스킬을 발동시키지 않으며, 외부 효과로 재사용이 불가능함\n[EndSkill] [BulletHole] 5 얻음\n[EndSkill] [Breath] 위력 5 얻음\n[EndSkill] [Breath] 횟수 3 얻음\n[EndSkill] [Charge] 횟수 5 얻음\n[EndSkill] [BlackWingHole] 4 얻음",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "구멍(le trou)",
+          "abName": "구멍난 사람",
+          "desc": "[CantDuel]\n전투에서 처음 사용 시 정신력 소모량이 5 감소하고, 필요한 E.G.O 자원이 우울 2, 오만 2, 질투 2 감소\n[BulletHole]이 1 이상이면, ‘부셰’로 발동됨\n이 스킬은 적에게 적중하지 않고, 수비 스킬을 발동시키지 않으며, 외부 효과로 재사용이 불가능함\n[EndSkill] [BulletHole] 5 얻음\n[EndSkill] [Breath] 위력 5 얻음\n[EndSkill] [Breath] 횟수 3 얻음\n[EndSkill] [Charge] 횟수 5 얻음\n[EndSkill] [BlackWingHole] 4 얻음",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "구멍(le trou)",
+          "abName": "구멍난 사람",
+          "desc": "[CantDuel]\n전투에서 처음 사용 시 정신력 소모량이 5 감소하고, 필요한 E.G.O 자원이 우울 2, 오만 2, 질투 2 감소\n[BulletHole]이 1 이상이면, ‘부셰’로 발동됨\n이 스킬은 적에게 적중하지 않고, 수비 스킬을 발동시키지 않으며, 외부 효과로 재사용이 불가능함\n[EndSkill] [BulletHole] 5 얻음\n[EndSkill] [Breath] 위력 5 얻음\n[EndSkill] [Breath] 횟수 3 얻음\n[EndSkill] [Charge] 횟수 5 얻음\n[EndSkill] [BlackWingHole] 4 얻음",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "부셰(boucher un trou)",
+          "abName": "구멍난 사람",
+          "desc": "이 스킬은 외부 효과로 재사용이 불가능함\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n자신의 [BulletHole] 1당 합 위력 +2\n[BeforeAttack] [BulletHole]을 전부 소모하고 아래 효과 적용\n- 소모값 1당 [Breath] 위력 2, [Breath] 횟수 1, [Charge] 횟수 2 얻음\n- 소모값 1당 피해량 +8%\n이 스킬에서 [BulletHole]을 5 소모했으면, 정신력 5 회복\n[EndSkill] [BulletHole] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "(소모한 [BulletHole] - 1)만큼 이 코인 재사용 (최대 4회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "부셰(boucher un trou)",
+          "abName": "구멍난 사람",
+          "desc": "이 스킬은 외부 효과로 재사용이 불가능함\n<style=\"highlight\">이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +5% (집중 전투인 경우, 부위로 판정)</style>\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">7</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n<style=\"highlight\">[BeforeAttack] 공격 대상이 1명이면, 피해량 +50% (집중 전투인 경우, 본체로 판정)</style>\n[BeforeAttack] [BulletHole]을 전부 소모하고 아래 효과 적용\n- 소모값 1당 [Breath] 위력 2, [Breath] 횟수 1, [Charge] 횟수 2 얻음\n- 소모값 1당 피해량 +8%\n이 스킬에서 [BulletHole]을 5 소모했으면, 정신력 5 회복\n[EndSkill] [BulletHole] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(소모한 [BulletHole] - 1)만큼 이 코인 재사용 (최대 4회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "부셰(boucher un trou)",
+          "abName": "구멍난 사람",
+          "desc": "이 스킬은 외부 효과로 재사용이 불가능함\n이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 <style=\"highlight\">+10%</style> (집중 전투인 경우, 부위로 판정)\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">10</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n[BeforeAttack] 공격 대상이 1명이면, 피해량 <style=\"highlight\">+100%</style> (집중 전투인 경우, 본체로 판정)\n[BeforeAttack] [BulletHole]을 전부 소모하고 아래 효과 적용\n- 소모값 1당 [Breath] 위력 2, [Breath] 횟수 1, [Charge] 횟수 2 얻음\n- 소모값 1당 피해량 +8%\n<style=\"highlight\">[EndSkill] 아군 2+(최대 공명 수)명에게 [Breath] 위력 5, [Breath] 횟수 2 부여 (최대 7명)</style>\n이 스킬에서 [BulletHole]을 5 소모했으면, 정신력 5 회복\n[EndSkill] [BulletHole] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(소모한 [BulletHole] - 1)만큼 이 코인 재사용 (최대 4회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 자신의 10을 초과하는 [Charge] 횟수를 최대 15까지 소모하여 피해량 +(소모값 x 2)%\n[BeforeAttack] 자신의 [BulletHole]이 최대치면, 전부 소모하여 다음 턴에 모든 아군에게 아래 효과 적용\n- [AttackUp] 1 부여\n- [AttackDmgUp] 1 부여 (턴당 1회)\n- [CriticalDamageUp] 1 부여 (턴당 1회)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n[EndSkill] [BulletHole] 1, [BlackWingHole] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">7</style>)\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 자신의 10을 초과하는 [Charge] 횟수를 최대 15까지 소모하여 피해량 +(소모값 x <style=\"highlight\">3</style>)%\n[BeforeAttack] 자신의 [BulletHole]이 최대치면, 전부 소모하여 다음 턴에 모든 아군에게 아래 효과 적용\n- [AttackUp] 1 부여\n- [AttackDmgUp] 1 부여 (턴당 1회)\n- [CriticalDamageUp] 1 부여 (턴당 1회)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n[EndSkill] [BulletHole] 1, [BlackWingHole] 2 얻음\n<style=\"highlight\">[EndSkill] 무작위 아군 2+(최대 공명 수)명에게 [Breath] 위력 5, [Breath] 횟수 2 부여 (최대 7명)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 ([Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">10</style>)\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 자신의 10을 초과하는 [Charge] 횟수를 최대 15까지 소모하여 피해량 +(소모값 x <style=\"highlight\">5</style>)%\n[BeforeAttack] 자신의 [BulletHole]이 최대치면, 전부 소모하여 다음 턴에 모든 아군에게 아래 효과 적용\n- [AttackUp] 1 부여\n- [AttackDmgUp] 1 부여 (턴당 1회)\n- [CriticalDamageUp] 1 부여 (턴당 1회)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n[EndSkill] [BulletHole] 1, [BlackWingHole] 2 얻음\n[EndSkill] 무작위 아군 2+(최대 공명 수)명에게 [Breath] 위력 5, [Breath] 횟수 2, <style=\"highlight\">[BlackWingHole] 2</style> 부여 (최대 7명)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

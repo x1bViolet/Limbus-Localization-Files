@@ -287,6 +287,14 @@
     {
       "id": "AlwaysUseEGOPassive",
       "name": "[상시 효과]"
+    },
+    {
+      "id": "CoinHead",
+      "name": "[앞면]"
+    },
+    {
+      "id": "CoinTail",
+      "name": "[뒷면]"
     }
   ]
 }

@@ -1033,6 +1033,382 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2051011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "이 코인은 메인 타겟에게만 적중함"
+                },
+                {
+                  "desc": "[BulletHole] 1 소모"
+                },
+                {
+                  "desc": "크리티컬 피해량 +10%"
+                },
+                {
+                  "desc": "처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여"
+                },
+                {
+                  "desc": "[EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "크리티컬 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">7</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "이 코인은 메인 타겟에게만 적중함<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[BulletHole] 1 소모<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "크리티컬 피해량 <style=\"highlight\">+15%</style>"
+                },
+                {
+                  "desc": "처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 마지막 코인 위력 +1</style>"
+                },
+                {
+                  "desc": "[EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "크리티컬 피해량 <style=\"highlight\">+50%</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] 공격 대상이 1명이면, 피해량 +50% (집중 전투의 경우, 본체로 판정)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">10</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "이 코인은 메인 타겟에게만 적중함<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[BulletHole] 1 소모<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "크리티컬 피해량 <style=\"highlight\">+20%</style>"
+                },
+                {
+                  "desc": "처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (스킬당 1회)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 마지막 코인 위력 +1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "크리티컬 피해량 +50%<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] 공격 대상이 1명이면, 피해량 <style=\"highlight\">+100%</style> (집중 전투의 경우, 본체로 판정)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] 자신의 [Charge] 횟수 4당 코인 위력 +1 (최대 5)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] [BlackWingHole] 5 얻음"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수 5 증가"
+                },
+                {
+                  "desc": "[OnStartCoin] [Breath] 5 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨"
+                },
+                {
+                  "desc": "[CoinHead]\n- 이 코인은 적중하지 않음"
+                },
+                {
+                  "desc": "- [EndCoin] [Breath] 5 얻음"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [Breath] 횟수 3 증가"
+                },
+                {
+                  "desc": "- [EndCoin] [BulletHole] 2 얻음"
+                },
+                {
+                  "desc": "- [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)"
+                },
+                {
+                  "desc": "[CoinTail]\n- 피해량 +(자신의 충전 횟수 x 3)% (최대 60%)"
+                },
+                {
+                  "desc": "- 크리티컬 피해량 +70%"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [BulletHole] 전부 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 5 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">7</style>)\n\n<style=\"highlight\">[BeforeAttack] 공격 대상이 1명이면, 피해량 +100% (집중 전투의 경우, 본체로 판정)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] [BlackWingHole] 5 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수 5 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] [Breath] 5 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- 이 코인은 적중하지 않음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] [Breath] 5 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [Breath] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] [BulletHole] 2 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style=\"highlight\">4)% (최대 80%)</style>"
+                },
+                {
+                  "desc": "- 크리티컬 피해량 <style=\"highlight\">+100%</style>"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] 이 코인 최종 피해량의 <style=\"highlight\">15%</style>만큼 관통 피해"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [BulletHole] 전부 소모<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 5 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "구멍",
+          "abName": "구멍난 사람",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style=\"highlight\">10</style>)\n\n[BeforeAttack] 공격 대상이 1명이면, 피해량 <style=\"highlight\">+200% (집중 전투의 경우, 본체로 판정)\n[BeforeAttack] 최종 위력 +(자신의 [BulletHole] 수치)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)\n<style=\"highlight\">[EnemyKill] 정신력 5 회복</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] [BlackWingHole] 5 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] 자신의 [Charge] 횟수 5 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] [Breath] 5 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- 이 코인은 적중하지 않음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] [Breath] 5 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [Breath] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EndCoin] 자신에게 부여된 해제 가능한 부정적인 효과 무작위 1개 제거</style>"
+                },
+                {
+                  "desc": "- [EndCoin] [BulletHole] 2 얻음<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style=\"highlight\">5)% (최대 100%)</style>"
+                },
+                {
+                  "desc": "- 크리티컬 피해량 <style=\"highlight\">+130%</style>"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] 이 코인 최종 피해량의 <style=\"highlight\">20%</style>만큼 관통 피해"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EnemyKill] 자신의 최대 체력의 5%만큼 체력 회복</style>"
+                },
+                {
+                  "desc": "- [EndCoin] 자신의 [BulletHole] 전부 소모<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 5 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

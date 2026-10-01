@@ -43,6 +43,14 @@
     {
       "id": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero",
       "content": "오늘 더 이상 남은 횟수가 없습니다."
+    },
+    {
+      "id": "danteAbility_50101_Option_0",
+      "content": "앞면"
+    },
+    {
+      "id": "danteAbility_50101_Option_1",
+      "content": "뒷면"
     }
   ]
 }

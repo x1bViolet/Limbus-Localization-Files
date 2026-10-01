@@ -3791,6 +3791,61 @@
       "id": "battle_special_10816_2",
       "desc": "우화 상태 진입",
       "dlg": "누군가 씌운 거짓을 벗겨내고, 진정한 나의 모습으로!"
+    },
+    {
+      "id": "battle_s3_10315_1_1",
+      "desc": "",
+      "dlg": "못을 세워."
+    },
+    {
+      "id": "battle_s3_10315_1_3",
+      "desc": "",
+      "dlg": "내려치리라!"
+    },
+    {
+      "id": "battle_special_10315_1_1",
+      "desc": "",
+      "dlg": "섬광!"
+    },
+    {
+      "id": "battle_special_10315_1_2",
+      "desc": "",
+      "dlg": "심판!"
+    },
+    {
+      "id": "battle_special_10315_2_1",
+      "desc": "",
+      "dlg": "그대의 죄, 한없이 무거우므로."
+    },
+    {
+      "id": "battle_special_10315_2_1-02",
+      "desc": "",
+      "dlg": "신벌을 고하겠다!"
+    },
+    {
+      "id": "battle_special_10315_2_2",
+      "desc": "",
+      "dlg": "거듭 내리쳐, 삶을 부수고"
+    },
+    {
+      "id": "battle_special_10315_2_2-02",
+      "desc": "",
+      "dlg": "산산이 조각내리라!"
+    },
+    {
+      "id": "battle_special_10315_3",
+      "desc": "",
+      "dlg": "약속된 안식을."
+    },
+    {
+      "id": "battle_special_10315_4",
+      "desc": "",
+      "dlg": "신역 선포. 찬란히 빛나리라."
+    },
+    {
+      "id": "battle_special_10315_8",
+      "desc": "",
+      "dlg": "질서대로 행하라."
     }
   ]
 }

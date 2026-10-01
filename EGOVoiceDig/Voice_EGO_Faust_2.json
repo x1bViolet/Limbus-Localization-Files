@@ -119,6 +119,36 @@
       "id": "battle_erosion_20210_4",
       "desc": "E.G.O 침식",
       "dlg": "함께, 타오르는 거야."
+    },
+    {
+      "id": "battle_awaken_20211_1",
+      "desc": "E.G.O 발동",
+      "dlg": "겨눠진 불운은 기어코 쫓아오기 마련이기에. 사람은 사라져, 오직 잿빛만 남으리."
+    },
+    {
+      "id": "battle_awaken_20211_2",
+      "desc": "E.G.O 발동",
+      "dlg": "겨눠진 불운은 기어코 쫓아오기 마련이기에. 사람은 사라져,"
+    },
+    {
+      "id": "battle_awaken_20211_3",
+      "desc": "E.G.O 발동",
+      "dlg": "오직 잿빛만 남으리."
+    },
+    {
+      "id": "battle_erosion_20211_1",
+      "desc": "E.G.O 침식",
+      "dlg": "무수한 시선과 무수한 총탄. 격철은 홀로 스물네 번 움직여…"
+    },
+    {
+      "id": "battle_erosion_20211_2",
+      "desc": "E.G.O 침식",
+      "dlg": "그늘 아래 쉼 없이,"
+    },
+    {
+      "id": "battle_erosion_20211_3",
+      "desc": "E.G.O 침식",
+      "dlg": "빗발쳐라."
     }
   ]
 }

@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "dialogueKey": "D7003_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7003_C2",
+      "index": 1,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7006_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7006_C2",
+      "index": 1,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7006_C2",
+      "index": 2,
+      "portraitKey": "DP_Dante3"
+    },
+    {
+      "dialogueKey": "D7006_C2",
+      "index": 3,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7006_C2",
+      "index": 4,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7011_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7012_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7013_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7004_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7004_C2",
+      "index": 1,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7004_C2",
+      "index": 2,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7004_C2",
+      "index": 3,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7004_C2",
+      "index": 4
+    },
+    {
+      "dialogueKey": "D7002_C2",
+      "index": 0
+    },
+    {
+      "dialogueKey": "D7005_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne",
+      "voice": "S1003V-755"
+    },
+    {
+      "dialogueKey": "D7005_C2",
+      "index": 1,
+      "portraitKey": "DP_Jeanne",
+      "voice": "S1003V-756"
+    },
+    {
+      "dialogueKey": "D7040_C2",
+      "index": 0,
+      "portraitKey": "DP_Jeanne",
+      "isNarration": false
+    },
+    {
+      "dialogueKey": "D7040_C2",
+      "index": 1,
+      "portraitKey": "DP_Meursault",
+      "isNarration": false
+    },
+    {
+      "dialogueKey": "D7053_C2",
+      "index": 0,
+      "isNarration": false
+    },
+    {
+      "dialogueKey": "D7070_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1054"
+    },
+    {
+      "dialogueKey": "D7026_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1054_1"
+    },
+    {
+      "dialogueKey": "D7026_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1054_2"
+    },
+    {
+      "dialogueKey": "D7026_C2",
+      "index": 2,
+      "isNarration": false,
+      "voice": "S1003V-1054_3"
+    },
+    {
+      "dialogueKey": "D7023_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1054_4"
+    },
+    {
+      "dialogueKey": "D7024_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1054_5"
+    },
+    {
+      "dialogueKey": "D7024_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1054_6"
+    },
+    {
+      "dialogueKey": "D7028_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1054_7"
+    },
+    {
+      "dialogueKey": "D7028_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1054_8"
+    },
+    {
+      "dialogueKey": "D7028_C2",
+      "index": 2,
+      "isNarration": false,
+      "voice": "S1003V-1054_9"
+    },
+    {
+      "dialogueKey": "D7022_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1055"
+    },
+    {
+      "dialogueKey": "D7022_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1056"
+    },
+    {
+      "dialogueKey": "D7050_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1057"
+    },
+    {
+      "dialogueKey": "D7060_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1057_1"
+    },
+    {
+      "dialogueKey": "D7060_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1057_2"
+    },
+    {
+      "dialogueKey": "D7051_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1057_3"
+    },
+    {
+      "dialogueKey": "D7051_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1057_4"
+    },
+    {
+      "dialogueKey": "D7051_C2",
+      "index": 2,
+      "isNarration": false,
+      "voice": "S1003V-1057_5"
+    },
+    {
+      "dialogueKey": "D7061_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1057_6"
+    },
+    {
+      "dialogueKey": "D7061_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1057_7"
+    },
+    {
+      "dialogueKey": "D7061_C2",
+      "index": 2,
+      "isNarration": false,
+      "voice": "S1003V-1057_8"
+    },
+    {
+      "dialogueKey": "D7052_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1057_9"
+    },
+    {
+      "dialogueKey": "D7052_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1057_10"
+    },
+    {
+      "dialogueKey": "D7062_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1059"
+    },
+    {
+      "dialogueKey": "D7062_C2",
+      "index": 1,
+      "isNarration": false,
+      "voice": "S1003V-1060"
+    },
+    {
+      "dialogueKey": "D7062_C2",
+      "index": 2,
+      "isNarration": false,
+      "voice": "S1003V-1061"
+    },
+    {
+      "dialogueKey": "D7064_C2",
+      "index": 0,
+      "isNarration": false,
+      "voice": "S1003V-1061_2"
+    },
+    {
+      "dialogueKey": "D7063_C2",
+      "index": 0,
+      "isNarration": false,
+      "portraitKey": "narration_MEURSAULTmom_noise",
+      "voice": "S1003V-1058"
+    },
+    {
+      "dialogueKey": "D7029_C2",
+      "index": 0,
+      "isNarration": false,
+      "sfx": "SFX_UI_ChainRuttle"
+    },
+    {
+      "dialogueKey": "D7081_C2",
+      "index": 0,
+      "isNarration": false,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7082_C2",
+      "index": 0,
+      "isNarration": false,
+      "portraitKey": "DP_Jeanne"
+    },
+    {
+      "dialogueKey": "D7083_C2",
+      "index": 0,
+      "isNarration": false,
+      "portraitKey": "DP_Jeanne"
+    }
+  ]
+}

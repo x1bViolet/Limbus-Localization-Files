@@ -1407,6 +1407,14 @@
     {
       "id": "10917_getCondition_gacksung",
       "content": "오트쿠튀르::수선실 로쟈 동기화 3단계 달성"
+    },
+    {
+      "id": "10315_getCondition_normal",
+      "content": "오트쿠튀르::르누아르 브랜드 매니저 돈키호테 획득 시"
+    },
+    {
+      "id": "10315_getCondition_gacksung",
+      "content": "오트쿠튀르::르누아르 브랜드 매니저 돈키호테 동기화 3단계 달성"
     }
   ]
 }

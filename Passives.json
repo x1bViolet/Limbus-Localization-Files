@@ -3322,6 +3322,46 @@
       "desc": "속도가 가장 빠른 아군 1명의 참격 기본 스킬 피해량 +10% ",
       "summary": "추가 참격 피해",
       "flavor": "가위 중 아끼는 단 한 가위를 당신에게도."
+    },
+    {
+      "id": 1031501,
+      "name": "검은 언약",
+      "desc": "전투 종료 시 자신에게 [OathFieldDonQuixote]이 있으면, 다음 턴에 [Agility] 1 얻음\n\n자신의 기본 공격 스킬로 메인 타겟에게 가하는 피해량 +(자신의 [ChargeNoirAlly] 위력 x 3)% (최대 15%)",
+      "summary": "[OathFieldDonQuixote]이 있으면 다음 턴에 [Agility] 얻음\n기본 공격 스킬로 메인 타겟에게 가하는 피해량 증가[TabExplain]",
+      "flavor": "그분의 목소리를 들었다. 그분께서 약속하시더군, 이 모든 것에는 의미가 있다고."
+    },
+    {
+      "id": 1031502,
+      "name": "말레우스 프로미시오니스",
+      "desc": "스테이지 첫 등장 시 자신의 [ChargeNoirAlly] 횟수 10 증가하고, 자신을 제외한 르누아르 소속 아군 인격의 [Charge] 횟수 2 증가\n\n스킬 효과로 [NoirNailDonQuixote] 부여 시 자신의 [ChargeNoirAlly] 횟수가\n- 12 이상이면, [NoirNailDonQuixote] 부여량 +1, 자신의 [ChargeNoirAlly] 횟수 4 소모\n- 12 미만이면, 자신의 [ChargeNoirAlly] 횟수 2 소모\n- 부족하면, 대신 [NoirNailDonQuixote]을 부여하지 않음\n- 이 효과로 인해서 [NoirNailDonQuixote]을 부여하는 스킬이 [Charge] 횟수를 소모하는 스킬로 취급됨\n\n전투 중 누적으로 자신의 [ChargeNoirAlly] 횟수를 10 소모할 때마다 [ChargeNoirAlly] 위력 1 얻음",
+      "summary": "[ChargeNoirAlly] 횟수와 르누아르 아군의 [Charge] 횟수 증가\n[NoirNailDonQuixote] 부여 시 [ChargeNoirAlly] 횟수 소모, [ChargeNoirAlly] 횟수가 일정 수치 이상이면 부여량 증가\n[ChargeNoirAlly] 횟수를 누적 소모하면 [ChargeNoirAlly] 위력 얻음",
+      "flavor": "망치는 못을 박는다. 망치가 두드리는 것은 못뿐이다. 망치에 맞는 것은 못이다. 그렇게 약속되었다."
+    },
+    {
+      "id": 1031503,
+      "name": "보존의 사명",
+      "desc": "스테이지 첫 등장 시 [NoirShieldUpDonQuixote] 25 얻음\n\n자신의 [ChargeNoirAlly] 횟수를 소모하거나 최대치를 초과하여 얻으면, (해당 수치 x 5)만큼 [NoirShieldUpDonQuixote] 얻음 (턴당 최대 30)\n\n보호막이 있는 아군 인격이 피격 시 자신이 [NoirShieldUpDonQuixote] 2 얻음 (턴당 최대 10)\n- 해당 아군 인격이 [PersonalityCharge]이면, 대신 [NoirShieldUpDonQuixote] 5 얻음",
+      "summary": "[NoirShieldUpDonQuixote] 얻음"
+    },
+    {
+      "id": 1031504,
+      "name": "신의 뜻과 가치가 우리와 함께하리…",
+      "desc": "자신을 제외한 르누아르 소속 아군 인격이 적에게 공격 시작 전, 자신이 ‘심판!’으로 메인 타겟을 우선으로 일방 공격함 (턴당 1회)\n\n기본 스킬의 마지막 코인 시작 시 (자신의 [ChargeNoirAlly] 위력 + 대상의 [NoirNailDonQuixote]/2)만큼 해당 코인의 최종 위력이 증가함 (최대 5)\n\n자신에게 [OathFieldDonQuixote]이 있으면, 기본 스킬 1/2/3의 합 위력 +1/+2/+3\n\n[NoirNailDonQuixote]이 있는 대상에게 [VibrationExplosion] 발생 시 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 아군 [PersonalityCharge] 1명의 [Charge] 횟수 2 증가 (턴당 2회)",
+      "summary": "르누아르 아군이 공격하기 전 ‘심판!’ 사용\n기본 스킬 마지막 코인 최종 위력 증가[TabExplain]\n[OathFieldDonQuixote]이 있으면 기본 스킬 합 위력 증가[TabExplain]\n[NoirNailDonQuixote]이 있는 대상에게 [VibrationExplosion] 시 [Charge] 횟수 증가",
+      "flavor": "모든 것이 불확실한 이 세상에서 우리를 인도하시고 지키시는 것은 오직 단 하나, 검은 신의 말씀이니, 그 말씀이 길이 되고 빛이 되어 우리를 비추시매, 비로소 우리에게 의미가 부여되더라."
+    },
+    {
+      "id": 1031511,
+      "name": "검은 언약",
+      "desc": "전투 종료 시 자신에게 [OathFieldDonQuixote]이 있으면, 다음 턴에 [Agility] 2 얻음\n\n자신의 기본 공격 스킬로 메인 타겟에게 가하는 피해량 +(자신의 [ChargeNoirAlly] 위력 x 6)% (최대 30%)",
+      "summary": "[OathFieldDonQuixote]이 있으면 다음 턴에 [Agility] 얻음\n기본 공격 스킬로 메인 타겟에게 가하는 피해량 증가[TabExplain]",
+      "flavor": "그분의 목소리를 들었다. 그분께서 약속하시더군, 이 모든 것에는 의미가 있다고."
+    },
+    {
+      "id": 1031521,
+      "name": "진형 보존",
+      "desc": "전투 시작 시 전장에 있는 아군 [PersonalityCharge] 1명당, 이번 턴에 모든 아군 [PersonalityCharge]이 받는 피해량 -2% (최소 -10%)",
+      "summary": "아군 [PersonalityCharge]이 받는 피해량 감소"
     }
   ]
 }

@@ -99,6 +99,41 @@
         "id": "battle_erosion_20509_2",
         "desc": "E.G.O 침식",
         "dlg": "참살!"
+      },
+      {
+        "id": "battle_awaken_20510_1",
+        "desc": "E.G.O 발동",
+        "dlg": "한발의 총성. 명멸하는 시야 속 어두운 밤을 향하여… 탄환은, 타자의 시선과 마주칠 지어다."
+      },
+      {
+        "id": "battle_awaken_20510_2",
+        "desc": "E.G.O 발동",
+        "dlg": "한발의 총성. 명멸하는 시야 속 어두운 밤을 향하여… 탄환은,"
+      },
+      {
+        "id": "battle_awaken_20510_3",
+        "desc": "E.G.O 발동",
+        "dlg": "타자의 시선과 마주칠 지어다."
+      },
+      {
+        "id": "battle_erosion_20510_1",
+        "desc": "E.G.O 침식",
+        "dlg": "앙 주(En joue), 총구는 사람의 머리로."
+      },
+      {
+        "id": "battle_erosion_20510_2",
+        "desc": "E.G.O 침식",
+        "dlg": "탄환은 흑점에 겨눠,"
+      },
+      {
+        "id": "battle_erosion_20510_3",
+        "desc": "E.G.O 침식",
+        "dlg": "눈부심 속에 꿰뚫어라."
+      },
+      {
+        "id": "battle_awaken_20501_2",
+        "desc": "E.G.O 발동",
+        "dlg": "수많은 시선들이 끊임없이 옥죄어 올지라도… 나는 기꺼이…!"
       }
   ]
 }

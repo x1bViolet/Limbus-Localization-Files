@@ -2115,6 +2115,30 @@
     {
       "id": "introduce_sentence_265",
       "content": "나의 텅 빈 {0} 속으로."
+    },
+    {
+      "id": "introduce_word_266",
+      "content": "정의"
+    },
+    {
+      "id": "introduce_sentence_266",
+      "content": "길을 비켜라. 그리하면 그대들의 {0}(을/를) 의심치 아니하겠다."
+    },
+    {
+      "id": "introduce_word_267",
+      "content": "잿빛"
+    },
+    {
+      "id": "introduce_sentence_267",
+      "content": "사람은 사라져, 오직 {0}만 남으리."
+    },
+    {
+      "id": "introduce_word_268",
+      "content": "눈부심"
+    },
+    {
+      "id": "introduce_sentence_268",
+      "content": "탄환은 흑점에 겨눠, {0} 속에 꿰뚫어라."
     }
   ]
 }

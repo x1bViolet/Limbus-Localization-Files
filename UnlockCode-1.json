@@ -213,6 +213,18 @@
     {
       "id": 912723,
       "openCondition": "사영전투][투전영사 - 삽시호 Hard 난이도 클리어"
+    },
+    {
+      "id": 110,
+      "openCondition": "주요 이야기 10장 클리어",
+      "openConditionNumber" : "10-7 클리어",
+      "relatedChapterText": "Canto X"
+    },
+    {
+      "id": 9128,
+      "openCondition": "주요 이야기 10장 클리어",
+      "openConditionNumber" : "10-7 클리어",
+      "relatedChapterText": "Canto X"
     }
   ]
 }
