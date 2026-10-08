@@ -1445,7 +1445,7 @@
         {
           "level": 1,
           "name": "주 멕스퓔스(je m'expulse)",
-          "desc": "[WhenUse] 메인 타겟의 [Laceration]이 6 이상이면, 코인 위력 +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 메인 타겟에게 [Laceration]이 없다면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "desc": "[WhenUse] 메인 타겟의 [Laceration]이 6 이상이면, 코인 위력 +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 메인 타겟에게 [Laceration]이 없다면,</u></b></mark></color> 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
           "flavor": "배출하고.",
           "coinlist": [
             {
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여"
                 }
               ]
             }
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "주 므 크라슈(je me crache)",
-          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +2\n[WhenUse] 자신의 [ChargeRouge] 위력 2당, 가중치 +1 (최대 2)",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +2\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>자신의 [ChargeRouge] 위력 2당, 가중치 +1</u></b></mark></color> (최대 2)",
           "flavor": "뱉어내고.",
           "coinlist": [
             {
@@ -1495,7 +1495,7 @@
         {
           "level": 1,
           "name": "주 마브젝트(je m'abjecte)",
-          "desc": "[WhenUse] 메인 타겟의 [Laceration] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRouge] 위력 2당, 가중치 +1 (최대 2)",
+          "desc": "[WhenUse] 메인 타겟의 [Laceration] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>자신의 [ChargeRouge] 위력 2당, 가중치 +1</u></b></mark></color> (최대 2)",
           "flavor": "내던진다.",
           "coinlist": [
             {
@@ -1536,10 +1536,10 @@
                   "desc": "[EndCoin] 대상의 [ChargeRouge] 횟수 10 증가"
                 },
                 {
-                  "desc": "[EndCoin] 대상의 현재 체력을 50% 감소시키고, [AttackUp] 5 부여"
+                  "desc": "[EndCoin] 대상의 현재 체력을 50% 감소시키고, <color=#ff6000><mark=#ff000040><b><u>[AttackUp] 5 부여</u></b></mark></color>"
                 },
                 {
-                  "desc": "[EndCoin] [BuffetRouge] 3 부여"
+                  "desc": "[EndCoin] <color=#ff6000><mark=#ff000040><b><u>[BuffetRouge] 3 부여</u></b></mark></color>"
                 }
               ]
             }
@@ -1578,7 +1578,7 @@
         {
           "level": 1,
           "name": "라 주이상스(la jouissance)",
-          "desc": "이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>전장의 르루주 고위 스태프 1명당, 정신력 15 회복, 합 위력 +2</u></b></mark></color>\n[WhenUse] 르루주 고위 스태프가 <color=#ff6000><mark=#ff000040><b><u>모두 사망한 상태</u></b></mark></color>이면, 합 위력 -3\n[DefeatDuel] 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않고 <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음</u></b></mark></color>\n[EndSkill] 메인 타겟의 [BuffetScruple]을 [BuffetResolve]으로 변경",
+          "desc": "속도에 상관없이 이 스킬과 합을 할 수 있음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>전장의 르루주 고위 스태프 1명당, 정신력 15 회복, 합 위력 +2</u></b></mark></color>\n[WhenUse] 르루주 고위 스태프가 <color=#ff6000><mark=#ff000040><b><u>모두 사망한 상태</u></b></mark></color>이면, 합 위력 -3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음.</u></b></mark></color> 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않음\n[EndSkill] 메인 타겟의 [BuffetScruple]을 [BuffetResolve]으로 변경",
           "coinlist": [
             {
               "coindescs": [
@@ -1596,7 +1596,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여"
@@ -1609,7 +1609,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 3회 발동. 대상의 [Laceration] 횟수 3 감소"
@@ -1680,7 +1680,7 @@
                   "desc": "[OnSucceedAttack] [Laceration] 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BoneNail] 1 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [BoneNail] 1 부여"
                 }
               ]
             },
@@ -1690,7 +1690,7 @@
                   "desc": "[OnSucceedAttack] [Laceration] 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BoneNail] 1 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [BoneNail] 1 부여"
                 }
               ]
             }
@@ -1704,7 +1704,7 @@
         {
           "level": 1,
           "name": "라 카스트라시옹(la castration)",
-          "desc": "속도에 상관없이 이 스킬과 합을 할 수 있음\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]이 5 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>메인 타겟에게 [BuffetScruple]이 있으면</u></b></mark></color>, 코인 위력 -3\n[WhenUse] 메인 타겟의 [Laceration] 6당, 최종 위력 +2 (최대 6)\n[DefeatDuel] 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않고 <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음</u></b></mark></color>",
+          "desc": "속도에 상관없이 이 스킬과 합을 할 수 있음\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]이 5 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>메인 타겟에게 [BuffetScruple]이 있으면</u></b></mark></color>, 코인 위력 -3\n[WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +1 (최대 3)\n[DefeatDuel] 피해량 -95%, 이 스킬 피해로 대상이 흐트러지지 않고 <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,7 +1756,7 @@
         {
           "level": 1,
           "name": "르 트레튀네르(le trait unaire)",
-          "desc": "[DuelCounter]\n[WhenUse] 메인 타겟의 [Laceration] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] 모든 적이 보유한 [BoneNail]의 합 5당, 가중치 +1 (최대 4)",
+          "desc": "[DuelCounter]\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] 모든 적이 보유한 <color=#ff6000><mark=#ff000040><b><u>[BoneNail]의 합 5당, 가중치 +1</u></b></mark></color> (최대 3)\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여"
                 }
               ]
             },
@@ -1787,10 +1787,10 @@
                   "desc": "<color=#ff6000><mark=#ff000040><b><u>모든 적의 [BoneNail] 소모</u></b></mark></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량 (소모한 [BoneNail] 수치x 10)%만큼 대상에게 색욕 피해"
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량 (소모한 [BoneNail] 수치x 5)%만큼 대상에게 색욕 피해"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BoneNail] 4당, [Laceration] 1 횟수 증가 (최대 5)"
+                  "desc": "[OnSucceedAttack] 소모한 [BoneNail] 4당, [Laceration] 1 횟수 증가 (최대 3)"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 1,
           "name": "데가제(Dégagé)",
-          "desc": "[WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "desc": "[WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면,</u></b></mark></color> 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [
@@ -1829,7 +1829,7 @@
         {
           "level": 1,
           "name": "르 푸앵 드 카피통(le point de capiton)",
-          "desc": "[WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "desc": "[WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면,</u></b></mark></color> 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [
@@ -1867,7 +1867,7 @@
         {
           "level": 1,
           "name": "라 주이상스(la jouissance)",
-          "desc": "이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>메인 타겟에게 [BuffetScruple]이 있으면</u></b></mark></color>, 자신의 정신력 10 감소, 코인 위력 -2\n[DefeatDuel] 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않고 <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음</u></b></mark></color>\n[EndSkill] 메인 타겟의 [BuffetScruple]을 [BuffetResolve]으로 변경",
+          "desc": "속도에 상관없이 이 스킬과 합을 할 수 있음\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>메인 타겟에게 [BuffetScruple]이 있으면</u></b></mark></color>, 자신의 정신력 20 감소, 코인 위력 -3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 1 얻음</u></b></mark></color>. 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않음\n[EndSkill] 메인 타겟의 [BuffetScruple]을 [BuffetResolve]으로 변경",
           "coinlist": [
             {
               "coindescs": [
@@ -1885,7 +1885,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여"
@@ -1898,7 +1898,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 3회 발동. 대상의 [Laceration] 횟수 3 감소"
@@ -2025,7 +2025,7 @@
         {
           "level": 1,
           "name": "품에 안아 바치나이다!",
-          "desc": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 대상의 [Laceration] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 10 소모하여 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "desc": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 10 소모하여 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [
@@ -2067,7 +2067,7 @@
         {
           "level": 1,
           "name": "남김없이 먹어치우겠나이다!",
-          "desc": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 대상의 [Laceration] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 10 소모하여 코인 위력 +1\n[WinDuel] 자신의 [ChargeRouge] 횟수 10 증가\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "desc": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 10 소모하여 코인 위력 +1\n[WinDuel] 자신의 [ChargeRouge] 횟수 10 증가\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음",
           "coinlist": [
             {
               "coindescs": [

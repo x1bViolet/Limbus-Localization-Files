@@ -214,7 +214,7 @@
     {
       "id": 151701,
       "name": "라 주이상스 오트르(la jouissance Autre)",
-      "desc": "턴 종료 시 [ChargeRouge] 횟수가 감소하지 않음\n전투에서 [Laceration]이 발동할 때마다 자신의 [ChargeRouge] 횟수 1 증가\n턴 시작 시 자신의 [ChargeRouge] 횟수 1당, 정신력 2 회복",
+      "desc": "턴 종료 시 [ChargeRouge] 횟수가 감소하지 않음\n전투에서 [Laceration] 피해가 발동할 때마다 자신의 [ChargeRouge] 횟수 1 증가\n턴 시작 시 자신의 [ChargeRouge] 횟수 1당, 정신력 2 회복",
       "flavor": "온몸으로 느끼지만, 말로 담을 수 없는 고동, 본성. 그 모든 맥동의 총체.",
       "summary": "맥동 횟수 증가"
     },
@@ -228,26 +228,26 @@
     {
       "id": 151703,
       "name": "르 무아(le moi)",
-      "desc": "[BuffetScruple]을 가진 수감자가 특정 스킬과 합 승리 시\n<color=#ff6000><mark=#ff000040><b><u>붉은 신이 [BuffetDream] 1 얻음</u></b></mark></color>\n[BuffetDream]이 5가 되면 패턴이 변경되며, 변경된 패턴의 스킬과 합 승리 시 전투 승리\n\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]의 <color=#ff6000><mark=#ff000040><b><u>위력이 최대 50까지 누적</u></b></mark></color>되고 <color=#ff6000><mark=#ff000040><b><u>횟수는 최대 15까지 누적</u></b></mark></color>됨\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 체력, 정신력 피해량 -50%\n패닉 변경 불가\n턴 종료 시 패닉 상태라면 정신력이 0이 됨",
+      "desc": "[BuffetScruple]을 가진 수감자가 특정 스킬과 합 승리 시\n<color=#ff6000><mark=#ff000040><b><u>붉은 신이 [BuffetDream] 1 얻음</u></b></mark></color>\n[BuffetDream]이 5가 되면 패턴이 변경되며, 변경된 패턴의 스킬과 합 승리 시 전투 승리\n\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]의 위력이 최대 50까지 누적되고 횟수는 최대 15까지 누적됨\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 체력, 정신력 피해량 -50%\n패닉 변경 불가\n턴 종료 시 패닉 상태라면 정신력이 0이 됨",
       "flavor": "나. 물속에 비친 나의 모습을 봤어. 난 완전한 몸을 지녔어…"
     },
     {
       "id": 151704,
       "name": "푸부아르 드 라 비(Pouvoirs de la vie)",
-      "desc": "아군이 피해로 인한 흐트러짐 상태가 되면, 대상 아군에게 '르 망카에트르(le manque-à-être)' 사용 (턴당 1회)\n아군이 사망하면, 다음 턴 시작 시 [BuffetRevival] 3을 보유한 붉은 신의 뜯긴 살점 소환",
+      "desc": "아군이 피해로 인한 흐트러짐 상태가 되면,\n<color=#ff6000><mark=#ff000040><b><u>대상 아군의 흐트러짐을 해제하고 원호 공격</u></b></mark></color>을 시키는 '르 망카에트르' 사용 (턴당 1회)\n\n아군이 사망하면, 다음 턴 시작 시 [BuffetRevival] 3을 보유한 붉은 신의 뜯긴 살점 소환",
       "flavor": "태어나게 하는 폭력성. 르루주의 신은 탄생의 권능을 가진다.\n\n죽으면 의식은 어디로 가는가? 태어나기 전, 의식은 어디에서 오는가?\n\n그곳으로 내보내고, 끄집어내는 것은 모두 동일한 폭력적인 권능이다."
     },
     {
       "id": 151705,
       "name": "라 주이상스 팔리크(la jouissance phallique)",
-      "desc": "턴 시작 시 자신에게 [BuffetRouge]가 없으며, 자신의 [ChargeRouge] 횟수가 15 이상이면, [ChargeRouge] 횟수를 모두 소모하고 [BuffetRouge] 3 얻음. 소모한 [ChargeRouge] 횟수 1당 정신력 2 회복\n\n[BuffetRouge]가 없으며, 자신의 [ChargeRouge] 횟수가 10 이상이면, 스킬 사용 시 [ChargeRouge] 횟수를 10 소모하여 코인 위력 +2",
+      "desc": "턴 시작 시 [BuffetRouge] 상태가 아닐 때,\n자신의 [ChargeRouge] 횟수가 15 이상이면,\n[ChargeRouge] 횟수를 모두 소모하여 [BuffetRouge]를 최대로 얻음.\n소모한 [ChargeRouge] 횟수 1당 정신력 2 회복\n\n스킬 사용 시 [BuffetRouge] 상태가 아니고,\n자신의 [ChargeRouge] 횟수가 10 이상이면,\n[ChargeRouge] 횟수를 10 소모하여 코인 위력 +1",
       "flavor": "생의 향락을 누리는 것에 조건이 붙는다. 조건이 붙는 이상, 육체적 쾌락은 한계와 끝을 지니고, 필연적으로 실패한다.",
       "summary": "맥동 횟수를 소모하여, 코인 위력 증가"
     },
     {
       "id": 151706,
       "name": "라 무아송(la moisson)",
-      "desc": "공격 종료 시 메인 타겟의 <color=#ff6000><mark=#ff000040><b><u>[BoneNail]가 5 이상</u></b></mark></color>이면, 공격한 메인 타겟에게 강력한 스킬 사용",
+      "desc": "공격 종료 시 메인 타겟의 <color=#ff6000><mark=#ff000040><b><u>[BoneNail]가 5 이상</u></b></mark></color>이면,\n메인 타겟에게 <color=#ff6000><mark=#ff000040><b><u>'라 드망드'</u></b></mark></color> 사용",
       "flavor": "밀어내어진 부속기관은 타인에게 박혀, 경계 밖에서 계속 나를 부른다.\n\n태어난 곳으로 되돌아가고 싶은 충동은 죽음의 충동인가, 혹은 삶의 충동인가."
     },
     {
@@ -260,19 +260,19 @@
     {
       "id": 151708,
       "name": "답을 주어야 할 때",
-      "desc": "다음 조건 중 1개를 만족하면 패턴이 변경됨\n- 현재 체력이 최대 체력의 25% 미만으로 내려감\n- [BuffetDream] 3 보유",
+      "desc": "다음 조건 중 1개를 만족하면 패턴이 변경됨\n- <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] 3 보유</u></b></mark></color>\n- 현재 체력이 최대 체력의 25% 미만으로 내려감",
       "flavor": "내게 알려줘… 데려가 줘…"
     },
     {
       "id": 152101,
       "name": "비울수록 채워지리라",
-      "desc": "전투 중 누적으로 자신의 [ChargeRouge] 횟수를 10 소모할 때마다 [ChargeRouge] 위력 1 얻음\n스킬 사용 시 [ChargeRouge] 위력 2/4 이상이면, 코인 위력 +1/+2\n\n잃은 체력 10%당, 공격 레벨 1 증가(최대 5), 가하는 피해량 +20%(최대 100%)",
+      "desc": "전투 중 누적으로 자신의 [ChargeRouge] 횟수를 10 소모할 때마다 [ChargeRouge] 위력 1 얻음\n스킬 사용 시 [ChargeRouge] 위력 3 이상이면, 코인 위력 +1\n\n잃은 체력 20%당, 공격 레벨 1 증가(최대 3), 가하는 피해량 +20%(최대 60%)",
       "summary": "코인 위력 증가"
     },
     {
       "id": 152102,
       "name": "느린 목을 노리는 낫",
-      "desc": "자신보다 속도가 느린 대상을 우선으로 지정\n스킬 사용 시 대상보다 속도가 빠르면, 대상과 자신의 속도 차이만큼 공격 레벨 증가\n턴 시작 시 자신의 [ChargeRouge] 위력이 2 이상이면, 강력한 스킬을 사용",
+      "desc": "자신보다 속도가 느린 대상을 우선으로 지정\n스킬 사용 시 대상보다 속도가 빠르면, 대상과 자신의 속도 차이만큼 공격 레벨 증가\n턴 시작 시 자신의 [ChargeRouge] 위력이 3 이상이면, 강력한 스킬을 사용",
       "flavor": "맥동하는 포식자는 느린 목을 노리고, 그 차이만큼 치명적인 피해를 가한다."
     },
     {
@@ -306,7 +306,7 @@
     {
       "id": 151709,
       "name": "밀어내지도, 쥐어내지도 못한 손",
-      "desc": "턴 시작 시 전장의 르루주 고위 스태프 1명당, [Protection] 2 얻음\n- 르루주 고위 스태프가 사망할 때마다 [Protection] 2 감소\n\n<color=#ff6000><mark=#ff000040><b><u>르루주 고위 스태프가 모두 사망한 상태</u></b></mark></color>이면, 다음 효과 적용\n- [Vulnerable] 2 얻음\n- 스킬 사용 시 대상이 [BuffetScruple]을 보유했으면, 코인 위력 -1",
+      "desc": "턴 시작 시 전장의 르루주 고위 스태프 1명당, [Protection] 2 얻음\n- 르루주 고위 스태프가 사망할 때마다 [Protection] 2 감소\n\n<color=#ff6000><mark=#ff000040><b><u>르루주 고위 스태프가 모두 사망한 상태</u></b></mark></color>이면, 다음 효과 적용\n- [Vulnerable] 2 얻음\n- 스킬 사용 시 대상이 <color=#ff6000><mark=#ff000040><b><u>[BuffetScruple]을 보유했으면, 코인 위력 -1</u></b></mark></color>",
       "flavor": "손… 아직 잡아줄 거야…?",
       "summary": "코인 위력 감소"
     }

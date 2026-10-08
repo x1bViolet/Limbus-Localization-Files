@@ -75,7 +75,7 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 진동 횟수 1 감소"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Charge] 횟수 5를 소모하여 [VibrationExplosion]."
+                  "desc": "[OnSucceedAttack] [ChargeNoir] 횟수 5를 소모하여 [VibrationExplosion]."
                 }
               ]
             }
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 진동 횟수 1 감소"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Charge] 횟수 5를 소모하여 [VibrationExplosion]."
+                  "desc": "[OnSucceedAttack] [ChargeNoir] 횟수 5를 소모하여 [VibrationExplosion]."
                 }
               ]
             }
