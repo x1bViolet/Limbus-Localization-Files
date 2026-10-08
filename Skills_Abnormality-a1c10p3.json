@@ -1445,7 +1445,7 @@
         {
           "level": 1,
           "name": "Je m'expulse",
-          "desc": "[WhenUse] If the main target has 6+ [Laceration], Coin Power +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the main target does not have [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[WhenUse] If the main target has 6+ [Laceration], Coin Power +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the main target does not have [Laceration]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
           "flavor": "Excrete.",
           "coinlist": [
             {
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "Je me crache",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Base Power +2\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)",
+          "desc": "[WhenUse] If target has 6+ [Laceration], Base Power +2\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self</u></b></mark></color> (max 2)",
           "flavor": "Vomit.",
           "coinlist": [
             {
@@ -1495,7 +1495,7 @@
         {
           "level": 1,
           "name": "Je m'abjecte",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)",
+          "desc": "[WhenUse] Coin Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self</u></b></mark></color> (max 2)",
           "flavor": "And cast it to the world.",
           "coinlist": [
             {
@@ -1536,10 +1536,10 @@
                   "desc": "[EndCoin] Apply +10 [ChargeRouge] Count"
                 },
                 {
-                  "desc": "[EndCoin] Reduce target's current HP by 50%; then, apply 5 [AttackUp]"
+                  "desc": "[EndCoin] Reduce target's current HP by 50%; <color=#ff6000><mark=#ff000040><b><u>then, apply 5 [AttackUp]</u></b></mark></color>"
                 },
                 {
-                  "desc": "[EndCoin] Apply 3 [BuffetRouge]"
+                  "desc": "[EndCoin] <color=#ff6000><mark=#ff000040><b><u>Apply 3 [BuffetRouge]</u></b></mark></color>"
                 }
               ]
             }
@@ -1578,7 +1578,7 @@
         {
           "level": 1,
           "name": "La Jouissance",
-          "desc": "Cannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Heal 15 SP and gain Clash Power +2 for every Le Rouge Senior Staff</u></b></mark></color> on the field\n[WhenUse] If <color=#ff6000><mark=#ff000040><b><u>all Le Rouge Senior Staff are defeated</u></b></mark></color>, Clash Power -3\n[DefeatDuel] Deal -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>and gain 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
+          "desc": "Can Clash with this Skill regardless of Speed\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Heal 15 SP and gain Clash Power +2 for every Le Rouge Senior Staff</u></b></mark></color> on the field\n[WhenUse] If <color=#ff6000><mark=#ff000040><b><u>all Le Rouge Senior Staff are defeated</u></b></mark></color>, Clash Power -3\n[DefeatDuel] \n- <color=#ff6000><mark=#ff000040><b><u>Gain 1 [BuffetDream].</u></b></mark></color>\n- Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1596,7 +1596,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
@@ -1609,7 +1609,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] on target 3 times. Target loses 3 [Laceration] Count"
@@ -1680,7 +1680,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNail]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [BoneNail]"
                 }
               ]
             },
@@ -1690,7 +1690,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNail]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [BoneNail]"
                 }
               ]
             }
@@ -1704,7 +1704,7 @@
         {
           "level": 1,
           "name": "La Castration",
-          "desc": "Can Clash with this Skill regardless of Speed\nCannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If this unit has fewer than 5 [BuffetDream], convert all Coins on this Skill to [SuperCoin]</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple]</u></b></mark></color>, Coin Power -3\n[WhenUse] Final Power +2 for every 6 [Laceration] on the main target (max 6)\n[DefeatDuel] Deal -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>and gain 1 [BuffetDream]</u></b></mark></color>",
+          "desc": "Can Clash with this Skill regardless of Speed\nCannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If this unit has fewer than 5 [BuffetDream], convert all Coins on this Skill to [SuperCoin]</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple]</u></b></mark></color>, Coin Power -3\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 3)\n[DefeatDuel] Deal -95% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>and gain 1 [BuffetDream]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,7 +1756,7 @@
         {
           "level": 1,
           "name": "Le Trait Unaire",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] Gain +1 Atk Weight for every 5 total sum of [BoneNail] on all enemies (max 4)",
+          "desc": "[DuelCounter]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Gain +1 Atk Weight for every 5 total sum of [BoneNail] on all enemies</u></b></mark></color> (max 3)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
@@ -1787,10 +1787,10 @@
                   "desc": "<color=#ff6000><mark=#ff000040><b><u>Consume [BoneNail] on all enemies</u></b></mark></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([BoneNail] Stack consumed x 10)% of this Coin's final damage"
+                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([BoneNail] Stack consumed x 5)% of this Coin's final damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count for every 4 [BoneNail] consumed (max 5)"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count for every 4 [BoneNail] consumed (max 3)"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 1,
           "name": "Dégagé",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -1829,7 +1829,7 @@
         {
           "level": 1,
           "name": "Le Point de Capiton",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -1867,7 +1867,7 @@
         {
           "level": 1,
           "name": "La Jouissance",
-          "desc": "Cannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple]</u></b></mark></color>, lose 10 SP, Coin Power -2\n[DefeatDuel] Deal -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>and gain 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
+          "desc": "Can Clash with this Skill regardless of Speed\n\n[WhenUse] If <color=#ff6000><mark=#ff000040><b><u>the main target has [BuffetScruple]</u></b></mark></color>, lose 20 SP and Coin Power -3\n[DefeatDuel] \n- <color=#ff6000><mark=#ff000040><b><u>Gain 1 [BuffetDream].</u></b></mark></color>\n- Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1885,7 +1885,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
@@ -1898,7 +1898,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] on target 3 times. Target loses 3 [Laceration] Count"
@@ -2025,7 +2025,7 @@
         {
           "level": 1,
           "name": "An offering from my embrace!",
-          "desc": "[StartBattle] If this unit has less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "desc": "[StartBattle] If this unit has less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -2067,7 +2067,7 @@
         {
           "level": 1,
           "name": "We shall devour it all!",
-          "desc": "[StartBattle] If this unit has less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[WinDuel] Gain +10 [ChargeRouge] Count\n[DefeatDuel] Deal -80% damage; damage dealt by this Skill cannot Stagger the target",
+          "desc": "[StartBattle] If this unit has less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[WinDuel] Gain +10 [ChargeRouge] Count\n[DefeatDuel] Deal -80% damage; damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -2148,7 +2148,7 @@
         {
           "level": 1,
           "name": "Supplication Toward the Voice",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nTargets The Crimson God 【Adulthood】\n\nThis Skill has the following properties:\n- Does not trigger Defense Skills\n- External effects cannot trigger this Skill to be Reused\n- Its attack does not hit\n\n[EndCoin] Target heals 20 SP",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nTargets The Crimson God\n\nThis Skill has the following properties:\n- Does not trigger Defense Skills\n- External effects cannot trigger this Skill to be Reused\n- Its attack does not hit\n\n[EndCoin] Target heals 20 SP",
           "coinlist": [
             {
               "coindescs": []

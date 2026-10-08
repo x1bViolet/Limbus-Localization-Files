@@ -15,6 +15,14 @@
     {
       "key": "DC15_C1",
       "text": "Could you repeat that?"
+    },
+    {
+      "key": "DCRSCW01_C1",
+      "text": "Take the easy path."
+    },
+    {
+      "key": "DCRSCW02_C1",
+      "text": "Keep trying."
     }
   ]
 }

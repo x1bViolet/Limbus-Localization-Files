@@ -214,7 +214,7 @@
     {
       "id": 151701,
       "name": "La Jouissance Autre",
-      "desc": "Turn End: Does not lose [ChargeRouge] Count\nGain +1 [ChargeRouge] Count every time [Laceration] effect is activated in an Encounter\nTurn Start: Heal 2 SP for every [ChargeRouge] Count on self",
+      "desc": "Turn End: Does not lose [ChargeRouge] Count\nGain +1 [ChargeRouge] Count every time [Laceration] damage is activated in an Encounter\nTurn Start: Heal 2 SP for every [ChargeRouge] Count on self",
       "flavor": "A throbbing felt through the whole body, yet beyond the reach of words—the totality of every pulsation born of one's very nature.",
       "summary": "Gain Pulsation Count"
     },
@@ -228,26 +228,26 @@
     {
       "id": 151703,
       "name": "Le Moi",
-      "desc": "When the Sinner who has [BuffetScruple] wins a Clash against a certain Skill, <color=#ff6000><mark=#ff000040><b><u>The Crimson God gains 1 [BuffetDream]</u></b></mark></color>\nWhen The Crimson God reaches 5 [BuffetDream] Stacks, it gains a new pattern; winning the Clash against the Skill in that new pattern will win the Encounter\n\n<color=#ff6000><mark=#ff000040><b><u>Raise max Potency and Count cap</u></b></mark></color> for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to <color=#ff6000><mark=#ff000040><b><u>50 and 15</u></b></mark></color>, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
+      "desc": "When the Sinner who has [BuffetScruple] wins a Clash against a certain Skill, <color=#ff6000><mark=#ff000040><b><u>The Crimson God gains 1 [BuffetDream]</u></b></mark></color>\nWhen The Crimson God reaches 5 [BuffetDream] Stacks, it gains a new pattern; winning the Clash against the Skill in that new pattern will win the Encounter\n\nRaise max Potency and Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to 50 and 15, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
       "flavor": "I saw my reflection in the water. My body, it's been... completed..."
     },
     {
       "id": 151704,
       "name": "Pouvoirs de la vie",
-      "desc": "If an ally becomes Staggered due to damage, use the \"Le Manque-à-être\" Skill on the said ally (once per turn)\n\nIf an ally is defeated, summon a Ripped Flesh of the Crimson God that has 3 [BuffetRevival] at the next Turn Start",
+      "desc": "If an ally becomes Staggered due to damage, <color=#ff6000><mark=#ff000040><b><u>un-Stagger the ally, then use the \"Le Manque-à-être\" Skill that activates the said ally's <noparse>Assist Attack</noparse></u></b></mark></color> (once per turn)\n\nIf an ally is defeated, summon a Ripped Flesh of the Crimson God that has 3 [BuffetRevival] at the next Turn Start",
       "flavor": "The violence by which things are brought into being. The God of the Rouges possesses the authority of birth.\n\nWhere does consciousness go when we die? And before we are born, from where does it emerge?\n\nTo send it back to that place, or to tear it forth from there... both are workings of the same violent power."
     },
     {
       "id": 151705,
       "name": "La Jouissance phallique",
-      "desc": "Turn Start: If this unit does not have [BuffetRouge] and is at 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain 3 [BuffetRouge]; then, heal 2 SP for every [ChargeRouge] Count consumed\n\nIf this unit does not have [BuffetRouge] and is at 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count on Skill Use to gain Coin Power +2",
+      "desc": "Turn Start: If this unit does not have [BuffetRouge] and is at 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain up to max [BuffetRouge] Stack; then, heal 2 SP for every [ChargeRouge] Count consumed\n\nOn Skill Use, if this unit does not have [BuffetRouge] and is at 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1",
       "flavor": "There are conditions to tasting the pleasures of life, and as it is with all things conditional, this carnal pleasure is fated to fail.\n\nThe stipulated limits and end have deemed it so.",
       "summary": "Consume Pulsation Count to gain Coin Power"
     },
     {
       "id": 151706,
       "name": "La Moisson",
-      "desc": "Attack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use a powerful Skill against the main target this unit attacked",
+      "desc": "Attack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use <color=#ff6000><mark=#ff000040><b><u>\"La Demande\"</u></b></mark></color> against the main target",
       "flavor": "The jutting appendage is thrust into another, calling me from beyond the periphery.\n\nIs this compulsion to return to my birthplace an impulse for death, or impulse for life?"
     },
     {
@@ -260,25 +260,25 @@
     {
       "id": 151708,
       "name": "Time to Answer",
-      "desc": "If any of the following conditions are met, change the pattern\n- Current HP falls below 25% of max HP\n- [BuffetDream] is at 3 Stacks",
+      "desc": "If any of the following conditions are met, change the pattern:\n- <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] is at 3 Stacks</u></b></mark></color>\n- Current HP falls below 25% of max HP",
       "flavor": "Keep teaching me things... I wanna go with you..."
     },
     {
       "id": 152101,
       "name": "Emptiness Begets Satiation",
-      "desc": "Gain 1 [ChargeRouge] Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nOn Skill Use, at 2+/4+ [ChargeRouge] Potency, Coin Power +1/+2\n\nGain 1 Offense Level (max 5) and deal +20% damage (max 100%) for every 10% missing HP",
+      "desc": "Gain 1 [ChargeRouge] Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nOn Skill Use, at 3+ [ChargeRouge] Potency, Coin Power +1\n\nGain 1 Offense Level (max 3) and deal +20% damage (max 60%) for every 20% missing HP",
       "summary": "Gain Coin Power"
     },
     {
       "id": 152102,
       "name": "The Sickle Seeks the Slow",
-      "desc": "Prioritize targets with slower Speed than self\n\nOn Skill Use, if this unit's Speed is faster than the target's gain Offense Level equal to the Speed difference\n\nTurn Start: At 2+ [ChargeRouge] Potency, use a powerful Skill",
+      "desc": "Prioritize targets with slower Speed than self\n\nOn Skill Use, if this unit's Speed is faster than the target's gain Offense Level equal to the Speed difference\n\nTurn Start: At 3+ [ChargeRouge] Potency, use a powerful Skill",
       "flavor": "Pulsating predators pursue the slow prey, seeking to sink their fangs into the neck. Their fatality is determined by the speed differential."
     },
     {
       "id": 152103,
       "name": "Persistent Pulsation Beside The Cherished One",
-      "desc": "When The Crimson God 【Adulthood】 is on the field, this unit does not lose [ChargeRouge] Count at Turn End\n\nWhen Staggered due to getting hit: When this unit recovers from Stagger due to The Crimson God 【Adulthood】's Skill, use \"With sickles mine I answer your calling!\" as Unopposed Attack against the attacker",
+      "desc": "When The Crimson God is on the field, this unit does not lose [ChargeRouge] Count at Turn End\n\nWhen Staggered due to getting hit: When this unit recovers from Stagger due to The Crimson God's Skill, use \"With sickles mine I answer your calling!\" as Unopposed Attack against the attacker",
       "flavor": "Against their wishes, neither breathing nor the thumping pulse in their hearts would stop."
     },
     {
@@ -306,7 +306,7 @@
     {
       "id": 151709,
       "name": "The hand they could neither push away nor hold",
-      "desc": "Turn Start: Gain 2 [Protection] for every Le Rouge Senior Staff on the field\n- Lose 2 [Protection] every time a Le Rouge Senior Staff is defeated\n\n<color=#ff6000><mark=#ff000040><b><u>If all Le Rouge Senior Staff are defeated</u></b></mark></color>, apply the following effects:\n- Gain 2 [Vulnerable]\n- On Skill Use, if target has [BuffetScruple], Coin Power -1",
+      "desc": "Turn Start: Gain 2 [Protection] for every Le Rouge Senior Staff on the field\n- Lose 2 [Protection] every time a Le Rouge Senior Staff is defeated\n\n<color=#ff6000><mark=#ff000040><b><u>If all Le Rouge Senior Staff are defeated</u></b></mark></color>, apply the following effects:\n- Gain 2 [Vulnerable]\n- On Skill Use, <color=#ff6000><mark=#ff000040><b><u>if target has [BuffetScruple], Coin Power -1</u></b></mark></color>",
       "flavor": "Will you still... hold my hand?",
       "summary": "Lose Coin Power"
     }

@@ -83,6 +83,59 @@
           "speaker": "???"
         }
       ]
+    },
+    {
+      "key": "DRSCW01_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Just as we were about to head back outside after dying for the nth time, a voice stopped us."
+        },
+        {
+          "index": 1,
+          "text": "... There is... an easier way. Do you want... to take it?",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "It will be safe... if you sink...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSCW02_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Put this on... and head to the dark place...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "The woman in blue wrapped the scarf around Meursault."
+        }
+      ]
+    },
+    {
+      "key": "DRSCW03_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The pain... won't change... and will be silent...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSCW04_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's... going to be okay, now...",
+          "speaker": "???"
+        }
+      ]
     }
   ]
 }

@@ -304,7 +304,7 @@
     {
       "id": "BoneNail",
       "name": "L'Abject",
-      "desc": "- Max Stack: 5\n- Lose 1 Speed for every Stack\n- Take +20% damage from Bleed for every Stack (rounded down)\n- On Base Attack Skill Use, gain (Stack x 2) Bleed Count",
+      "desc": "- Max Stack: 5\n- Lose 1 Speed for every Stack\n- Take +20% damage from Bleed for every Stack (rounded down)\n- On Base Attack Skill Use, gain Bleed Count equal to Stack",
       "summary": "",
       "flavor": "A cast-off appendage. Buffet pushed it out, spat it forth, spilled it from within.\n\nThough it came from one's own body, once cast outside, it ceased to belong to the self. And even should it be inserted into another, it would never belong to that body either."
     },
@@ -367,28 +367,28 @@
     {
       "id": "BuffetRouge",
       "name": "Uncontrollable Rampage [Le Désir]",
-      "desc": "- Max Stack: 3\n- Min & Max Speed +1\n- Clash Power +1 for every Stack\n- Take -50% damage from Bleed\n- Cannot be defeated by Bleed damage\n- Turn End: Lose 1 Stack",
+      "desc": "- Max Stack: 3\n- Min & Max Speed +1\n- Take -50% damage from Bleed\n- Cannot be defeated by Bleed damage\n- Turn End: Lose 1 Stack",
       "summary": "",
       "flavor": "I can never be satisfied.\n\nEven though the desire is not truly mine, I mistake it for something that belongs to me.\n\nThis is a desire born of you—a desire that bursts forth from you, because of you."
     },
     {
       "id": "BuffetScruple",
       "name": "Shared with Pwie",
-      "desc": "- Min & Max Speed +3\n- Take -50% final damage from The Crimson God [Adulthood]",
+      "desc": "- Min & Max Speed +3\n- Turn Start: Heal 15 SP\n- Take -75% final damage from The Crimson God [Adulthood]",
       "summary": "",
       "flavor": "We shared an experience with Pwie. Together. That much is certain.\n\nHesitation begins to surface."
     },
     {
       "id": "BuffetResolve",
       "name": "Decision",
-      "desc": "- Max Stack: 1\n- Deal and take +30% damage to and from The Crimson God [Adulthood]\n- Turn Start: Heal 5 SP",
+      "desc": "- Max Stack: 1\n- Deal +30% damage to The Crimson God [Adulthood]\n- Turn Start: Heal 15 SP",
       "summary": "",
       "flavor": "\"As Manager... I have to choose, don't I?\"\n\n\"Correct, Manager.\"\n\n\".......\"\n\n\".......\"\n\n\"... I've made my decision.\""
     },
     {
       "id": "MeursaultBuffetEnd",
       "name": "He Who Nails",
-      "desc": "- Min & Max Speed +3\n- On Skill Use, gain 2 additional E.G.O Resource for the said Skill's Affinity (2 times per turn)\n- Cannot Retreat",
+      "desc": "- Min & Max Speed +3\n- Final Power +3\n- On Skill Use, gain 2 additional E.G.O Resource for the said Skill's Affinity (2 times per turn)\n- Cannot Retreat",
       "summary": ""
     },
     {
