@@ -104,7 +104,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに[VioletTakeDamageUp]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 精神力ダメージを10～14与える"
+                  "desc": "[OnSucceedAttack] 精神力ダメージを10<noparse>～</noparse>14与える"
                 }
               ]
             }

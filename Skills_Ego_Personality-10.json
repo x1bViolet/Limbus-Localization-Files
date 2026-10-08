@@ -793,7 +793,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4～8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4<noparse>～</noparse>8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttackHead] 自分の体力を消耗後、このコインを再使用"
                 },
                 {
@@ -832,7 +832,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4～8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4<noparse>～</noparse>8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttackHead] 自分の体力を消耗後、このコインを再使用"
                 },
                 {
@@ -842,7 +842,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]<style=\"highlight\">1～2</style>を得る (コインごとに1回)"
+                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]<style=\"highlight\">1<noparse>～</noparse>2</style>を得る (コインごとに1回)"
                 }
               ]
             }
@@ -871,7 +871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4～8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttackHead] 自分の体力が10%以上なら、4<noparse>～</noparse>8だけ体力ダメージを受ける (コインごとに1回)\n- 以降、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttackHead] 自分の体力を消耗後、このコインを再使用"
                 },
                 {
@@ -881,7 +881,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]1～<style=\"highlight\">3</style>を得る (コインごとに1回)"
+                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]1<noparse>～</noparse><style=\"highlight\">3</style>を得る (コインごとに1回)"
                 }
               ]
             }
@@ -924,7 +924,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10～20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10<noparse>～</noparse>20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttack] 自分の体力を消耗\n条件を満たしたとき、このコインを再使用"
                 },
                 {
@@ -972,7 +972,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10～20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10<noparse>～</noparse>20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttack] 自分の体力を消耗\n条件を満たしたとき、このコインを再使用"
                 },
                 {
@@ -982,7 +982,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]<style=\"highlight\">1～2</style>を得る (コインごとに1回)"
+                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]<style=\"highlight\">1<noparse>～</noparse>2</style>を得る (コインごとに1回)"
                 }
               ]
             }
@@ -1020,7 +1020,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10～20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
+                  "desc": "[OnSucceedAttack] 自分の体力が10%以上なら、10<noparse>～</noparse>20だけ体力ダメージを受ける (コインごとに1回)\n- 以降、消耗した体力の合計が50未満なら、このコインを再使用 (スキルごとに最大4回)\n- この効果で混乱状態になったり、体力が1未満に減少しない",
                   "summary": "[OnSucceedAttack] 自分の体力を消耗\n条件を満たしたとき、このコインを再使用"
                 },
                 {
@@ -1030,7 +1030,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]1～<style=\"highlight\">3</style>を得る (コインごとに1回)"
+                  "desc": "[OnSucceedAttack] ランダムな味方1名が、次のターンに[ThatIsRhythm]1<noparse>～</noparse><style=\"highlight\">3</style>を得る (コインごとに1回)"
                 }
               ]
             }

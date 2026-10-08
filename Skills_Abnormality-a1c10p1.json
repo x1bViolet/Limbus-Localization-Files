@@ -75,7 +75,7 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。振動回数が1減少"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Charge]回数5を消耗して[VibrationExplosion]。"
+                  "desc": "[OnSucceedAttack] [ChargeNoir]回数5を消耗して[VibrationExplosion]。"
                 }
               ]
             }
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。振動回数が1減少"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Charge]回数5を消耗して[VibrationExplosion]。"
+                  "desc": "[OnSucceedAttack] [ChargeNoir]回数5を消耗して[VibrationExplosion]。"
                 }
               ]
             }

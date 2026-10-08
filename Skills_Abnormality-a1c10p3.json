@@ -1445,7 +1445,7 @@
         {
           "level": 1,
           "name": "ジュ・メクスピュルス(je m'expulse)",
-          "desc": "[WhenUse] メインターゲットの[Laceration]が6以上なら、コイン威力 +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] メインターゲットに[Laceration]がなければ、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
+          "desc": "[WhenUse] メインターゲットの[Laceration]が6以上なら、コイン威力 +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] メインターゲットに[Laceration]がなければ、</u></b></mark></color>このスキルの全コインが[SuperCoin]に変更される\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
           "flavor": "排出し。",
           "coinlist": [
             {
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]1を付与"
                 }
               ]
             }
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "ジュ・ム・クラシュ(je me crache)",
-          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +2\n[WhenUse] 自分の[ChargeRouge]威力2につき、加重値 +1 (最大2)",
+          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +2\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>自分の[ChargeRouge]威力2につき、加重値 +1</u></b></mark></color> (最大2)",
           "flavor": "吐き出し。",
           "coinlist": [
             {
@@ -1495,7 +1495,7 @@
         {
           "level": 1,
           "name": "ジュ・マブジェクト(je m'abjecte)",
-          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、コイン威力+1 (最大2)\n[WhenUse] 自分の[ChargeRouge]威力2につき、攻撃加重値+1 (最大2)",
+          "desc": "[WhenUse] メインターゲットの[Laceration]4につき、コイン威力+1 (最大2)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>自分の[ChargeRouge]威力2につき、攻撃加重値+1</u></b></mark></color> (最大2)",
           "flavor": "投げ出す。",
           "coinlist": [
             {
@@ -1536,10 +1536,10 @@
                   "desc": "[EndCoin] 対象の[ChargeRouge]回数が10増加"
                 },
                 {
-                  "desc": "[EndCoin] 対象の現体力を50%減少させ、[AttackUp]5を付与"
+                  "desc": "[EndCoin] 対象の現体力を50%減少させ、<color=#ff6000><mark=#ff000040><b><u>[AttackUp]5を付与</u></b></mark></color>"
                 },
                 {
-                  "desc": "[EndCoin] [BuffetRouge]3を付与"
+                  "desc": "[EndCoin] <color=#ff6000><mark=#ff000040><b><u>[BuffetRouge]3を付与</u></b></mark></color>"
                 }
               ]
             }
@@ -1578,7 +1578,7 @@
         {
           "level": 1,
           "name": "ラ・ジュイサンス(la jouissance)",
-          "desc": "このスキルを使用するまで混乱しない\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>戦場のル・ルージュ 上級スタッフ1名につき、精神力15回復、マッチ威力 +2</u></b></mark></color>\n[WhenUse] ル・ルージュ 上級スタッフが<color=#ff6000><mark=#ff000040><b><u>全て死亡した状態</u></b></mark></color>なら、マッチ威力 -3\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱せず、<color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る</u></b></mark></color>\n[EndSkill] メインターゲットの[BuffetScruple]を[BuffetResolve]に変更",
+          "desc": "速度と関係なく、このスキルとマッチできる\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>戦場のル・ルージュ 上級スタッフ1名につき、精神力15回復、マッチ威力 +2</u></b></mark></color>\n[WhenUse] ル・ルージュ 上級スタッフが<color=#ff6000><mark=#ff000040><b><u>全て死亡した状態</u></b></mark></color>なら、マッチ威力 -3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る。</u></b></mark></color>ダメージ量 -80%, このスキルのダメージで対象が混乱しない\n[EndSkill] メインターゲットの[BuffetScruple]を[BuffetResolve]に変更",
           "coinlist": [
             {
               "coindescs": [
@@ -1596,7 +1596,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]2を付与"
@@ -1609,7 +1609,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Laceration]が3回発動。対象の[Laceration]回数が3減少"
@@ -1680,7 +1680,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BoneNail]1を付与"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [BoneNail]1を付与"
                 }
               ]
             },
@@ -1690,7 +1690,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BoneNail]1を付与"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [BoneNail]1を付与"
                 }
               ]
             }
@@ -1704,7 +1704,7 @@
         {
           "level": 1,
           "name": "ラ・カストラシオン(la castration)",
-          "desc": "速度と関係なく、このスキルとマッチできる\nこのスキルを使用するまで混乱しない\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]が5未満なら、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[BuffetScruple]があれば</u></b></mark></color>、コイン威力 -3\n[WhenUse] メインターゲットの[Laceration]6につき、最終威力 +2 (最大6)\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱せず、<color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る</u></b></mark></color>",
+          "desc": "速度と関係なく、このスキルとマッチできる\nこのスキルを使用するまで混乱しない\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]が5未満なら、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[BuffetScruple]があれば</u></b></mark></color>、コイン威力 -3\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n[DefeatDuel] ダメージ量 -95%, このスキルのダメージで対象が混乱せず、<color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,7 +1756,7 @@
         {
           "level": 1,
           "name": "ル・トレ・ユネール(le trait unaire)",
-          "desc": "[DuelCounter]\n[WhenUse] メインターゲットの[Laceration]4につき、コイン威力 +1 (最大2)\n[WhenUse] 全ての敵が保有する[BoneNail]の合計5につき、加重値 +1 (最大4)",
+          "desc": "[DuelCounter]\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] 全ての敵が保有する<color=#ff6000><mark=#ff000040><b><u>[BoneNail]の合計5につき、加重値 +1</u></b></mark></color> (最大3)\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]1を付与"
                 }
               ]
             },
@@ -1787,10 +1787,10 @@
                   "desc": "<color=#ff6000><mark=#ff000040><b><u>全ての敵の[BoneNail]を消耗</u></b></mark></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の(消耗した[BoneNail]の数値×10)%だけ対象に色欲ダメージ"
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の(消耗した[BoneNail]の数値×5)%だけ対象に色欲ダメージ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗した[BoneNail]4につき、[Laceration]回数が1増加 (最大5)"
+                  "desc": "[OnSucceedAttack] 消耗した[BoneNail]4につき、[Laceration]回数が1増加 (最大3)"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 1,
           "name": "デガジェ(Dégagé)",
-          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がなければ、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がなければ、</u></b></mark></color>このスキルの全コインが[SuperCoin]に変更される\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1829,7 +1829,7 @@
         {
           "level": 1,
           "name": "ル・ポワン・ドゥ・キャピトン(le point de capiton)",
-          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がなければ、このスキルの全コインが[SuperCoin]に変更される</u></b></mark></color>\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Laceration]4につき、最終威力 +1 (最大3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 対象に[Laceration]がなければ、</u></b></mark></color>このスキルの全コインが[SuperCoin]に変更される\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1867,7 +1867,7 @@
         {
           "level": 1,
           "name": "ラ・ジュイサンス(la jouissance)",
-          "desc": "このスキルを使用するまで混乱しない\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[BuffetScruple]があれば</u></b></mark></color>、自分の精神力が10減少、コイン威力 -2\n[DefeatDuel] ダメージ量 -80%, このスキルのダメージで対象が混乱せず、<color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る</u></b></mark></color>\n[EndSkill] メインターゲットの[BuffetScruple]を[BuffetResolve]に変更",
+          "desc": "速度と関係なく、このスキルとマッチできる\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[BuffetScruple]があれば</u></b></mark></color>、自分の精神力が20減少、コイン威力 -3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]1を得る</u></b></mark></color>。ダメージ量 -80%, このスキルのダメージで対象が混乱しない\n[EndSkill] メインターゲットの[BuffetScruple]を[BuffetResolve]に変更",
           "coinlist": [
             {
               "coindescs": [
@@ -1885,7 +1885,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]2を付与"
@@ -1898,7 +1898,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Laceration]が3回発動。対象の[Laceration]回数が3減少"
@@ -2025,7 +2025,7 @@
         {
           "level": 1,
           "name": "胸に抱き、捧げ奉る！",
-          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更される\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を10消耗してコイン威力 +1\n[DefeatDuel] このスキルのダメージで対象が混乱しない",
+          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更される\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を10消耗してコイン威力 +1\n[DefeatDuel] このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -2067,7 +2067,7 @@
         {
           "level": 1,
           "name": "残さず食らい尽くし奉る！",
-          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更される\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を10消耗してコイン威力 +1\n[WinDuel] 自分の[ChargeRouge]回数が10増加\n[DefeatDuel] ダメージ量が80%減少し、このスキルのダメージで対象が混乱しない",
+          "desc": "[StartBattle] 自分の現体力が最大値の50%未満なら、このスキルの全コインが[SuperCoin]に変更される\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] 自分の[ChargeRouge]回数が10以上なら、[ChargeRouge]回数を10消耗してコイン威力 +1\n[WinDuel] 自分の[ChargeRouge]回数が10増加\n[DefeatDuel] ダメージ量が80%減少し、このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -2148,7 +2148,7 @@
         {
           "level": 1,
           "name": "声への礼拝",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n赤き神[完熟]をターゲットに指定\n\nこのスキルには下記の効果が適用される\n- 守備スキルを発動させない\n- 外部効果で再使用できない\n- 攻撃が的中しない\n\n[EndCoin] 対象の精神力が20回復",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n赤き神をターゲットに指定\n\nこのスキルには下記の効果が適用される\n- 守備スキルを発動させない\n- 外部効果で再使用できない\n- 攻撃が的中しない\n\n[EndCoin] 対象の精神力が20回復",
           "coinlist": [
             {
               "coindescs": []

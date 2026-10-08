@@ -69,7 +69,7 @@
     {
       "id": 148602,
       "name": "審判の日",
-      "desc": "ターン開始時に[SpreadingVoiceSecondPhase]があれば、\n行動パターンが変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「審判…！宣告…！断罪…！」</u></b></mark></color>を使用\n- そのターンの速度の最小値・最大値 +20\n- <color=#ff6000><mark=#ff000040><b><u>このパターンで看守がマッチに敗北</u></b></mark></color>すると、\n次のターンにパターンがさらに変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「死刑執行」</u></b></mark></color>を使用\n\n[SpreadingVoiceSecondPhase]/[EncompassingVoiceSecondPhase]が変更されるたびに、\n<color=#ff6000><mark=#ff000040><b><u>精神力が45回復</u></b></mark></color>し、<color=#ff6000><mark=#ff000040><b><u>[LeaderVoiceSecondPhase]1を得る</u></b></mark></color>\n\n体力が50%以下になるとそのターンが終了し(特定のスキルを除く)、混乱状態なら混乱を解除\n体力が1以下になると、フェーズを変更",
+      "desc": "ターン開始時に[SpreadingVoiceSecondPhase]があれば、\n行動パターンが変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「審判…！宣告…！断罪…！」</u></b></mark></color>を使用\n- そのターンの速度の最小・最大値 +20\n- <color=#ff6000><mark=#ff000040><b><u>このパターンで看守がマッチに敗北</u></b></mark></color>すると、\n次のターンにパターンがさらに変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「死刑執行」</u></b></mark></color>を使用\n\n[SpreadingVoiceSecondPhase]/[EncompassingVoiceSecondPhase]が変更されるたびに、\n<color=#ff6000><mark=#ff000040><b><u>精神力が45回復</u></b></mark></color>し、<color=#ff6000><mark=#ff000040><b><u>[LeaderVoiceSecondPhase]1を得る</u></b></mark></color>\n\n体力が50%以下になるとそのターンが終了し(特定のスキルを除く)、混乱状態なら混乱を解除\n体力が1以下になると、フェーズを変更",
       "flavor": "刑罰によっても贖罪せぬ者たちは…審判の日に死すべし。",
       "summary": "[SpreadingVoiceSecondPhase]があれば強力なスキルを使用\nこのときマッチに敗北すると、次のターンに「死刑執行」を使用"
     },
@@ -109,7 +109,7 @@
     {
       "id": 148702,
       "name": "「審判の日」",
-      "desc": "ターン開始時に[SpreadingVoiceThirdPhase]があれば、\n行動パターンが変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「シーシュポスシステムを本当に壊す気か？」</u></b></mark></color>を使用\n- そのターンの速度の最小値・最大値 +20\n- <color=#ff6000><mark=#ff000040><b><u>このパターンで司祭がマッチに敗北</u></b></mark></color>すると、\n次のターンにパターンがさらに変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「強制退場」</u></b></mark></color>を使用\n\n[SpreadingVoiceThirdPhase]/[EncompassingVoiceThirdPhase]が変更されるたびに、\n<color=#ff6000><mark=#ff000040><b><u>精神力が45回復</u></b></mark></color>し、<color=#ff6000><mark=#ff000040><b><u>[LeaderVoiceThirdPhase]1を得る</u></b></mark></color>",
+      "desc": "ターン開始時に[SpreadingVoiceThirdPhase]があれば、\n行動パターンが変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「シーシュポスシステムを本当に壊す気か？」</u></b></mark></color>を使用\n- そのターンの速度の最小・最大値 +20\n- <color=#ff6000><mark=#ff000040><b><u>このパターンで司祭がマッチに敗北</u></b></mark></color>すると、\n次のターンにパターンがさらに変更され、<color=#ff6000><mark=#ff000040><b><u>強力なスキル「強制退場」</u></b></mark></color>を使用\n\n[SpreadingVoiceThirdPhase]/[EncompassingVoiceThirdPhase]が変更されるたびに、\n<color=#ff6000><mark=#ff000040><b><u>精神力が45回復</u></b></mark></color>し、<color=#ff6000><mark=#ff000040><b><u>[LeaderVoiceThirdPhase]1を得る</u></b></mark></color>",
       "flavor": "罰を受けても反省しなかったのなら、審判されなきゃ。死ぬほどにな。",
       "summary": "[SpreadingVoiceThirdPhase]があれば強力なスキルを使用\nこのときマッチに敗北すると、次のターンに「強制退場」を使用"
     },
@@ -214,7 +214,7 @@
     {
       "id": 151701,
       "name": "ラ・ジュイサンス・オートル(la jouissance Autre)",
-      "desc": "ターン終了時に[ChargeRouge]回数が減少しない\n戦闘で[Laceration]が発動するたびに、自分の[ChargeRouge]回数が1増加\nターン開始時、自分の[ChargeRouge]回数1につき精神力を2回復",
+      "desc": "ターン終了時に[ChargeRouge]回数が減少しない\n戦闘で[Laceration]ダメージが発動するたびに、自分の[ChargeRouge]回数が1増加\nターン開始時、自分の[ChargeRouge]回数1につき精神力を2回復",
       "flavor": "全身で感じながらも言葉にはできない鼓動、本性、その全ての脈動の総体。",
       "summary": "脈動回数が増加"
     },
@@ -228,26 +228,26 @@
     {
       "id": 151703,
       "name": "ル・モワ(le moi)",
-      "desc": "[BuffetScruple]を持つ囚人が特定のスキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]を1得る</u></b></mark></color>\n[BuffetDream]が5になるとパターンが変化し、変化後のパターンのスキルとのマッチに勝利すると戦闘勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の<color=#ff6000><mark=#ff000040><b><u>威力が最大50まで累積</u></b></mark></color>し、<color=#ff6000><mark=#ff000040><b><u>回数は最大15まで累積</u></b></mark></color>する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
+      "desc": "[BuffetScruple]を持つ囚人が特定のスキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]を1得る</u></b></mark></color>\n[BuffetDream]が5になるとパターンが変化し、変化後のパターンのスキルとのマッチに勝利すると戦闘勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の威力が最大50まで累積し、回数は最大15まで累積する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
       "flavor": "私。水に映った私の姿を見た。私は完全な身体を持っている…。"
     },
     {
       "id": 151704,
       "name": "プヴォワール・ドゥ・ラ・ヴィ(Pouvoirs de la vie)",
-      "desc": "味方がダメージによって混乱状態になると、対象の味方に「ル・マンク・ア・エートル(le manque-à-être)」を使用 (1ターンにつき1回)\n味方が死亡すると、次のターン開始時に[BuffetRevival]3を保有する赤き神の引きちぎられた肉片を召喚",
+      "desc": "味方がダメージによって混乱状態になると、\n<color=#ff6000><mark=#ff000040><b><u>対象の味方の混乱を解除して援護攻撃</u></b></mark></color>を行わせる「ル・マンク・ア・エートル(le manque-à-être)」を使用 (1ターンにつき1回)\n\n味方が死亡すると、次のターン開始時に[BuffetRevival]3を保有する赤き神の引きちぎられた肉片を召喚",
       "flavor": "生まれさせるという暴力性。ル・ルージュの神は、誕生の権能を持つ。\n\n死ねば意識はどこへ行くのか？生まれる前、意識はどこから来るのか？\n\nそこへ送り出すことも、引きずり出すことも全て同じ暴力的な権能。"
     },
     {
       "id": 151705,
       "name": "ラ・ジュイサンス・ファリック(la jouissance phallique)",
-      "desc": "ターン開始時、自分に[BuffetRouge]がなく、自分の[ChargeRouge]回数が15以上なら[ChargeRouge]回数を全て消耗して[BuffetRouge]3を得る。消耗した[ChargeRouge]回数1につき精神力を2回復\n\n[BuffetRouge]がなく、自分の[ChargeRouge]回数が10以上なら、スキル使用時に[ChargeRouge]回数を10消耗してコイン威力 +2",
+      "desc": "ターン開始時、自分に[BuffetRouge]がなく、自分の[ChargeRouge]回数が15以上なら[ChargeRouge]回数を全て消耗して[BuffetRouge]を最大まで得る。消耗した[ChargeRouge]回数1につき精神力を2回復\n\n[BuffetRouge]がなく、自分の[ChargeRouge]回数が10以上なら、スキル使用時に[ChargeRouge]回数を10消耗してコイン威力 +1",
       "flavor": "生の享楽を享受することには、条件が付く。条件が付く以上、この肉体的な快楽は必ず失敗する。限界と終わりがあるからだ。",
       "summary": "脈動回数を消耗して、コイン威力が増加"
     },
     {
       "id": 151706,
       "name": "ラ・モワソン(la moisson)",
-      "desc": "攻撃終了時、メインターゲットの<color=#ff6000><mark=#ff000040><b><u>[BoneNail]が5以上</u></b></mark></color>なら、攻撃したメインターゲットに強力なスキルを使用",
+      "desc": "攻撃終了時、メインターゲットの<color=#ff6000><mark=#ff000040><b><u>[BoneNail]が5以上</u></b></mark></color>なら、メインターゲットに<color=#ff6000><mark=#ff000040><b><u>「ラ・ドゥマンド」</u></b></mark></color>を使用",
       "flavor": "押し出された付属器官は他人に突き刺さり、境界の外から私を繰り返し呼ぶ。\n\n生まれた場所へと再び戻りたいという衝動は、死の衝動なのか、生の衝動なのか。"
     },
     {
@@ -260,25 +260,25 @@
     {
       "id": 151708,
       "name": "答えを出すべき時",
-      "desc": "下記の条件のうち1つを満たすと行動パターンを変更\n- 現体力が最大体力の25%未満に下がる\n- [BuffetDream]3を保有",
+      "desc": "下記の条件のうち1つを満たすと行動パターンを変更\n- <color=#ff6000><mark=#ff000040><b><u>[BuffetDream]3を保有</u></b></mark></color>\n- 現体力が最大値の25%未満に下がる",
       "flavor": "私に教えて…連れていって…。"
     },
     {
       "id": 152101,
       "name": "空にするほど満たされん",
-      "desc": "戦闘中、自分の[ChargeRouge]回数を累計10消耗するたびに[ChargeRouge]威力1を得る\nスキル使用時、[ChargeRouge]威力が2/4以上なら、コイン威力 +1/+2\n\n失った体力10%につき、攻撃レベルが1増加(最大5)、与ダメージ量 +20%(最大100%)",
+      "desc": "戦闘中、自分の[ChargeRouge]回数を累計10消耗するたびに[ChargeRouge]威力1を得る\nスキル使用時、[ChargeRouge]威力が3以上なら、コイン威力 +1\n\n失った体力20%につき、攻撃レベルが1増加(最大3)、与ダメージ量 +20%(最大60%)",
       "summary": "コイン威力が増加"
     },
     {
       "id": 152102,
       "name": "遅き首を狙う鎌",
-      "desc": "自分より速度が低い対象を優先してターゲットに指定\nスキル使用時、対象より速度が高ければ、対象と自分の速度差だけ攻撃レベルが増加\nターン開始時、自分の[ChargeRouge]威力が2以上なら、強力なスキルを使用",
+      "desc": "自分より速度が低い対象を優先してターゲットに指定\nスキル使用時、対象より速度が高ければ、対象と自分の速度差だけ攻撃レベルが増加\nターン開始時、自分の[ChargeRouge]威力が3以上なら、強力なスキルを使用",
       "flavor": "脈動する捕食者は遅き首を狙い、その差だけ致命的なダメージを与える。"
     },
     {
       "id": 152103,
       "name": "あの方の傍で冷めぬ脈動",
-      "desc": "戦場に赤き神[完熟]がいれば、ターン終了時に自分の[ChargeRouge]回数が減少しない\n\n被撃によって混乱状態になったとき、赤き神[完熟]のスキルで混乱状態を解除されると、自分を攻撃した対象にスキル「この鎌にて応え奉る！」で一方攻撃",
+      "desc": "戦場に赤き神がいれば、ターン終了時に自分の[ChargeRouge]回数が減少しない\n\n被撃によって混乱状態になったとき、赤き神のスキルで混乱状態を解除されると、自分を攻撃した対象にスキル「この鎌にて応え奉る！」で一方攻撃",
       "flavor": "息が、鼓動が止まらない。止めたくても、止まらない。"
     },
     {
@@ -306,7 +306,7 @@
     {
       "id": 151709,
       "name": "押し退けることも、握ることもできぬ手",
-      "desc": "ターン開始時、戦場のル・ルージュ 上級スタッフ1人につき[Protection]2を得る\n- ル・ルージュ 上級スタッフが死亡するたびに[Protection]が2減少\n\n<color=#ff6000><mark=#ff000040><b><u>ル・ルージュ 上級スタッフが全員死亡した状態</u></b></mark></color>なら、下記の効果を適用\n- [Vulnerable]2を得る\n- スキル使用時、対象が[BuffetScruple]を保有していれば、コイン威力 -1",
+      "desc": "ターン開始時、戦場のル・ルージュ 上級スタッフ1人につき[Protection]2を得る\n- ル・ルージュ 上級スタッフが死亡するたびに[Protection]が2減少\n\n<color=#ff6000><mark=#ff000040><b><u>ル・ルージュ 上級スタッフが全員死亡した状態</u></b></mark></color>なら、下記の効果を適用\n- [Vulnerable]2を得る\n- スキル使用時、対象が<color=#ff6000><mark=#ff000040><b><u>[BuffetScruple]を保有していれば、コイン威力 -1</u></b></mark></color>",
       "flavor": "手…まだ、握ってくれる…？",
       "summary": "コイン威力が減少"
     }

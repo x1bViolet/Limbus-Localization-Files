@@ -118,7 +118,7 @@
     {
       "id": 2056,
       "name": "荒唐無稽な夢",
-      "desc": "[Laceration]または特殊出血が付与された対象に攻撃的中時、体力を2～5回復。\n[BloodDinner]を消耗するスキルのコイン威力 +1",
+      "desc": "[Laceration]または特殊出血が付与された対象に攻撃的中時、体力を2<noparse>～</noparse>5回復。\n[BloodDinner]を消耗するスキルのコイン威力 +1",
       "simpleDesc": [
         {
           "abilityID": 2056,

@@ -4146,11 +4146,11 @@
     {
       "id": 19149,
       "name": "圧迫包帯+",
-      "desc": "[編成5・<style=\"upgradeHighlight\">6</style>番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">3～5</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">4</style>回復。",
+      "desc": "[編成5・<style=\"upgradeHighlight\">6</style>番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">3<noparse>～</noparse>5</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">4</style>回復。",
       "simpleDesc": [
         {
           "abilityID": 19149,
-          "simpleDesc": "打撃ダメージを追加で3～5与える"
+          "simpleDesc": "打撃ダメージを追加で3<noparse>～</noparse>5与える"
         },
         {
           "abilityID": 191491,
@@ -4161,11 +4161,11 @@
     {
       "id": 29149,
       "name": "圧迫包帯++",
-      "desc": "[編成5・6番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">5～7</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">6</style>回復。",
+      "desc": "[編成5・6番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">5<noparse>～</noparse>7</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">6</style>回復。",
       "simpleDesc": [
         {
           "abilityID": 29149,
-          "simpleDesc": "打撃ダメージを追加で5～7与える"
+          "simpleDesc": "打撃ダメージを追加で5<noparse>～</noparse>7与える"
         },
         {
           "abilityID": 291491,
@@ -4348,11 +4348,11 @@
     {
       "id": 29117,
       "name": "有煙火薬++",
-      "desc": "[編成1・2・3番人格専用効果]\n\nターン終了時、今回のターンに[Burst]威力または[Burst]回数を付与する攻撃スキルを一度でも使用した場合、次のターンに[Agility]<style=\"upgradeHighlight\">1～2</style> を得る。\n\n自分の速度が<style=\"upgradeHighlight\">4</style>以上の場合、[Burst]威力または[Burst]回数を付与する攻撃スキルのダメージ量 +<style=\"upgradeHighlight\">20</style>%",
+      "desc": "[編成1・2・3番人格専用効果]\n\nターン終了時、今回のターンに[Burst]威力または[Burst]回数を付与する攻撃スキルを一度でも使用した場合、次のターンに[Agility]<style=\"upgradeHighlight\">1<noparse>～</noparse>2</style> を得る。\n\n自分の速度が<style=\"upgradeHighlight\">4</style>以上の場合、[Burst]威力または[Burst]回数を付与する攻撃スキルのダメージ量 +<style=\"upgradeHighlight\">20</style>%",
       "simpleDesc": [
         {
           "abilityID": 29117,
-          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1～2を得る"
+          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1<noparse>～</noparse>2を得る"
         },
         {
           "abilityID": 291171,
@@ -4749,7 +4749,7 @@
     {
       "id": 29195,
       "name": "雲柄の鶴首徳利++",
-      "desc": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1～2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)",
+      "desc": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1<noparse>～</noparse>2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)",
       "simpleDesc": [
         {
           "abilityID": 29195,

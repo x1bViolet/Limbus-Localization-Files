@@ -53,7 +53,7 @@
     {
       "id": 9020803,
       "name": "慝邪な気",
-      "desc": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1～2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与"
+      "desc": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1<noparse>～</noparse>2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与"
     },
     {
       "id": 9020901,

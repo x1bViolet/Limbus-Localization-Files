@@ -155,19 +155,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 精神力が1～2減少"
+                  "desc": "[OnSucceedAttackHead] 精神力が1<noparse>～</noparse>2減少"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の4～8%分回復"
+                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の4<noparse>～</noparse>8%分回復"
                 },
                 {
                   "desc": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1～3を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1<noparse>～</noparse>3を付与"
                 }
               ]
             }
@@ -189,19 +189,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 精神力が1～2減少"
+                  "desc": "[OnSucceedAttackHead] 精神力が1<noparse>～</noparse>2減少"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">6～10</style>%分回復"
+                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">6<noparse>～</noparse>10</style>%分回復"
                 },
                 {
                   "desc": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1～3を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1<noparse>～</noparse>3を付与"
                 }
               ]
             }
@@ -223,19 +223,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 精神力が1～2減少"
+                  "desc": "[OnSucceedAttackHead] 精神力が1<noparse>～</noparse>2減少"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">8～12</style>%分回復"
+                  "desc": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">8<noparse>～</noparse>12</style>%分回復"
                 },
                 {
                   "desc": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1～<style=\"highlight\">4</style>を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1<noparse>～</noparse><style=\"highlight\">4</style>を付与"
                 }
               ]
             }
@@ -258,7 +258,7 @@
                   "desc": "[OnSucceedAttackTail] 自分の体力をダメージ量の10%分回復"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration]1～4を付与"
+                  "desc": "[OnSucceedAttackTail] [Laceration]1<noparse>～</noparse>4を付与"
                 }
               ]
             }
@@ -276,7 +276,7 @@
                   "desc": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">15</style>%分回復"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">2～5</style>を付与"
+                  "desc": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">2<noparse>～</noparse>5</style>を付与"
                 }
               ]
             }
@@ -294,7 +294,7 @@
                   "desc": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">20</style>%分回復"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3～6</style>を付与"
+                  "desc": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3<noparse>～</noparse>6</style>を付与"
                 },
                 {
                   "desc": "[EnemyKill] 次のターンに[Enhancement]1を得る(最大攻撃威力増加量 : 3)"

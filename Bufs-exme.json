@@ -69,14 +69,14 @@
     {
       "id": "Collage_LowMorale",
       "name": "入り混じった記憶",
-      "desc": "- ターン開始時、攻撃レベル増加1～3、防御レベル減少1～3を得る",
+      "desc": "- ターン開始時、攻撃レベル増加1<noparse>～</noparse>3、防御レベル減少1<noparse>～</noparse>3を得る",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Collage_Panic",
       "name": "入り混じった記憶",
-      "desc": "- ターン開始時、攻撃レベル増加1～5、防御レベル減少1～5を得る",
+      "desc": "- ターン開始時、攻撃レベル増加1<noparse>～</noparse>5、防御レベル減少1<noparse>～</noparse>5を得る",
       "summary": "",
       "undefined": "-"
     },
@@ -139,7 +139,7 @@
     {
       "id": "ChoiSwordsmanship",
       "name": "本国剣術[サ<size=50%>ル</size>]",
-      "desc": "- 最小値: 1, 最大値: 9\n- スキル使用時、数値が最小値または最大値なら、自分が使用する全コインが<color=#ff6000><mark color=#ff000040><b><u>破壊不能コイン</color></mark></b></u>に変更される\n- <color=#ff6000><mark color=#ff000040><b><u>数値に応じてスキルの基本威力とコイン威力に増減が適用される</color></mark></b></u>\n· 1～2: 基本威力 -6, コイン威力 +4\n· 3～4: 基本威力 -3, コイン威力 +2\n· 5: 効果なし\n· 6～7: 基本威力 +4, コイン威力 -2\n· 8～9: 基本威力 +8, コイン威力 -3",
+      "desc": "- 最小値: 1, 最大値: 9\n- スキル使用時、数値が最小値または最大値なら、自分が使用する全コインが<color=#ff6000><mark color=#ff000040><b><u>破壊不能コイン</color></mark></b></u>に変更される\n- <color=#ff6000><mark color=#ff000040><b><u>数値に応じてスキルの基本威力とコイン威力に増減が適用される</color></mark></b></u>\n· 1<noparse>～</noparse>2: 基本威力 -6, コイン威力 +4\n· 3<noparse>～</noparse>4: 基本威力 -3, コイン威力 +2\n· 5: 効果なし\n· 6<noparse>～</noparse>7: 基本威力 +4, コイン威力 -2\n· 8<noparse>～</noparse>9: 基本威力 +8, コイン威力 -3",
       "summary": "",
       "undefined": "-"
     },
