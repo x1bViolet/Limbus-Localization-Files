@@ -29,7 +29,7 @@
       "options": [
         {
           "message": "챙긴다.",
-          "messageDesc": "색욕 유리 판정 성공 시, 범용 E.G.O GIFT 획득"
+          "messageDesc": "색욕 유리 판정 성공 시, 출혈 E.G.O GIFT 획득"
         },
         {
           "message": "가져가지 않는다.",
@@ -65,7 +65,7 @@
       "options": [
         {
           "message": "챙긴다.",
-          "messageDesc": "색욕 유리 판정 성공 시, 범용 E.G.O GIFT 획득"
+          "messageDesc": "색욕 유리 판정 성공 시, 출혈 E.G.O GIFT 획득"
         },
         {
           "message": "가져가지 않는다.",
