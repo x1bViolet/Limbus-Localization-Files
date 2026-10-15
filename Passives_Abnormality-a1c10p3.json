@@ -247,7 +247,7 @@
     {
       "id": 151706,
       "name": "La Moisson",
-      "desc": "Attack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use <color=#ff6000><mark=#ff000040><b><u>\"La Demande\"</u></b></mark></color> against the main target",
+      "desc": "Attack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use <color=#ff6000><mark=#ff000040><b><u>a powerful Skill</u></b></mark></color> against the main target this unit attacked (once per turn)",
       "flavor": "The jutting appendage is thrust into another, calling me from beyond the periphery.\n\nIs this compulsion to return to my birthplace an impulse for death, or impulse for life?"
     },
     {
