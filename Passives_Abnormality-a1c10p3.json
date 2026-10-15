@@ -247,7 +247,7 @@
     {
       "id": 151706,
       "name": "라 무아송(la moisson)",
-      "desc": "공격 종료 시 메인 타겟의 <color=#ff6000><mark=#ff000040><b><u>[BoneNail]가 5 이상</u></b></mark></color>이면,\n메인 타겟에게 <color=#ff6000><mark=#ff000040><b><u>'라 드망드'</u></b></mark></color> 사용",
+      "desc": "공격 종료 시 메인 타겟의 <color=#ff6000><mark=#ff000040><b><u>[BoneNail]가 5 이상</u></b></mark></color>이면,\n공격한 메인 타겟에게 <color=#ff6000><mark=#ff000040><b><u>'강력한 스킬'</u></b></mark></color> 사용 (턴당 1회)",
       "flavor": "밀어내어진 부속기관은 타인에게 박혀, 경계 밖에서 계속 나를 부른다.\n\n태어난 곳으로 되돌아가고 싶은 충동은 죽음의 충동인가, 혹은 삶의 충동인가."
     },
     {

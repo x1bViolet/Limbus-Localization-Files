@@ -1415,6 +1415,14 @@
     {
       "id": "10315_getCondition_gacksung",
       "content": "오트쿠튀르::르누아르 브랜드 매니저 돈키호테 동기화 3단계 달성"
+    },
+    {
+      "id": "11016_getCondition_normal",
+      "content": "오트쿠튀르::르루주 붉은 신 싱클레어 획득 시"
+    },
+    {
+      "id": "11016_getCondition_gacksung",
+      "content": "오트쿠튀르::르루주 붉은 신 싱클레어 동기화 3단계 달성"
     }
   ]
 }

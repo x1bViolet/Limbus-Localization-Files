@@ -79,6 +79,18 @@
     {
       "id": "mirrordungeon_name_7_1",
       "content": "이름과 거미의 거울 [HARD]"
+    },
+    {
+      "id": "mirrordungeon_name_8",
+      "content": "시지프의 거울"
+    },
+    {
+      "id": "mirrordungeon_name_8_0",
+      "content": "시지프의 거울 [NORMAL]"
+    },
+    {
+      "id": "mirrordungeon_name_8_1",
+      "content": "시지프의 거울 [HARD]"
     }
   ]
 }

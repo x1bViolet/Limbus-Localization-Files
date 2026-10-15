@@ -150,7 +150,7 @@
     {
       "id": 9817,
       "name": "파란 별조각",
-      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 -1 (정신력이 없는 적은 [Sinking] 위력이 25 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, [DefenseDown] 2 부여 (턴당 최대 2회)",
+      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 -1 (정신력이 없는 적은 [Sinking] 위력이 25 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, 다음 턴에 [DefenseDown] 2 부여 (턴당 최대 2회)",
       "simpleDesc": [
         {
           "abilityID": 9817,
@@ -161,7 +161,7 @@
     {
       "id": 19817,
       "name": "파란 별조각+",
-      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 <style=\"upgradeHighlight\">-2</style> (정신력이 없는 적은 [Sinking] 위력이 <style=\"upgradeHighlight\">15</style> 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, [DefenseDown] <style=\"upgradeHighlight\">3</style> 부여 (턴당 최대 2회)",
+      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 <style=\"upgradeHighlight\">-2</style> (정신력이 없는 적은 [Sinking] 위력이 <style=\"upgradeHighlight\">15</style> 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, 다음 턴에 [DefenseDown] <style=\"upgradeHighlight\">3</style> 부여 (턴당 최대 2회)",
       "simpleDesc": [
         {
           "abilityID": 19817,
@@ -172,7 +172,7 @@
     {
       "id": 29817,
       "name": "파란 별조각++",
-      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 <style=\"upgradeHighlight\">-3</style> (정신력이 없는 적은 [Sinking] 위력이 <style=\"upgradeHighlight\">10</style> 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, [DefenseDown] 3 부여 (턴당 최대 <style=\"upgradeHighlight\">3</style>회)",
+      "desc": "사기저하 또는 패닉 상태인 적의 스킬 최종 위력 <style=\"upgradeHighlight\">-3</style> (정신력이 없는 적은 [Sinking] 위력이 <style=\"upgradeHighlight\">10</style> 이상일 때 발동)\n- 해당 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 스킬로 피해를 입힐 경우, 다음 턴에 [DefenseDown] 3 부여 (턴당 최대 <style=\"upgradeHighlight\">3</style>회)",
       "simpleDesc": [
         {
           "abilityID": 29817,

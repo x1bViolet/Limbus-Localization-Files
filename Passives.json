@@ -3362,6 +3362,41 @@
       "name": "진형 보존",
       "desc": "전투 시작 시 전장에 있는 아군 [PersonalityCharge] 1명당, 이번 턴에 모든 아군 [PersonalityCharge]이 받는 피해량 -2% (최소 -10%)",
       "summary": "아군 [PersonalityCharge]이 받는 피해량 감소"
+    },
+    {
+      "id": 1101602,
+      "name": "라 주이상스 팔리크(la jouissance phallique)",
+      "desc": "[Laceration] 발동 시 자신의 [ChargeRougeAlly] 횟수 1 증가 (턴당 최대 10회)\n\n전투 종료 시 [BuffetSinclair] 상태가 아니고, 자신의 [ChargeRougeAlly] 횟수가 15 이상이면,\n[ChargeRougeAlly] 횟수를 모두 소모하고 다음 턴에 [BuffetSinclair] 3 얻음\n- 15를 초과하여 (소모한 횟수 x 3) 만큼 정신력 회복 (최대 15)\n\n[BuffetSinclair] 소멸 시 자신의 [ChargeRougeAlly] 횟수를 모두 소모하여 (소모한 횟수 x 2)만큼 체력 회복\n\n전투 중 소모한 자신의 [ChargeRougeAlly] 횟수 누적 10당 [ChargeRougeAlly] 위력 1 얻음\n\n기본 공격 스킬과 합 가능 반격 스킬이 [Charge] 횟수를 얻는 스킬로 취급됨",
+      "summary": "[Laceration] 발동 시 자신의 [ChargeRougeAlly] 횟수 증가"
+    },
+    {
+      "id": 1101603,
+      "name": "유년기의 끝(la Fin de l'enfance)",
+      "desc": "다음 조건에 따라 [HungrySinclair] 얻음 (턴당 최대 50)\n- 자신의 [ChargeRougeAlly] 횟수 소모 시 소모한 횟수만큼 얻음\n- 자신의 기본 스킬로 자신을 제외한 아군의 체력 회복 시 실제 회복량만큼 얻음\n- 아군의 체력 감소량 누적 10당 1 얻음\n- 자신을 제외한 르루주 소속 아군 인격의 기본 공격 적중 시 2 얻음\n- 턴 종료 시 자신을 제외한 르루주 소속 아군 인격 1명당 5 얻음\n\n턴 종료 시 [TransformSinclair]이 없고 [HungrySinclair]가 100 이상이면,\n다음 턴 시작 시 가장 왼쪽 슬롯의 아래 스킬을 ‘라 보라시테(la voracité)’로 변경\n\n이번 전투에서 ‘라 보라시테(la voracité)’ 또는 ‘라 카스트라시옹(la castration)’을 처음 장착한 전투 시작 시, [BuffetThirst]와 [TransformSinclair]을 얻고 자신의 흐트러짐 구간 제거\n- 장착했던 기본 스킬을 고귀한 품격 전용 스킬로 변경\n- 아군을 지정했던 기본 스킬은 무작위 적에게 일방 공격\n- 해당 효과로 발동한 스킬 공격 종료 시 [HungrySinclair] 모두 소모\n\n턴 종료 시 [TransformSinclair]이 있고, [HungrySinclair]가 150이면,\n다음 턴 시작 시 조작 슬롯에 ‘라 보라시테(la voracité)’가 없을 경우, 기본 스킬 1개를 ‘라 보라시테(la voracité)’로 변경 (가장 왼쪽 슬롯의 아래 스킬 우선)",      
+      "summary": "조건에 따라 [HungrySinclair] 얻음",
+      "flavor": "유년기의 끝은 누가 정하는가?\n\n붉은 아이는 홀로 여정에 올랐다. 기억을 더듬고 그리워하며 혼자 걸어갔고, 외로이 유년기를 떠나보낸다."
+    },
+    {
+      "id": 1101604,
+      "name": "라 무아송(la moisson)",
+      "desc": "자신의 기본 스킬 효과로 아군의 체력 소모 시, 해당 효과로 대상이 흐트러지거나 체력이 1 미만으로 감소하지 않음\n\n색욕 공명이 3 이상이면, 전투 종료 시 자신을 제외한 아군 (색욕 공명 / 3)명에게 다음 턴에 [BuffetThirst] 부여 (소수점 올림)\n- 르루주 소속 아군 우선. 편성 순서 순으로 부여\n\n아군에게 [SupportAlly] 스킬 사용 시 행동 가능한 르루주 소속 아군 중 현재 체력이 가장 높은 1명에게 [BuffetFriendShield] 1 부여 (턴당 1회)\n자신을 제외한 아군 [PersonalityCharge]의 기본 공격 종료 시 메인 타겟이 사망하지 않았으면 해당 적에게 ‘주 부제드(je vous aide)’ 사용 (턴당 1회)",
+      "summary": "아군에게 [SupportAlly] 스킬 사용 시 아군에게 [BuffetFriendShield] 부여\n색욕 공명에 따라 아군에게 다음 턴에 [BuffetThirst] 부여"
+    },
+    {
+      "id": 1101614,
+      "name": "라 무아송(la moisson)",
+      "desc": "자신의 기본 스킬 효과로 아군의 체력 소모 시, 해당 효과로 대상이 흐트러지거나 체력이 1 미만으로 감소하지 않음\n\n색욕 공명이 3 이상이면, 전투 종료 시 자신을 제외한 아군 (색욕 공명 / 3)명에게 다음 턴에 [BuffetThirst] 부여 (소수점 올림)\n- 르루주 소속 아군 우선. 편성 순서 순으로 부여\n- 자신에게 [TransformSinclair]이 있으면 부여 대상 아군 수 +1 (최대 4명)\n\n자신에게 [TransformSinclair]이 없으면,\n- 아군에게 [SupportAlly] 스킬 사용 시 행동 가능한 르루주 소속 아군 중 현재 체력이 가장 높은 1명에게 [BuffetFriendShield] 1 부여 (턴당 1회)\n- 자신을 제외한 아군 [PersonalityCharge]의 기본 공격 종료 시 메인 타겟이 사망하지 않았으면 해당 적에게 ‘주 부제드(je vous aide)’ 사용 (턴당 1회)\n\n자신에게 [TransformSinclair]이 있으면,\n- [RougeFamilySinclair] 얻음\n- 현재 전투 장소에 [DinnerField] 활성화\n- 턴 종료 시 다음 턴에 [BuffetThirst] 얻음\n- 전투 시작 시 행동 가능한 르루주 소속 아군 중 현재 체력이 가장 높은 1명에게 [BuffetFriendShield] 부여\n- 적에게 기본 공격 스킬 공격 종료 시, 메인 타겟의 [BoneNailSinclair] 수치가 5이면 ‘라 드망드(la demande)’ 사용 (턴당 1회)",
+      "summary": "아군에게 [SupportAlly] 스킬 사용 시 아군에게 [BuffetFriendShield] 부여\n색욕 공명에 따라 아군에게 다음 턴에 [BuffetThirst] 부여"
+    },
+    {
+      "id": 1101611,
+      "name": "레 푸부아르 드 라 비(les pouvoirs de la vie)",
+      "desc": "르루주 소속 아군이 피해로 흐트러지면, 해당 아군에게 ‘르 망카에트르(le manque-à-être)’ 사용 (턴당 1회, 강제 흐트러짐 제외)\n\n자신에게 [TransformSinclair]이 없으면,\n- 르루주 소속이 아닌 아군이 피해로 흐트러지면, 해당 아군에게 ‘르 망카에트르(le manque-à-être)’ 사용 (전투당 1회, 강제 흐트러짐 제외)\n\n자신에게 [TransformSinclair]이 있으면,\n- 자신을 제외한 르루주 소속 아군 인격이 체력이 0이 되는 피해를 받았을 때, 체력이 1 미만으로 감소하지 않고 최대 체력의 50%만큼 체력 회복 (소수점 올림, 인격별 전투당 1회)"
+    },
+    {
+      "id": 1101621,
+      "name": "폭식",
+      "desc": "전투 시작 시 체력이 가장 낮은 아군 1명에게 [AttackUp] 2 부여\n해당 아군이 공격 스킬 종료 시 자신의 최대 체력의 5%만큼 체력 회복 (최소 1, 턴당 1회)"
     }
   ]
 }
