@@ -29,7 +29,7 @@
       "options": [
         {
           "message": "持っていく。",
-          "messageDesc": "色欲有利判定成功時、汎用E.G.O GIFTを獲得"
+          "messageDesc": "色欲有利判定成功時、出血E.G.O GIFTを獲得"
         },
         {
           "message": "持っていかない。",
@@ -65,7 +65,7 @@
       "options": [
         {
           "message": "持っていく。",
-          "messageDesc": "色欲有利判定成功時、汎用E.G.O GIFTを獲得"
+          "messageDesc": "色欲有利判定成功時、出血E.G.O GIFTを獲得"
         },
         {
           "message": "持っていかない。",
