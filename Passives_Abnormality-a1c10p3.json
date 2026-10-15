@@ -30,7 +30,7 @@
     {
       "id": 148504,
       "name": "完璧保存",
-      "desc": "戦闘中、自分の[ChargeNoir]回数を\n累計10消耗するたびに[ChargeNoir]威力1を得る\n\nターン開始時、自分の[ChargeNoir]威力が3、[ChargeNoir]回数が10未満なら、自分の[ChargeNoir]回数が5増加\n\n[ChargeNoir]のターン終了時に回数が1減少する効果が発動しない",
+      "desc": "戦闘中、自分の[ChargeNoir]回数を\n累計10消耗するたびに[ChargeNoir]威力1を得る\n\nターン開始時、自分の[ChargeNoir]威力が3、[ChargeNoir]回数が10未満なら、\n自分の[ChargeNoir]回数が5増加\n\n[ChargeNoir]のターン終了時に回数が1減少する効果が発動しない",
       "flavor": "シーシュポスシステム上、この保存は完璧に保存される。",
       "summary": "[ChargeNoir]回数を累計で消耗すると[ChargeNoir]威力を得る\n[ChargeNoir]回数がターン終了時に減少しない"
     },
@@ -57,7 +57,7 @@
     {
       "id": 148605,
       "name": "告解道具",
-      "desc": "看守が自分のスキル効果で囚人に[ConfessionSecondPhase]を付与するとき、下記の効果が適用される\n- [RestrainingNailSecondPhase]、[ExecutionNailSecondPhase]、[CeremonialNail]、[MarkingNail]をまとめて<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]と呼ぶ</u></b></mark></color>\n- 看守が囚人に釘や金鎚の釘を付与するとき、<color=#ff6000><mark=#ff000040><b><u>最後に付与した効果を適用</u></b></mark></color>し、数値は合算する\n- <color=#ff6000><mark=#ff000040><b><u>金鎚の釘は釘に変更されない</u></b></mark></color>\n\n囚人に攻撃的中時、対象の囚人が保有する<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]1につき\nダメージ量 +3%</u></b></mark></color> (最大27%, 対象ごとに適用)\n\nターン開始時、看守の<color=#ff6000><mark=#ff000040><b><u>体力が50%以下</u></b></mark></color>なら、\nスキルで付与する全ての<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]付与量 +1</u></b></mark></color>",
+      "desc": "看守が自分のスキル効果で囚人に[ConfessionSecondPhase]を付与するとき、\n下記の効果が適用される\n- [RestrainingNailSecondPhase]、[ExecutionNailSecondPhase]、[CeremonialNail]、[MarkingNail]をまとめて<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]と呼ぶ</u></b></mark></color>\n- 看守が囚人に釘や金鎚の釘を付与するとき、<color=#ff6000><mark=#ff000040><b><u>最後に付与した効果を適用</u></b></mark></color>し、数値は合算する\n- <color=#ff6000><mark=#ff000040><b><u>金鎚の釘は釘に変更されない</u></b></mark></color>\n\n囚人に攻撃的中時、対象の囚人が保有する<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]1につき\nダメージ量 +3%</u></b></mark></color> (最大27%, 対象ごとに適用)\n\nターン開始時、看守の<color=#ff6000><mark=#ff000040><b><u>体力が50%以下</u></b></mark></color>なら、\nスキルで付与する全ての<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]付与量 +1</u></b></mark></color>",
       "summary": "対象の[ConfessionSecondPhase]に応じてダメージ量が増加\n体力が50%以下なら[ConfessionSecondPhase]の付与量が増加"
     },
     {
@@ -228,26 +228,26 @@
     {
       "id": 151703,
       "name": "ル・モワ(le moi)",
-      "desc": "[BuffetScruple]を持つ囚人が特定のスキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]を1得る</u></b></mark></color>\n[BuffetDream]が5になるとパターンが変化し、変化後のパターンのスキルとのマッチに勝利すると戦闘勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の威力が最大50まで累積し、回数は最大15まで累積する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
+      "desc": "[BuffetScruple]を持つ囚人が特定スキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]1を得る</u></b></mark></color>\n[BuffetDream]が5になると行動パターンが変わり、変更された行動パターンのスキルとのマッチに勝利すると戦闘に勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の威力が最大50まで累積し、回数は最大15まで累積する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
       "flavor": "私。水に映った私の姿を見た。私は完全な身体を持っている…。"
     },
     {
       "id": 151704,
       "name": "プヴォワール・ドゥ・ラ・ヴィ(Pouvoirs de la vie)",
-      "desc": "味方がダメージによって混乱状態になると、\n<color=#ff6000><mark=#ff000040><b><u>対象の味方の混乱を解除して援護攻撃</u></b></mark></color>を行わせる「ル・マンク・ア・エートル(le manque-à-être)」を使用 (1ターンにつき1回)\n\n味方が死亡すると、次のターン開始時に[BuffetRevival]3を保有する赤き神の引きちぎられた肉片を召喚",
+      "desc": "味方がダメージによって混乱状態になると、\n<color=#ff6000><mark=#ff000040><b><u>対象の味方の混乱を解除し、援護攻撃</u></b></mark></color>をさせる「ル・マンク・ア・エートル」を使用 (1ターンにつき1回)\n\n味方が死亡すると、次のターン開始時に[BuffetRevival]3を保有する赤き神の引きちぎられた肉片を召喚",
       "flavor": "生まれさせるという暴力性。ル・ルージュの神は、誕生の権能を持つ。\n\n死ねば意識はどこへ行くのか？生まれる前、意識はどこから来るのか？\n\nそこへ送り出すことも、引きずり出すことも全て同じ暴力的な権能。"
     },
     {
       "id": 151705,
       "name": "ラ・ジュイサンス・ファリック(la jouissance phallique)",
-      "desc": "ターン開始時、自分に[BuffetRouge]がなく、自分の[ChargeRouge]回数が15以上なら[ChargeRouge]回数を全て消耗して[BuffetRouge]を最大まで得る。消耗した[ChargeRouge]回数1につき精神力を2回復\n\n[BuffetRouge]がなく、自分の[ChargeRouge]回数が10以上なら、スキル使用時に[ChargeRouge]回数を10消耗してコイン威力 +1",
+      "desc": "ターン開始時、[BuffetRouge]状態ではないとき、\n自分の[ChargeRouge]回数が15以上なら、\n[ChargeRouge]回数を全て消耗して[BuffetRouge]を最大まで得る。\n消耗した[ChargeRouge]回数1につき精神力を2回復\n\nスキル使用時、[BuffetRouge]状態ではなく、\n自分の[ChargeRouge]回数が10以上なら、\n[ChargeRouge]回数を10消耗してコイン威力 +1",
       "flavor": "生の享楽を享受することには、条件が付く。条件が付く以上、この肉体的な快楽は必ず失敗する。限界と終わりがあるからだ。",
       "summary": "脈動回数を消耗して、コイン威力が増加"
     },
     {
       "id": 151706,
       "name": "ラ・モワソン(la moisson)",
-      "desc": "攻撃終了時、メインターゲットの<color=#ff6000><mark=#ff000040><b><u>[BoneNail]が5以上</u></b></mark></color>なら、メインターゲットに<color=#ff6000><mark=#ff000040><b><u>「ラ・ドゥマンド」</u></b></mark></color>を使用",
+      "desc": "攻撃終了時、メインターゲットの<color=#ff6000><mark=#ff000040><b><u>[BoneNail]が5以上</u></b></mark></color>なら、\n攻撃したメインターゲットに<color=#ff6000><mark=#ff000040><b><u>「強力なスキル」</u></b></mark></color>を使用 (1ターンにつき1回)",
       "flavor": "押し出された付属器官は他人に突き刺さり、境界の外から私を繰り返し呼ぶ。\n\n生まれた場所へと再び戻りたいという衝動は、死の衝動なのか、生の衝動なのか。"
     },
     {

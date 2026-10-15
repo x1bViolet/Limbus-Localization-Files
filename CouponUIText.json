@@ -47,6 +47,70 @@
     {
       "id": "coupon_use_failed_unknown",
       "content": "不明なエラーが発生しました。"
+    },
+    {
+      "id": "promotion_code_btn",
+      "content": "メンバーシップコード"
+    },
+    {
+      "id": "promotion_popup_title",
+      "content": "メンバーシップコード"
+    },
+    {
+      "id": "promotion_popup_desc",
+      "content": "下のボタンからメンバーシップコードを確認できます。"
+    },
+    {
+      "id": "promotion_issue_btn",
+      "content": "コード発行"
+    },
+    {
+      "id": "promotion_code_empty",
+      "content": "まだ確認したコードがありません。"
+    },
+    {
+      "id": "promotion_issue_failed_condition",
+      "content": "条件を満たしていないため、コードを確認できません。"
+    },
+    {
+      "id": "promotion_issue_failed_unknown",
+      "content": "不明なエラーが発生しました。"
+    },
+    {
+      "id": "promotion_copy_btn",
+      "content": "コピー"
+    },
+    {
+      "id": "promotion_copy_success",
+      "content": "コードをコピーしました。"
+    },
+    {
+      "id": "promotion_issue_failed_shutdown",
+      "content": "メンバーシップコードの確認期間が終了しました。"
+    },
+    {
+      "id": "promotion_issue_failed_closed",
+      "content": "メンバーシップコードの発行期間が終了しました。"
+    },
+    {
+      "id": "promotion_check_btn",
+      "content": "コード確認"
+    },
+    {
+      "id": "promotion_consent_title",
+      "content": "個人情報の収集・利用への同意"
+    },
+    {
+      "id": "promotion_consent_desc",
+      "content": "メンバーシップコード発行のため、個人情報の収集・利用に同意してください。"
+    },
+    {
+      "id": "promotion_consent_confirm_btn",
+      "content": "同意"
+    },
+    {
+      "id": "promotion_issued_check_failed",
+      "content": "発行状況を確認できませんでした。しばらくしてから、もう一度お試しください。"
     }
   ]
 }
