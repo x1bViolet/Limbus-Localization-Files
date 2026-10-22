@@ -135,6 +135,18 @@
     {
       "id": "formation_name_filter_Etc_DISCARD_SKILL",
       "content": "버림"
+    },
+    {
+      "id": "formation_name_filter_Etc_SISYPHE",
+      "content": "시지프"
+    },
+    {
+      "id": "formation_name_filter_Etc_LE_ROUGE",
+      "content": "르루주"
+    },
+    {
+      "id": "formation_name_filter_Etc_LE_NOIR",
+      "content": "르누아르"
     }
   ]
 }
