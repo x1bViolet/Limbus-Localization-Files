@@ -596,7 +596,7 @@
           "level": 1,
           "name": "Unbrilliant Glory - Flowing",
           "abName": "Młynar",
-          "desc": "[CantDuel]\nWhen used for the first time in battle, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain 1 [AttackUp] next turn",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain 1 [AttackUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -611,7 +611,7 @@
           "level": 3,
           "name": "Unbrilliant Glory - Flowing",
           "abName": "Młynar",
-          "desc": "[CantDuel]\nWhen used for the first time in battle, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain <style=\"highlight\">2</style> [AttackUp] next turn",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain <style=\"highlight\">2</style> [AttackUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -626,7 +626,7 @@
           "level": 4,
           "name": "Unbrilliant Glory - Flowing",
           "abName": "Młynar",
-          "desc": "[CantDuel]\nWhen used for the first time in battle, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain 2 [AttackUp] <style=\"highlight\">and 1 [AttackDmgUp]</style> next turn",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 1 fewer Wrath, 2 fewer Sloth, and 1 fewer Pride E.G.O resources.\nAt 1+ [MlynarWaiting], activate <noparse>Unbrilliant Glory - Incandescence</noparse> instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndSkill] Heal 25 SP\n[EndSkill] Gain 2 [AttackUp] <style=\"highlight\">and 1 [AttackDmgUp]</style> next turn",
           "coinlist": [
             {
               "coindescs": [
