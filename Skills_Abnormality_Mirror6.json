@@ -820,7 +820,7 @@
         {
           "level": 1,
           "name": "宝玉揺籃",
-          "desc": "[CantChangeTarget]\n編成順が最も早いを優先して攻撃\n対象が編成順の最も早い対象なら、ダメージ量が0に固定される\n[EndSkill] 対象が編成順の最も早い対象なら、混乱状態にして次のターンに[ExpensiveJade]にする。以降ターン終了",
+          "desc": "[CantChangeTarget]\n編成順が最も早い対象を優先して攻撃\n対象が編成順の最も早い対象なら、ダメージ量が0に固定される\n[EndSkill] 対象が編成順の最も早い対象なら、混乱状態にして次のターンに[ExpensiveJade]にする。以降ターン終了",
           "coinlist": [
             {
               "coindescs": [
@@ -1233,7 +1233,7 @@
         {
           "level": 1,
           "name": "ぶるんぶるん",
-          "desc": "[CantDuel] \n[WhenUse] [GiveMeCandy]を持つ人格の数だけダメージ量 +20% (最大100%)",
+          "desc": "[CantDuel]\n[WhenUse] [GiveMeCandy]を持つ人格の数だけダメージ量 +20% (最大100%)",
           "coindescs": [
             {
               "desc": ""
@@ -1293,7 +1293,7 @@
         {
           "level": 1,
           "name": "なぐった。コミを。",
-          "desc": "[DuelCounter] \n[WhenUse] 次のターンに全部位がマッチ威力増加2を得る\n[WhenUse] 次のターンに全部位がクイック2を得る",
+          "desc": "[DuelCounter]\n[WhenUse] 次のターンに全部位がマッチ威力増加2を得る\n[WhenUse] 次のターンに全部位がクイック2を得る",
           "coinlist": [
             {
               "coindescs": [

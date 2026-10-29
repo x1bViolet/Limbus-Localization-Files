@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] 体力の比率が最も低い味方2名の体力を12回復"
+                  "desc": "[EndSkillHead] 現体力の比率が最も低い味方2名の体力を12回復"
                 },
                 {
                   "desc": "[EndSkillTail] 精神力の最も低い味方2名の精神力が12回復"

@@ -5,7 +5,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "ドンキホーテ",
-      "dialog": "私を送れ！正義のために勝機をかざして凱旋してこよう！",
+      "dialog": "私を送れ！正義のために勝利の旗を掲げ、凱旋してこよう！",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -61,7 +61,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "ドンキホーテ",
-      "dialog": "私を送れ！正義のために勝機をかざして凱旋してこよう！",
+      "dialog": "私を送れ！正義のために勝利の旗を掲げ、凱旋してこよう！",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -109,7 +109,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "ドンキホーテ",
-      "dialog": "逆境に打ち勝ってこそ英雄である。もう一度やってみせよう！",
+      "dialog": "逆境に打ち勝ってこそ真の英雄である。もう一度やってみせよう！",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {

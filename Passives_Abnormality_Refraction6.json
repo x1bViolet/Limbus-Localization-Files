@@ -8,7 +8,7 @@
     {
       "id": 956401,
       "name": "羽化 - 転生",
-      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目が開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
+      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目の開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
     },
     {
       "id": 956402,
@@ -18,7 +18,7 @@
     {
       "id": 956501,
       "name": "羽化 - 今生",
-      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目が開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
+      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目の開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
     },
     {
       "id": 956502,
@@ -28,7 +28,7 @@
     {
       "id": 956601,
       "name": "羽化 - 来世",
-      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目が開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
+      "desc": "速度が1に固定され、体力が1未満に減少しない\n登場後から1ターン目の開始時、バリアを333得る\n\nスキル「羽化」で攻撃終了時、ステージの戦闘が終了する\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了"
     },
     {
       "id": 956602,
@@ -83,7 +83,7 @@
     {
       "id": 9567031,
       "name": "未来",
-      "desc": "[StackFutureActivate]なら、次の効果が適用される\n<mark=#000000AA>- <color=#d93737><s></color>ターン開始時、全囚人にの[Laceration]回数が(3 + 現在のターン数 ÷ 2)だけ増加 (小数点切り上げ)<color=#ff0000></s></color></mark>\n- スキル「血花」の最終威力 +2, 最終コインに「的中時に([StackFutureActivate]×3)だけ自分の体力を回復」効果を追加\n- 自分または囚人に[Laceration]が発動するたび、その[Laceration]ダメージだけ自分の体力を回復 (小数点切り捨て)"
+      "desc": "[StackFutureActivate]なら、次の効果が適用される\n<mark=#000000AA>- <color=#d93737><s></color>ターン開始時、全囚人の[Laceration]回数が(3 + 現在のターン数 ÷ 2)だけ増加 (小数点切り上げ)<color=#ff0000></s></color></mark>\n- スキル「血花」の最終威力 +2, 最終コインに「的中時に([StackFutureActivate]×3)だけ自分の体力を回復」効果を追加\n- 自分または囚人に[Laceration]が発動するたび、その[Laceration]ダメージだけ自分の体力を回復 (小数点切り捨て)"
     },
     {
       "id": 9567032,
@@ -148,7 +148,7 @@
     {
       "id": 956907,
       "name": "梅花満開",
-      "desc": "ステージ開始時、[YesdragonSelfRefraction]3を得る\nターン終了時、次のターンに[YesdragonSelfRefraction]1を得る\n「震怒」パッシブが発動するたびに得る[YesdragonSelfRefraction]が1ずつ増加\n- 逆鱗部位が破壊されると、追加で数値が初期化される"
+      "desc": "ステージ開始時、[YesdragonSelfRefraction]3を得る\nターン終了時、次のターンに[YesdragonSelfRefraction]1を得る\n「震怒」パッシブが発動するたびに得る[YesdragonSelfRefraction]が1ずつ増加\n- 逆鱗部位が破壊されると、追加数値が初期化される"
     },
     {
       "id": 956908,
@@ -194,13 +194,13 @@
     {
       "id": 955102,
       "name": "神託端末機 [カドゥケウス]",
-      "desc": "<color=#ff9000><mark=#ff000040><b><u>コインごとに武器がランダムに決まり、特殊効果が適用</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\n攻撃スキル使用時、[StackRienSpecialSkill]1を得る (最大9)\n- スキルごとに1回獲得可能 (同じスキルで2を超過して獲得できない)\n\n<color=#ff9000><mark=#ff000040><b><u>ターン開始時に[StackRienSpecialSkill]が9なら、強力なスキルを使用</u></b></mark></color>\n- 初めて使用後に攻撃終了時、[Shin_Rien]を得る\n- スキルの種類別に[StackRienSpecialSkill]獲得状況が初期化\n- 速度の最小・最大値 +15\n- ターン終了時、次のターンに[Vulnerable]1, [ResultReduction]2を得る\n\n登場してから4番目のターンが開始時、[StackRienSpecialSkill]が9未満なら9まで増加し、(増加した数値 × 3)だけ[KarmaOfIndexRien]を得る\n- 以降、4ターンごとにこの効果が発動",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>コインごとに武器がランダムに決まり、特殊効果が適用</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\n攻撃スキル使用時、[StackRienSpecialSkill]1を得る (最大9)\n- スキルごとに1回獲得可能 (同じスキルで2を超過して獲得できない)\n\n<color=#ff9000><mark=#ff000040><b><u>ターン開始時に[StackRienSpecialSkill]が9なら、強力なスキルを使用</u></b></mark></color>\n- 初めて使用後に攻撃終了時、[Shin_Rien]を得る\n- スキルの種類別に[StackRienSpecialSkill]獲得状況が初期化\n- 速度の最小・最大値 +15\n- ターン終了時、次のターンに[Vulnerable]1, [ResultReduction]2を得る\n\n登場してから4番目のターン開始時、[StackRienSpecialSkill]が9未満なら9まで増加し、(増加した数値 × 3)だけ[KarmaOfIndexRien]を得る\n- 以降、4ターンごとにこの効果が発動",
       "flavor": "端末機の中には、特異点に類似した技術を用いて形状や質量を変化させられる、金属のような液体が収められている。\nこの液体は、端末機が受け取った指令に応じて姿を変え、殺害対象の情報や与えられた制限時間に合わせて武器へと変換される。\nある日、あまりにも小さな短剣が割り当てられたので別の武器に変わるのを待っていたが、殺害の制限時間が迫るまで使えそうな武器は現れなかった。結局、最後まで待って出てきたのがフォークだったため、そのフォークで対象を殺さなければならなかった。"
     },
     {
       "id": 955103,
       "name": "指令の意味",
-      "desc": "ターン開始時、\n- [UnlockBuff_Base]段階によって[IndexPrescript_Base_2nd]を得る\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff9000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff9000><mark=#ff000040><b><u>使用しない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)\n- ランダムで選択した囚人が死亡するか体力が1の場合、他の囚人にこれを繰り返す</u></b></mark></color>\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +2.5% (最大20%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +30%",
+      "desc": "ターン開始時、\n- [UnlockBuff_Base]段階によって[IndexPrescript_Base_2nd]を得る\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff9000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff9000><mark=#ff000040><b><u>まだ使用していない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)\n- ランダムで選択した囚人が死亡するか体力が1の場合、他の囚人にこれを繰り返す</u></b></mark></color>\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +2.5% (最大20%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +30%",
       "flavor": "俺が家庭を築くことをお望みですか。\n\n「あなたみたいな夫と、どうしてこんな運命的な出逢いができたんでしょうね。」"
     },
     {
@@ -212,7 +212,7 @@
     {
       "id": 955105,
       "name": "解禁",
-      "desc": "ターン終了時、[BlessingOfIndexPrescriptEnemy]が3/6/9か体力が95%/85%/75%以下なら、[UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]を得る\n\n登場してから最初のターンが終了時、[UnlockBuff_Base]段階が1未満なら[UnlockBuff_Rien1]を得る\n登場してから3ターン目が終了時、[UnlockBuff_Base]段階が2未満なら[UnlockBuff_Rien2]を得る\n\n体力またはターン条件で[UnlockBuff_Base]獲得時、\n- [BlessingOfIndexPrescriptEnemy]が3/6/9未満なら、3/6/9へ変更\n増加した数値1につき、次のターン開始時に[KarmaOfIndexRien]5を得る",
+      "desc": "ターン終了時、[BlessingOfIndexPrescriptEnemy]が3/6/9か体力が95%/85%/75%以下なら、[UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]を得る\n\n登場してから最初のターンの終了時、[UnlockBuff_Base]段階が1未満なら[UnlockBuff_Rien1]を得る\n登場してから3ターン目の終了時、[UnlockBuff_Base]段階が2未満なら[UnlockBuff_Rien2]を得る\n\n体力またはターン条件で[UnlockBuff_Base]獲得時、\n- [BlessingOfIndexPrescriptEnemy]が3/6/9未満なら、3/6/9へ変更\n増加した数値1につき、次のターン開始時に[KarmaOfIndexRien]5を得る",
       "flavor": "「指令に従って進んでいれば、閉ざされていたものが解かれていくものだ。」"
     },
     {
@@ -235,7 +235,7 @@
     {
       "id": 955203,
       "name": "指令の意味",
-      "desc": "ターン開始時、\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff9000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n- [BlessingOfIndexPrescriptEnemy]だけ[Protection]を得る (最大9)\n<color=#ff9000><mark=#ff000040><b><u>-　[KarmaOfIndexRien_2Phase]20につき、1減少</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff9000><mark=#ff000040><b><u>使用しない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)\n- ランダムに選ばれた囚人が死亡したり、体力が1になるならこれを他の囚人に繰り返す</u></b></mark></color>\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +5% (最大40%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +50%\n\nフェーズが変更して2ターン目から効果発動\n- ターン開始時に[BlackNightmare]を得る\n・直前のターンに強力なスキルを使用したなら、そのターンには[BlackNightmare]が消える",
+      "desc": "ターン開始時、\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff9000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n- [BlessingOfIndexPrescriptEnemy]だけ[Protection]を得る (最大9)\n<color=#ff9000><mark=#ff000040><b><u>-　[KarmaOfIndexRien_2Phase]20につき、1減少</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff9000><mark=#ff000040><b><u>まだ使用していない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)\n- ランダムに選ばれた囚人が死亡したり、体力が1になるならこれを他の囚人に繰り返す</u></b></mark></color>\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +5% (最大40%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +50%\n\nフェーズが変更して2ターン目から効果発動\n- ターン開始時に[BlackNightmare]を得る\n・直前のターンに強力なスキルを使用したなら、そのターンには[BlackNightmare]が消える",
       "flavor": "「家族を作りました」\n\n「お前は今ここにいるべきじゃないはずだが」\n「まだ作業の真っ最中だ。何よりも繊細に、美しく飾り立てているところなんだ」\n「…貴様、まさか指令に逆らうつもりか」"
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 955303,
       "name": "防衛機制",
-      "desc": "ターン開始時、<color=#ff9000><mark=#ff000040><b><u>失った体力の30%だけバリアを得る(体力最大値の25%以上を超えて得ることはない)</u></b></mark></color>\n- [Combustion]状態なら、([Combustion]回数 × 1.5)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを100%分追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]1を得る(最大5)"
+      "desc": "ターン開始時、<color=#ff9000><mark=#ff000040><b><u>失った体力の30%だけバリアを得る(体力最大値の25%を超えて得ることはない)</u></b></mark></color>\n- [Combustion]状態なら、([Combustion]回数 × 1.5)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを100%分追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]1を得る(最大5)"
     },
     {
       "id": 955304,
@@ -312,7 +312,7 @@
     {
       "id": 955307,
       "name": "粗雑な防衛機制",
-      "desc": "選択肢によって弱化された場合、「防衛機制」パッシブが以下の効果に変更されて適用される\n\nターン開始時、失った体力の15%だけバリアを得る(体力最大値の5%以上を超えて得ることはない)\n- [Combustion]状態なら、([Combustion]回数 × 2)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを150%だけ追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]2を得る(最大10)"
+      "desc": "選択肢によって弱化された場合、「防衛機制」パッシブが以下の効果に変更されて適用される\n\nターン開始時、失った体力の15%だけバリアを得る(体力最大値の5%を超えて得ることはない)\n- [Combustion]状態なら、([Combustion]回数 × 2)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを150%だけ追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]2を得る(最大10)"
     },
     {
       "id": 955308,
@@ -327,7 +327,7 @@
     {
       "id": 955310,
       "name": "防衛機制",
-      "desc": "ターン開始時、<color=#ff9000><mark=#ff000040><b><u>失った体力の30%だけバリアを得る(体力最大値の25%以上を超えて得ることはない)</u></b></mark></color>\n- [Combustion]状態なら、([Combustion]回数 × 1.5)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを100%分追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]1を得る(最大5)"
+      "desc": "ターン開始時、<color=#ff9000><mark=#ff000040><b><u>失った体力の30%だけバリアを得る(体力最大値の25%を超えて得ることはない)</u></b></mark></color>\n- [Combustion]状態なら、([Combustion]回数 × 1.5)%だけバリア数値が大幅減少\n- バリアは[Burst]効果ダメージを100%分追加で受ける\n\nターン終了時にこの効果で得たバリアが破壊されたなら、破壊された回数に比例してこの戦闘の間、ターン開始時に[DefenseDown]1を得る(最大5)"
     },
     {
       "id": 955311,
@@ -337,7 +337,7 @@
     {
       "id": 955002,
       "name": "重畳した残像",
-      "desc": "このキャラクターが戦闘に登場すると、[TimeEntangleFour]を得る\n[TimeGapAb]がないなら、[TimeGapAb]を([TimeEntangleDesc]段階 × 400)だけ得る。([TimeEntangleDesc]段階1につき1回)\n\n[TimeEntangleDesc]3, 4段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うとパターンが変更され、次のターンの間混乱する</u></b></mark></color>\n\n[TimeEntangleDesc]2段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うと、パターンが変更される</u></b></mark></color>\n\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力、精神力、混乱区間前進量 -30%"
+      "desc": "このキャラクターが戦闘に登場すると、[TimeEntangleFour]を得る\n[TimeGapAb]がないなら、[TimeGapAb]を([TimeEntangleDesc]段階 × 400)だけ得る。([TimeEntangleDesc]段階1につき1回)\n\n[TimeEntangleDesc]3, 4段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うとパターンが変更され、次のターンの間混乱する</u></b></mark></color>\n\n[TimeEntangleDesc]2段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うと、パターンが変更される</u></b></mark></color>\n\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量と混乱区間前進量 -30%"
     },
     {
       "id": 957201,

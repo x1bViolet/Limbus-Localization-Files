@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "時間を殺した罰",
-          "desc": "[TimeAcceleration]状態なら、マッチ威力 +2\n[WhenUse] [LimitedTime]が500以上なら、対象の[Laceration]回数が3増加\n[WhenUse] [LimitedTime]が500以上なら、対象の[Laceration]回数が1増加\n[WhenUse] [LimitedTime]が400以上なら[LimitedTime]を20消耗し、このスキルで付与する[Laceration]威力と回数 +1",
+          "desc": "[TimeAcceleration]状態なら、マッチ威力 +2\n[WhenUse] [LimitedTime]が700以上なら、対象の[Laceration]回数が3増加\n[WhenUse] [LimitedTime]が500以上なら、対象の[Laceration]回数が1増加\n[WhenUse] [LimitedTime]が400以上なら[LimitedTime]を20消耗し、このスキルで付与する[Laceration]威力と回数 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -364,7 +364,7 @@
         {
           "level": 1,
           "name": "滅多斬り",
-          "desc": "[WhenUse] 自分の体力が75%未満なら、[OwnTime]を60消耗してマッチ威力 +2\n[BeforeAttack] [TimeAcceleration]状態なら、攻撃加重値が3増加\n[BeforeAttack] 自分の体力最大値が60%未満なら[OwnTime]を10消耗し、攻撃加重値が1増加",
+          "desc": "[WhenUse] 自分の体力が75%未満なら、[OwnTime]を60消耗してマッチ威力 +2\n[BeforeAttack] [TimeAcceleration]状態なら、攻撃加重値が3増加\n[BeforeAttack] 自分の体力が60%未満なら[OwnTime]を10消耗し、攻撃加重値が1増加",
           "coinlist": [
             {
               "coindescs": [
@@ -415,7 +415,7 @@
         {
           "level": 1,
           "name": "回避",
-          "desc": "[WhenUse] 全部位が保有した[OwnTime]の合計が50につき、基本威力 +1 (最大3)",
+          "desc": "[WhenUse] 全部位が保有した[OwnTime]の合計50につき、基本威力 +1 (最大3)",
           "coinlist": [
             {
               "coindescs": [

@@ -102,7 +102,7 @@
     },
     {
       "id": "GetBuff_OnStageStart",
-      "content": "<color=#ebcaa2>次の戦闘にてステージ進入時、 {conditional}{target} {buffName} {stack}獲得</color>"
+      "content": "<color=#ebcaa2>次の戦闘にてステージ進入時、{conditional}{target} {buffName} {stack}獲得</color>"
     },
     {
       "id": "UnlockHiddenRoute",
@@ -126,7 +126,7 @@
     },
     {
       "id": "Choice_901007",
-      "content": "<color=#ebcaa2>ターン開始時、</color><color=#00ff9c>体力と</color>、<color=#80c9ff>精神力を</color> </color=#ebcaa2>10回復</color>(最大3ターン)"
+      "content": "<color=#ebcaa2>ターン開始時、</color><color=#00ff9c>体力と</color>、<color=#80c9ff>精神力を</color> <color=#ebcaa2>10回復</color>(最大3ターン)"
     },
     {
       "id": "Choice_901009",
@@ -214,7 +214,7 @@
     },
     {
       "id": "Choice_90100701",
-      "content": "<color=#bb521f>色欲属性の攻撃スキル</color><color=#ebcaa2>を保有している人格の</color><color=#80c9ff>精神力を</color></color=#ebcaa2>回復</color>"
+      "content": "<color=#bb521f>色欲属性の攻撃スキル</color><color=#ebcaa2>を保有している人格の</color><color=#80c9ff>精神力を</color><color=#ebcaa2>回復</color>"
     },
     {
       "id": "Choice_901008",
@@ -234,7 +234,7 @@
     },
     {
       "id": "Choice_90101601",
-      "content": "<color=#61822b>暴食属性の攻撃スキル</color><color=#ebcaa2>を保有している人格の</color><color=#80c9ff>精神力を</color></color=#ebcaa2>回復</color>"
+      "content": "<color=#61822b>暴食属性の攻撃スキル</color><color=#ebcaa2>を保有している人格の</color><color=#80c9ff>精神力を</color><color=#ebcaa2>回復</color>"
     },
     {
       "id": "Choice_901018",
@@ -254,7 +254,7 @@
     },
     {
       "id": "Choice_901024",
-      "content": "<color=#306471>憂鬱属性の攻撃スキル</color><color=#ebcaa2>を保有している最も精神力が低い人格の</color><color=#f8c200>体力を</color></color=#ebcaa2>全快</color>"
+      "content": "<color=#306471>憂鬱属性の攻撃スキル</color><color=#ebcaa2>を保有している最も精神力が低い人格の</color><color=#f8c200>体力を</color><color=#ebcaa2>全快</color>"
     },
     {
       "id": "Choice_901025",
@@ -362,7 +362,7 @@
     },
     {
       "id": "Choice_EGO901002",
-      "content": "戦闘勝利時、E.G.Oギフト「倒錯性」「畏敬の念」を獲得"
+      "content": "戦闘勝利時、E.G.Oギフト「倒錯症」「畏敬の念」を獲得"
     },
     {
       "id": "Choice_EGO901009",
@@ -370,7 +370,7 @@
     },
     {
       "id": "Choice_EGO901010",
-      "content": "戦闘勝利時、E.G.Oギフト「ブラッディーガジェット」「荘厳」を獲得"
+      "content": "戦闘勝利時、E.G.Oギフト「ブラッディー・ガジェット」「荘厳」を獲得"
     },
     {
       "id": "Choice_EGO901011",
@@ -378,7 +378,7 @@
     },
     {
       "id": "Choice_EGO901013",
-      "content": "戦闘勝利時、E.G.Oギフト「お札の束」「古びた木彫り人形」を獲得"
+      "content": "戦闘勝利時、E.G.Oギフト「お札の束」「古い木彫り人形」を獲得"
     },
     {
       "id": "Choice_EGO901014",
@@ -386,7 +386,7 @@
     },
     {
       "id": "Choice_EGO901016",
-      "content": "戦闘勝利時、E.G.Oギフト「緑の結実」「酸っぱい酒香」を獲得"
+      "content": "戦闘勝利時、E.G.Oギフト「緑色の結実」「酸っぱい酒香」を獲得"
     },
     {
       "id": "Choice_EGO901018",
@@ -410,7 +410,7 @@
     },
     {
       "id": "Choice_EGO901031",
-      "content": "戦闘勝利時、E.G.Oギフト「ニクシーダイバージェンス」「歯車のぜんまい」を獲得"
+      "content": "戦闘勝利時、E.G.Oギフト「ニクシー・ダイバージェンス」「歯車のぜんまい」を獲得"
     },
     {
       "id": "Choice_EGO901033",

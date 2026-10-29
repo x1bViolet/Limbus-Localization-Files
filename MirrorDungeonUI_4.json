@@ -638,7 +638,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_1",
-      "content": "合成では、 <color=#f8c200>E.G.O ギフトのキーワードを同じもので組み合わせた</color>場合、該当キーワードのE.G.Oギフトを獲得できる確率が増加します。"
+      "content": "合成では、<color=#f8c200>E.G.Oギフトのキーワードを同じもので組み合わせた</color>場合、該当キーワードのE.G.Oギフトを獲得できる確率が増加します。"
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_2",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_desc_4",
-      "content": "ただし、該当ランクの選択キーワードE.G.Oギフトを全て獲得したか現在の階層の選択肢、ボスクリア時に出現するE.G.Oギフトに既に配分されていて獲得できない場合は<u><b>該当ランクギフトの内選択していないキーワードのE.G.Oを獲得</u></b>することがあります。"
+      "content": "ただし、該当ランクの選択キーワードE.G.Oギフトを全て獲得したか現在の階層の選択肢、ボスクリア時に出現するE.G.Oギフトに既に配分されていて獲得できない場合は<u><b>該当ランクギフトの内選択していないキーワードのE.G.Oギフトを獲得</u></b>することがあります。"
     },
     {
       "id": "new_ego_gift_combine_guide_desc_5",
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
-      "content": "4階層"
+      "content": "3階層"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",

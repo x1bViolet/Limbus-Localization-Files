@@ -838,7 +838,7 @@
     },
     {
       "id": "gacha_history_notice",
-      "content": "※{0}日前までの履歴が最大{1}件表示されます。"
+      "content": "※過去{0}日間の履歴が最大{1}件表示されます。"
     },
     {
       "id": "gacha_history_empty",
@@ -854,7 +854,7 @@
     },
     {
       "id": "gacha_time",
-      "content": "抽出日程"
+      "content": "抽出日時"
     },
     {
       "id": "used_currencies",
@@ -922,7 +922,7 @@
     },
     {
       "id": "gacha_rate_info_piece2",
-      "content": "獲得した自我の破片は事前に告知した期間中に使用でき、保有している自我の破片の50%が次のシーズンに繰り越されます。\n\n繰越されない自我の断片は紐に還元されます。"
+      "content": "獲得した自我の破片は事前に告知した期間中に使用でき、保有している自我の破片の50%が次のシーズンに繰り越されます。\n\n繰越されない自我の破片は紐に還元されます。"
     },
     {
       "id": "gacha_rate_info_piece3",
@@ -930,7 +930,7 @@
     },
     {
       "id": "personality_preview_notice",
-      "content": "この画面には人格の最大レベル、同期段階が表示されます。"
+      "content": "この画面には人格の最大レベル、同期化段階が表示されます。"
     },
     {
       "id": "ego_preview_notice",
@@ -1322,7 +1322,7 @@
     },
     {
       "id": "new_season_former_box_to_thread_box",
-      "content": "繰り越されない自我の破片ボックス、セレクトボックスは紐に変換されます。"
+      "content": "繰り越されない自我の破片ボックス、セレクトボックスは紐の箱に変換されます。"
     },
     {
       "id": "new_pass_appeared",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "notice_of_pity_point_progress_or_not_already_have",
-      "content": "選択した人格は入手済みです。イサン[理想]200つを消耗して、選択した囚人の破片50個と交換しますか？"
+      "content": "選択した人格は入手済みです。イサン[理想]200個を消耗して、選択した囚人の破片50個と交換しますか？"
     },
     {
       "id": "open_date_description_month_day_time_zone",
@@ -1418,7 +1418,7 @@
     },
     {
       "id": "formation_force_participation_off",
-      "content": "固定編成"
+      "content": "固定編成が必要"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "notice_of_pity_point_already_have_announcer",
-      "content": "選択したアナウンサーは入手済みです。イサン[理想]200つを消耗して、紐の箱50個と交換しますか？"
+      "content": "選択したアナウンサーは入手済みです。イサン[理想]200個を消耗して、紐の箱50個と交換しますか？"
     },
     {
       "id": "gacha_rate_info_announcer1",
@@ -1650,7 +1650,7 @@
     },
     {
       "id": "leap_up_ticket_title",
-      "content": "跳躍人格を選択"
+      "content": "上昇跳躍人格を選択"
     },
     {
       "id": "leap_up_able_uptie_tier_and_level",
@@ -1710,11 +1710,11 @@
     },
     {
       "id": "unlink_account_complete_title",
-      "content": "連係解除完了"
+      "content": "連携解除完了"
     },
     {
       "id": "unlink_account_complete_desc",
-      "content": "連係解除が完了しました。\nタイトル画面へ戻ります。"
+      "content": "連携解除が完了しました。\nタイトル画面へ戻ります。"
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
@@ -1850,7 +1850,7 @@
     },
     {
       "id": "remote_download_quit_game",
-      "content": "新しいダウンロード項目が追加されました。\nゲームが終了しますので、再度アプリ開いてダウンロードしてください。"
+      "content": "新しいダウンロード項目が追加されました。\nゲームが終了しますので、再度アプリを開いてダウンロードしてください。"
     },
     {
       "id": "mainui_settings_battle_speech",
@@ -1902,7 +1902,7 @@
     },
     {
       "id": "ego_gift_combine_explain_no_item_list",
-      "content": "関連E.G.Oギフトの調合レシピがありません。"
+      "content": "関連E.G.Oギフトの合成レシピがありません。"
     },
     {
       "id": "ego_gift_combine_explain_required_label",

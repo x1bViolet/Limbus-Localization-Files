@@ -135,7 +135,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対処の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする"
+                  "desc": "[OnSucceedAttack] 対象の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする"
                 }
               ]
             }

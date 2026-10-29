@@ -8,7 +8,7 @@
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax",
       "add": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加、最大{2}%)</size>",
-      "min": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ減少、最大{2}%)</size>"
+      "min": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加、最大{2}%)</size>"
     },
     {
       "id": "OnKillEnemyAsLevelRatioMultiply",
@@ -18,7 +18,7 @@
     {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
       "add": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加",
-      "min": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加"
+      "min": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少"
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
@@ -83,7 +83,7 @@
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
       "add": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ増加)</size>",
-      "min": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>"
+      "min": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ増加)</size>"
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",

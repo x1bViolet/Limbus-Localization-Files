@@ -238,7 +238,7 @@
         {
           "level": 4,
           "name": "締め付ける拘束具",
-          "desc": "[WhenUse] 自分の振動 回数3が増加\n[DefeatDuel] 自分の振動 回数3が増加",
+          "desc": "[WhenUse] 自分の振動 回数が3増加\n[DefeatDuel] 自分の振動 回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "紅炎殺 最大感応【劣化侵蝕】",
-          "desc": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1以下にならない。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大3)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大4)",
+          "desc": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1に維持される。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大3)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大4)",
           "coinlist": [
             {
               "coindescs": [
@@ -2843,7 +2843,7 @@
         {
           "level": 3,
           "name": "抑圧された肉体の解放",
-          "desc": "[SilverOpportunity]専用スキル\n[WhenUse] このスキルの攻撃加重値よりも低い攻撃対象1につき、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大2)\n[WhenUse] 自分の[ChargeBodyArt]回数が10以上なら、[ChargeBodyArt]回数を最大20まで消耗して下記の効果を適用\n- 最終威力 +2\n- 消耗した数値1につき、ダメージ量 +1%\n- [ChargeBodyArt]が3/5以上なら、攻撃加重値 +1/+2\n- 全コインが[SuperCoin]になる",
+          "desc": "[SilverOpportunity]専用スキル\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大2)\n[WhenUse] 自分の[ChargeBodyArt]回数が10以上なら、[ChargeBodyArt]回数を最大20まで消耗して下記の効果を適用\n- 最終威力 +2\n- 消耗した数値1につき、ダメージ量 +1%\n- [ChargeBodyArt]が3/5以上なら、攻撃加重値 +1/+2\n- 全コインが[SuperCoin]になる",
           "coinlist": [
             {
               "coindescs": [
@@ -2887,7 +2887,7 @@
         {
           "level": 4,
           "name": "抑圧された肉体の解放",
-          "desc": "[SilverOpportunity]専用スキル\n[WhenUse] このスキルの攻撃加重値よりも低い攻撃対象1につき、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n[WhenUse] 自分の[ChargeBodyArt]回数が10以上なら、[ChargeBodyArt]回数を最大20まで消耗して下記の効果を適用\n- 最終威力 +2\n- 消耗した数値1につき、ダメージ量 +1%\n- [ChargeBodyArt]が3/5以上なら、攻撃加重値 +1/+2\n- 全コインが[SuperCoin]になる",
+          "desc": "[SilverOpportunity]専用スキル\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[WhenUse] メインターゲットの[Laceration]4につき、最終威力 +1 (最大3)\n[WhenUse] 自分の[ChargeBodyArt]回数が10以上なら、[ChargeBodyArt]回数を最大20まで消耗して下記の効果を適用\n- 最終威力 +2\n- 消耗した数値1につき、ダメージ量 +1%\n- [ChargeBodyArt]が3/5以上なら、攻撃加重値 +1/+2\n- 全コインが[SuperCoin]になる",
           "coinlist": [
             {
               "coindescs": [
@@ -3165,7 +3165,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少  (スキルごとに2回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少 (スキルごとに2回)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] [Combustion]1を付与"
@@ -3196,7 +3196,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少  (スキルごとに<style=\"highlight\">3</style>回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少 (スキルごとに<style=\"highlight\">3</style>回)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>"
@@ -3239,14 +3239,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion]を1付与 (1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与 (1ターンにつき2回)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration]を1付与 (1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Vibration]1を付与 (1ターンにつき2回)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3260,14 +3260,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion]を1付与 (1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与 (1ターンにつき2回)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration]を1付与 (1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Vibration]1を付与 (1ターンにつき2回)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3374,7 +3374,7 @@
                   "desc": "このコインを再使用 (最大2回)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少  (スキルごとに2回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少 (スキルごとに2回)"
                 }
               ]
             }
@@ -3411,7 +3411,7 @@
                   "desc": "<style=\"highlight\">[Firstlight]があれば、ダメージ量 +(対象の[Combustion]威力÷2)% (最大20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少  (スキルごとに<style=\"highlight\">3</style>回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少 (スキルごとに<style=\"highlight\">3</style>回)"
                 }
               ]
             }
@@ -3450,7 +3450,7 @@
                   "desc": "このコインを再使用 (最大2回)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少  (スキルごとに2回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少 (スキルごとに2回)"
                 }
               ]
             }
@@ -3487,7 +3487,7 @@
                   "desc": "<style=\"highlight\">[Firstlight]があれば、ダメージ量 +(対象の[Combustion]威力)% (最大20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少  (スキルごとに<style=\"highlight\">3</style>回)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の振動回数が1減少 (スキルごとに<style=\"highlight\">3</style>回)"
                 }
               ]
             }

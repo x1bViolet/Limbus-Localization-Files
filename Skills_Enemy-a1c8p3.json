@@ -310,7 +310,7 @@
         {
           "level": 1,
           "name": "推進弾 再装填",
-          "desc": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る",
+          "desc": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン威力 +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "推進弾 再装填",
-          "desc": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る",
+          "desc": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン威力 +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る",
           "coinlist": [
             {
               "coindescs": [

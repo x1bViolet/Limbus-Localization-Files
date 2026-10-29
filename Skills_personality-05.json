@@ -1968,7 +1968,7 @@
                   "desc": "[OnSucceedAttack] [ParadeConcentration]2を付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] このスキルダメージで対象を混乱、部位破壊、討伐したなら、対象1名にごとに次のターンにて[BloodArmorMeursault]1を得る (最大3)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] このスキルダメージで対象を混乱、部位破壊、討伐したなら、対象1名ごとに次のターンにて[BloodArmorMeursault]1を得る (最大3)"
                 }
               ]
             }
@@ -2021,7 +2021,7 @@
                   "desc": "<style=\"highlight\">- 自分の[FocusOnActing]が2以上なら、攻撃対象のうち1名に[ParadeConcentration]2を追加で付与 (1ターンにつき1回)</style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] このスキルダメージで対象を混乱、部位破壊、討伐したなら、対象1名にごとに次のターンにて[BloodArmorMeursault]1を得る (最大3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] このスキルダメージで対象を混乱、部位破壊、討伐したなら、対象1名ごとに次のターンにて[BloodArmorMeursault]1を得る (最大3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2633,7 +2633,7 @@
         {
           "level": 1,
           "name": "彩色準備",
-          "desc": "[DuelCounter] \n自分に[FaubismMaskMeursault]があるなら、基本威力 +2",
+          "desc": "[DuelCounter]\n自分に[FaubismMaskMeursault]があるなら、基本威力 +2",
           "coinlist": [
             {
               "coindescs": [

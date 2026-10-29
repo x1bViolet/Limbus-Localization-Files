@@ -84,7 +84,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "機会を伺うぞ",
+          "name": "機会を窺うぞ",
           "desc": "[CanDuelGuard]\n[WhenUse] 対象の[Burst]4につき、コイン威力 +1 (最大2)\n[WhenUse] [SnakeStance]を3得る (スキルごとに1回)",
           "coinlist": [
             {

@@ -415,7 +415,7 @@
         {
           "level": 1,
           "name": "ク！",
-          "desc": "[WhenUse] 生存している鶏1匹つにつき、マッチ威力 +1\n[WhenUse] 生存している鶏2匹につき、マイナス効果の付与量 +1",
+          "desc": "[WhenUse] 生存している鶏1匹につき、マッチ威力 +1\n[WhenUse] 生存している鶏2匹につき、マイナス効果の付与量 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -441,7 +441,7 @@
         {
           "level": 1,
           "name": "グッ",
-          "desc": "[WhenUse] 生存している鶏1匹つにつき、マッチ威力 +1\n[WhenUse] 生存している鶏2匹につき、マイナス効果の付与量 +1",
+          "desc": "[WhenUse] 生存している鶏1匹につき、マッチ威力 +1\n[WhenUse] 生存している鶏2匹につき、マイナス効果の付与量 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -506,7 +506,7 @@
         {
           "level": 1,
           "name": "クググッ…",
-          "desc": "[StartBattle] (生存している × 100)だけバリアを得る",
+          "desc": "[StartBattle] (生存している鶏の数 × 100)だけバリアを得る",
           "coinlist": [
             {}
           ]
@@ -1014,7 +1014,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "動圧追撃",
+          "name": "等圧追撃",
           "desc": "自分の[DogThunder]1につき、コイン威力 +1 (最大3)\n[WhenUse] 対象の[Laceration]と[Burst]の合計5につき、ダメージ量 +15% (最大60%)",
           "coinlist": [
             {
@@ -1508,7 +1508,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "ねじ切る",
+          "name": "とぐろを巻く",
           "desc": "[WhenUse] 対象にマイナス効果が2種以上あるなら、コイン威力 +1\n[DefeatDuel] [Aggressive]1を失う",
           "coinlist": [
             {},
@@ -1726,7 +1726,7 @@
         {
           "level": 1,
           "name": "パレードの王子",
-          "desc": "[StartBattle] [Laceration]を持つ対象だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
+          "desc": "[StartBattle] [Laceration]を持つ対象の数だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
           "coinlist": [
             {
               "coindescs": [
@@ -1897,7 +1897,7 @@
         {
           "level": 1,
           "name": "義体稼働",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1919,7 +1919,7 @@
         {
           "level": 1,
           "name": "硬血式血液逆流",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
           "coinlist": [
             {
               "coindescs": [
@@ -2015,7 +2015,7 @@
         {
           "level": 1,
           "name": "硬血式血液移転",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が9増加",
           "coinlist": [
             {
               "coindescs": [

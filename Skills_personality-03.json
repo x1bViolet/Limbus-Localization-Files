@@ -971,7 +971,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の[Vibration]が10以上なら、対象の[Vibration]を10消耗して[TimeSuspend]2を付与\n- 自分が[TimeRentalTwoPersonality]状態なら、 対象の[Vibration]を消耗しない"
+                  "desc": "[OnSucceedAttack] 対象の[Vibration]が10以上なら、対象の[Vibration]を10消耗して[TimeSuspend]2を付与\n- 自分が[TimeRentalTwoPersonality]状態なら、対象の[Vibration]を消耗しない"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の速度が自分より低ければ、[VibrationChainPersonality]へ[Switch_Vibration]"
@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の[Vibration]が10以上なら、対象の[Vibration]を10消耗して[TimeSuspend]2を付与\n- 自分が[TimeRentalTwoPersonality]状態なら、 対象の[Vibration]を消耗しない<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 対象の[Vibration]が10以上なら、対象の[Vibration]を10消耗して[TimeSuspend]2を付与\n- 自分が[TimeRentalTwoPersonality]状態なら、対象の[Vibration]を消耗しない<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少</style>"
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "耐えるのは終わりだ",
-          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]5につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]5につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {},
             {
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "耐えるのは終わりだ",
-          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]5につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n[WhenUse] 対象の[Laceration]<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>",
+          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]5につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n[WhenUse] 対象の[Laceration]<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
         {
           "level": 1,
           "name": "思うがままに繰り広げよ",
-          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n[BeforeAttack] [BloodArmorPersonalityFirst]が10以上なら、攻撃加重値 +1",
+          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n[BeforeAttack] [BloodArmorPersonalityFirst]が10以上なら、攻撃加重値 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "思うがままに繰り広げよ",
-          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[BeforeAttack] [BloodArmorPersonalityFirst]<style=\"highlight\">10につき</style>、攻撃加重値が1増加<style=\"highlight\">(最大2)</style>",
+          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[BeforeAttack] [BloodArmorPersonalityFirst]<style=\"highlight\">10につき</style>、攻撃加重値が1増加<style=\"highlight\">(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "思うがままに繰り広げよ",
-          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n[WhenUse] 対象の[Laceration]<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[BeforeAttack] [BloodArmorPersonalityFirst]10につき、攻撃加重値が1増加(最大2)",
+          "desc": "このスキルが的中時、与ダメージ量の30%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大50消耗し、消耗した[BloodDinner]10につき[BloodArmorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n[WhenUse] 対象の[Laceration]<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[BeforeAttack] [BloodArmorPersonalityFirst]10につき、攻撃加重値が1増加(最大2)",
           "coinlist": [
             {
               "coindescs": [
@@ -2604,7 +2604,7 @@
         {
           "level": 1,
           "name": "行く手を阻むものはまとめてぶっ壊してみせまする！",
-          "desc": "[DuelCounter] \n[WhenUse]次のターンに[GrownHorns]3を得る",
+          "desc": "[DuelCounter]\n[WhenUse]次のターンに[GrownHorns]3を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -3603,7 +3603,7 @@
         {
           "level": 3,
           "name": "幾度も振り下ろし、誕生を断たん！",
-          "desc": "このスキルは守備スキルの代わりに発動しても攻撃スキルとして扱われ、守備威力の変更効果を受けず、攻撃威力の変更効果が適用される\n[StartBattle] 全てのル・ノワール所属の味方人格に[AttackUp]2、[DefenseUp]2を付与 (1ターンにつき1回)\n[WhenUse] 全攻撃対象の[Vibration]威力と[NoirNailDonQuixote]の合計が6以上なら、コイン威力 +1\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値よりも少ない攻撃対象1につき、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[BeforeAttack] 最大共鳴数1につき、最後のコインの最終威力 +2 (最大8)\n[EndSkill] [NoirShieldUpDonQuixote]を全て消耗",
+          "desc": "このスキルは守備スキルの代わりに発動しても攻撃スキルとして扱われ、守備威力の変更効果を受けず、攻撃威力の変更効果が適用される\n[StartBattle] 全てのル・ノワール所属の味方人格に[AttackUp]2、[DefenseUp]2を付与 (1ターンにつき1回)\n[WhenUse] 全攻撃対象の[Vibration]威力と[NoirNailDonQuixote]の合計が6以上なら、コイン威力 +1\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[BeforeAttack] 最大共鳴数1につき、最後のコインの最終威力 +2 (最大8)\n[EndSkill] [NoirShieldUpDonQuixote]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -3649,7 +3649,7 @@
         {
           "level": 4,
           "name": "幾度も振り下ろし、誕生を断たん！",
-          "desc": "このスキルは守備スキルの代わりに発動しても攻撃スキルとして扱われ、守備威力の変更効果を受けず、攻撃威力の変更効果が適用される\n[StartBattle] 全てのル・ノワール所属の味方人格に[AttackUp]2、[DefenseUp]2を付与 (1ターンにつき1回)\n[WhenUse] 全攻撃対象の[Vibration]威力と[NoirNailDonQuixote]の合計<style=\"highlight\">6につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値よりも少ない攻撃対象1につき、ダメージ量 +<style=\"highlight\">50%</style> (集中戦闘の場合は部位で判定)\n[BeforeAttack] 最大共鳴数1につき、最後のコインの最終威力 +2 (最大8)\n[EndSkill] [NoirShieldUpDonQuixote]を全て消耗",
+          "desc": "このスキルは守備スキルの代わりに発動しても攻撃スキルとして扱われ、守備威力の変更効果を受けず、攻撃威力の変更効果が適用される\n[StartBattle] 全てのル・ノワール所属の味方人格に[AttackUp]2、[DefenseUp]2を付与 (1ターンにつき1回)\n[WhenUse] 全攻撃対象の[Vibration]威力と[NoirNailDonQuixote]の合計<style=\"highlight\">6につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +<style=\"highlight\">50%</style> (集中戦闘の場合は部位で判定)\n[BeforeAttack] 最大共鳴数1につき、最後のコインの最終威力 +2 (最大8)\n[EndSkill] [NoirShieldUpDonQuixote]を全て消耗",
           "coinlist": [
             {
               "coindescs": [

@@ -321,7 +321,7 @@
         {
           "level": 1,
           "name": "硬血式強化打撃",
-          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +1\n[WhenUse] このスキルで対象へ[Laceration]を付与するとき、自分に[HardenedBlood]だけ[Burst]を追加で付与\n[EndSkill] [HardenedBlood], [BloodyHand]を全て消耗",
+          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +1\n[WhenUse] このスキルで対象へ[Laceration]を付与するとき、自分の[HardenedBlood]だけ[Burst]を追加で付与\n[EndSkill] [HardenedBlood], [BloodyHand]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -430,7 +430,7 @@
         {
           "level": 1,
           "name": "硬血式強化打撃",
-          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +1\n[WhenUse] このスキルで対象へ[Laceration]を付与するとき、自分に[HardenedBlood]だけ[Burst]を追加で付与\n[EndSkill] [HardenedBlood], [BloodyHand]を全て消耗",
+          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +1\n[WhenUse] このスキルで対象へ[Laceration]を付与するとき、自分の[HardenedBlood]だけ[Burst]を追加で付与\n[EndSkill] [HardenedBlood], [BloodyHand]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -658,7 +658,7 @@
         {
           "level": 1,
           "name": "色褪せた忍耐",
-          "desc": "[WhenUse] [BloodDinner]を最大で50消耗し、消耗した[BloodDinner]10につき[HardenedBlood]1を得る\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1",
+          "desc": "[WhenUse] [BloodDinner]を最大で50消耗し、消耗した[BloodDinner]10につき[BloodyHand]1を得る\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -958,7 +958,7 @@
         {
           "level": 1,
           "name": "楽しいパレードに加わってください！",
-          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [Laceration]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
+          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [BloodDinner]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1084,7 +1084,7 @@
         {
           "level": 1,
           "name": "みんな足を揃えて踊りましょう！",
-          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [Laceration]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
+          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [BloodDinner]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
           "coinlist": [
             {
               "coindescs": [

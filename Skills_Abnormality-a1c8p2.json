@@ -431,7 +431,7 @@
         {
           "level": 1,
           "name": "出しゃばるでない",
-          "desc": "[WhenUse] 対象の[Burst]回数4につき、コイン威力 +1(最大3)\n[WinDuel] [Burst]回数が2増加",
+          "desc": "[WhenUse] 対象の[Burst]4につき、コイン威力 +1(最大3)\n[WinDuel] [Burst]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
         {
           "level": 1,
           "name": "良い見世物はもっと堪能しないとねぇ？",
-          "desc": "[StartBattle] 次のターンに壺を2つ召喚\n[StartBattle] 対象のマイナス効果が3種以上なら、基本威力 +1",
+          "desc": "[StartBattle] 次のターンに壺を2つ召喚\n[WhenUse] 対象のマイナス効果が3種以上なら、基本威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1281,7 +1281,7 @@
         {
           "level": 1,
           "name": "ひざまずけ！",
-          "desc": "[CantIdentify] \n[WhenUse] 対象の保有するマイナス効果2種につきコイン威力 +1 (最大2)",
+          "desc": "[CantIdentify]\n[WhenUse] 対象の保有するマイナス効果2種につきコイン威力 +1 (最大2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1600,7 +1600,7 @@
         {
           "level": 1,
           "name": "充拳流 - 打ち合う",
-          "desc": "[WhenUse] 対象の[Burst]回数4につき、最終威力 +1(最大2)\n[WhenUse] 自分の[Charge]回数が3増加",
+          "desc": "[WhenUse] 対象の[Burst]4につき、最終威力 +1(最大2)\n[WhenUse] 自分の[Charge]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1622,7 +1622,7 @@
         {
           "level": 1,
           "name": "充拳流 - 薙ぎ払う",
-          "desc": "[WhenUse] 対象の[Burst]回数5につき、最終威力 +1(最大2)\n[WhenUse] 自分の[Charge]回数を5消耗し、最終威力 +1\n[WhenUse] [Charge]回数が5以上10未満なら、[Burst]威力2 × (13 - 現在の[Charge]回数)だけ獲得し、[Charge]回数が10に増加(1ターンにつき1回)\n[WhenUse] 自分の[Charge]回数が5増加",
+          "desc": "[WhenUse] 対象の[Burst]5につき、最終威力 +1(最大2)\n[WhenUse] 自分の[Charge]回数を5消耗し、最終威力 +1\n[WhenUse] [Charge]回数が5以上10未満なら、[Burst]威力2 × (13 - 現在の[Charge]回数)だけ獲得し、[Charge]回数が10に増加(1ターンにつき1回)\n[WhenUse] 自分の[Charge]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1651,7 +1651,7 @@
         {
           "level": 1,
           "name": "充拳流 - ぶち壊す",
-          "desc": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 +1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 +1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10以上消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,7 +1728,7 @@
         {
           "level": 1,
           "name": "超速護衛",
-          "desc": "[CanDuelGuard]\n[BeforeUse] [SupportProtect]が2以上なら、黒獣 卯 奥義 - 雲解顕現として発動\n[WhenUse] 自分がこの戦闘にて失った累計体力5%につき、このスキルの防御レベルが増加(最大10)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない",
+          "desc": "[CanDuelGuard]\n[BeforeUse] [SupportProtect]が2以上なら、黒獣 卯 奥義 - 雲解顕現として発動\n[WhenUse] 自分がこの戦闘にて失った累計体力5%につき、このスキルの防御レベルが1増加(最大10)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない",
           "coinlist": [
             {
               "coindescs": [

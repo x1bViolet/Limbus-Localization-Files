@@ -30,11 +30,11 @@
     },
     {
       "id": "ycgd_scrap_guide_desc",
-      "content": "イベント、メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると\n低確率で<color=#1998fe>[恨の宿った鞘]</color>を獲得することができます。\n\n<color=#1998fe>[恨の宿った鞘]</color>は<color=#008d0d>[血に濡れた鞘]</color>20個に変換されます。"
+      "content": "イベント、メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると\n低確率で<color=#1998fe>[恨の宿った鞘]</color>を獲得することができます。\n\n<color=#1998fe>[恨の宿った鞘]</color>は獲得すると即座に<color=#008d0d>[血に濡れた鞘]</color>20個に変換されます。"
     },
     {
       "id": "ycgd_rewardpage_desc",
-      "content": "イベントステージとダンジョンをクリアするたびに\n<color=#1998fe>[血に濡れた鞘]</color>を獲得でき、低確率で\n<color=#1998fe>[恨の宿った鞘]</color>を追加で獲得することができます。\n<color=#7fc6ff>[恨の宿った鞘]</color>は<color=#1998fe>[血に濡れた鞘]</color>20個に即変換されます。"
+      "content": "イベントステージとダンジョンをクリアするたびに\n<color=#1998fe>[血に濡れた鞘]</color>を獲得でき、低確率で\n<color=#7fc6ff>[恨の宿った鞘]</color>を追加で獲得することができます。\n<color=#7fc6ff>[恨の宿った鞘]</color>は<color=#1998fe>[血に濡れた鞘]</color>20個に即変換されます。"
     },
     {
       "id": "ycgd_reward_popup_desc",

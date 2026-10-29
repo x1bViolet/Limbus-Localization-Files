@@ -355,7 +355,7 @@
         {
           "level": 1,
           "name": "骨断",
-          "desc": "[WhenUse] 自分の[Breath]が10以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値よりも低い攻撃対象1につき、ダメージ量 +40% (集中戦闘の場合は部位で判定)\n[WhenUse] 自分の[Breath]回数が4増加\n[EndSkill] 自分の[Breath]を全て消耗",
+          "desc": "[WhenUse] 自分の[Breath]が10以上なら、コイン威力 +1\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +40% (集中戦闘の場合は部位で判定)\n[WhenUse] 自分の[Breath]回数が4増加\n[EndSkill] 自分の[Breath]を全て消耗",
           "coinlist": [
             {
               "coindescs": [

@@ -82,7 +82,7 @@
     },
     {
       "id": "hells_chicken_dungeon_desc_recent_personality",
-      "content": "※以前に選択した人格とE.G.Oがプリセットに自動で保存され、再入場にこれを読み込むことが出来ます。"
+      "content": "※以前に選択した人格とE.G.Oがプリセットに自動で保存され、再入場時にこれを読み込むことが出来ます。"
     },
     {
       "id": "giving_up_hells_chicken_dungeon_title",
@@ -94,7 +94,7 @@
     },
     {
       "id": "hells_chicken_dungeon_error_desc",
-      "content": "サーバーエラーによってデータが損失しました。\nギブアップ選択時、入場時に使用したエンケファリンモジュールは返還されます。"
+      "content": "サーバーエラーによってデータが失われました。\nギブアップ選択時、入場時に使用したエンケファリンモジュールは返還されます。"
     },
     {
       "id": "only_giving_up_hells_chicken_dungeon_content",

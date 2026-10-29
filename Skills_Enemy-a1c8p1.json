@@ -1188,7 +1188,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "対象の([Laceration] + [Laceration]回数)2につきダメージ量 +1%(最大50%)"
+                  "desc": "対象の([Laceration] + [Laceration]回数)1につきダメージ量 +2%(最大50%)"
                 }
               ]
             }
@@ -1249,7 +1249,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咽頭酒",
+          "name": "咽道酒",
           "desc": "[WhenUse] 対象の[Laceration]5につき、基本威力 +1 (最大2)\n[WhenUse] [SipOfAlcohol]1を得る",
           "coinlist": [
             {
@@ -1377,7 +1377,7 @@
         {
           "level": 1,
           "name": "真鎮終斬",
-          "desc": "[StartBattle] このスキルが終了するまで体力が0未満にならない\n[WhenUse] [AttackUp]10を得る\n[WhenUse] [Enhancement]5を得る\n[WhenUse] [AttackDmgUp]10を得る",
+          "desc": "[StartBattle] このスキルが終了するまで体力が1以下にならない\n[WhenUse] [AttackUp]10を得る\n[WhenUse] [Enhancement]5を得る\n[WhenUse] [AttackDmgUp]10を得る",
           "coinlist": [
             {
               "coindescs": [

@@ -30,7 +30,7 @@
     },
     {
       "id": "10203_getCondition_gacksung",
-      "content": " 生き残ったロボトミー職員ファウスト 同期化3段階達成"
+      "content": "生き残ったロボトミー職員ファウスト 同期化3段階達成"
     },
     {
       "id": "10302_getCondition_normal",
@@ -90,11 +90,11 @@
     },
     {
       "id": "10603_getCondition_normal",
-      "content": "ぽんぽん派親分ホンル 獲得時"
+      "content": "ぽんぽん派ボスホンル 獲得時"
     },
     {
       "id": "10603_getCondition_gacksung",
-      "content": "ぽんぽん派親分ホンル  同期化3段階達成"
+      "content": "ぽんぽん派ボスホンル 同期化3段階達成"
     },
     {
       "id": "10702_getCondition_normal",
@@ -214,7 +214,7 @@
     },
     {
       "id": "10504_getCondition_gacksung",
-      "content": "N社大鎚ムルソー  同期化3段階達成"
+      "content": "N社大鎚ムルソー 同期化3段階達成"
     },
     {
       "id": "10904_getCondition_normal",
@@ -222,7 +222,7 @@
     },
     {
       "id": "10904_getCondition_gacksung",
-      "content": "N社中鎚ロージャ  同期化3段階達成"
+      "content": "N社中鎚ロージャ 同期化3段階達成"
     },
     {
       "id": "10204_getCondition_normal",
@@ -246,7 +246,7 @@
     },
     {
       "id": "11104_getCondition_gacksung",
-      "content": "南部セブン協会6課ウーティス 同期化3段階達成"
+      "content": "南部セブン協会6課部長ウーティス 同期化3段階達成"
     },
     {
       "id": "10604_getCondition_normal",
@@ -678,7 +678,7 @@
     },
     {
       "id": "11209_getCondition_gacksung",
-      "content": " エドガー家継承者 グレゴール同期化3段階達成"
+      "content": "エドガー家継承者 グレゴール同期化3段階達成"
     },
     {
       "id": "10209_getCondition_normal",
@@ -702,7 +702,7 @@
     },
     {
       "id": "10809_getCondition_gacksung",
-      "content": " エドガー家バトラーイシュメール 同期化3段階達成"
+      "content": "エドガー家バトラーイシュメール 同期化3段階達成"
     },
     {
       "id": "11009_getCondition_normal",
@@ -830,7 +830,7 @@
     },
     {
       "id": "10810_getCondition_gacksung",
-      "content": "西部ツヴァイ3課イシュメール 同期化3段階達成"
+      "content": "西部ツヴァイ協会3課イシュメール 同期化3段階達成"
     },
     {
       "id": "10511_getCondition_normal",
@@ -890,7 +890,7 @@
     },
     {
       "id": "10310_getCondition_normal",
-      "content": "ラ・マンチャランド室長,ドンキホーテ獲得時"
+      "content": "ラ・マンチャランド室長ドンキホーテ獲得時"
     },
     {
       "id": "10310_getCondition_gacksung",
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "10512_getCondition_gacksung",
-      "content": "東部親指カポIIII 同期化3段階達成"
+      "content": "東部親指カポIIII ムルソー 同期化3段階達成"
     },
     {
       "id": "11013_getCondition_normal",
@@ -1423,6 +1423,22 @@
     {
       "id": "11016_getCondition_gacksung",
       "content": "オートクチュール::ル・ルージュ 赤き神 シンクレア 同期化3段階達成"
+    },
+    {
+      "id": "10717_getCondition_normal",
+      "content": "オートクチュール::ル・ルージュ 裁縫の王 ヒースクリフ獲得時"
+    },
+    {
+      "id": "10717_getCondition_gacksung",
+      "content": "オートクチュール::ル・ルージュ 裁縫の王 ヒースクリフ 同期化3段階達成"
+    },
+    {
+      "id": "10617_getCondition_normal",
+      "content": "オートクチュール::ル・ノワール 3F 放送室 ホンル獲得時"
+    },
+    {
+      "id": "10617_getCondition_gacksung",
+      "content": "オートクチュール::ル・ノワール 3F 放送室 ホンル 同期化3段階達成"
     }
   ]
 }

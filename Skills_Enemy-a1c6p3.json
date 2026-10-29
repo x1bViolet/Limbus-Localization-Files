@@ -109,7 +109,7 @@
         {
           "level": 1,
           "name": "埃…",
-          "desc": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10%(最大30%)",
+          "desc": "[WhenUse] 対象の[Sinking]6につき、基本威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、ダメージ量 +10%(最大30%)",
           "coinlist": [
             {
               "coindescs": [
@@ -282,7 +282,7 @@
         {
           "level": 1,
           "name": "ガード",
-          "desc": "[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。",
+          "desc": "[StartBattle] 生存している味方1名につき、バリアを20追加で得る。",
           "coinlist": [
             {
               "coindescs": [

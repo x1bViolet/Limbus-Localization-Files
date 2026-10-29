@@ -129,7 +129,7 @@
         {
           "level": 1,
           "name": "招かざる客は出て行ってください",
-          "desc": "[UninvitedGuest]対象を優先して攻撃\n[UninvitedGuest]を持つ的だけ加重値増加\n[WhenUse] [UninvitedGuest]を持つ敵だけマッチ威力が増加",
+          "desc": "[UninvitedGuest]対象を優先して攻撃\n[UninvitedGuest]を持つ敵の数だけ加重値増加\n[WhenUse] [UninvitedGuest]を持つ敵の数だけマッチ威力が増加",
           "coinlist": [
             {
               "coindescs": [

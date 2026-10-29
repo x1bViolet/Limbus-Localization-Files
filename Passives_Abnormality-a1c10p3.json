@@ -221,7 +221,7 @@
     {
       "id": 151702,
       "name": "レクスティミテ(l'extimité)",
-      "desc": "体力が50%減少した状態で戦闘開<noparse>始</noparse>\nステージ開始時、全ての敵に[BuffetScruple]を付与 (待機人数を含む)\n\nスキル使用時、対象が<color=#ff6000><mark=#ff000040><b><u>[BuffetScruple]を保有</u></b></mark></color>していれば、精神力が10減少",
+      "desc": "体力が50%減少した状態で戦闘開<noparse>始</noparse>\nステージ開始時、全ての敵に[BuffetScruple]を付与 (待機人員を含む)\n\nスキル使用時、対象が<color=#ff6000><mark=#ff000040><b><u>[BuffetScruple]を保有</u></b></mark></color>していれば、精神力が10減少",
       "flavor": "…あなたたちは私の身体の一番外側にいながら、私の一番内側に居場所を占めている。",
       "summary": "精神力が減少"
     },

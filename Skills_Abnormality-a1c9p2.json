@@ -111,7 +111,7 @@
         {
           "level": 1,
           "name": "紅炎殺",
-          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- この[Combustion]、[Combustion]回数付与量が半減",
+          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
           "coinlist": [
             {
               "coindescs": [
@@ -122,7 +122,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },
@@ -135,7 +135,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "無形斬",
-          "desc": "[WideAreaRampage]\n速度に関係なくこのスキルとマッチができ、このスキルが終了するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルダメージ対象が混乱しない",
+          "desc": "[WideAreaRampage]\n速度に関係なくこのスキルとマッチができ、このスキルが終了するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -582,7 +582,7 @@
         {
           "level": 1,
           "name": "空間斬",
-          "desc": "速度に関係なくこのスキルとマッチができ、このスキルが終了するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルダメージ対象が混乱しない\n[EndSkill] このターンが終了",
+          "desc": "速度に関係なくこのスキルとマッチができ、このスキルが終了するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n[EndSkill] このターンが終了",
           "coinlist": [
             {
               "coindescs": [
@@ -671,7 +671,7 @@
         {
           "level": 1,
           "name": "空間斬 - 縁",
-          "desc": "[WhenUse] 自分の精神力が10以上なら、望 を1つ生成。最終威力 +5\n速度に関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルダメージ対象が混乱しない\n[EndSkill] このスキルで望 を生成したなら、精神力 -10\n[EndSkill] このターンが終了",
+          "desc": "[WhenUse] 自分の精神力が10以上なら、望 を1つ生成。最終威力 +5\n速度に関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n[EndSkill] このスキルで望 を生成したなら、精神力 -10\n[EndSkill] このターンが終了",
           "flavor": "空間を斬る技術。空間斬。空間を斬ることは剣士たちの宿念であり、様々な方法でその宿念に至った。",
           "coinlist": [
             {
@@ -1061,7 +1061,7 @@
         {
           "level": 1,
           "name": "紅炎殺",
-          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- この[Combustion]、[Combustion]回数付与量が半減",
+          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
           "coinlist": [
             {
               "coindescs": [
@@ -1072,7 +1072,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },
@@ -1085,7 +1085,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },

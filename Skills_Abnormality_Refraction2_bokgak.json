@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が2増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が2増加"
                 }
               ]
             },
@@ -1030,7 +1030,7 @@
         {
           "level": 1,
           "name": "蠢く頭",
-          "desc": "体力が最も低い敵を優先して攻撃\n対象に[Paralysis]があるなら、ダメージ量 +50%\n対象が防御スキルを装着しているなら、ダメージ量 -100%\n[SelfCharge]1につき、基本威力 +1\n[WhenUse] [SelfCharge]を1消耗\n[WhenUse] 対象が防御スキルを装着しているなら、[SelfCharge]を2消耗\n[DefeatDuel] [SelfCharge]を追加で2消耗",
+          "desc": "体力が最も低い敵を優先して攻撃\n対象に[Paralysis]があるなら、ダメージ量 +50%\n対象が守備スキルを装着しているなら、ダメージ量 -100%\n[SelfCharge]1につき、基本威力 +1\n[WhenUse] [SelfCharge]を1消耗\n[WhenUse] 対象が守備スキルを装着しているなら、[SelfCharge]を2消耗\n[DefeatDuel] [SelfCharge]を追加で2消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1056,7 +1056,7 @@
         {
           "level": 1,
           "name": "蠢く尾",
-          "desc": "体力が最も低い敵を優先して攻撃\n対象に[Paralysis]があるなら、ダメージ量 +50%\n対象が防御スキルを装着しているなら、ダメージ量 -100%\n[SelfCharge]1につき、基本威力 +1\n[WhenUse] [SelfCharge]を1消耗\n[WhenUse] 対象が防御スキルを装着しているなら、[SelfCharge]を2消耗\n[DefeatDuel] [SelfCharge]を追加で2消耗",
+          "desc": "体力が最も低い敵を優先して攻撃\n対象に[Paralysis]があるなら、ダメージ量 +50%\n対象が守備スキルを装着しているなら、ダメージ量 -100%\n[SelfCharge]1につき、基本威力 +1\n[WhenUse] [SelfCharge]を1消耗\n[WhenUse] 対象が守備スキルを装着しているなら、[SelfCharge]を2消耗\n[DefeatDuel] [SelfCharge]を追加で2消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1462,7 +1462,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が2増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が2増加"
                 }
               ]
             },

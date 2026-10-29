@@ -478,7 +478,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10311",
-      "content": "東部センク協会3課部長, ドンキホーテの物語"
+      "content": "東部センク協会3課, ドンキホーテの物語"
     },
     {
       "id": "MirrorWorld_Story_Title_P11211",
@@ -570,7 +570,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10813",
-      "content": "LCCB係長, イシュメールの物語"
+      "content": "定事務所代表, イシュメールの物語"
     },
     {
       "id": "MirrorWorld_Story_Title_P11213",
@@ -690,7 +690,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10616",
-      "content": "東部センク協会3課部長, ホンルの物語"
+      "content": "東部センク協会3課, ホンルの物語"
     },
     {
       "id": "MirrorWorld_Story_Title_P10416",
@@ -711,6 +711,14 @@
     {
       "id": "MirrorWorld_Story_Title_P11016",
       "content": "オートクチュール::ル・ルージュ 赤き神, シンクレアの物語"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10717",
+      "content": "オートクチュール::ル・ルージュ 裁縫の王, ヒースクリフの物語"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10617",
+      "content": "オートクチュール::ル・ノワール 3F 放送室, ホンルの物語"
     }
   ]
 }

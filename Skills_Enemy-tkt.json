@@ -387,7 +387,7 @@
         {
           "level": 1,
           "name": "大義のための収集",
-          "desc": "[CantDuel]\n[StartBattle] 自分を除いた全味方の[Vibration]回数を自分が得て、全味方の[Vibration]を除去\n[StartBattle] 自分の[Vibration]回数3につき、[AttackUp]増加1を得る\n[WhenUse] 自分の[Vibration]回数が9増加",
+          "desc": "[CantDuel]\n[StartBattle] 自分を除いた全味方の[Vibration]回数を自分が得て、全味方の[Vibration]を除去\n[StartBattle] 自分の[Vibration]回数3につき、[AttackUp]1を得る\n[WhenUse] 自分の[Vibration]回数が9増加",
           "coinlist": [
             {
               "coindescs": [
@@ -652,7 +652,7 @@
         {
           "level": 1,
           "name": "強制徴収を執行します。",
-          "desc": "[WhenUse] 自分の[Vibration]回数が3増加\n[WhenUse] [Vibration]回数4につき、基本威力 +4(最大3)\n[WinDuel] 自分の[Vibration]回数を5消耗し、自分の[TimeRentalTwo]回数が3増加",
+          "desc": "[WhenUse] 自分の[Vibration]回数が3増加\n[WhenUse] [Vibration]回数4につき、基本威力 +1(最大3)\n[WinDuel] 自分の[Vibration]回数を5消耗し、自分の[TimeRentalTwo]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -791,7 +791,7 @@
         {
           "level": 1,
           "name": "強制徴収を執行します。",
-          "desc": "[WhenUse] 自分の[Vibration]回数が3増加\n[WhenUse] [Vibration]回数4につき、基本威力 +4(最大3)\n[WinDuel] 自分の[Vibration]回数を5消耗し、自分の[TimeRentalTwo]回数が3増加",
+          "desc": "[WhenUse] 自分の[Vibration]回数が3増加\n[WhenUse] [Vibration]回数4につき、基本威力 +1(最大3)\n[WinDuel] 自分の[Vibration]回数を5消耗し、自分の[TimeRentalTwo]回数が3増加",
           "coinlist": [
             {
               "coindescs": [

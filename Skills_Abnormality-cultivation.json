@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "汚い蛇どもが…潰してやろう…。",
-          "desc": "[WhenUse] メインターゲット対象の[Burst]と[Vibration]の合計4につき、コイン威力 +2 (最大4)\n[DefeatDuel] 基本威力が8減少\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] メインターゲット対象の[Burst]と[Vibration]の合計4につき、基本威力 +2 (最大4)\n[DefeatDuel] 基本威力が8減少\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "奔馬穿陣",
-          "desc": "[WhenUse] メインターゲット対象の[Burst]と[Vibration]の合計4につき、コイン威力 +2 (最大6)\n[DefeatDuel] 基本威力が5減少\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] メインターゲット対象の[Burst]と[Vibration]の合計4につき、基本威力 +2 (最大6)\n[DefeatDuel] 基本威力が5減少\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -361,7 +361,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咽頭酒",
+          "name": "咽道酒",
           "desc": "[WhenUse] 対象の[Laceration]5につき、コイン威力 +1 (最大2)\n[WhenUse] [SipOfAlcoholJin]1を得る",
           "coinlist": [
             {
@@ -472,7 +472,7 @@
         {
           "level": 1,
           "name": "真鎮終斬",
-          "desc": "[WhenUse] 対象の[Laceration]6につき、コイン威力 +5 (最大10)\n[WhenUse] メインターゲットに[SipOfAlcoholJin]があるなら、全コインが[SuperCoin]に変更される\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Laceration]6につき、コイン威力 +5 (最大10)\n[WhenUse] メインターゲットに[DrunkBlood]があるなら、全コインが[SuperCoin]に変更される\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
                   "desc": "対象の([Laceration] + [Laceration]回数)1につきダメージ量 +1%(最大100%)"
                 },
                 {
-                  "desc": "対象の[DrunkBlood]1につき、ダメージ量 +10% (最大50)"
+                  "desc": "対象の[DrunkBlood]1につき、ダメージ量 +10% (最大50%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] [SipOfAlcoholJin]を2得る"
@@ -550,7 +550,7 @@
                   "desc": "対象の([Laceration] + [Laceration]回数)1につきダメージ量 +1%(最大100%)"
                 },
                 {
-                  "desc": "対象の[DrunkBlood]1につき、ダメージ量 +10% (最大50)"
+                  "desc": "対象の[DrunkBlood]1につき、ダメージ量 +10% (最大50%)"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]10 を付与"
@@ -611,7 +611,7 @@
         {
           "level": 1,
           "name": "真鎮終斬",
-          "desc": "[StartBattle] このスキルが終了するまで体力が0未満にならない\n[WhenUse] [AttackUp]10を得る\n[WhenUse] [Enhancement]5を得る\n[WhenUse] [AttackDmgUp]10を得る\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[StartBattle] このスキルが終了するまで体力が1以下にならない\n[WhenUse] [AttackUp]10を得る\n[WhenUse] [Enhancement]5を得る\n[WhenUse] [AttackDmgUp]10を得る\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
@@ -802,7 +802,7 @@
         {
           "level": 1,
           "name": "符霊術 - 邪気暴走",
-          "desc": "[WhenUse] 対象の[Burst]4につき、最終威力 +1 (最大4)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Burst]4につき、最終威力 +1 (最大4)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージ・効果によって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [

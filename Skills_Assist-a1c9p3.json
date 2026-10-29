@@ -366,7 +366,7 @@
         {
           "level": 1,
           "name": "白い息: 霧。夜明け。秘匿。 - 精神保護",
-          "desc": "[CantDuel] \nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
+          "desc": "[CantDuel]\nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -388,7 +388,7 @@
         {
           "level": 1,
           "name": "赤い息: 肉体。血。加速。硬化 - 身体強化",
-          "desc": "[CantDuel] \nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
+          "desc": "[CantDuel]\nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -435,7 +435,7 @@
         {
           "level": 1,
           "name": "息を整える",
-          "desc": "[CantDuel] \nこのスキルは敵に的中せず、守備スキルを発動させない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
+          "desc": "[CantDuel]\nこのスキルは敵に的中せず、守備スキルを発動させない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -452,7 +452,7 @@
         {
           "level": 1,
           "name": "赤い息: 血。筋肉。収縮 - 保護",
-          "desc": "[CantDuel] \nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
+          "desc": "[CantDuel]\nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
         {
           "level": 1,
           "name": "「赤い息を深く吸い込む。」",
-          "desc": "[CantDuel] \nこのスキルは敵に的中せず、守備スキルを発動させない\n[StartBattle] バリアを100得る (戦闘ごとに1回)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>[MosesRedBreathCharge]1を得る</u></b></mark></color>\n[EndBattle] 精神力が15減少",
+          "desc": "[CantDuel]\nこのスキルは敵に的中せず、守備スキルを発動させない\n[StartBattle] バリアを100得る (戦闘ごとに1回)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>[MosesRedBreathCharge]1を得る</u></b></mark></color>\n[EndBattle] 精神力が15減少",
           "coinlist": [
             {
               "coindescs": [
@@ -487,8 +487,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "赤い息: 鼓動。血。硬化。憤怒 - 奔る身体",
-          "desc": "[CantDuel] \nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
+          "name": "赤い息: 鼓動。血。硬化。憤怒。衝動 - 奔る身体",
+          "desc": "[CantDuel]\nこのスキルは味方をターゲティングして、守備スキルを発動させずダメージも与えない\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -943,7 +943,7 @@
         {
           "level": 1,
           "name": "灯りに眩惑されたものには救いを",
-          "desc": "一方攻撃終了時まで自分は体力ダメージを受けず、マイナス効果が付与されない\n対象の速度が自分より高ければ、速度差1につきコイン威力 +1 (最大6)\n- 自分の速度が1なら、代わりにコイン威力 +6\n的に[DelusionHohenheimBigBird]があるなら、攻撃終了前まで対象の貫通耐性 +0.5\n[EndSkill] 対象の[DelusionHohenheimBigBird]を除去",
+          "desc": "一方攻撃終了時まで自分は体力ダメージを受けず、マイナス効果が付与されない\n対象の速度が自分より高ければ、速度差1につきコイン威力 +1 (最大6)\n- 自分の速度が1なら、代わりにコイン威力 +6\n敵に[DelusionHohenheimBigBird]があるなら、攻撃終了前まで対象の貫通耐性 +0.5\n[EndSkill] 対象の[DelusionHohenheimBigBird]を除去",
           "coinlist": [
             {
               "coindescs": [
@@ -1070,7 +1070,7 @@
         {
           "level": 1,
           "name": "道を拓こう",
-          "desc": "対象の[Combustion]と[Laceration]の合計6につき、コイン威力 +1 (最大3)\n[WhenUse] 精神力が0以上なら、マン(望)を1つ生成する\n- 基本威力 +1, ダメージ量 +30%\n[EndSkill] マン(望)を生成したなら、精神力を1消耗",
+          "desc": "対象の[Combustion]と[Laceration]の合計6につき、コイン威力 +1 (最大3)\n[WhenUse] 精神力が0以上なら、マン(望)を1つ生成する\n- コイン威力 +1, ダメージ量 +30%\n[EndSkill] マン(望)を生成したなら、精神力を1消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1106,7 +1106,7 @@
         {
           "level": 1,
           "name": "黙るがいい",
-          "desc": "対象の[Combustion]と[Laceration]の合計6につき、コイン威力 +1 (最大4)\n[WhenUse] 精神力が0以上なら、マン(望)を2つ生成する\n- 基本威力 +2, ダメージ量 +60%\n[EndSkill] マン(望)を生成したなら、精神力を3消耗",
+          "desc": "対象の[Combustion]と[Laceration]の合計6につき、コイン威力 +1 (最大4)\n[WhenUse] 精神力が0以上なら、マン(望)を2つ生成する\n- コイン威力 +2, ダメージ量 +60%\n[EndSkill] マン(望)を生成したなら、精神力を3消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 1,
           "name": "血に沈んで溺死するように",
-          "desc": "対象と自分の[Laceration]の合計1につき、ダメージ量 +1% (最大30%)\n[WhenUse] [Laceration]6を得る、自分の[Laceration]回数が5増加\n[WhenUse] 精神力が0以上なら、マン(望)を2つ生成する\n- 基本威力 +2, ダメージ量 +60%\n[EndSkill] マン(望)を生成したなら、精神力を5消耗",
+          "desc": "対象と自分の[Laceration]の合計1につき、ダメージ量 +1% (最大30%)\n[WhenUse] [Laceration]6を得る、自分の[Laceration]回数が5増加\n[WhenUse] 精神力が0以上なら、マン(望)を2つ生成する\n- コイン威力 +2, ダメージ量 +60%\n[EndSkill] マン(望)を生成したなら、精神力を5消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1272,7 +1272,7 @@
         {
           "level": 1,
           "name": "死んだ血鬼たちが為の葬儀",
-          "desc": "対象と自分の[Laceration]の合計1につき、ダメージ量 +1% (最大50%)\n[WhenUse] [Laceration]10を得る、自分の[Laceration]回数が5増加\n[WhenUse] 精神力が0以上なら、マン(望)を3つ生成する\n- 基本威力 +3, ダメージ量 +90%\n[EndSkill] マン(望)を生成したなら、精神力を3消耗",
+          "desc": "対象と自分の[Laceration]の合計1につき、ダメージ量 +1% (最大50%)\n[WhenUse] [Laceration]10を得る、自分の[Laceration]回数が5増加\n[WhenUse] 精神力が0以上なら、マン(望)を3つ生成する\n- コイン威力 +3, ダメージ量 +90%\n[EndSkill] マン(望)を生成したなら、精神力を3消耗",
           "coinlist": [
             {
               "coindescs": [

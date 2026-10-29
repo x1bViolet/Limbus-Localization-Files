@@ -419,7 +419,7 @@
         {
           "level": 1,
           "name": "無分別な攻撃",
-          "desc": "[WhenUse] 自分の速度が7以上なら、コイン威力 +1\n[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1\n[WinDuel] マッチ回数に比例してダメージ量が増加 (マッチ回数1につき +5%, 最大50%)\n[WinDuel] [Laceration]3を付与",
+          "desc": "[WhenUse] 自分の速度が7以上なら、コイン威力 +1\n[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1\n[WinDuel] マッチ回数に比例してダメージ量が増加 (マッチ回数1につき +5%, 最大50%)\n[WinDuel] [Laceration]5を付与",
           "coinlist": [
             {
               "coindescs": [
@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "準備動作",
-          "desc": "[DuelCounter] \n[WinDuel]次のターンに[Agility]3を得る",
+          "desc": "[DuelCounter]\n[WinDuel]次のターンに[Agility]3を得る",
           "coinlist": [
             {}
           ]
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "準備動作",
-          "desc": "[DuelCounter] \n[WinDuel]次のターンに[Agility]3を得る",
+          "desc": "[DuelCounter]\n[WinDuel]次のターンに[Agility]3を得る",
           "coinlist": [
             {}
           ]

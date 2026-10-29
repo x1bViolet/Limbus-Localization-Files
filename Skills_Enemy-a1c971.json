@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "■め",
-          "desc": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1",
+          "desc": "[WhenUse] 対象に[Burst]が無いなら、マッチ威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -88,7 +88,7 @@
                   "desc": "[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が2増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が2増加"
                 },
                 {
                   "desc": "[OnSucceedAttack] 精神力10ダメージ"
@@ -127,7 +127,7 @@
         {
           "level": 1,
           "name": "わ■■は",
-          "desc": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1",
+          "desc": "[WhenUse] 対象に[Burst]が無いなら、マッチ威力 +1",
           "coinlist": [
             {
               "coindescs": [

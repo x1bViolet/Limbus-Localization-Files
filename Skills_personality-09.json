@@ -22,7 +22,7 @@
         {
           "level": 2,
           "name": "無知を明かさん",
-          "desc": "このスキルが捨てられると、(探求した知識 × 体力最大値の3%)バリアを得る。\n[WhenUse] 探求した知識 が2以上なら、(探求した知識 - 1)だけコイン威力が増加",
+          "desc": "このスキルが捨てられると、(探求した知識 × 体力最大値の4%)バリアを得る。\n[WhenUse] 探求した知識 が2以上なら、(探求した知識 - 1)だけコイン威力が増加",
           "coinlist": [
             {},
             {},
@@ -506,7 +506,7 @@
         {
           "level": 4,
           "name": "徴収準備",
-          "desc": "[WhenUse] 自分の[Vibration]回数が2増加\n[WhenUse] 対象の[Vibration]が<style=\"highlight\">6につき、マッチ威力 +1(最大2)</style>",
+          "desc": "[WhenUse] 自分の[Vibration]回数が2増加\n[WhenUse] 対象の[Vibration]<style=\"highlight\">6につき、マッチ威力 +1(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1033,7 +1033,7 @@
         {
           "level": 1,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
+          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,12 +1061,12 @@
         {
           "level": 2,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
                 },
                 {
                   "desc": "[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
+          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1248,7 +1248,7 @@
         {
           "level": 1,
           "name": "ドンキホーテ流硬血奥義 フィナーレ",
-          "desc": "[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%が増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗",
+          "desc": "[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -1285,12 +1285,12 @@
         {
           "level": 4,
           "name": "ドンキホーテ流硬血奥義 フィナーレ",
-          "desc": "<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%が増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗",
+          "desc": "<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
                 },
                 {
                   "desc": "[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
@@ -1521,7 +1521,7 @@
         {
           "level": 4,
           "name": "絶命巳乱",
-          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計につき10、コイン威力 +1(最大2)</style>\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計10につき、コイン威力 +1(最大2)</style>\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1560,7 +1560,7 @@
         {
           "level": 1,
           "name": "反蹴",
-          "desc": "[CanDuelGuard] \n[StartBattle]次のターンに[SnakeStance]3を得る",
+          "desc": "[CanDuelGuard]\n[StartBattle]次のターンに[SnakeStance]3を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1574,7 +1574,7 @@
         {
           "level": 4,
           "name": "反蹴",
-          "desc": "[CanDuelGuard] \n[StartBattle] 次のターンに[SnakeStance]3を得る\n<style=\"highlight\">[WhenUse] 自分の[Breath]が10以上なら、コイン威力 +1</style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] 次のターンに[SnakeStance]3を得る\n<style=\"highlight\">[WhenUse] 自分の[Breath]が10以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1605,7 +1605,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BlackTearsAlly]を2得る"
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly]2を得る"
                 }
               ]
             }
@@ -1841,7 +1841,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BlackTearsAlly]を2得る"
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly]2を得る"
                 }
               ]
             }
@@ -1886,7 +1886,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- 戦闘開始時、保有した[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>"
+                  "desc": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- 戦闘開始時に保有していた[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>"
                 }
               ]
             }

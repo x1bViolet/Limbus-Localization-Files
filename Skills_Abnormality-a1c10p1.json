@@ -1702,7 +1702,7 @@
         {
           "level": 1,
           "name": "ステッチが均一すぎるだと？手縫いのピックステッチじゃないだと？集合！！！",
-          "desc": "[StartBattle] 次のターンに針っ子を3体召喚",
+          "desc": "[StartBattle] 次のターンに針っ子[TabExplain]を3体召喚",
           "coinlist": []
         }
       ]
@@ -1732,7 +1732,7 @@
         {
           "level": 1,
           "name": "脇線の外側に縫い目が2本見えたらダブルニードル。失格！",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>戦場の針っ子1体につき、ダメージ量 +50%\n • 戦場に針っ子がいないなら、スキルがキャンセルされる</u></b></mark></color>\n\n[EndSkill] 全ての針っ子を倒す\n • この効果で倒した針っ子1体につき、次のターンに[Enhancement]1を得る",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>戦場の針っ子[TabExplain]1体につき、ダメージ量 +50%\n • 戦場に針っ子がいないなら、スキルがキャンセルされる</u></b></mark></color>\n\n[EndSkill] 全ての針っ子[TabExplain]を倒す\n • この効果で倒した針っ子[TabExplain]1体につき、次のターンに[Enhancement]1を得る",
           "coinlist": [
             {
               "coindescs": [

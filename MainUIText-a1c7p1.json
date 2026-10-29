@@ -22,7 +22,7 @@
     },
     {
       "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
-      "content": "<color=#f8c200>人格同期化・E.G.O幻想解析<color=#990000>{0}段階</color>推奨"
+      "content": "<color=#f8c200>人格同期化・E.G.O幻想解析<color=#990000>{0}段階</color>推奨</color>"
     }
   ]
 }

@@ -76,7 +76,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[EnemyKill] 対象が[FreezingDOQ]保有した状態なら、精神力を20回復"
+                  "desc": "[EnemyKill] 対象が[FreezingDOQ]を保有した状態なら、精神力を20回復"
                 }
               ]
             }
@@ -90,7 +90,7 @@
         {
           "level": 1,
           "name": "海ヲ殺せ、海を殺セ！！",
-          "desc": "[CantDuel] \n[WhenUse] [ColdAirDOQ]を保有する敵1名につき、ダメージ量 +5% (最大30%)",
+          "desc": "[CantDuel]\n[WhenUse] [ColdAirDOQ]を保有する敵1名につき、ダメージ量 +5% (最大30%)",
           "coinlist": [
             {
               "coindescs": [
@@ -115,7 +115,7 @@
                   "desc": "[OnSucceedAttack] (1 + 対象の[ColdAirDOQ]の数値) × 10だけ追加憂鬱ダメージ"
                 },
                 {
-                  "desc": "[EnemyKill] 対象が[FreezingDOQ]保有した状態なら、精神力を20回復"
+                  "desc": "[EnemyKill] 対象が[FreezingDOQ]を保有した状態なら、精神力を20回復"
                 }
               ]
             }
@@ -163,7 +163,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] (1 + 対象の[ColdAirDOQ]の数値) × 10だけ追加憂鬱ダメージ"
                 },
                 {
-                  "desc": "[EnemyKill] 対象が[FreezingDOQ]保有した状態なら、精神力を20回復"
+                  "desc": "[EnemyKill] 対象が[FreezingDOQ]を保有した状態なら、精神力を20回復"
                 }
               ]
             }

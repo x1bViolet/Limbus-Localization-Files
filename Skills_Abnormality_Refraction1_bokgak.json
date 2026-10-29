@@ -675,7 +675,7 @@
         {
           "level": 1,
           "name": "パニャータパーティ～！",
-          "desc": "対象の精神力が0未満なら、最終威力 +3\n[WhenUse] 対象の精神力が-1につき、クリティカル発動率 +2.2%",
+          "desc": "対象の精神力が0未満なら、最終威力 +3\n[WhenUse] 対象の精神力-1につき、クリティカル発動率 +2.2%",
           "coinlist": [
             {
               "coindescs": [
@@ -1529,7 +1529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "動圧追撃",
+          "name": "等圧追撃",
           "desc": "[WhenUse] 自分の[DogThunder]1につき、コイン威力 +1 (最大3)\n[WhenUse] 対象の[Laceration]と[Burst]の合計5につき、ダメージ量 +15% (最大60%)",
           "coinlist": [
             {
@@ -2664,7 +2664,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "ねじ切る",
+          "name": "とぐろを巻く",
           "desc": "[WhenUse] 対象にマイナス効果が2種以上あるなら、コイン威力 +1\n[DefeatDuel] [AggressiveBokgak]1を失う",
           "coinlist": [
             {},
@@ -3425,7 +3425,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "曼荼羅",
+          "name": "真言",
           "desc": "",
           "coinlist": [
             {

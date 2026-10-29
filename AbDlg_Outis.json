@@ -21,7 +21,7 @@
       "personalityid": 11101,
       "voiceFile": 0,
       "teller": "ウーティス",
-      "dialog": "送って頂けるのあれば、失望はさせません。",
+      "dialog": "送って頂けるのであれば、失望はさせません。",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {

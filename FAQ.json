@@ -10,7 +10,7 @@
     },
     {
       "id": "faq_payment_title_1",
-      "content": "狂気パッケージはどういう仕組みですか？"
+      "content": "狂気パッケージ(毎月)／狂気ハーフパッケージ(毎月)はどういう仕組みですか？"
     },
     {
       "id": "faq_payment_desc_1",
@@ -18,7 +18,7 @@
     },
     {
       "id": "faq_payment_title_2",
-      "content": "決済が完了したの商品の払い戻を受けたいです。どうすれば良いですか？"
+      "content": "決済が完了した商品の払い戻しを受けたいです。どうすれば良いですか？"
     },
     {
       "id": "faq_payment_desc_2",
@@ -38,7 +38,7 @@
     },
     {
       "id": "faq_payment_desc_4",
-      "content": "<b>Google決済での確認方法</b>\n1. Googleお支払いCenter(<color=#F8C200><u><link=\"https://payments.google.com/\">https://payments.google.com/</link></u></color>)に接続\n2. 決済したGoogleアカウントにログイン\n3. ご利用内容を選択\n4. 確認したい内容を選択\n5. 取引IDの確認 (形式：GPA. 0000-0000-00000)\n\n<b>App Storeでの確認方法</b>\n1. iTunesページ(<color=#F8C200><u><link=\"https://www.apple.com/jp/itunes/\">https://www.apple.com/jp/itunes/</link></u></color>)に接続\n2. ログイン後、[アカウント]を選択\n3. 注文内容から[注文履歴を見る]を選択\n\n<b>Steamでの確認方法</b>\n1. Steamサポート(<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>)に接続\n2. 購入を選択\n3. 全ての購入履歴を表示を選択\n4. 確認したい内容を選択"
+      "content": "<b>Google決済での確認方法</b>\n1. Googleお支払いCenter(<color=#F8C200><u><link=\"https://payments.google.com/\">https://payments.google.com/</link></u></color>)に接続\n2. 決済したGoogleアカウントにログイン\n3. ご利用内容を選択\n4. 確認したい内容を選択\n5. 取引IDの確認 (形式：GPA. 0000-0000-0000-00000)\n\n<b>App Storeでの確認方法</b>\n1. iTunesページ(<color=#F8C200><u><link=\"https://www.apple.com/jp/itunes/\">https://www.apple.com/jp/itunes/</link></u></color>)に接続\n2. ログイン後、[アカウント]を選択\n3. 注文内容から[注文履歴を見る]を選択\n\n<b>Steamでの確認方法</b>\n1. Steamサポート(<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>)に接続\n2. 購入を選択\n3. 全ての購入履歴を表示を選択\n4. 確認したい内容を選択"
     },
     {
       "id": "faq_payment_title_5",
@@ -54,7 +54,7 @@
     },
     {
       "id": "faq_payment_desc_6",
-      "content": "ゲームアイテムを購入したのもかかわらずエラーで支給されなかった場合は、ゲーム内サポートに決済領収書を添付してお問い合わせください。"
+      "content": "ゲームアイテムを購入したにもかかわらずエラーで支給されなかった場合は、ゲーム内サポートに決済領収書を添付してお問い合わせください。"
     },
     {
       "id": "faq_payment_title_7",
@@ -62,7 +62,7 @@
     },
     {
       "id": "faq_payment_desc_7",
-      "content": "現在、ゲーム内で購入できる決済商品は、Playストア(Google)とApp Storeを通じて販売されており、決済手段も多様であるため原因が複数考えられます。\n\n■ 決済失敗の解決方法\n1) 良好なネットワーク環境にてゲーム終了後に再度実行\n2) アカウント設定に問題が発生(Goolge決済カスタマーセンターまたはアップルカスタマーサポートへ問い合わせ) \n\nGoogleカスタマーサポート\nリンク : <color=#F8C200><u><link=\"https://payments.google.com/payments/home#oneTimePurchase\">https://payments.google.com/payments/home#oneTimePurchase</link></u></color>\n\nAppleお問い合わせ\nリンク : <color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color>\n\nSteamサポート\nリンク : <color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>\n\n3) キャリア決済に問題が発生(キャリアへ問い合わせ)\n- 小額決済限度などの決済手段に問題発生した場合、お使いのカード会社または通信会社のカスタマーサポートを通じて確認することができます。"
+      "content": "現在、ゲーム内で購入できる決済商品は、Playストア(Google)とApp Storeを通じて販売されており、決済手段も多様であるため原因が複数考えられます。\n\n■ 決済失敗の解決方法\n1) 良好なネットワーク環境にてゲーム終了後に再度実行\n2) アカウント設定に問題が発生(Google決済カスタマーセンターまたはアップルカスタマーサポートへ問い合わせ) \n\nGoogleカスタマーサポート\nリンク : <color=#F8C200><u><link=\"https://payments.google.com/payments/home#oneTimePurchase\">https://payments.google.com/payments/home#oneTimePurchase</link></u></color>\n\nAppleお問い合わせ\nリンク : <color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color>\n\nSteamサポート\nリンク : <color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>\n\n3) キャリア決済に問題が発生(キャリアへ問い合わせ)\n- 小額決済限度などの決済手段に問題発生した場合、お使いのカード会社または通信会社のカスタマーサポートを通じて確認することができます。"
     },
     {
       "id": "faq_payment_title_8",
@@ -110,7 +110,7 @@
     },
     {
       "id": "faq_account_desc_4",
-      "content": "機器を変更したり、アプリケーションを削除して再インストールしたりしても、既存のアカウントにログインするとゲーム続行することができます。\n\nただし、ゲストアカウント作成後に連携を行わなかった場合、機器変更および再インストール時にデータが消失する可能性がありますのでご注意ください。"
+      "content": "機器を変更したり、アプリケーションを削除して再インストールしたりしても、既存のアカウントにログインするとゲームを続行することができます。\n\nただし、ゲストアカウント作成後に連携を行わなかった場合、機器変更および再インストール時にデータが消失する可能性がありますのでご注意ください。"
     },
     {
       "id": "faq_account_title_5",
@@ -118,7 +118,7 @@
     },
     {
       "id": "faq_account_desc_5",
-      "content": "アカウント削除(退会)の場合、アカウントが連動している状態でのみ可能です。\nゲストアカウントはアカウントを連動したあと、ゲーム退会を実行することができます。\nゲーム内で設定→「その他」→「アカウント削除」を選択してアカウント削除(退会)を行うことができます。\n\n※ アカウントを削除する場合、14日の猶予期間が付与され、猶予期間が終了するとアカウントの削除が完了します。\n※ アカウントを削除するとゲーム情報がすべて消えますので、ご注意の上で実行してください。"
+      "content": "アカウント削除(退会)の場合、アカウントが連携されている状態でのみ可能です。\nゲストアカウントはアカウントを連携したあと、ゲーム退会を実行することができます。\nゲーム内で設定→「その他」→「アカウント削除」を選択してアカウント削除(退会)を行うことができます。\n\n※ アカウントを削除する場合、14日の猶予期間が付与され、猶予期間が終了するとアカウントの削除が完了します。\n※ アカウントを削除するとゲーム情報がすべて消えますので、ご注意の上で実行してください。"
     },
     {
       "id": "faq_account_title_6",
@@ -134,7 +134,7 @@
     },
     {
       "id": "faq_account_desc_7",
-      "content": "快適なゲーム環境を提供するため、運営方針に従ってサービスを提供しています。\n運営方針に反する活動で他の管理人の方々やゲームサービスに被害を与えた場合、ゲームの利用が制限されることがあります。\n\n<color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[ゲーム運営方針へ移動]</link></u></color>\n\n運営ポリシーによってゲームの利用が制限された場合、サポートのご提供はご遠慮させていただいております。"
+      "content": "快適なゲーム環境を提供するため、運営方針に従ってサービスを提供しています。\n運営方針に反する活動で他の管理人の方々やゲームサービスに被害を与えた場合、ゲームの利用が制限されることがあります。\n\n<color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[ゲーム運営方針へ移動]</link></u></color>\n\n運営方針によってゲームの利用が制限された場合、別途対応いたしかねますのでご了承ください。"
     },
     {
       "id": "faq_account_title_8",
@@ -142,7 +142,7 @@
     },
     {
       "id": "faq_account_desc_8",
-      "content": "連携したアカウントに問題が発生した場合、アカウント本人確認を行うことが困難ですのでこちらよりサポートすることは対応いたしかねます。連携したアカウントに問題が発生した場合、下記のカスタマーセンターにお問い合わせください。\n\nGoogleアカウントヘルプ: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\nAppleサポート: <color=#F8C200><u><link=\"https://support.apple.com/ja-jp\">https://support.apple.com/ja-jp</link></u></color>\nSteamサポート: <color=#F8C200><u><link=\"https://help.steampowered.com/ja/\">https://help.steampowered.com/ja/</link></u></color>"
+      "content": "連携したアカウントに問題が発生した場合、アカウントが不正利用されているかを確認できないため、サポートいたしかねます。下記のカスタマーセンターにお問い合わせください。\n\nGoogleアカウントヘルプ: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\nAppleサポート: <color=#F8C200><u><link=\"https://support.apple.com/ja-jp\">https://support.apple.com/ja-jp</link></u></color>\nSteamサポート: <color=#F8C200><u><link=\"https://help.steampowered.com/ja/\">https://help.steampowered.com/ja/</link></u></color>"
     },
     {
       "id": "faq_normal",

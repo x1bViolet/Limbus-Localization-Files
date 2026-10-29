@@ -110,7 +110,7 @@
         {
           "level": 1,
           "name": "セッチォナトゥラ・デル・チェルヴォ",
-          "desc": "[CantChangeTarget]\nこのスキルを使用するまで混乱状態にならない\n\nこのターンの間、<color=#ff6000><mark color=#ff000040><b><u>マッチ敗北した攻撃スキル</color></mark></b></u>1につき、最終威力 -2, 加重値 -1\n(加重値は1以下にならない)\n\n[DefeatDuel] ダメージ量が90%減少、このダメージで混乱状態にならない\n[DefeatDuel] 精神力が15減少、次のターンに攻撃レベル減少6を得る",
+          "desc": "[CantChangeTarget]\nこのスキルを使用するまで混乱状態にならない\n\nこのターンの間、<color=#ff6000><mark color=#ff000040><b><u>マッチ敗北した攻撃スキル</color></mark></b></u>1につき、最終威力 -2, 加重値 -1\n(加重値は最低1)\n\n[DefeatDuel] ダメージ量が90%減少、このダメージで混乱状態にならない\n[DefeatDuel] 精神力が15減少、次のターンに攻撃レベル減少6を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -670,7 +670,7 @@
         {
           "level": 1,
           "name": "展示会の準備",
-          "desc": "[StartBattle] 攻撃スキルでダメージを受けると、攻撃者の[Laceration]回数1が増加 (E.G.Oスキルを含む)",
+          "desc": "[StartBattle] 攻撃スキルでダメージを受けると、攻撃者の[Laceration]回数が1増加 (E.G.Oスキルを含む)",
           "coinlist": [
             {}
           ]

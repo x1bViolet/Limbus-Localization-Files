@@ -3,7 +3,7 @@
     {
       "id": 132203,
       "name": "重畳した残像",
-      "desc": "ステージ開始時、[TimeEntangleFour]を得る\nパターンの最初のターン開始時、[TimeGapAb]を([TimeEntangleDesc]段階 × 400)だけ得る。\n([TimeEntangleDesc]段階1につき1回)\n\n[TimeEntangleDesc]3, 4段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うとパターンが変更され、次のターンの間混乱する</u></b></mark></color>\n\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力、精神力、混乱区間前進量 -30%",
+      "desc": "ステージ開始時、[TimeEntangleFour]を得る\nパターンの最初のターン開始時、[TimeGapAb]を([TimeEntangleDesc]段階 × 400)だけ得る。\n([TimeEntangleDesc]段階1につき1回)\n\n[TimeEntangleDesc]3, 4段階で<color=#ff6000><mark=#ff000040><b><u>[TimeGapAb]を全て失うとパターンが変更され、次のターンの間混乱する</u></b></mark></color>\n\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量と混乱区間前進量 -30%",
       "summary": "",
       "undefined": "-"
     },
@@ -27,7 +27,7 @@
       "desc": "4ターンごとに強力なスキルを使用\n- 自分の[PhantomIncisionTotal]数値が50以上なら、使用スキルが強化される",
       "summary": "",
       "undefined": "-",
-      "flavor": "「...忌まわしい、烙印のような剣。」"
+      "flavor": "「…忌まわしい、烙印のような剣。」"
     },
     {
       "id": 132216,
@@ -87,7 +87,7 @@
     },
     {
       "id": 132005,
-      "name": "支援補給",
+      "name": "資源補給",
       "desc": "翼部位破壊時、全属性のE.G.O資源 +2, 全囚人の精神力を15回復",
       "summary": "",
       "undefined": "-"

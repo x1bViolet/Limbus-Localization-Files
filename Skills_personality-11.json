@@ -1092,7 +1092,7 @@
         {
           "level": 2,
           "name": "充電跳躍",
-          "desc": "[WhenUse] 自分の[Charge]回数を6消耗し、基本威力 +1\n- [Charge]回数を消耗したなら、自分と[Charge]回数保有量が最も少ない味方2名へ[ChargeForceField]を([Charge] + 1)を付与(最大7, 1ターンにつき最大1回発動)\n[WhenUse] 自分の[Charge]回数が2増加",
+          "desc": "[WhenUse] 自分の[Charge]回数を6消耗し、基本威力 +1\n- [Charge]回数を消耗したなら、自分と[Charge]回数保有量が最も少ない味方2名へ[ChargeForceField]を([Charge] + 1)付与(最大7, 1ターンにつき最大1回発動)\n[WhenUse] 自分の[Charge]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1119,7 +1119,7 @@
         {
           "level": 4,
           "name": "充電跳躍",
-          "desc": "[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1\n- [Charge]回数を消耗したなら、自分と[Charge]回数保有量が最も少ない味方2名へ[ChargeForceField]を([Charge] +<style=\"highlight\">2</style>)を付与(最大<style=\"highlight\">8</style>, 1ターンにつき最大<style=\"highlight\">2</style>回発動)\n[WhenUse] 自分の[Charge]回数が2増加",
+          "desc": "[WhenUse] 自分の[Charge]回数を6消耗し、コイン威力 +1\n- [Charge]回数を消耗したなら、自分と[Charge]回数保有量が最も少ない味方2名へ[ChargeForceField]を([Charge] +<style=\"highlight\">2</style>)付与(最大<style=\"highlight\">8</style>, 1ターンにつき最大<style=\"highlight\">2</style>回発動)\n[WhenUse] 自分の[Charge]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1280,7 +1280,7 @@
         {
           "level": 2,
           "name": "裁縫",
-          "desc": "このスキルが的中時、与ダメージ量の10%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大40消耗し、[BloodDinner]8につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、自分の[Laceration]回数が2増加 \n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "このスキルが的中時、与ダメージ量の10%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大40消耗し、[BloodDinner]8につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、自分の[Laceration]回数が2増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1307,7 +1307,7 @@
         {
           "level": 4,
           "name": "裁縫",
-          "desc": "このスキルが的中時、与ダメージ量の10%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大40消耗し、[BloodDinner]8につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、自分の[Laceration]回数が2増加 \n[WhenUse] 対象の[Laceration]が<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>",
+          "desc": "このスキルが的中時、与ダメージ量の10%だけ体力が回復(最大10回復)\n[WhenUse] [BloodDinner]を最大40消耗し、[BloodDinner]8につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、自分の[Laceration]回数が2増加\n[WhenUse] 対象の[Laceration]<style=\"highlight\">6につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1373,7 +1373,7 @@
         {
           "level": 2,
           "name": "カットオフ",
-          "desc": "このスキルが的中時、与ダメージ量の20%だけ体力が回復(最大20回復)\n[WhenUse] [BloodDinner]を最大60消耗し、[BloodDinner]6につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "このスキルが的中時、与ダメージ量の20%だけ体力が回復(最大20回復)\n[WhenUse] [BloodDinner]を最大60消耗し、[BloodDinner]6につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1407,7 +1407,7 @@
         {
           "level": 4,
           "name": "カットオフ",
-          "desc": "このスキルが的中時、与ダメージ量の20%だけ体力が回復(最大20回復)\n[WhenUse] [BloodDinner]を最大60消耗し、[BloodDinner]6につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る \n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1<style=\"highlight\"></style>",
+          "desc": "このスキルが的中時、与ダメージ量の20%だけ体力が回復(最大20回復)\n[WhenUse] [BloodDinner]を最大60消耗し、[BloodDinner]6につき[BloodScissorPersonalityFirst]1を得る\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1507,7 +1507,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodScissorPersonalityFirst]が10以上なら、ダメージ量 +([BloodScissorPersonalityFirst] × <style=\"highlight\">3</style>)%(最大<style=\"highlight\">57</style>%)\n- [BloodScissorPersonalityFirst]が20以上なら、代わりにダメージ量 +([BloodScissorPersonalityFirst] × <style=\"highlight\">4</style>)% (最大120%)"
+                  "desc": "[OnSucceedAttack] [BloodScissorPersonalityFirst]が10以上なら、ダメージ量 +([BloodScissorPersonalityFirst] × <style=\"highlight\">3</style>)%(最大<style=\"highlight\">57</style>%)\n- [BloodScissorPersonalityFirst]が20以上なら、代わりにダメージ量 +([BloodScissorPersonalityFirst] × <style=\"highlight\">4</style>)% (最大<style=\"highlight\">120</style>%)"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
         {
           "level": 4,
           "name": "礼儀がなってないな！",
-          "desc": "[WhenUse] [BloodScissorPersonalityFirst]が10以上なら、基本威力 +1<style=\"highlight\">\n- [BloodScissorPersonalityFirst]が20以上なら、代わりに基本威力 +2</style>\n[WhenUse] 自分の[Laceration]<style=\"highlight\">5につき</style>、コイン威力 +1(最大3)",
+          "desc": "[WhenUse] [BloodScissorPersonalityFirst]が10以上なら、基本威力 +1<style=\"highlight\">\n- [BloodScissorPersonalityFirst]が20以上なら、代わりに基本威力 +2</style>\n[WhenUse] 自分の[Laceration]<style=\"highlight\">5につき</style>、コイン威力 +1<style=\"highlight\">(最大3)</style>",
           "coinlist": [
             {
               "coindescs": [

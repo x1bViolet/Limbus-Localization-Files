@@ -893,7 +893,7 @@
           "level": 4,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "対象に[Combustion]があるならスキル威力 +2\n対象の[Combustion]威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
+          "desc": "対象に[Combustion]があるなら、スキル威力 +2\n対象の[Combustion]威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -908,7 +908,7 @@
           "level": 5,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "対象に[Combustion]があるならスキル威力 +2\n<style=\"highlight\">[BeforeAttack] 全攻撃対象の[Combustion]の合計</style>1につき、ダメージ量 +5% (最大100%)\n[EnemyKill] 次のターンに[Enhancement]2を得る",
+          "desc": "対象に[Combustion]があるなら、スキル威力 +2\n<style=\"highlight\">[BeforeAttack] 全攻撃対象の[Combustion]の合計</style>1につき、ダメージ量 +5% (最大100%)\n[EnemyKill] 次のターンに[Enhancement]2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -931,7 +931,7 @@
           "level": 1,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力+2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る\n[EnemyKillFail] 次のターンに[Combustion]10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力 +2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る\n[EnemyKillFail] 次のターンに[Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -946,7 +946,7 @@
           "level": 3,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力+4\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、[Combustion]10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力 +4\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、[Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -976,7 +976,7 @@
           "level": 5,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があるならスキル威力 +4\n<style=\"highlight\">[BeforeAttack] 全攻撃対象の[Combustion]の合計</style>1につき、ダメージ量 +5% (最大100%)\n<style=\"highlight\">[DefeatDuel] 基本威力 -16</style>\n[EnemyKill] 次のターンに[Enhancement]3を得る\n[EnemyKillFail] 次のターンに[Enhancement]3, [Combustion]10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力 +4\n<style=\"highlight\">[BeforeAttack] 全攻撃対象の[Combustion]の合計</style>1につき、ダメージ量 +5% (最大100%)\n<style=\"highlight\">[DefeatDuel] 基本威力 -16</style>\n[EnemyKill] 次のターンに[Enhancement]3を得る\n[EnemyKillFail] 次のターンに[Enhancement]3, [Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1470,7 +1470,7 @@
           "level": 1,
           "name": "電信柱",
           "abName": "路地の番犬",
-          "desc": "充電 回数5を消耗し、スキル威力+3",
+          "desc": "充電 回数を5消耗し、スキル威力 +3",
           "coinlist": [
             {
               "coindescs": [
@@ -2031,7 +2031,7 @@
           "level": 5,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n最大共鳴数1につき、ダメージ量 +5% (最大30%)\n[DefeatDuel] 基本威力 -18\n[EndSkill] 次のターンに[CrimsonResultUp]2, [CrimsonDamageUp]1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">最大共鳴数1につき、ダメージ量 +5% (最大30%)\n[DefeatDuel] 基本威力 -18\n[EndSkill] 次のターンに[CrimsonResultUp]2, [CrimsonDamageUp]1を得る</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2551,7 +2551,7 @@
           "level": 3,
           "name": "空即是色",
           "abName": "我、空に至れり",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 本人を除くランダムな味方2名に攻撃威力増加 1を付与",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 本人を除くランダムな味方2名に攻撃威力増加 1を付与",
           "coinlist": [
             {
               "coindescs": [
@@ -3105,7 +3105,7 @@
           "level": 4,
           "name": "一生シチュー",
           "abName": "バジリスープク",
-          "desc": "[BeforeAttack] 保有している色欲E.G.Oコストに比例してダメージ量が増加(最大50%)",
+          "desc": "[BeforeAttack] 保有している色欲E.G.O資源に比例してダメージ量が増加(最大50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3173,7 +3173,7 @@
           "level": 4,
           "name": "一生シチュー",
           "abName": "バジリスープク",
-          "desc": "[CantIdentify]\n現体力が最も高い対象を攻撃\n\n[BeforeAttack] 保有している色欲E.G.O資源に比例してダメージ量が増加(最大50%)\n以降、(色欲共鳴数)だけ色欲コストを消耗。消耗したコスト1つにつきダメージ量+10%",
+          "desc": "[CantIdentify]\n現体力が最も高い対象を攻撃\n\n[BeforeAttack] 保有している色欲E.G.O資源に比例してダメージ量が増加(最大50%)\n以降、(色欲共鳴数)だけ色欲資源を消耗。消耗した資源1つにつきダメージ量+10%",
           "coinlist": [
             {
               "coindescs": [
@@ -3258,7 +3258,7 @@
                   "desc": "[OnSucceedAttackHead] 対象が味方の場合、自分の体力最大値の10%分対象の体力を回復"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 火傷 7を付与。対象が味方の場合、次のターンに <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.Oコスト獲得量+</color></link></u> 1, クイック 2を付与"
+                  "desc": "[OnSucceedAttackTail] 火傷 7を付与。対象が味方の場合、次のターンに <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O資源獲得量+</color></link></u> 1, クイック 2を付与"
                 }
               ]
             }
@@ -3430,7 +3430,7 @@
           "level": 1,
           "name": "次元裂き",
           "abName": "道を失った乗客",
-          "desc": "[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大50%)",
+          "desc": "[CantIdentify]\nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3448,7 +3448,7 @@
           "level": 3,
           "name": "次元裂き",
           "abName": "道を失った乗客",
-          "desc": "[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大<style=\"highlight\">75</style>%)",
+          "desc": "[CantIdentify]\nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大<style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3469,7 +3469,7 @@
           "level": 4,
           "name": "次元裂き",
           "abName": "道を失った乗客",
-          "desc": "[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大75%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3530,7 +3530,7 @@
           "level": 1,
           "name": "次元裂き",
           "abName": "道を失った乗客",
-          "desc": "[CantIdentify] \n現体力が最も多い対象を攻撃\n\n[BeforeAttack] 次のターンにクイック 2を得る。\n充電 回数を10消耗して的中時に付与する脆弱 、次元の亀裂 +1",
+          "desc": "[CantIdentify]\n現体力が最も多い対象を攻撃\n\n[BeforeAttack] 次のターンにクイック 2を得る。\n充電 回数を10消耗して的中時に付与する脆弱 、次元の亀裂 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -3545,7 +3545,7 @@
           "level": 3,
           "name": "次元裂き",
           "abName": "道を失った乗客",
-          "desc": "[CantIdentify] \n現体力が最も多い対象を攻撃\n\n[BeforeAttack] 次のターンにクイック<style=\"highlight\">3</style>を得る。\n充電 回数を10消耗して的中時に付与する脆弱 、次元の亀裂 <style=\"highlight\">+2</style>",
+          "desc": "[CantIdentify]\n現体力が最も多い対象を攻撃\n\n[BeforeAttack] 次のターンにクイック<style=\"highlight\">3</style>を得る。\n充電 回数を10消耗して的中時に付与する脆弱 、次元の亀裂 <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3639,7 +3639,7 @@
           "level": 1,
           "name": "カポーテ",
           "abName": "真鍮の雄牛",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 1, 憤怒威力増加 1, 打撃威力増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 1, 憤怒威力増加 1, 打撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -3660,7 +3660,7 @@
           "level": 3,
           "name": "カポーテ",
           "abName": "真鍮の雄牛",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 2, 憤怒威力増加 1, 打撃威力増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 2, 憤怒威力増加 1, 打撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -3684,7 +3684,7 @@
           "level": 4,
           "name": "カポーテ",
           "abName": "真鍮の雄牛",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 2, 憤怒威力増加 1, 打撃威力増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンにクイック 2, 憤怒威力増加 1, 打撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -3754,7 +3754,7 @@
           "level": 1,
           "name": "カポーテ",
           "abName": "真鍮の雄牛",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 次のターンに全キャラクターに 憤怒脆弱 , 憤怒ダメージ量増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに全キャラクターに 憤怒脆弱 , 憤怒ダメージ量増加 1を付与",
           "coinlist": [
             {
               "coindescs": [
@@ -3775,7 +3775,7 @@
           "level": 3,
           "name": "カポーテ",
           "abName": "真鍮の雄牛",
-          "desc": "[CantIdentify] \nランダムな対象を攻撃\n[EndSkill] 次のターンに全キャラクターに 憤怒脆弱 , 憤怒ダメージ量増加 1を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに全キャラクターに 憤怒脆弱 , 憤怒ダメージ量増加 1を付与",
           "coinlist": [
             {
               "coindescs": [
@@ -3987,7 +3987,7 @@
           "level": 1,
           "name": "AEDD",
           "abName": "衝撃ムカデ",
-          "desc": "[CantIdentify] \n充電を保有したランダムな対象を優先して攻撃\n[BeforeAttack] 自分の充電 回数が5増加",
+          "desc": "[CantIdentify]\n充電を保有したランダムな対象を優先して攻撃\n[BeforeAttack] 自分の充電 回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -4002,7 +4002,7 @@
           "level": 3,
           "name": "AEDD",
           "abName": "衝撃ムカデ",
-          "desc": "[CantIdentify] \n充電を保有したランダムな対象を優先して攻撃\n[BeforeAttack] 自分の充電 回数が7増加",
+          "desc": "[CantIdentify]\n充電を保有したランダムな対象を優先して攻撃\n[BeforeAttack] 自分の充電 回数が7増加",
           "coinlist": [
             {
               "coindescs": [
@@ -4348,7 +4348,7 @@
                   "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +40%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1名の体力と自分の体力が最大値の10%分回復する"
+                  "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1人と自分の体力を最大値の10%分回復する"
                 }
               ]
             }
@@ -4396,7 +4396,7 @@
           "level": 4,
           "name": "赤眼(開)",
           "abName": "蜘蛛のつぼみ",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\nメインターゲットの速度が自分より3以上遅いなら、最終威力 +10",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\nメインターゲットの速度が自分より3以上遅い場合、最終威力 +10",
           "coinlist": [
             {
               "coindescs": [
@@ -4404,7 +4404,7 @@
                   "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +50%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1名の体力と自分の体力が最大値の10%分回復する"
+                  "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1人と自分の体力を最大値の10%分回復する"
                 }
               ]
             }

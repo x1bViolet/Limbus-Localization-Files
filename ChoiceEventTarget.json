@@ -42,7 +42,7 @@
     },
     {
       "id": "NotAffectedAlly",
-      "content": "前の効果の影響を受けない味方"
+      "content": "前の効果の影響を受けていない味方"
     },
     {
       "id": "LowestHpRatioAlly",

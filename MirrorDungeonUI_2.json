@@ -474,7 +474,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_hard_using_chance_desc",
-      "content": "残った<color=#a16a3b>ウィークリー追加報酬</color>と難易度:Hard報酬</color>を全て消耗しますか？"
+      "content": "残った<color=#a16a3b>ウィークリー追加報酬</color>と<color=#ff0000>難易度:Hard報酬</color>を全て消耗しますか？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_hard_not_using_chance_desc",
@@ -486,7 +486,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_using_chance_desc",
-      "content": "使用可能ば<color=#ff0000>難易度:Hard報酬</color>があります。\n\n<color=#a16a3b>ウィークリー追加報酬</color>のみを消耗して報酬を受け取りますか？"
+      "content": "使用可能な<color=#ff0000>難易度:Hard報酬</color>があります。\n\n<color=#a16a3b>ウィークリー追加報酬</color>のみを消耗して報酬を受け取りますか？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_not_using_chance_desc",

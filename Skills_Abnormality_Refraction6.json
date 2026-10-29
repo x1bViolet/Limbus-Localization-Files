@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "乱撃",
-          "desc": "[WhenUse] \n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]6につき、ダメージ量 +5% (最大20%)\n- [Breath]2を得る",
+          "desc": "[WhenUse]\n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]6につき、ダメージ量 +5% (最大20%)\n- [Breath]2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "粉砕",
-          "desc": "[WhenUse] \n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]6につき、ダメージ量 +5% (最大20%)\n- [Breath]回数が2増加",
+          "desc": "[WhenUse]\n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]6につき、ダメージ量 +5% (最大20%)\n- [Breath]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -203,7 +203,7 @@
         {
           "level": 1,
           "name": "乱撃",
-          "desc": "[WhenUse] \n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]8につき、ダメージ量 +10% (最大30%)\n- [Breath]2を得る\n- 体力が66%/33%未満なら、最後/全てのコインが[SuperCoin]に変更される",
+          "desc": "[WhenUse]\n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]8につき、ダメージ量 +10% (最大30%)\n- [Breath]2を得る\n- 体力が66%/33%未満なら、最後/全てのコインが[SuperCoin]に変更される",
           "coinlist": [
             {
               "coindescs": [
@@ -235,7 +235,7 @@
         {
           "level": 1,
           "name": "粉砕",
-          "desc": "[WhenUse] \n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]8につき、ダメージ量 +10% (最大30%)\n- [Breath]回数が2増加\n- 体力が66%/33%未満なら、最後/全てのコインが[SuperCoin]に変更される",
+          "desc": "[WhenUse]\n- 対象の[Combustion]と[Laceration]の合計8につき、マッチ威力 +1 (最大3)\n- 自分の[Breath]8につき、ダメージ量 +10% (最大30%)\n- [Breath]回数が2増加\n- 体力が66%/33%未満なら、最後/全てのコインが[SuperCoin]に変更される",
           "coinlist": [
             {
               "coindescs": [
@@ -823,7 +823,7 @@
         {
           "level": 1,
           "name": "龍之櫼",
-          "desc": "[CanDuelGuard]\n[StartBattle] 次のターンに<color=#ff6000><mark=#ff000040><b><u>[DragonLanceRefraction]1を得る</u></b></mark></color>\n[DefeatDuel] 戦闘開始時に効果がキャンセルされる。次のターンに[Endurance]3を得る",
+          "desc": "[CanDuelGuard]\n[StartBattle] 次のターンに<color=#ff6000><mark=#ff000040><b><u>[DragonLanceRefraction]1を得る</u></b></mark></color>\n[DefeatDuel] 戦闘開始時の効果がキャンセルされる。次のターンに[Endurance]3を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1094,7 +1094,7 @@
         {
           "level": 1,
           "name": "龍涙成濤",
-          "desc": "速度と関係なくこのスキルとマッチできる\n[WhenUse] このスキル終了時まで、ダメージによって対象が混乱状態にならない\n[WhenUse] 自分の<color=#ff6000><mark=#ff000040><b><u>[DragonLanceRefraction]数値1につき</u></b></mark></color>、コイン威力 +1, 加重値 +1\n- [DragonLanceRefraction]が最大値なら、追加でダメージ量 +100%\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n[DefeatDuel] 次のターンまで[Vulnerable]3を得る\n[EndSkillAll] [DragonLanceRefraction]数値が1に減少する",
+          "desc": "速度と関係なくこのスキルとマッチできる\n[WhenUse] このスキル終了時まで、ダメージによって自分が混乱状態にならない\n[WhenUse] 自分の<color=#ff6000><mark=#ff000040><b><u>[DragonLanceRefraction]数値1につき</u></b></mark></color>、コイン威力 +1, 加重値 +1\n- [DragonLanceRefraction]が最大値なら、追加でダメージ量 +100%\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n[DefeatDuel] 次のターンまで[Vulnerable]3を得る\n[EndSkillAll] [DragonLanceRefraction]数値が1に減少する",
           "coinlist": [
             {
               "coindescs": [

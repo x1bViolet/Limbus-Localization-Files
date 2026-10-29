@@ -183,12 +183,14 @@
     {
       "id": "announcer_battle_defeat_41_1",
       "dlg": "だいじょぶ！もう一回やればいいじゃん！",
-      "imgStr": "PinkyChibi_announcer_1"
+      "imgStr": "PinkyChibi_announcer_1",
+      "playWeight": 0.7
     },
     {
       "id": "announcer_battle_defeat_41_2",
       "dlg": "たかがこれしきで、道が途切れたと思うのか？\nいいや。お前たちの流れは、繋がった紐は…お前らが思うより、ずっとしぶといだろう。",
-      "imgStr": "PinkyChibi_announcer_4"
+      "imgStr": "PinkyChibi_announcer_4",
+      "playWeight": 0.3
     },
     {
       "id": "announcer_equip_41_1",

@@ -58,7 +58,7 @@
     {
       "id": 9015102,
       "name": "義体モデル - L37",
-      "desc": "ターン開始時に[Charge]回数が5未満なら自分へ[Reduction]1を付与\nターン開始時に[Charge]回数が5以上なら[ParryingResultUp]2を付与"
+      "desc": "ターン開始時に[Charge]回数が5未満なら自分へ[Reduction]1を付与\nターン開始時に[Charge]回数が5以上なら[ParryingResultUp]2を得る"
     },
     {
       "id": 9015201,

@@ -31,7 +31,7 @@
       "desc": "- ターン開始時、[SupportProtect]3を得る\n- 親指の親方がマッチにて勝利すると、当該攻撃終了時に「コルピ・ソッターニ」で一方攻撃 (1ターンにつき2回)",
       "summary": "",
       "undefined": "",
-      "flavor": "「今なら、殺せるんじゃないか。」\n\n眠りについた師匠を見ながら、ルチオは常に同じ思考に囚われた。\nその考えを行動に移さないのは、すでに刷り込まれた恐怖と、路地裏から自分を連れ出してくれた恩義のためだった。\nしかし積もり積もった恨みがあまりにも深い。心を込めて命令に従うと言いながらも、ルチオは誓った。\nこの戦いが終わったら必ず殺そう。残っているもう片方の目まで斬って刺して殺してやろう。\n全身に痣のある少年の目に、初めて生気が宿り始めた。"
+      "flavor": "「今なら、殺せるんじゃないか。」\n\n眠りについた師匠を見ながら、ルチオは常に同じ思考に囚われた。\nその考えを行動に移さないのは、すでに刷り込まれた恐怖と、裏路地から自分を連れ出してくれた恩義のためだった。\nしかし積もり積もった恨みがあまりにも深い。心を込めて命令に従うと言いながらも、ルチオは誓った。\nこの戦いが終わったら必ず殺そう。残っているもう片方の目まで斬って刺して殺してやろう。\n全身に痣のある少年の目に、初めて生気が宿り始めた。"
     },
     {
       "id": 137901,
@@ -72,7 +72,7 @@
     {
       "id": 137904,
       "name": "ボニャテッリ家の恥",
-      "desc": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力・精神力・混乱区間の前進量 -30%\n[AccelBullet]が1以上なら、[AccelBullet]を消耗するスキルのダメージ量 +30%, バリアへの与ダメージ量 +150%\n[AccelBullet]を消耗した数値1につき、[Breath]4を得る\n[AccelBullet]を消耗するコインをトスするとき、加速弾がない場合にも攻撃をキャンセルしない",
+      "desc": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量と混乱区間の前進量 -30%\n[AccelBullet]が1以上なら、[AccelBullet]を消耗するスキルのダメージ量 +30%, バリアへの与ダメージ量 +150%\n[AccelBullet]を消耗した数値1につき、[Breath]4を得る\n[AccelBullet]を消耗するコインをトスするとき、加速弾がない場合にも攻撃をキャンセルしない",
       "summary": "",
       "undefined": "-",
       "flavor": "「パレルモを伝授され、家宝まで継承しておきながら、このような醜態をさらすとはな。」\n「お前が受け継いだ遺物と剣には、お前の不名誉な残り香が染みついているから回収はしない。」\n「アンダーボスに昇格してから、わずか三日で罷免された者などヴァレンチーナ、お前だけだろう。」\n「お前は一家の恥だ。ボニャテッリはお前から愛を取り上げる。」"
@@ -110,7 +110,7 @@
     {
       "id": 138202,
       "name": "仕返し帳簿",
-      "desc": "ステージ開始時、全囚人とへ[VengeanceBookSpider]を付与する\n\nこのターンに的中したスキル数が3つを超過したなら、超過したスキル数だけ次のターンに[ReinforcedTattooSpider]を得る",
+      "desc": "ステージ開始時、全囚人へ[VengeanceBookSpider]を付与する\n\nこのターンに的中したスキル数が3つを超過したなら、超過したスキル数だけ次のターンに[ReinforcedTattooSpider]を得る",
       "summary": "",
       "undefined": "-"
     },
@@ -162,19 +162,19 @@
     {
       "id": 138001,
       "name": "人差し指の親方 リアン",
-      "desc": "<color=#ff6000><mark=#ff000040><b><u>一方攻撃による被ダメージ量 -50%</u></b></mark></color>\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -50%\n[UnlockBuff_Base]にて精神力を回復時、精神力が15未満なら精神力を15まで回復\n\nステージ開始時、[BurningWoundRien_Mask]を得て精神力を30まで回復\n\n体力が 55%以下なら、フェーズが変更\n- 自分の固有効果以外の効果が全て消滅\n- [StackRienSpecialSkill]が9未満なら、9に変更",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>一方攻撃による被ダメージ量 -50%</u></b></mark></color>\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -50%\n[UnlockBuff_Base]にて精神力を回復時、精神力が15未満なら精神力を15まで回復\n\nステージ開始時、[BurningWoundRien_Mask]を得て精神力を30まで回復\n\n体力が55%以下なら、ターンが終了してフェーズが変更\n- 自分の固有効果以外の効果が全て消滅\n- [StackRienSpecialSkill]が9未満なら、9に変更",
       "flavor": "指令が言ったとおり、その時を待っていたんだ。\n娘が出て行ってからも、待って、待ち続けた。\n\nそんなある日、リンバス・カンパニーから連絡が来て、裏口が開いていたんだ。\nそれから端末機が鳴って、娘を迎えに行く時が来たことが分かった。"
     },
     {
       "id": 138002,
       "name": "神託端末機 [カドゥケウス]",
-      "desc": "<color=#ff6000><mark=#ff000040><b><u>コインごとに武器がランダムに決まり、特殊効果が適用</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\n攻撃スキル使用時、[StackRienSpecialSkill]1を得る (最大9)\n- スキルごとに1回獲得可能 (同じスキルで2を超過して獲得できない)\n\n<color=#ff6000><mark=#ff000040><b><u>ターン開始時に[StackRienSpecialSkill]が9なら、強力なスキルを使用</u></b></mark></color>\n- 初めて使用後に攻撃終了時、[Shin_Rien]を得る\n- スキルの種類別に[StackRienSpecialSkill]獲得状況が初期化\n- 速度の最小・最大値 +15\n- ターン終了時、次のターンに[Vulnerable]1, [ResultReduction]2を得る\n\n3ターン目が開始時、[StackRienSpecialSkill]が9未満なら9まで増加し、(増加した数値 × 3)だけ[KarmaOfIndexRien]を得る\n- 以降、3ターンごとにこの効果が発動",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>コインごとに武器がランダムに決まり、特殊効果が適用</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\n攻撃スキル使用時、[StackRienSpecialSkill]1を得る (最大9)\n- スキルごとに1回獲得可能 (同じスキルで2を超過して獲得できない)\n\n<color=#ff6000><mark=#ff000040><b><u>ターン開始時に[StackRienSpecialSkill]が9なら、強力なスキルを使用</u></b></mark></color>\n- 初めて使用後に攻撃終了時、[Shin_Rien]を得る\n- スキルの種類別に[StackRienSpecialSkill]獲得状況が初期化\n- 速度の最小・最大値 +15\n- ターン終了時、次のターンに[Vulnerable]1, [ResultReduction]2を得る\n\n3ターン目の開始時、[StackRienSpecialSkill]が9未満なら9まで増加し、(増加した数値 × 3)だけ[KarmaOfIndexRien]を得る\n- 以降、3ターンごとにこの効果が発動",
       "flavor": "端末機の中には、特異点に類似した技術を用いて形状や質量を変化させられる、金属のような液体が収められている。\nこの液体は、端末機が受け取った指令に応じて姿を変え、殺害対象の情報や与えられた制限時間に合わせて武器へと変換される。\nある日、あまりにも小さな短剣が割り当てられたので別の武器に変わるのを待っていたが、殺害の制限時間が迫るまで使えそうな武器は現れなかった。結局、最後まで待って出てきたのがフォークだったため、そのフォークで対象を殺さなければならなかった。"
     },
     {
       "id": 138003,
       "name": "指令の意味",
-      "desc": "ターン開始時、\n- [UnlockBuff_Base]段階によって[IndexPrescript_Base_2nd]を得る\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff6000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff6000><mark=#ff000040><b><u>使用しない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)</u></b></mark></color>\n- ランダムで選択した囚人が死亡するか体力が1の場合、他の囚人にこれを繰り返す\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +2.5% (最大20%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +30%",
+      "desc": "ターン開始時、\n- [UnlockBuff_Base]段階によって[IndexPrescript_Base_2nd]を得る\n- ランダムな囚人へ[IndexPrescriptTargetToPersonality]を付与して、優先して攻撃する\n<color=#ff6000><mark=#ff000040><b><u>- [IndexPrescriptTargetToPersonality]へ使用するスキルのコインが全て[SuperCoin]に変更される</u></b></mark></color>\n\n攻撃時、[IndexPrescriptTargetToPersonality]が死亡するか対象を攻撃できなくなる場合、\n<color=#ff6000><mark=#ff000040><b><u>まだ使用していない残りのスキルをランダムな囚人1名へ使用\n- 現体力が最も低い対象を優先 (体力が1の場合を除く)</u></b></mark></color>\n- ランダムで選択した囚人が死亡するか体力が1の場合、他の囚人にこれを繰り返す\n\n[BlessingOfIndexPrescriptEnemy]1につき、[IndexPrescriptTargetToPersonality]への与ダメージ量 +2.5% (最大20%)\n- [BlessingOfIndexPrescriptEnemy]が9なら、代わりに全対象への与ダメージ量 +30%",
       "flavor": "俺が家庭を築くことをお望みですか。\n\n「あなたみたいな夫と、どうしてこんな運命的な出逢いができたんでしょうね。」"
     },
     {
@@ -186,7 +186,7 @@
     {
       "id": 138005,
       "name": "解禁",
-      "desc": "ターン終了時、[BlessingOfIndexPrescriptEnemy]が3/6/9か体力が95%/85%/75%以下なら、\n[UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]を得る\n\n1/2ターン目が終了時、[UnlockBuff_Base]段階が1/2未満なら\n[UnlockBuff_Rien1]/[UnlockBuff_Rien2]を得る\n\n[UnlockBuff_Base]を保有していない状態で初回獲得時、\n精神力が15未満なら、15まで回復\n\n体力またはターン条件で[UnlockBuff_Base]時、\n- [BlessingOfIndexPrescriptEnemy]が3/6/9未満なら、3/6/9へ変更\n増加した数値1につき、次のターン開始時に[KarmaOfIndexRien]5を得る",
+      "desc": "ターン終了時、[BlessingOfIndexPrescriptEnemy]が3/6/9か体力が95%/85%/75%以下なら、\n[UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]を得る\n\n1/2ターン目の終了時、[UnlockBuff_Base]段階が1/2未満なら\n[UnlockBuff_Rien1]/[UnlockBuff_Rien2]を得る\n\n[UnlockBuff_Base]を保有していない状態で初回獲得時、\n精神力が15未満なら、15まで回復\n\n体力またはターン条件で[UnlockBuff_Base]時、\n- [BlessingOfIndexPrescriptEnemy]が3/6/9未満なら、3/6/9へ変更\n増加した数値1につき、次のターン開始時に[KarmaOfIndexRien]5を得る",
       "flavor": "「指令に従って進んでいれば、閉ざされていたものが解かれていくものだ。」"
     },
     {

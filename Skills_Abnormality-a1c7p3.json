@@ -416,7 +416,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "貫れた欲望",
+          "name": "貫かれた欲望",
           "desc": "[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1",
           "coinlist": [
             {
@@ -1125,7 +1125,7 @@
         {
           "level": 1,
           "name": "棘の投げ縄",
-          "desc": "[WhenUse] 対象の速度より自分の速度が高ければ、マッチ威力 +5\n[WhenUse] 対象の[Burst]4につき、コイン威力 +1(最大2)\n[WhenUse] [ThornNoose]を持つ対象だけ基本威力が増加",
+          "desc": "[WhenUse] 対象の速度より自分の速度が高ければ、マッチ威力 +5\n[WhenUse] 対象の[Burst]4につき、コイン威力 +1(最大2)\n[WhenUse] [ThornNoose]を持つ対象の数だけ基本威力が増加",
           "coinlist": [
             {},
             {},
@@ -1139,7 +1139,7 @@
                   "desc": "[OnSucceedAttack] [Burst]4, [Burst]回数が2増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象が混乱状態下[ThornNoose]があるなら、ダメージ量 +30%"
+                  "desc": "[OnSucceedAttack] 対象が混乱状態か[ThornNoose]があるなら、ダメージ量 +30%"
                 },
                 {
                   "desc": "[EnemyKill] (対象の[Burst]回数 × 2)だけ全ての敵へ[Burst]を付与(最大10)"

@@ -268,7 +268,7 @@
         {
           "level": 1,
           "name": "滅多斬り",
-          "desc": "[WhenUse] 自分の体力が75%未満なら、[OwnTime]を75消耗してマッチ威力 +2\n[BeforeAttack] [TimeAcceleration]状態なら、攻撃加重値が1増加\n[BeforeAttack] 自分の体力最大値が60%未満なら[OwnTime]を10消耗し、攻撃加重値が1増加",
+          "desc": "[WhenUse] 自分の体力が75%未満なら、[OwnTime]を75消耗してマッチ威力 +2\n[BeforeAttack] [TimeAcceleration]状態なら、攻撃加重値が1増加\n[BeforeAttack] 自分の体力が60%未満なら[OwnTime]を10消耗し、攻撃加重値が1増加",
           "coinlist": [
             {
               "coindescs": [
@@ -313,7 +313,7 @@
         {
           "level": 1,
           "name": "回避",
-          "desc": "[WhenUse] 全部位が保有した[OwnTime]の合計が100につき、基本威力 +1 (最大3)",
+          "desc": "[WhenUse] 全部位が保有した[OwnTime]の合計100につき、基本威力 +1 (最大3)",
           "coinlist": [
             {
               "coindescs": [

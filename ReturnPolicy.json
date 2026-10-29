@@ -46,7 +46,7 @@
     },
     {
       "id": "table_ReturnPolicy_Title",
-      "content": "請約撤回可能可否"
+      "content": "請約撤回可否"
     },
     {
       "id": "table_Detail_Title",
@@ -86,7 +86,7 @@
     },
     {
       "id": "PACKAGE_A_Comment",
-      "content": "[※装飾バナー、チケットデコ、アナウンサー、ゲーム進行で得られる特別なアイテムが含まれたパッケージ]"
+      "content": "[※装飾バナー、チケットデコ、アナウンサー、ゲーム進行では得られない特別なアイテムが含まれたパッケージ]"
     },
     {
       "id": "PACKAGE_B_Comment",

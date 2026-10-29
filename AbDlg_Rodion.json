@@ -5,7 +5,7 @@
       "personalityid": 10902,
       "voicefile": 0,
       "teller": "黒雲会 ロージャ",
-      "dialog": "ね、これ成功するのに手首賭けてもいいよ。あん？",
+      "dialog": "ね、これ、成功する方に手首賭けてもいいよ。どう？",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -61,7 +61,7 @@
       "personalityid": 10901,
       "voicefile": 0,
       "teller": "ロージャ",
-      "dialog": "ね、これ成功するのに手首賭けてもいいよ。あん？",
+      "dialog": "ね、これ、成功する方に手首賭けてもいいよ。どう？",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {

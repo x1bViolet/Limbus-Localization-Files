@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "隙を突く",
-          "desc": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加",
+          "desc": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 自分の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加",
           "coinlist": [
             {
               "coindescs": [
@@ -64,7 +64,7 @@
         {
           "level": 1,
           "name": "加斥我援",
-          "desc": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る",
+          "desc": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る",
           "coinlist": [
             {
               "coindescs": [

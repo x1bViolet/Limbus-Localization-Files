@@ -730,7 +730,7 @@
           "level": 1,
           "name": "厳粛な哀悼",
           "abName": "死んだ蝶たちの葬儀",
-          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。 (蝶1につき個別判定)\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
+          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。(蝶1につき個別判定)\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -803,7 +803,7 @@
           "level": 3,
           "name": "厳粛な哀悼",
           "abName": "死んだ蝶たちの葬儀",
-          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。 (蝶1につき個別判定)\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
+          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。(蝶1につき個別判定)\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -882,7 +882,7 @@
           "level": 4,
           "name": "厳粛な哀悼",
           "abName": "死んだ蝶たちの葬儀",
-          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。 (蝶1につき個別判定)\n<style=\"highlight\">メインターゲットの[Sinking]と全[SinkingWhite]の合計4につきマッチ威力 +1 (最大4)</style>\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
+          "desc": "[WideAreaRampage]\nこのスキルの効果でランダムに[SinkingWhite]を付与時、表面が出る確率で死んだ蝶を付与。付与しなかった場合、生きた蝶を付与。(蝶1につき個別判定)\n<style=\"highlight\">メインターゲットの[Sinking]と全[SinkingWhite]の合計4につきマッチ威力 +1 (最大4)</style>\n\nロボトミーE.G.O::厳粛な哀悼 イサンなら、\n- [BeforeAttack] (憂鬱共鳴数 + 1)だけランダムに[BulletLament]を得る (最大7)\n- [EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [

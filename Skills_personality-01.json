@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "締め閉じる",
-          "desc": "このスキルが捨てられると、([KnowledgeExplored] × 体力最大値の5%バリアを得る。\n[WhenUse] 自分の全スキルスロットからランクが最も高いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る",
+          "desc": "このスキルが捨てられると、([KnowledgeExplored] × 体力最大値の5%)だけバリアを得る。\n[WhenUse] 自分の全スキルスロットからランクが最も高いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る",
           "coinlist": [
             {},
             {
@@ -2161,7 +2161,7 @@
         {
           "level": 4,
           "name": "対象調整射撃",
-          "desc": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]が5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時、自分の[BoseProjektil]が7なら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復",
+          "desc": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時に自分の[BoseProjektil]が7だったなら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復",
           "coinlist": [
             {
               "coindescs": [
@@ -2510,7 +2510,7 @@
         {
           "level": 1,
           "name": "突撃前、整えん。",
-          "desc": "[CanDuelGuard] \n[StartBattle]次のターンに[LegStrengthHorseYisang]3を得る",
+          "desc": "[CanDuelGuard]\n[StartBattle]次のターンに[LegStrengthHorseYisang]3を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -2524,7 +2524,7 @@
         {
           "level": 4,
           "name": "突撃前、整えん。",
-          "desc": "[CanDuelGuard] \n[StartBattle]次のターンに[LegStrengthHorseYisang]3を得る\n<style=\"highlight\">[EndBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムな1つを除去 (1ターンにつき1回)</style>",
+          "desc": "[CanDuelGuard]\n[StartBattle]次のターンに[LegStrengthHorseYisang]3を得る\n<style=\"highlight\">[EndBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムな1つを除去 (1ターンにつき1回)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3036,7 +3036,7 @@
                   "desc": "[OnSucceedAttack] [Burst]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [DimensionRift]を1付与"
+                  "desc": "[OnSucceedAttack] [DimensionRift]1を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] このコインの最終ダメージ量の(自分の[Charge]威力 × 4)%だけ斬撃ダメージ (最大20%)"

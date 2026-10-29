@@ -18,7 +18,7 @@
     },
     {
       "id": "863201_2_1",
-      "content": "<color=#ebcaa2>全味方</color>がこの戦闘の間 %{0} {1}/%獲得"
+      "content": "<color=#ebcaa2>全味方</color>がこのターンの間 %{0} {1}/%獲得"
     },
     {
       "id": "863301_1_1",
@@ -42,7 +42,7 @@
     },
     {
       "id": "863301_4_1",
-      "content": "<color=#ebcaa2>このステージの</color>血餐が半減</color>"
+      "content": "<color=#ebcaa2>このステージの</color><color=#fe4b48>血餐が半減</color>"
     },
     {
       "id": "863301_4_2",

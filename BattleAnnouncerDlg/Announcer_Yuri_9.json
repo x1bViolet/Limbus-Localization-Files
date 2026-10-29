@@ -50,7 +50,7 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_9_1",
-      "dlg": "急に口に酸っぱいのが…危ないことがあるたびにこうだったけど…？"
+      "dlg": "急に口の中に苦い味が…危ないことがあるたびにこうだったけど…？"
     },
     {
       "id": "announcer_advatk_physical_9_1",
@@ -78,7 +78,7 @@
     },
     {
       "id": "announcer_ally_specialbuff_9_1",
-      "dlg": "皆さん、気分が優れないようですね。"
+      "dlg": "皆さん、気分が良さそうですね。"
     },
     {
       "id": "announcer_ally_specialdebuff_9_1",
@@ -90,7 +90,7 @@
     },
     {
       "id": "announcer_enemy_destroy_9_2",
-      "dlg": "欠損部位の別の管理方法も書いておくべきなんですけど…。"
+      "dlg": "欠損した部位に応じた管理方法も書いておくべきなんですけど…。"
     },
     {
       "id": "announcer_round_takebigdmg_9_1",

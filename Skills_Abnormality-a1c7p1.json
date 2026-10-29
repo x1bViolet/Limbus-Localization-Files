@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "綺麗に切ってあげるわねぇ！",
-          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、マッチ威力 +1\n[WhenUse] 自分の[Laceration]回数5につき、コイン威力 +1(最大3)",
+          "desc": "[WhenUse] 対象の[Laceration]が6以上なら、マッチ威力 +1\n[WhenUse] 自分の[Laceration]5につき、コイン威力 +1(最大3)",
           "coinlist": [
             {
               "coindescs": [
@@ -365,7 +365,7 @@
         {
           "level": 1,
           "name": "礼儀がなってないじゃなぃ！",
-          "desc": "[DuelCounter]\n[WhenUse] [BloodScissor]段階に比例し、マッチ威力 +1(最大3)\n[WhenUse] 自分の[Laceration]5につき、コイン +1(最大3)",
+          "desc": "[DuelCounter]\n[WhenUse] [BloodScissor]段階に比例し、マッチ威力 +1(最大3)\n[WhenUse] 自分の[Laceration]5につき、コイン威力 +1(最大3)",
           "coinlist": [
             {
               "coindescs": [

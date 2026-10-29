@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "覆う綿花",
-          "desc": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5, 付与効果が2倍",
+          "desc": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有している敵なら、基本威力 +5, 付与効果が2倍",
           "coinlist": [
             {
               "coindescs": [
@@ -164,7 +164,7 @@
         {
           "level": 1,
           "name": "撒き散らされる赤く染まった綿花",
-          "desc": "[Laceration]が最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%",
+          "desc": "[Laceration]を最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有している敵なら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },
@@ -313,7 +313,7 @@
                   "desc": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加"
+                  "desc": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、[Combustion]回数が増加"
                 }
               ]
             },

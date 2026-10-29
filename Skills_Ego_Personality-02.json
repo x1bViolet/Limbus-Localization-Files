@@ -260,7 +260,7 @@
           "level": 4,
           "name": "永続",
           "abName": "時間アヒル",
-          "desc": "対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">5</style>)% (最大<style=\"highlight\">50%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、(最大共鳴数<style=\"highlight\"> × 2</style>)だけ[Vibration]威力を付与(最大<style=\"highlight\">10</style>)\n<style=\"highlight\">- 最大共鳴が怠惰完全共鳴の場合、付与した[Vibration]威力値だけ[Vibration]回数を付与(最大<style=\"highlight\">10</style>)</style>\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少",
+          "desc": "対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">5</style>)% (最大<style=\"highlight\">50%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、(最大共鳴数<style=\"highlight\"> × 2</style>)だけ[Vibration]威力を付与(最大<style=\"highlight\">10</style>)\n- 最大共鳴が怠惰完全共鳴の場合、付与した[Vibration]威力値だけ[Vibration]回数を付与(最大<style=\"highlight\">10</style>)\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少",
           "coinlist": [
             {
               "coindescs": [
@@ -1008,7 +1008,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] [FaustFlameMothEmber]3をランダムに攻撃対象へ分けて付与 (1ターンにつき1回。最大値の対象は除外され、集中戦闘では部位として扱う)"
+                  "desc": "[EndCoin] [FaustFlameMothEmber]3をランダムに攻撃対象へ分けて付与 (1ターンにつき1回、最大値の対象を除く。集中戦闘では部位として扱う)"
                 }
               ]
             }
@@ -1075,7 +1075,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] [FaustFlameMothEmber]<style=\"highlight\">6</style>をランダムに攻撃対象へ分けて (1ターンにつき1回、最大値の対象を除く。集中戦闘では部位として扱う)"
+                  "desc": "[EndCoin] [FaustFlameMothEmber]<style=\"highlight\">6</style>をランダムに攻撃対象へ分けて付与 (1ターンにつき1回、最大値の対象を除く。集中戦闘では部位として扱う)"
                 }
               ]
             }
@@ -1143,7 +1143,7 @@
           "level": 3,
           "name": "ブーシェ(boucher un trou)",
           "abName": "穴の開いた人",
-          "desc": "このスキルは外部効果で再使用できない\n<style=\"highlight\">このスキルの攻撃加重値よりも少ない攻撃対象1につき、ダメージ量 +5% (集中戦闘の場合は部位で判定)</style>\n自分の([Breath]威力 + [Charge]回数)4につき、マッチ威力 +1 (最大<style=\"highlight\">7</style>)\n自分の[BulletHole]1につき、マッチ威力 +2\n<style=\"highlight\">[BeforeAttack] 攻撃対象が1名なら、ダメージ量 +50% (集中戦闘の場合、本体を基準に判定)</style>\n[BeforeAttack] [BulletHole]を全て消耗し、下記の効果を適用\n- 消耗量1につき、[Breath]威力2, [Breath]回数1, [Charge]回数2を得る\n- 消耗量1につき、ダメージ量 +8%\nこのスキルで[BulletHole]を5消耗したなら、精神力を5回復\n[EndSkill] [BulletHole]1を得る",
+          "desc": "このスキルは外部効果で再使用できない\n<style=\"highlight\">このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +5% (集中戦闘の場合は部位で判定)</style>\n自分の([Breath]威力 + [Charge]回数)4につき、マッチ威力 +1 (最大<style=\"highlight\">7</style>)\n自分の[BulletHole]1につき、マッチ威力 +2\n<style=\"highlight\">[BeforeAttack] 攻撃対象が1名なら、ダメージ量 +50% (集中戦闘の場合、本体を基準に判定)</style>\n[BeforeAttack] [BulletHole]を全て消耗し、下記の効果を適用\n- 消耗量1につき、[Breath]威力2, [Breath]回数1, [Charge]回数2を得る\n- 消耗量1につき、ダメージ量 +8%\nこのスキルで[BulletHole]を5消耗したなら、精神力を5回復\n[EndSkill] [BulletHole]1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1164,7 +1164,7 @@
           "level": 4,
           "name": "ブーシェ(boucher un trou)",
           "abName": "穴の開いた人",
-          "desc": "このスキルは外部効果で再使用できない\nこのスキルの攻撃加重値よりも少ない攻撃対象1につき、ダメージ量 <style=\"highlight\">+10%</style> (集中戦闘の場合は部位で判定)\n自分の([Breath]威力 + [Charge]回数)4につき、マッチ威力 +1 (最大<style=\"highlight\">10</style>)\n自分の[BulletHole]1につき、マッチ威力 +2\n[BeforeAttack] 攻撃対象が1名なら、ダメージ量 <style=\"highlight\">+100%</style> (集中戦闘の場合、本体を基準に判定)\n[BeforeAttack] [BulletHole]を全て消耗し、下記の効果を適用\n- 消耗量1につき、[Breath]威力2, [Breath]回数1, [Charge]回数2を得る\n- 消耗量1につき、ダメージ量 +8%\n<style=\"highlight\">[EndSkill] 味方2+(最大共鳴数)名に[Breath]威力5, [Breath]回数2を付与 (最大7名)</style>\nこのスキルで[BulletHole]を5消耗したなら、精神力を5回復\n[EndSkill] [BulletHole]1を得る",
+          "desc": "このスキルは外部効果で再使用できない\nこのスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 <style=\"highlight\">+10%</style> (集中戦闘の場合は部位で判定)\n自分の([Breath]威力 + [Charge]回数)4につき、マッチ威力 +1 (最大<style=\"highlight\">10</style>)\n自分の[BulletHole]1につき、マッチ威力 +2\n[BeforeAttack] 攻撃対象が1名なら、ダメージ量 <style=\"highlight\">+100%</style> (集中戦闘の場合、本体を基準に判定)\n[BeforeAttack] [BulletHole]を全て消耗し、下記の効果を適用\n- 消耗量1につき、[Breath]威力2, [Breath]回数1, [Charge]回数2を得る\n- 消耗量1につき、ダメージ量 +8%\n<style=\"highlight\">[EndSkill] 味方2+(最大共鳴数)名に[Breath]威力5, [Breath]回数2を付与 (最大7名)</style>\nこのスキルで[BulletHole]を5消耗したなら、精神力を5回復\n[EndSkill] [BulletHole]1を得る",
           "coinlist": [
             {
               "coindescs": [

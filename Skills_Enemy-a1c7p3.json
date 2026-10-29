@@ -389,7 +389,7 @@
         {
           "level": 1,
           "name": "楽しいパレードに加わってください！",
-          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [Laceration]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
+          "desc": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大3)\n[WhenUse] [BloodDinner]が20未満なら、[Laceration]20を得てから即1回発動させて[Laceration]回数が1減少\n[EndSkill] [BloodDinner]を20消耗",
           "coinlist": [
             {
               "coindescs": [

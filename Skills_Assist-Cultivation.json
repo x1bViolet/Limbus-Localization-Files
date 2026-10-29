@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "赤斬",
-          "desc": "[WhenUse] 対象の[Burst]回数3につき、基本威力 +1 (最大2)",
+          "desc": "[WhenUse] 対象の[Burst]3につき、基本威力 +1 (最大2)",
           "coinlist": [
             {
               "coindescs": [

@@ -305,7 +305,7 @@
     {
       "id": "MD6Limit145",
       "name": "精神力枯渇II",
-      "desc": "戦闘内で、全味方の精神力を30以上に回復不能"
+      "desc": "戦闘内で、全味方の精神力が30を超えて回復不能"
     },
     {
       "id": "DerivativeHugeIrritation",

@@ -1,4 +1,4 @@
-﻿{
+{
   "dataList": [
     {
       "id": "project_gs_button_label_open_lesson_ui",
@@ -402,27 +402,27 @@
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_wisdom_up",
-      "content": "授業結果で得たステータス:智が{0}増加"
+      "content": "授業結果で得たステータス:智が{0}%増加"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_wisdom_down",
-      "content": "授業結果で得たステータス:智が{0}減少"
+      "content": "授業結果で得たステータス:智が{0}%減少"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_courage_up",
-      "content": "授業結果で得たステータス:勇が{0}増加"
+      "content": "授業結果で得たステータス:勇が{0}%増加"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_courage_down",
-      "content": "授業結果で得たステータス:勇が{0}減少"
+      "content": "授業結果で得たステータス:勇が{0}%減少"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_benevolence_up",
-      "content": "授業結果で得たステータス:仁が{0}増加"
+      "content": "授業結果で得たステータス:仁が{0}%増加"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_benevolence_down",
-      "content": "授業結果で得たステータス:仁が{0}減少"
+      "content": "授業結果で得たステータス:仁が{0}%減少"
     },
     {
       "id": "project_gs_combo_desc_stats_result_ratio_all_up",

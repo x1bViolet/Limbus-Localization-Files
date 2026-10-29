@@ -631,7 +631,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "魔方陣で割られ、分かたれる弾丸",
+          "name": "魔法陣で割られ、分かたれる弾丸",
           "desc": "最も前にいる対象を攻撃\n[WhenUse] [Breath]3, [Breath]回数2を得る",
           "coinlist": [
             {
@@ -810,7 +810,7 @@
         {
           "level": 1,
           "name": "全黒仙丸 - 未",
-          "desc": "[WhenUse] 対象の[Laceration]と[Burst]の合計が5以上なら、マッチ威力 +1\n[WhenUse] [Laceration]と[Burst]の回数が7以上なら[Breath]5を得て、[Breath]回数が2増加",
+          "desc": "[WhenUse] 対象の[Laceration]と[Burst]の合計が5以上なら、マッチ威力 +1\n[WhenUse] 対象の[Laceration]と[Burst]の合計が7以上なら[Breath]5を得て、[Breath]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1294,7 +1294,7 @@
         {
           "level": 1,
           "name": "仙人様よ…！",
-          "desc": "速度に関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[StartBattle] 次のターンにご老人の木を5つ生成\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルダメージ対象が混乱しない\n[EndSkill] ターン終了",
+          "desc": "速度に関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[StartBattle] 次のターンにご老人の木を5つ生成\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージで対象が混乱しない\n[EndSkill] ターン終了",
           "coinlist": [
             {
               "coindescs": [

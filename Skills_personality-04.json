@@ -275,7 +275,7 @@
         {
           "level": 4,
           "name": "押しのける",
-          "desc": "[WhenUse] 自分の呼吸 回数2が増加\n<style=\"highlight\">自分の</style><sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></color></link></u><style=\"highlight\">が7以上なら、コイン威力+1</style>",
+          "desc": "[WhenUse] 自分の呼吸 回数が2増加\n<style=\"highlight\">自分の</style><sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u><style=\"highlight\">が7以上なら、コイン威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1384,7 +1384,7 @@
                   "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の([PenanceFirst] ÷ 3)%だけ回復"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名を([PenanceFirst] - 10)だけ精神力を回復(最低0)"
+                  "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を([PenanceFirst] - 10)だけ回復(最低0)"
                 }
               ]
             }
@@ -1421,7 +1421,7 @@
                   "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の([PenanceFirst] ÷ <style=\"highlight\">2</style>)%だけ回復"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名を([PenanceFirst] - 10)だけ精神力を回復(最低0)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を([PenanceFirst] - 10)だけ回復(最低0)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3207,7 +3207,7 @@
         {
           "level": 3,
           "name": "空間斬",
-          "desc": "[WhenUse] 自分の[Breath]4につき、最終威力 +1 (最大5)\n[WhenUse] 自分の[SojiRyoshuEchoPast]1につき、ダメージ量 +5%\n[WhenUse] [Breath]5を得る\n[WhenUse] 自分の[SojiRyoshuEchoPast]2につき、加重値 +1 (最大2)\n[WhenUse] このスキルの攻撃加重値よりも低い攻撃対象1につき、ダメージ量 +15% (集中戦闘の場合は部位で判定)\n[EndSkill] このスキルの的中対象へ[PhantomIncisionID]を(自分の[SojiRyoshuEchoPast] + 10)だけランダムに分けて付与",
+          "desc": "[WhenUse] 自分の[Breath]4につき、最終威力 +1 (最大5)\n[WhenUse] 自分の[SojiRyoshuEchoPast]1につき、ダメージ量 +5%\n[WhenUse] [Breath]5を得る\n[WhenUse] 自分の[SojiRyoshuEchoPast]2につき、加重値 +1 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +15% (集中戦闘の場合は部位で判定)\n[EndSkill] このスキルの的中対象へ[PhantomIncisionID]を(自分の[SojiRyoshuEchoPast] + 10)だけランダムに分けて付与",
           "flavor": "「剣の道？まぁ、愚鈍にやってれば空間くらいは斬れるようになるでしょ。あぁ。もちろん陽炎みたいにちょっと割れて揺らめいて終わりだから。ちょっと時間過ぎれば元に戻るんだよね。」",
           "coinlist": [
             {
@@ -3237,7 +3237,7 @@
         {
           "level": 4,
           "name": "空間斬",
-          "desc": "[WhenUse] 自分の[Breath]4につき、最終威力 +1 (最大5)\n<style=\"highlight\">[WhenUse] メインターゲットの[Combustion]と[Laceration]の合計6につき、基本威力 +1 (最大5)</style>\n[WhenUse] 自分の[SojiRyoshuEchoPast]1につき、ダメージ量 +5%\n[WhenUse] [Breath]5を得る\n[WhenUse] 自分の[SojiRyoshuEchoPast]2につき、加重値 +1 (最大2)\n[WhenUse] このスキルの攻撃加重値よりも低い攻撃対象1につき、ダメージ量 <style=\"highlight\">+30%</style> (集中戦闘の場合は部位で判定)\n[EndSkill] このスキルの的中対象へ[PhantomIncisionID]を(自分の[SojiRyoshuEchoPast] + 10)だけランダムに分けて付与",
+          "desc": "[WhenUse] 自分の[Breath]4につき、最終威力 +1 (最大5)\n<style=\"highlight\">[WhenUse] メインターゲットの[Combustion]と[Laceration]の合計6につき、基本威力 +1 (最大5)</style>\n[WhenUse] 自分の[SojiRyoshuEchoPast]1につき、ダメージ量 +5%\n[WhenUse] [Breath]5を得る\n[WhenUse] 自分の[SojiRyoshuEchoPast]2につき、加重値 +1 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 <style=\"highlight\">+30%</style> (集中戦闘の場合は部位で判定)\n[EndSkill] このスキルの的中対象へ[PhantomIncisionID]を(自分の[SojiRyoshuEchoPast] + 10)だけランダムに分けて付与",
           "flavor": "「剣の道？まぁ、愚鈍にやってれば空間くらいは斬れるようになるでしょ。あぁ。もちろん陽炎みたいにちょっと割れて揺らめいて終わりだから。ちょっと時間過ぎれば元に戻るんだよね。」",
           "coinlist": [
             {
@@ -3281,7 +3281,7 @@
         {
           "level": 4,
           "name": "残像歩",
-          "desc": "[StartBattle] 出場人員のうち、編成順が最も遅い味方の蜘蛛の巣所属人格1名を指定 (1ターンにつき2回)\n- 自分の[SojiRyoshuEntangle]が1以上なら、1名追加で指定\n- 対象がこのターンに装着した全スキルが終了したか、混乱したか、使用するスキルが無いなら、対象を「天殺」で一方攻撃 (人格ごとに1回)\n- 蜘蛛の巣 小指の子方シンクレアは、最も低い指定優先順位を持つ\n[StartBattle] 自分の[Breath]回数が3増加 (1ターンにつき1回)</style>\n<style=\"highlight\">[OnSucceedEvade] [Breath]1を得る (1ターンにつき3回)",
+          "desc": "[StartBattle] 出場人員のうち、編成順が最も遅い味方の蜘蛛の巣所属人格1名を指定 (1ターンにつき2回)\n- 自分の[SojiRyoshuEntangle]が1以上なら、1名追加で指定\n- 対象がこのターンに装着した全スキルが終了したか、混乱したか、使用するスキルが無いなら、対象を「天殺」で一方攻撃 (人格ごとに1回)\n- 蜘蛛の巣 小指の子方シンクレアは、最も低い指定優先順位を持つ\n[StartBattle] 自分の[Breath]回数が3増加 (1ターンにつき1回)\n<style=\"highlight\">[OnSucceedEvade] [Breath]1を得る (1ターンにつき3回)</style>",
           "flavor": "「それは俺の残像だが。」",
           "coinlist": [
             {}

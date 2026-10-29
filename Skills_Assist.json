@@ -186,7 +186,7 @@
                   "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加。対象の[Burst]だけ[Breath]を得る (最大5)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 威力3を得る。対象の[Burst]だけ、次のターンに[Breath]回数が増加 (最大2)"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 威力3を得る。対象の[Burst]回数だけ、次のターンに[Breath]回数が増加 (最大2)"
                 }
               ]
             },
@@ -236,7 +236,7 @@
                   "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加。対象の[Burst]だけ[Breath]を得る (最大5)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 威力3を得る。対象の[Burst]だけ、次のターンに[Breath]回数が増加 (最大2)"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 威力3を得る。対象の[Burst]回数だけ、次のターンに[Breath]回数が増加 (最大2)"
                 }
               ]
             },
@@ -637,12 +637,12 @@
         {
           "level": 3,
           "name": "秀回",
-          "desc": "[WhenUse] 対象のマイナス効果2種につき、コイン威力 +2 (最大10)\n[OnSucceedEvade] 次のターンに[Breath]3を得る (スキルごとに最大2回)"
+          "desc": "[WhenUse] 対象のマイナス効果2種につき、基本威力 +2 (最大10)\n[OnSucceedEvade] 次のターンに[Breath]3を得る (スキルごとに最大2回)"
         },
         {
           "level": 4,
           "name": "秀回流還",
-          "desc": "[WhenUse] 対象のマイナス効果2種につき、コイン威力 +2 (最大10)\n[OnSucceedEvade] 次のターンに[Breath]3を得る (スキルごとに最大2回)\n[OnSucceedEvade] 赤斬を使用 (1ターンにつき1回)"
+          "desc": "[WhenUse] 対象のマイナス効果2種につき、基本威力 +2 (最大10)\n[OnSucceedEvade] 次のターンに[Breath]3を得る (スキルごとに最大2回)\n[OnSucceedEvade] 赤斬を使用 (1ターンにつき1回)"
         }
       ]
     }

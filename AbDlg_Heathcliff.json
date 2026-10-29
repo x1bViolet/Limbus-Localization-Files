@@ -45,7 +45,7 @@
       "personalityid": 10702,
       "voicefile": 0,
       "teller": "シ ヒースクリフ",
-      "dialog": "どうしてお前が嬉しそうなんだよ？オレがやったのに。",
+      "dialog": "どうしてお前が得意げなんだよ？オレがやったのに。",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
@@ -101,7 +101,7 @@
       "personalityid": 10701,
       "voicefile": 0,
       "teller": "ヒースクリフ",
-      "dialog": "どうしてお前が嬉しそうなんだよ？オレがやったのに。",
+      "dialog": "どうしてお前が得意げなんだよ？オレがやったのに。",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {

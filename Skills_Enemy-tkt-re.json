@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "大義のための回収",
-          "desc": "[CantDuel]\n[StartBattle] 自分を除いた全味方の[Vibration]回数を自分が得て、全味方の[Vibration]を除去\n[StartBattle] 自分の[Vibration]回数3につき、[AttackUp]増加1を得る\n[WhenUse] 自分の[Vibration]回数が10増加",
+          "desc": "[CantDuel]\n[StartBattle] 自分を除いた全味方の[Vibration]回数を自分が得て、全味方の[Vibration]を除去\n[StartBattle] 自分の[Vibration]回数3につき、[AttackUp]1を得る\n[WhenUse] 自分の[Vibration]回数が10増加",
           "coinlist": [
             {
               "coindescs": [

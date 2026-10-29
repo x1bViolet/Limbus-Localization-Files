@@ -667,7 +667,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血式強化打撃",
+          "name": "硬血式強化銛",
           "desc": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が10増加",
           "coinlist": [
             {
@@ -719,7 +719,7 @@
         {
           "level": 1,
           "name": "義体稼働",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -741,7 +741,7 @@
         {
           "level": 1,
           "name": "硬血式血液逆流",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -837,7 +837,7 @@
         {
           "level": 1,
           "name": "硬血式血液移転",
-          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
+          "desc": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加",
           "coinlist": [
             {
               "coindescs": [

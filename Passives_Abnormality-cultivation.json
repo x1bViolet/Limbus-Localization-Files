@@ -13,7 +13,7 @@
     {
       "id": 124703,
       "name": "魂飛中天",
-      "desc": "自分に[LegStrengthHorse]があるなら、[Vibration]のない対象へ[VibrationExplosion]効果を持つ対象コインを的中時に[ReboundWei]1を得る ([ReboundWei]が最大値なら獲得しない)\n\nターン終了時、自分の[ReboundWei]が最大値なら全て消耗して次のターンに[LegStrengthHorse]が1減少"
+      "desc": "自分に[LegStrengthHorse]があるなら、[Vibration]のない対象へ[VibrationExplosion]効果を持つコインが的中時に[ReboundWei]1を得る ([ReboundWei]が最大値なら獲得しない)\n\nターン終了時、自分の[ReboundWei]が最大値なら全て消耗して次のターンに[LegStrengthHorse]が1減少"
     },
     {
       "id": 124704,

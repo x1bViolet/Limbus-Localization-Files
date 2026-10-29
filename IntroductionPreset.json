@@ -186,7 +186,7 @@
     },
     {
       "id": "introduce_sentence_7",
-      "content": "ただ、いたずらなる{0}ゆえ。"
+      "content": "ただ、無意味な{0}に過ぎぬゆえ。"
     },
     {
       "id": "introduce_sentence_8",
@@ -218,7 +218,7 @@
     },
     {
       "id": "introduce_sentence_15",
-      "content": "こんな{0}見たことありまするか？"
+      "content": "こんな{0}を見たことはありまするか？"
     },
     {
       "id": "introduce_sentence_16",
@@ -370,7 +370,7 @@
     },
     {
       "id": "introduce_sentence_47",
-      "content": "はや、{0}なりけり。"
+      "content": "其実、{0}なりけり。"
     },
     {
       "id": "introduce_word_48",
@@ -458,7 +458,7 @@
     },
     {
       "id": "introduce_sentence_58",
-      "content": "{0}が漏れぬやと思う。"
+      "content": "{0}が漏れぬか気に掛かる。"
     },
     {
       "id": "introduce_word_59",
@@ -466,7 +466,7 @@
     },
     {
       "id": "introduce_sentence_59",
-      "content": "私はその{0}がいと麗しく見ゆ。"
+      "content": "私には、その{0}がいと麗しく見ゆ。"
     },
     {
       "id": "introduce_word_60",
@@ -690,7 +690,7 @@
     },
     {
       "id": "introduce_sentence_87",
-      "content": "…私の人生はこの{0}と変わりあらず。"
+      "content": "…私の人生はこの{0}とそう変わらない。"
     },
     {
       "id": "introduce_word_88",
@@ -1074,7 +1074,7 @@
     },
     {
       "id": "introduce_sentence_135",
-      "content": "あなた様より、新しき{0}呼び起こしたまうや？"
+      "content": "あなた様が、新しき{0}を呼び起こしたまうや？"
     },
     {
       "id": "introduce_word_136",
@@ -1178,7 +1178,7 @@
     },
     {
       "id": "introduce_sentence_148",
-      "content": "{0}持ちのヤツは戦闘で怖じけつかないとかなんとか。"
+      "content": "{0}持ちのヤツは戦闘で怖じけつかねぇとかなんとか。"
     },
     {
       "id": "introduce_word_149",
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "introduce_sentence_154",
-      "content": "あぁ…私も{0}だけ…残しちゃんだ…。"
+      "content": "あぁ…私も{0}だけ…残しちゃうんだ…。"
     },
     {
       "id": "introduce_word_155",
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "introduce_sentence_181",
-      "content": "うちの{0}に手を出そうってか？"
+      "content": "うちの{0}に手を出したな？"
     },
     {
       "id": "introduce_word_182",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "introduce_sentence_198",
-      "content": "穢れし身は、昇るべき{0}すら無しと申さば…。"
+      "content": "穢れし身には、昇るべき{0}すら無しとの仰せなれば…。"
     },
     {
       "id": "introduce_word_199",
@@ -1594,7 +1594,7 @@
     },
     {
       "id": "introduce_sentence_200",
-      "content": "そう突っ立ていれば、{0}が落ちるしか。"
+      "content": "そう突っ立っていれば、{0}が落ちるしか。"
     },
     {
       "id": "introduce_word_201",
@@ -1946,7 +1946,7 @@
     },
     {
       "id": "introduce_sentence_244",
-      "content": "どこでも見られない{0}で。"
+      "content": "どこにも見られない{0}で。"
     },
     {
       "id": "introduce_word_245",
@@ -2147,6 +2147,22 @@
     {
       "id": "introduce_sentence_269",
       "content": "僕たちは、僕は、{0}の全てを食らい尽くす。もう誰一人として飢えることのないように。"
+    },
+    {
+      "id": "introduce_word_270",
+      "content": "針数"
+    },
+    {
+      "id": "introduce_sentence_270",
+      "content": "{0}…{0}…{0}、{0}、{0}、{0}、{0}、{0}、{0}！"
+    },
+    {
+      "id": "introduce_word_271",
+      "content": "傾聴"
+    },
+    {
+      "id": "introduce_sentence_271",
+      "content": "{0}していただかないと、ね？"
     }
   ]
 }

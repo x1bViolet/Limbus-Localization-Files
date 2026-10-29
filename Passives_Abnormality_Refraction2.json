@@ -228,7 +228,7 @@
     {
       "id": 855101,
       "name": "ゴールデンタイム",
-      "desc": "ターン終了時に体力が6<noparse>～</noparse>24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)"
+      "desc": "ターン終了時に体力が6<noparse>～</noparse>24%残っているなら、本体と部位の体力を最大値の80%即回復。混乱状態を解除。(最大1回)"
     },
     {
       "id": 855102,
@@ -253,7 +253,7 @@
     {
       "id": 855501,
       "name": "戻ってくる過去",
-      "desc": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が50以上なら、本体体力をが80%以下のときターン終了時に<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を50消耗することで本体体力を200回復する。"
+      "desc": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が50以上なら、本体体力が80%以下のときターン終了時に<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を50消耗することで本体体力を200回復する。"
     },
     {
       "id": 855502,
@@ -278,7 +278,7 @@
     {
       "id": 855506,
       "name": "漏れ出る蒸気",
-      "desc": "蒸気銃部位破壊時、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>と呼吸 回数が1減少"
+      "desc": "蒸気銃部位の被撃時、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>と呼吸 回数が1減少"
     },
     {
       "id": 855507,
@@ -438,7 +438,7 @@
     {
       "id": 856904,
       "name": "膨れ上がった傲慢",
-      "desc": "強化状態のときターン開始時、スキル効果で付与する呼吸 +1\n強化状態で死亡時、全味方へ呼吸 回数4を付与"
+      "desc": "強化状態のときターン開始時、スキル効果で付与する呼吸 +1\n強化状態で死亡時、全ての敵へ呼吸 回数4を付与"
     },
     {
       "id": 856905,
@@ -463,7 +463,7 @@
     {
       "id": 857004,
       "name": "ぎらつく嫉妬",
-      "desc": "強化状態のときターン開始時、スキル効果で付与する充電回数 +1\n強化状態で死亡時、全味方へ充電 回数4を付与"
+      "desc": "強化状態のときターン開始時、スキル効果で付与する充電回数 +1\n強化状態で死亡時、全ての敵へ充電 回数4を付与"
     },
     {
       "id": 857005,

@@ -54,7 +54,7 @@
     },
     {
       "id": "REVIVE_ONCE_PER_FLOOR",
-      "description": "戦闘終了時、死亡した味方が{0}名復活(階層につきに1回)"
+      "description": "戦闘終了時、死亡した味方が{0}名復活(階層につき1回)"
     },
     {
       "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",

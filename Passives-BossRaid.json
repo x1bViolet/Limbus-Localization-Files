@@ -53,7 +53,7 @@
     {
       "id": 501401,
       "name": "場所型ねじれ: 現像所",
-      "desc": "このユニットは死亡せず、自分をメインターゲットにしたスキルからのみダメージを受ける。それ以外のダメージを受けない。\n\n速度が1に固定される\n\nステージ登場後、ターン開始時に[PhotoTransitionChoiCamera]を3得る\n\n<color=#ff6000><mark color=#ff000040><b><u>自分の体力が1になるか、ターン開始時に[PhotoTransitionChoiCamera]が0なら</color></mark></b></u>、下記の効果を適用\n- N社2級職員と自分を消滅させる\n- イム・ギョンオ<size=75%>プ</size>を復帰させる\n- マップを変更する</color></mark></b></u>"
+      "desc": "このユニットは死亡せず、自分をメインターゲットにしたスキルからのみダメージを受ける。それ以外のダメージを受けない。\n\n速度が1に固定される\n\nステージ登場後、ターン開始時に[PhotoTransitionChoiCamera]を3得る\n\n<color=#ff6000><mark color=#ff000040><b><u>自分の体力が1になるか、ターン開始時に[PhotoTransitionChoiCamera]が0なら</color></mark></b></u>、下記の効果を適用\n- N社2級職員と自分を消滅させる\n- イム・ギョンオ<size=75%>プ</size>を復帰させる\n- マップを変更する"
     },
     {
       "id": 501201,
@@ -64,7 +64,7 @@
     {
       "id": 501202,
       "name": "頭釘甲[サ<size=50%>ル</size>] - 鉄壁",
-      "desc": "[Laceration], [Burst], [Sinking]による被ダメージ量 -30% (小数点切り捨て)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nステージ初登場時に[ChoiSwordsmanshipShield]5を得る\n\n<color=#ff6000><mark color=#ff000040><b><u>[ChoiSwordsmanshipShield]が消滅したなら、次のターンに混乱状態になる\n上記の効果で混乱したターンが終了時、フェーズが変更</color></mark></b></u>\n- フェーズ1の間は体力が<color=#ff6000><mark color=#ff000040><b><u>70%未満</color></mark></b></u>に減少しない\n- 体力が70%未満なら、ターンを<color=#ff6000><mark color=#ff000040><b><u>即終了</color></mark></b></u>してフェーズを変更\n- フェーズが変更されたターンの開始時、精神力を45まで回復",
+      "desc": "[Laceration], [Burst], [Sinking]による被ダメージ量 -30% (小数点切り捨て)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nステージ初登場時に[ChoiSwordsmanshipShield]5を得る\n\n<color=#ff6000><mark color=#ff000040><b><u>[ChoiSwordsmanshipShield]が消滅したなら、次のターンに混乱状態になる\n上記の効果で混乱したターンの終了時、フェーズが変更</color></mark></b></u>\n- フェーズ1の間は体力が<color=#ff6000><mark color=#ff000040><b><u>70%未満</color></mark></b></u>に減少しない\n- 体力が70%未満なら、ターンを<color=#ff6000><mark color=#ff000040><b><u>即終了</color></mark></b></u>してフェーズを変更\n- フェーズが変更されたターンの開始時、精神力を45まで回復",
       "flavor": "東部の騎乗甲は「装着」するというより「搭乗」する概念に近い武具であり、S社の頭釘甲もまたそのような騎乗甲の一種である。\nR社のパワードアーマースーツや西部の騎士たちのフルプレートアーマーのように、頭釘甲は使用者の攻防能力を飛躍的に引き上げる。\nただし、このように優れた性能を持つ甲冑は容易には支給されない。また、それぞれ操作法が異なり、作動には別途燃料が必要という制約も伴う。\nそれでも確かなのは、パワードアーマースーツやフルプレートアーマー、そしてその他の騎乗甲がそうであったように、頭釘甲がもたらす間合いの拡張と強化された出力に搭乗者が慣れた瞬間、戦場での殺傷力は飛躍的に上昇するという点である。"
     },
     {
@@ -108,7 +108,7 @@
     {
       "id": 501305,
       "name": "頭釘甲[サ<size=50%>ル</size>] - 泰山",
-      "desc": "[Combustion], [Laceration], [Vibration], [Burst], [Sinking]で受けるダメージ量 -30% (小数点切り捨て、[VibrationExplosion]による混乱区間前進を除く)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nターン開始時、下記効果を適用\n- [ChoiSwordsmanshipOne]であり、[ChoiSwordsmanship]数値が5未満なら、(5 - [ChoiSwordsmanship]数値)だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る\n- [ChoiSwordsmanshipMany]であり、[ChoiSwordsmanship]数値が5超過なら、超過した値だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る",
+      "desc": "[Combustion], [Laceration], [Vibration], [Burst], [Sinking]で受けるダメージ量 -30% (小数点切り捨て[TabExplain]、[VibrationExplosion]による混乱区間前進を除く)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nターン開始時、下記効果を適用\n- [ChoiSwordsmanshipOne]であり、[ChoiSwordsmanship]数値が5未満なら、(5 - [ChoiSwordsmanship]数値)だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る\n- [ChoiSwordsmanshipMany]であり、[ChoiSwordsmanship]数値が5超過なら、超過した値だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る",
       "flavor": "S社の基本的な頭釘甲をもとに、サ<size=50%>ル</size>(肉)・ピ(血)・ピョ(骨)の三党派は、それぞれの思想に合わせた頭釘甲を作り上げた。\n昔話によれば、「サ<size=50%>ル</size>」はいつも殺生の始まりを切り開いてきた。彼らは誰よりも先に敵の肉を裂く。\n「ピ」は肉が裂かれるたびに流れ出る血を受け止め、その血を利用して戦闘の持続性を補う。\n「ピョ」は殺生の締めくくりを担う。節と節を断って膝をつかせ、遂には敵の首骨を斬り落として命を終わらせる。"
     },
     {
@@ -175,7 +175,7 @@
     {
       "id": 502001,
       "name": "猛虎標弾支援",
-      "desc": "ターン終了時、[Vulnerable]3を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時、次のターンにレイホンが[Vulnerable]1を得る"
+      "desc": "ターン開始時、[Vulnerable]3を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時、次のターンにレイホンが[Vulnerable]1を得る"
     }
   ]
 }
