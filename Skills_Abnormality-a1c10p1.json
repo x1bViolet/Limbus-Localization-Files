@@ -1702,7 +1702,7 @@
         {
           "level": 1,
           "name": "Too even, you say? Not pick-stitching, you say? Assemble!!!",
-          "desc": "[StartBattle] Summon 3 Needlekin next turn",
+          "desc": "[StartBattle] Summon 3 Needlekin[TabExplain] next turn",
           "coinlist": []
         }
       ]
@@ -1713,7 +1713,7 @@
         {
           "level": 1,
           "name": "You want me to hand-stitch this?! HAND-STITCH???!!!",
-          "desc": "Prioritizes allies that are not Staggered; deals 0 damage\nDoes not trigger the target's Defense Skill\n\n[EndSkill] Targeted Needlekin activates a random Attack Skill (ignores Stagger)",
+          "desc": "Prioritizes allies that are not Staggered; deals 0 damage\nDoes not trigger the target's Defense Skill\n\n[EndSkill] Targeted Needlekin[TabExplain] activates a random Attack Skill (ignores Stagger)",
           "coinlist": [
             {
               "coindescs": [
@@ -1732,7 +1732,7 @@
         {
           "level": 1,
           "name": "Double stitching past the side seam? Double-needle! Rejected!",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Deal +50% damage for every Needlekin on the field\n • If there are no Needlekin on the field, cancel this Skill</u></b></mark></color>\n\n[EndSkill] Kill every Needlekin\n • Gain 1 [Enhancement] next turn for every Needlekin killed by this effect",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Deal +50% damage for every Needlekin[TabExplain] on the field\n • If there are no Needlekin[TabExplain] on the field, cancel this Skill</u></b></mark></color>\n\n[EndSkill] Kill every Needlekin[TabExplain]\n • Gain 1 [Enhancement] next turn for every Needlekin[TabExplain] killed by this effect",
           "coinlist": [
             {
               "coindescs": [

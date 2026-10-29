@@ -2126,11 +2126,11 @@
     },
     {
       "id": "TutoMD08_P19_T1",
-      "content": "Achievements (To be Updated)"
+      "content": "Achievements"
     },
     {
       "id": "TutoMD08_P19_D1",
-      "content": "Achievements is a game content in which you beat challenges to gain Projection Rate to earn various rewards. Achievements will be unlocked with a future update."
+      "content": "Achievements is a game content in which you beat challenges to gain Projection rate to earn various rewards."
     },
     {
       "id": "TutoMD08_P25_T1",
@@ -2142,7 +2142,7 @@
     },
     {
       "id": "TutoMD08_P25_D2",
-      "content": "Please note that Parallel Superposition Mode is solely for challenges and upcoming Achievements, and does not yield additional rewards on its own past Floor 5."
+      "content": "Please note that Parallel Superposition Mode is solely for Achievements, and does not yield additional rewards on its own past Floor 5."
     },
     {
       "id": "TutoMD08_P26_D1",
@@ -2194,11 +2194,11 @@
     },
     {
       "id": "TutoMD08_P33_D3",
-      "content": "Select Adversities to gain bonus Starlight and future Mirror of Sisyphe Pass Projection rate based on your Adversity Score. However, please note that Adversity bonus rewards for each floor can be obtained only by clearing the Floor on which the Adversities were selected. Also, any other reward will be based on Floor 5 Clear rewards."
+      "content": "Select Adversities to gain bonus Starlight and Mirror of Sisyphe Pass Projection rate based on your Adversity Score. However, please note that Adversity bonus rewards for each floor can be obtained only by clearing the Floor on which the Adversities were selected. Also, any other reward will be based on Floor 5 Clear rewards."
     },
     {
       "id": "TutoMD08_P33_D4",
-      "content": "Selecting more Adversities will increase the difficulty. However, it will reward more Starlight and future Mirror of Sisyphe Pass Projection rate."
+      "content": "Selecting more Adversities will increase the difficulty. However, it will reward more Starlight and Mirror of Sisyphe Pass Projection rate."
     },
     {
       "id": "TutoMD08_P20_T1",
@@ -2251,6 +2251,54 @@
     {
       "id": "TutoMD08_P24_D2",
       "content": "Only one Weekly Bonus can be consumed when clearing a Mirror Dungeon with a Rental Team."
+    },
+    {
+      "id": "TutoMD08_P28_T1",
+      "content": "Mirror Projection / Achievements"
+    },
+    {
+      "id": "TutoMD08_P28_D1",
+      "content": "Completing an Achievement or clearing a Mirror Dungeon raises your Projection Rate."
+    },
+    {
+      "id": "TutoMD08_P28_D2",
+      "content": "You can obtain various rewards by meeting Projection rate milestones."
+    },
+    {
+      "id": "TutoMD08_P29_T1",
+      "content": "Achievements"
+    },
+    {
+      "id": "TutoMD08_P29_D1",
+      "content": "Raise your Projection rate by completing various Achievements."
+    },
+    {
+      "id": "TutoMD08_P29_D2",
+      "content": "※ Achievements that require the player to 'clear' the Mirror Dungeon count only when the Enkephalin Modules have been consumed at the reward claim window. Please note this information before attempting to complete them."
+    },
+    {
+      "id": "TutoMD08_P30_T1",
+      "content": "Projection Rewards"
+    },
+    {
+      "id": "TutoMD08_P30_D1",
+      "content": "You can obtain various rewards by meeting Projection rate milestones."
+    },
+    {
+      "id": "TutoMD08_P31_T1",
+      "content": "Weekly Projection"
+    },
+    {
+      "id": "TutoMD08_P31_D1",
+      "content": "You can earn \"Projection\" rate by clearing the Mirror Dungeon and claiming its rewards. Obtainable Projection rate changes based on your progress and choices made during your Mirror Dungeon runs."
+    },
+    {
+      "id": "TutoMD08_P31_D2",
+      "content": "Increasing your Projection rate raises your Mirror of Sisyphe Pass Projection Level. Various rewards await at each level milestone."
+    },
+    {
+      "id": "TutoMD08_P31_D3",
+      "content": "There is a weekly cap to how much experience points can be earned. The weekly cap resets every Thursday 6AM (KST)."
     }
   ]
 }

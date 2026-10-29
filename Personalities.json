@@ -1345,6 +1345,20 @@
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 16th Identity"
+    },
+    {
+      "id": 10717,
+      "title": "Haute Couture::\nLe Rouge\nKing of\nNeedleworks",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff's 17th Identity"
+    },
+    {
+      "id": 10617,
+      "title": "Haute Couture::\nLe Noir\n3F Public\nAddress Room",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 17th Identity"
     }
   ]
 }

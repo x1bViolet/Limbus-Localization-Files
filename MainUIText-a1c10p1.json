@@ -55,6 +55,10 @@
     {
       "id": "settings_battle_effect_gate",
       "content": "Hide Identity/E.G.O props in plot-critical battles"
+    },
+    {
+      "id": "exp_dungeon_10_open_condition",
+      "content": "Clear 9.5-26 and 10-4"
     }
   ]
 }

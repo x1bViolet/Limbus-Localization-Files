@@ -29,15 +29,11 @@
     {
       "id": 9807,
       "name": "Sword Sharpened with Tears",
-      "desc": "When an ally hits with a Skill, if target has -20 or less SP, deal Gloom damage equal to [Sinking] on target (once per Skill)\n\n- If it was a Pierce Skill, deal ([Sinking] Count on target / 2) bonus fixed damage (once per Skill)",
+      "desc": "When an ally hits with a Skill, if target has -20 or less SP, deal Gloom damage equal to [Sinking] on target (once per Skill)\n\n- If it was a Pierce Skill, deal ([Sinking] Count on target / 2) bonus fixed damage",
       "simpleDesc": [
         {
           "abilityID": 9807,
-          "simpleDesc": "Bonus Gloom damage"
-        },
-        {
-          "abilityID": 98071,
-          "simpleDesc": "Bonus fixed damage"
+          "simpleDesc": "Bonus damage"
         }
       ]
     },

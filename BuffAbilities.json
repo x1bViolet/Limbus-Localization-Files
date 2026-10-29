@@ -520,7 +520,11 @@
     },
     {
       "id": "RougeFamily10816",
-      "desc": "Le Rouge Ishmael\n- If Ishmael is in \"Full Makeover\" state, Sinclair's max HP +10%; Sinclair heals 5% max HP On Base Attack Hit (rounded up, 5 times per turn)"
+      "desc": "Haute Couture::Boutique du Rouge Ishmael\n- If Ishmael is in \"Full Makeover\" state, Sinclair's max HP +10%; Sinclair heals 5% max HP On Base Attack Hit (rounded up, 5 times per turn)"
+    },
+    {
+      "id": "RougeFamily10717",
+      "desc": "Haute Couture::Le Rouge King of Needleworks Heathcliff\n- On Hit using the \"La Demande\" Skill's Coins, gain +1 Pulsation Count and heal 5% HP"
     }
   ]
 }
