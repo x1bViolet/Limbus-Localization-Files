@@ -3648,6 +3648,346 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "귀를 기울여주세요",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "귀를 기울여주세요",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "귀를 기울여주세요",
+          "desc": "<style=\"highlight\">자신의 [ChargeNoirAlly] 위력 2당 피해량 +5% (최대 10%)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 코인 위력 +1 (최대 2)\n<style=\"highlight\">[EndSkillAll] 자신의 [ChargeNoirAlly] 횟수가 10 미만이면, 자신의 [ChargeNoirAlly] 횟수 3 증가</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "반복 재생 반복",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [TimeToListenHonglu]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WarinessHonglu] 1 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 정신력 피해 3"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 다음 턴에 [AmberResistDown] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "반복 재생 반복",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [TimeToListenHonglu]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WarinessHonglu] 1 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 정신력 피해 3"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 다음 턴에 [AmberResistDown] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "반복 재생 반복",
+          "desc": "<style=\"highlight\">자신의 [ChargeNoirAlly] 위력 2당 피해량 +10% (최대 20%)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [TimeToListenHonglu]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WarinessHonglu] 1 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 정신력 피해 3"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] <style=\"highlight\">이번 턴과</style> 다음 턴에 [AmberResistDown] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "끔찍한 반복 재생",
+          "desc": "자신의 [ChargeNoirAlly] 위력 2당 피해량 +10% (최대 30%)\n[WhenUse] (자신의 [ChargeNoirAlly] 위력 x 2)만큼 [NoirBindArmorAlly] 얻음 (스킬당 최대 10)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 5 소모하여, 코인 위력 +1 (최대 3)\n[EndSkill] 자신에게 [TimeToListenHonglu]이 없으면, [ReadyToListenHonglu] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion], 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [TimeToListenHonglu]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WarinessHonglu] 1 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 정신력 피해 5"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 20%만큼 나태 피해"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "끔찍한 반복 재생",
+          "desc": "자신의 [ChargeNoirAlly] 위력 2당 피해량 +10% (최대 30%)\n[WhenUse] (자신의 [ChargeNoirAlly] 위력 x <style=\"highlight\">3</style>)만큼 [NoirBindArmorAlly] 얻음 (스킬당 최대 <style=\"highlight\">15</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 5 소모하여, 코인 위력 +1 (최대 3)\n[EndSkill] 자신에게 [TimeToListenHonglu]이 없으면, [ReadyToListenHonglu] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion], 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신에게 [TimeToListenHonglu]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 2 이상이면, [VibrationExplosion], 대상의 [Vibration] 횟수 1 감소</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WarinessHonglu] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 정신력 피해 5<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 <style=\"highlight\">30%</style>만큼 나태 피해"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "안내방송",
+          "desc": "[DuelCounter]\n[StartBattle] 자신에게 [SupportProtect]가 없으면, [SupportProtect] 1 얻음\n[WhenUse] 자신의 [ChargeNoirAlly] 위력만큼 [NoirBindArmorAlly] 얻음 (스킬당 최대 5)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "안내방송",
+          "desc": "[DuelCounter]\n<style=\"highlight\">자신의 [ChargeNoirAlly] 위력 2당 피해량 +25% (최대 75%)</style>\n[StartBattle] 자신에게 [SupportProtect]가 없으면, [SupportProtect] 1 얻음\n<style=\"highlight\">[BeforeUse] 자신에게 [TimeToListenHonglu]이 있으면, ‘끔찍한 반복 재생’으로 발동됨 (전투당 1회)\n[WhenUse] 자신의 [ChargeNoirAlly] 위력 3당 코인 위력 +1 (최대 2)</style>\n[WhenUse] <style=\"highlight\">(자신의 [ChargeNoirAlly] 위력 x 3)</style>만큼 [NoirBindArmorAlly] 얻음 (스킬당 최대 <style=\"highlight\">15</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "경고방송",
+          "desc": "[CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 6 소모하여 다음 턴에 [SupportProtect] 1 얻음 (턴당 1회)\n[WhenUse] 자신에게 [TimeToListenHonglu]이 없으면, [ReadyToListenHonglu] 1 얻음 (턴당 1회)\n[WinDuel] 자신의 [ChargeNoirAlly] 횟수 2 증가\n[WinDuel] [VibrationExplosion], 대상의 [Vibration] 횟수 1 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "경고방송",
+          "desc": "[CanDuelGuard]\n[SupportProtect] 전용 스킬\n<style=\"highlight\">자신의 [ChargeNoirAlly] 위력 2당 최종 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 6 소모하여 다음 턴에 [SupportProtect] 1 얻음 (턴당 1회)\n[WhenUse] 자신에게 [TimeToListenHonglu]이 없으면, [ReadyToListenHonglu] 1 얻음 (턴당 1회)\n[WinDuel] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가\n[WinDuel] [VibrationExplosion], 대상의 [Vibration] 횟수 1 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

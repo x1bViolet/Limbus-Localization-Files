@@ -1423,6 +1423,22 @@
     {
       "id": "11016_getCondition_gacksung",
       "content": "오트쿠튀르::르루주 붉은 신 싱클레어 동기화 3단계 달성"
+    },
+    {
+      "id": "10717_getCondition_normal",
+      "content": "오트쿠튀르::르루주 바느질의 왕 히스클리프 획득 시"
+    },
+    {
+      "id": "10717_getCondition_gacksung",
+      "content": "오트쿠튀르::르루주 바느질의 왕 히스클리프 동기화 3단계 달성"
+    },
+    {
+      "id": "10617_getCondition_normal",
+      "content": "오트쿠튀르::르누아르 3F 방송실 홍루 획득 시"
+    },
+    {
+      "id": "10617_getCondition_gacksung",
+      "content": "오트쿠튀르::르누아르 3F 방송실 홍루 동기화 3단계 달성"
     }
   ]
 }

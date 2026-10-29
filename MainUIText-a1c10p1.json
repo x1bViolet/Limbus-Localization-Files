@@ -55,6 +55,10 @@
     {
       "id": "settings_battle_effect_gate",
       "content": "중요 전투 진행 시 인격/E.G.O 연출용 오브젝트 숨김"
+    },
+    {
+      "id": "exp_dungeon_10_open_condition",
+      "content": "9.5-26 및 10-4 클리어"
     }
   ]
 }

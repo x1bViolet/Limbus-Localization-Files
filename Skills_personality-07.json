@@ -3142,6 +3142,433 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "경사가 어떻고 위사가 저쨌니",
+          "desc": "[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 5 미만이면, 최대 체력의 2 x (5 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 5로 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "경사가 어떻고 위사가 저쨌니",
+          "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 5 미만이면, 최대 체력의 2 x (5 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 5로 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치만큼 [NiddlePinAlly] 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "경사가 어떻고 위사가 저쨌니",
+          "desc": "자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 5 미만이면, 최대 체력의 2 x (5 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 5로 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치만큼 [NiddlePinAlly] 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "땀수! 땀수! 땀수!",
+          "desc": "[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 2 x (10- 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 7 소모하여 최종 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "땀수! 땀수! 땀수!",
+          "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 2 x (10- 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 7 소모하여 최종 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치만큼 [NiddlePinAlly] 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "땀수! 땀수! 땀수!",
+          "desc": "자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 2 x (10- 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 7 소모하여 최종 위력 +2\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치만큼 [NiddlePinAlly] 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [NeedlekinAlly] 수치 1당 이 코인 최종 피해량의 1%만큼 관통 피해 (최소 1)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "피크스티치 일부러 눈에 띄게 박았냐고?! 그렇게 쳐박아주마!",
+          "desc": "[WhenUse] 자신의 [NiddlePinGather] 15당 공격 가중치 +1 (최대 2)\n[WhenUse] 이 스킬 가중치보다 낮은 대상 1당, 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 최대 20까지 소모\n- 소모값 7당 코인 위력 +1 (최대 2)\n- 소모값 1당 이 스킬 피해량 +2%\n[EndSkill] ([NiddlePinGather]로 증가한 공격 가중치 x 15)만큼 자신의 [NiddlePinGather] 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 각 대상의 [NiddlePinAlly]이 5 이상이면, 대상의 [NiddlePinAlly]을 5 소모하여 다음 턴에 해당 대상에게 [NiddlePinnedAlly] 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "피크스티치 일부러 눈에 띄게 박았냐고?! 그렇게 쳐박아주마!",
+          "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [NiddlePinGather] 15당 공격 가중치 +1 (최대 2)\n[WhenUse] 이 스킬 가중치보다 낮은 대상 1당, 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 최대 20까지 소모\n- 소모값 7당 코인 위력 +1 (최대 2)\n- 소모값 1당 이 스킬 피해량 +2%\n[EndSkill] ([NiddlePinGather]로 증가한 공격 가중치 x 15)만큼 자신의 [NiddlePinGather] 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가 (스킬당 1회)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 각 대상의 [NiddlePinAlly]이 5 이상이면, 대상의 [NiddlePinAlly]을 5 소모하여 다음 턴에 해당 대상에게 [NiddlePinnedAlly] 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "으드득…",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 최대 체력의 20%를 소모하여, 다음 턴에 [Enhancement] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "으드득…",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 최대 체력의 20%를 소모하여, 다음 턴에 <style=\"highlight\">[Enhancement] 2, [ChargeRougeAlly] 횟수 5</style> 얻음 (턴당 1회)\n<style=\"highlight\">[WhenUse] 자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071705,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "옆선 바깥에 박음선 두 줄 보이면 더블니들. 탈락!",
+          "desc": "[WideAreaRampage]\n이 스킬에서 적중시, 자신의 최대 체력의 8% 회복\n[WhenUse] 자신의 [NeedlekinAlly]를 모두 소모하여, 다음 턴에 자신과 자신을 제외한 무작위 아군 2명 에게 [PenetrateDamageUp] 1 부여\n- 르루주 소속에게 우선으로 적용됨 (편성 순)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NiddlePinAlly] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

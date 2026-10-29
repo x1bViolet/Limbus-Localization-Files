@@ -2147,6 +2147,22 @@
     {
       "id": "introduce_sentence_269",
       "content": "우리는, 나는, {0}의 모든 것을 먹어치울 거다. 더 이상 그 누구도 굶주리지 않도록."
+    },
+    {
+      "id": "introduce_word_270",
+      "content": "땀수"
+    },
+    {
+      "id": "introduce_sentence_270",
+      "content": "{0}… {0}… {0}, {0}, {0}, {0}, {0}, {0}, {0}!"
+    },
+    {
+      "id": "introduce_word_271",
+      "content": "경청"
+    },
+    {
+      "id": "introduce_sentence_271",
+      "content": "{0}하셔야죠?"
     }
   ]
 }
