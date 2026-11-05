@@ -117,6 +117,72 @@
           "simpleDesc": "메인 타겟에게 참격 피해[TabExplain]"
         }
       ]
+    },
+    {
+      "id": 9301,
+      "name": "폭풍이 치는 언덕",
+      "desc": "턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태가 해제되고, 다음 턴 시작 시 모든 적에게 [Sinking] 위력 4, [Sinking] 횟수 4 부여 (전투당 1회 발동, 집중 전투에서는 부위로 판정)\n- 편성된 인격 중 워더링하이츠 소속과 에드가 가문 소속 인격의 합 2명당 전투당 발동 횟수가 1씩 증가 (최대 전투당 4회까지 발동 가능, 대기인원 포함)\n\n적 처치 시 [Sinking] 횟수가 가장 낮은 적 1명의 [Sinking] 횟수 2 증가 (집중 전투에서는 부위로 판정)\n\n정신력을 보유한 적에게 공격 적중시, 대상의 정신력이 -45이면, 대상의 [Sinking] 위력만큼 우울 피해를 입힘\n\n집중 전투에서 [Sinking] 위력과 [Sinking] 횟수의 합이 10 이상인 적에게 공격 적중시, 대상의 ([Sinking] 위력/2) 만큼 우울 피해를 입힘 (스킬당 1회 발동)\n\n적에게 공격 적중한 스킬이 [Sinking](횟수, 특수 [Sinking] 포함)을 부여하는 스킬일 경우, ([Sinking] 위력/2) 대신 ([Sinking] 위력)만큼 우울 피해를 입힘\n(턴에서 처음으로 공격 적중한 [Sinking] 부여 스킬에만 적용)\n\n[<noparse>와일드헌트</noparse> 히스클리프 전용 효과]\n턴 시작시 자신에게 [NightPathfinding]이 없으면, [NightPathfinding]을 1 얻음\n- 자신의 [Coffin]이 5/10이면, 대신 [NightPathfinding]을 2/3 얻음\n- 워더링하이츠, 에드가 가문 소속 인격에게 [SoundOfStorm] 1 부여 (전투 중 인격당 3회)\n\n[Coffin]을 획득할 때 2배로 얻음\n- 워더링하이츠, 에드가 가문 소속 인격이 적 처치 시에도 [Coffin] 2 얻음\n\n‘비탄하고, 애탄하며, 파탄하라’의 사용시 효과로 감소하는 정신력 수치 15 증가\n- 해당 스킬 및 기프트의 효과로 정신력이 -40 미만으로 내려가지 않음\n\n‘비탄하고, 애탄하며, 파탄하라’의 마지막 코인 적중시 적의 [Sinking]이 20 이상이면, 해당 코인 최종 피해량의 100%만큼 우울 피해",
+      "simpleDesc": [
+        {
+          "abilityID": 9432,
+          "simpleDesc": "다음 턴에 모든 적에게 [Sinking] 위력, 횟수 4 부여"
+        },
+        {
+          "abilityID": 94321,
+          "simpleDesc": "[Sinking] 횟수가 가장 낮은 적 [Sinking] 횟수 2 증가"
+        },
+        {
+          "abilityID": 9436,
+          "simpleDesc": "대상의 [Sinking]에 비례해 우울 피해"
+        },
+        {
+          "abilityID": 94361,
+          "simpleDesc": "대상의 [Sinking]에 비례해 우울 피해"
+        },
+        {
+          "abilityID": 93011,
+          "simpleDesc": "[NightPathfinding] 얻음, 특정 소속 인격에게 [SoundOfStorm] 부여"
+        },
+        {
+          "abilityID": 93012,
+          "simpleDesc": "[Coffin]을 획득할 때 2배로 얻음"
+        },
+        {
+          "abilityID": 93013,
+          "simpleDesc": "특정 소속 인격이 적 처치 시 [Coffin] 얻음"
+        },
+        {
+          "abilityID": 93014,
+          "simpleDesc": "‘비탄하고, 애탄하며, 파탄하라’ 사용시 감소하는 정신력 증가"
+        },
+        {
+          "abilityID": 93015,
+          "simpleDesc": "‘비탄하고, 애탄하며, 파탄하라’ 마지막 코인 적중시 우울 피해"
+        }
+      ]
+    },
+    {
+      "id": 9302,
+      "name": "서리 온도",
+      "desc": "턴 시작시 정신력이 40 이상이거나 -40 이하이면, [GainSinStockAdder] 1 얻음\n\n[빼기 코인 스킬을 2개 이상 보유한 인격 전용 효과]\n턴 시작시 정신력 15 감소 (해당 효과로 정신력이 -40 미만으로 내려가지 않음)\n\n이번 전투에서 정신력이 -45가 되는 피해를 받았을 때, 해당 턴 동안 정신력이 -44로 유지됨 (전투당 1회)\n(※ 정신력 피해에만 적용되며, 정신력이 변경되거나 E.G.O 스킬 사용과 같이 정신력을 소모하는 경우에는 적용되지 않음)\n\n스킬 3 또는 E.G.O 스킬 공격 시작 전, 스킬 속성과 동일 속성의 E.G.O 자원을 최대 5개 소모하여, (소모한 값 x 10)%만큼 <noparse>피해량 증가</noparse>",
+      "simpleDesc": [
+        {
+          "abilityID": 9302,
+          "simpleDesc": "정신력 조건 만족 시 [GainSinStockAdder] 얻음"
+        },
+        {
+          "abilityID": 93021,
+          "simpleDesc": "턴 시작시 정신력 감소"
+        },
+        {
+          "abilityID": 93022,
+          "simpleDesc": "정신력이 -45 되는 피해를 받으면 1회 버팀"
+        },
+        {
+          "abilityID": 93023,
+          "simpleDesc": "E.G.O 자원을 소모해 스킬 3, E.G.O 스킬 <noparse>피해량 증가</noparse>"
+        }
+      ]
     }
   ]
 }

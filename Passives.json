@@ -3346,7 +3346,7 @@
     {
       "id": 1031504,
       "name": "신의 뜻과 가치가 우리와 함께하리…",
-      "desc": "자신을 제외한 르누아르 소속 아군 인격이 적에게 공격 시작 전, 자신이 ‘심판!’으로 메인 타겟을 우선으로 일방 공격함 (턴당 1회)\n\n기본 스킬의 마지막 코인 시작 시 (자신의 [ChargeNoirAlly] 위력 + 대상의 [NoirNailDonQuixote]/2)만큼 해당 코인의 최종 위력이 증가함 (최대 5)\n\n자신에게 [OathFieldDonQuixote]이 있으면, 기본 스킬 1/2/3의 합 위력 +1/+2/+3\n\n[NoirNailDonQuixote]이 있는 대상에게 [VibrationExplosion] 발생 시 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 아군 [PersonalityCharge] 1명의 [Charge] 횟수 2 증가 (턴당 2회)",
+      "desc": "자신을 제외한 르누아르 소속 아군 인격이 적에게 공격 스킬, 반격 스킬의 사용 전, 자신이 ‘심판!’으로 메인 타겟을 우선으로 일방 공격함 (턴당 1회)\n\n기본 스킬의 마지막 코인 시작 시 (자신의 [ChargeNoirAlly] 위력 + 대상의 [NoirNailDonQuixote]/2)만큼 해당 코인의 최종 위력이 증가함 (최대 5)\n\n자신에게 [OathFieldDonQuixote]이 있으면, 기본 스킬 1/2/3의 합 위력 +1/+2/+3\n\n[NoirNailDonQuixote]이 있는 대상에게 [VibrationExplosion] 발생 시 자신과 자신을 제외한 [Charge] 횟수가 가장 적은 아군 [PersonalityCharge] 1명의 [Charge] 횟수 2 증가 (턴당 2회)",
       "summary": "르누아르 아군이 공격하기 전 ‘심판!’ 사용\n기본 스킬 마지막 코인 최종 위력 증가[TabExplain]\n[OathFieldDonQuixote]이 있으면 기본 스킬 합 위력 증가[TabExplain]\n[NoirNailDonQuixote]이 있는 대상에게 [VibrationExplosion] 시 [Charge] 횟수 증가",
       "flavor": "모든 것이 불확실한 이 세상에서 우리를 인도하시고 지키시는 것은 오직 단 하나, 검은 신의 말씀이니, 그 말씀이 길이 되고 빛이 되어 우리를 비추시매, 비로소 우리에게 의미가 부여되더라."
     },
