@@ -4425,7 +4425,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに種 3を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに[EgoAwakenDongrangSeed]3を付与"
                 }
               ]
             }
@@ -4444,21 +4444,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]1を付与。対象に[EgoAwakenDongrangSeed]がある場合、[EgoAwakenDongrangSeed]を追加で1付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]1を付与。対象に[EgoAwakenDongrangSeed]がある場合、[EgoAwakenDongrangSeed]を追加で1付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]1を付与。対象に[EgoAwakenDongrangSeed]がある場合、[EgoAwakenDongrangSeed]を追加で1付与"
                 }
               ]
             }
@@ -4477,7 +4477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 3, 過剰回復 を付与。対象の体力を15回復"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]3, 過剰回復 を付与。対象の体力を15回復"
                 }
               ]
             }
@@ -4515,7 +4515,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力を10回復、種 を3付与"
+                  "desc": "[OnSucceedAttack] 体力を10回復、[EgoAwakenDongrangSeed]を3付与"
                 }
               ]
             }
@@ -4534,14 +4534,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 1を付与"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 種 1を付与"
+                  "desc": "[OnSucceedAttack] [EgoAwakenDongrangSeed]1を付与"
                 }
               ]
             }

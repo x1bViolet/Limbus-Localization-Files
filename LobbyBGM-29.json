@@ -196,18 +196,23 @@
       "songWriter": "Studio EIM"
     },
     {
-      "id": 200342,
+      "id": 200343,
       "name": "The Symbolic Battle [Buffet]",
       "songWriter": "Studio EIM"
     },
     {
-      "id": 200343,
+      "id": 200344,
       "name": "Battle Buffet Phase1",
       "songWriter": "Studio EIM"
     },
     {
-      "id": 200344,
+      "id": 200345,
       "name": "Battle Buffet Phase2",
+      "songWriter": "Studio EIM"
+    },
+    {
+      "id": 200342,
+      "name": "The Symbolic Battle [Buffet]",
       "songWriter": "Studio EIM"
     }
   ]

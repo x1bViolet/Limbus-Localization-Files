@@ -1305,7 +1305,8 @@
     {
       "id": "EgoAwakenDongrangSeed",
       "name": "種",
-      "desc": "ターン終了時に数値が5以上なら、2ターンの間養分吸収 状態になる。数値が5未満なら、数値が1減少する"
+      "desc": "ターン終了時に数値が5以上なら、2ターンの間養分吸収 状態になる。数値が5未満なら、数値が1減少する",
+      "excludeAutoLink": true
     },
     {
       "id": "EgoAwakenDongrangTree",
@@ -2590,7 +2591,8 @@
       "name": "始",
       "desc": "- 最大値: 6\n- 自分が戦闘に参加したターン数\n- 退却時に除去される\n- ターン終了時に1増加",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "excludeAutoLink": true
     },
     {
       "id": "CheerUpXichun",
