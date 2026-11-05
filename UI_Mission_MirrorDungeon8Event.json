@@ -10,11 +10,11 @@
 		},
 		{
 			"id": "mission_ui_condition_tags_201004013",
-			"content": "Clear Floor {0} or above in the Mirror Dungeon without using the Refresh function"
+			"content": "Clear Floor {0} or above in the Mirror Dungeon using neither the Refresh nor the Keyword Refresh functions in the shop"
 		},
 		{
 			"id": "mission_ui_condition_tags_201004014",
-			"content": "Clear Mirror Dungeon after triggering the Rebate Token E.G.O Gift effect {0} times in a row during a single run"
+			"content": "Clear Mirror Dungeon after triggering the Rebate Token E.G.O Gift effect for a total of {0} times during a single run"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003041",
