@@ -225,6 +225,11 @@
       "openCondition": "メインストーリー10章 クリア",
       "openConditionNumber": "10-7クリア",
       "relatedChapterText": "Canto X"
+    },
+    {
+      "id": 9129,
+      "openCondition": "第10回ヴァルプルギスの夜クリア",
+      "relatedChapterText": "第10回 ヴァルプルギスの夜"
     }
   ]
 }

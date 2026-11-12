@@ -8824,7 +8824,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)",
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱区間前進量が増加(最大50%)",
                   "summary": "[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
                 }
               ]
@@ -8869,7 +8869,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)",
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱区間前進量が増加(最大50%)",
                   "summary": "[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
                 }
               ]

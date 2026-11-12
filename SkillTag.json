@@ -295,6 +295,10 @@
     {
       "id": "CoinTail",
       "name": "[裏面]"
+    },
+    {
+      "id": "OnBattleEnd",
+      "name": "[戦闘終了時]"
     }
   ]
 }

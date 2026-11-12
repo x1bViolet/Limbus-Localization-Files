@@ -384,7 +384,7 @@
                   "desc": "[OnSucceedAttack] [NailPersonality]4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の[AffectionTeddy]を全て消耗\n- マッチで勝利したなら(消耗した[AffectionTeddy] × 10)だけ混乱ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象の[AffectionTeddy]を全て消耗\n- マッチで勝利したなら、対象の混乱区間を(消耗した[AffectionTeddy] × 10)だけ前進"
                 }
               ]
             }

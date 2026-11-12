@@ -1316,7 +1316,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] ダメージ量 +(5 x 対象の[Laceration]威力 x [Laceration]回数)% (最大200%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] ダメージ量 +(5 × 対象の[Laceration]威力 × [Laceration]回数)% (最大200%)"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Laceration]を全て消耗"

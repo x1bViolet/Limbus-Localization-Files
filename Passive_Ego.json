@@ -637,6 +637,24 @@
       "name": "レモラジー・アンテルヌ(l'hémorragie interne)",
       "desc": "[AlwaysUseEGOPassive]\n自分の[BulletHole]が5なら、「穴」E.G.Oスキル(覚醒、侵蝕)使用時にE.G.O資源を消耗しない\n\nターン開始時、[BulletHole]1を得る\n\n[WhenUseEGOPassive]\nターン開始時、[BlackWingHole]1を得る\n\n自分が[Bullet]を累計3個消耗するか失うたびに精神力を5回復し、次のターンに[ResultEnhancement]1を得る (特殊[Bullet]を含む。1ターンにつき[Bullet]最大9個まで判定)",
       "flavor": "他者の視線が私に突き刺さって穴を開け、あらゆるものを溢れ出させる。溢れ出たものは弾丸となり、再び君へ撃ち出されて穴を穿つ。"
+    },
+    {
+      "id": 2061111,
+      "name": "絶望の中で",
+      "desc": "自分の1.5を超える物理耐性が1.5に調整される (混乱状態を除く)\n自分が混乱状態なら、被ダメージ量 -30% (強制混乱を含む)\n\n自分の[DespairKnightEGOMind]が999なら、「<noparse>涙で研ぎ澄まされた剣</noparse>」E.G.Oスキル(覚醒・侵蝕)使用時にE.G.O資源を消耗しない\n\n自分を含む味方が受けたダメージ分の[DespairKnightEGOMind]を得る (バリアへのダメージを含む)\n味方死亡時、[DespairKnightEGOSword]1を得る (ターンにつき1回)\n[DespairKnightEGOProtect]を保有する味方死亡時、[DespairKnightEGOSword]1を得る (ターンにつき1回)\n\n死亡状態の味方2名につき、自分の攻撃レベル +1、防御レベル -1 (最大5)",
+      "summary": "耐性強化、被ダメージ量減少。"
+    },
+    {
+      "id": 50001,
+      "name": "マジカル・アルカナ",
+      "desc": "魔法少女人格または魔法少女E.G.Oの出撃人数が一定数以上なら、下記の効果が発動 (人格・E.G.Oの重複適用可能)\n(2) 味方の魔法少女人格または魔法少女E.G.Oのスキルダメージ量 +10%",
+      "summary": "(2) 魔法少女人格・EGOのスキルダメージ量 +10%"
+    },
+    {
+      "id": 50002,
+      "name": "マジカル・アルカナ",
+      "desc": "(3) 全味方のマイナスコインスキルダメージ量 +10%\n「<noparse>涙で研ぎ澄まされた剣</noparse>」E.G.Oスキルでメインターゲットの敵への攻撃終了時、[DespairKnightEGOAlly]1を付与 (ターンにつき1回)",
+      "summary": "(3) 全味方のマイナスコインスキルダメージ量 +10%、「<noparse>涙で研ぎ澄まされた剣</noparse>」の攻撃終了時、[DespairKnightEGOAlly]1を付与"
     }
   ]
 }

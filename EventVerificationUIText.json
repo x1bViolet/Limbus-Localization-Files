@@ -17,6 +17,10 @@
       "content": "認証する"
     },
     {
+      "id": "event_verification_confirm_desc",
+      "content": "会場スタッフによる認証が行われていない場合、コンサートのリストバンドの着用および入場が制限されます。本当に続行しますか？"
+    },
+    {
       "id": "event_verification_retry_btn",
       "content": "再確認"
     },
@@ -67,10 +71,6 @@
     {
       "id": "event_verification_unavailable",
       "content": "現在、受付中の認証はありません。"
-    },
-    {
-      "id": "event_verification_confirm_desc",
-      "content": "会場スタッフによる認証が行われていない場合、コンサートのリストバンドの着用および入場が制限されます。本当に続行しますか？"
     }
   ]
 }
