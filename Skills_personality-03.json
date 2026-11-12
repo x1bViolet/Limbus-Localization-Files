@@ -3986,7 +3986,7 @@
                   "summary": "[OnSucceedAttack] [VibrationCollapse]로 [Switch_Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkGreen] x 5)%만큼 관통 피해 (최대 40%)",
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkGreen] x 7)%만큼 관통 피해 (최대 56%)",
                   "summary": "[OnSucceedAttack] 대상의 [WedgeMarkGreen]에 비례하여 관통 피해"
                 },
                 {
@@ -4047,7 +4047,7 @@
                   "summary": "[OnSucceedAttack] [VibrationCollapse]로 [Switch_Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkGreen] x 5)%만큼 관통 피해 (최대 40%)",
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkGreen] x 7)%만큼 관통 피해 (최대 56%)",
                   "summary": "[OnSucceedAttack] 대상의 [WedgeMarkGreen]에 비례하여 관통 피해"
                 },
                 {

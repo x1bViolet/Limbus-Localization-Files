@@ -3405,6 +3405,9 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
                 },
                 {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 100%만큼 관통 피해"
+                },
+                {
                   "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +30%\n- [OnSucceedAttack] [Vibration] 횟수 2 증가"
                 }
               ]
@@ -3438,6 +3441,9 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 100%만큼 관통 피해"
                 },
                 {
                   "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +30%\n- [OnSucceedAttack] [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
@@ -3520,7 +3526,7 @@
         {
           "level": 3,
           "name": "...전원 격돌 준비.",
-          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
+          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +60% (집중 전투인 경우, 부위로 판정)\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
           "coinlist": [
             {
               "coindescs": [
@@ -3531,6 +3537,9 @@
                   "desc": "[OnSucceedAttack] [VibrationCollapse]로 [FusionVibration]"
                 },
                 {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 15%만큼 관통 피해"
+                },
+                {
                   "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 해결사 파우스트\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 3 부여\n- [OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
                 }
               ]
@@ -3539,6 +3548,9 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 15%만큼 관통 피해"
                 },
                 {
                   "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 돈키호테\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [Vibration] 2 부여"
@@ -3557,6 +3569,9 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
                 },
                 {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 15%만큼 관통 피해"
+                },
+                {
                   "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 2 부여\n- [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [OnSucceedAttack] 대상의 [Combustion] 발동. 대상의 [Combustion] 횟수 1 감소"
                 }
               ]
@@ -3571,12 +3586,15 @@
         {
           "level": 3,
           "name": "새벽 뒤 꿰뚫어 오는 쐐기",
-          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[WinDuel] [VibrationCollapse]로 [FusionVibration]\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
+          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +60% (집중 전투인 경우, 부위로 판정)\n[WinDuel] [VibrationCollapse]로 [FusionVibration]\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 20%만큼 관통 피해"
                 },
                 {
                   "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 해결사 파우스트\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 3 부여\n- [OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
@@ -3590,6 +3608,9 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 20%만큼 관통 피해"
                 },
                 {
                   "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 돈키호테\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [Vibration] 2 부여"
@@ -3609,6 +3630,9 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 20%만큼 관통 피해"
                 }
               ]
             }
