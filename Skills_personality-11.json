@@ -3405,6 +3405,9 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
                 },
                 {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の100%分の貫通ダメージ"
+                },
+                {
                   "desc": "[ComboSkill] : 夜明事務所[TabExplain]代表グレゴール\n- ダメージ量 +30%\n- [OnSucceedAttack] [Vibration]回数が2増加"
                 }
               ]
@@ -3438,6 +3441,9 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の100%分の貫通ダメージ"
                 },
                 {
                   "desc": "[ComboSkill] : 夜明事務所[TabExplain]代表グレゴール\n- ダメージ量 +30%\n- [OnSucceedAttack] [Vibration]回数が2増加<style=\"highlight\"></style>"
@@ -3520,7 +3526,7 @@
         {
           "level": 3,
           "name": "…総員、激突用意。",
-          "desc": "[WhenUse] 自分の[Breath]威力8につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Vibration]威力8につき、最終威力 +1 (最大2)\n[WhenUse]\n- 自分の[Breath]回数が3増加\n- 自分以外の行動可能な味方の楔事務所[TabExplain]所属人格数分、攻撃加重値が増加 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[EndSkill]\n- 自分の[ComboWedgeDawn]を全て消耗",
+          "desc": "[WhenUse] 自分の[Breath]威力8につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Vibration]威力8につき、最終威力 +1 (最大2)\n[WhenUse]\n- 自分の[Breath]回数が3増加\n- 自分以外の行動可能な味方の楔事務所[TabExplain]所属人格数分、攻撃加重値が増加 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +60% (集中戦闘の場合は部位で判定)\n[EndSkill]\n- 自分の[ComboWedgeDawn]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -3531,6 +3537,9 @@
                   "desc": "[OnSucceedAttack] [VibrationCollapse]へ[FusionVibration]"
                 },
                 {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の15%分の貫通ダメージ"
+                },
+                {
                   "desc": "[ComboSkill] : 夜明事務所[TabExplain]フィクサーファウスト\n- ダメージ量 +20%\n- [OnSucceedAttack] [Combustion]3を付与\n- [OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]"
                 }
               ]
@@ -3539,6 +3548,9 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の15%分の貫通ダメージ"
                 },
                 {
                   "desc": "[ComboSkill] : 楔事務所[TabExplain]フィクサードンキホーテ\n- クリティカルダメージ量 +20%\n- [OnSucceedAttack] [Vibration]2を付与"
@@ -3557,6 +3569,9 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
                 },
                 {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の15%分の貫通ダメージ"
+                },
+                {
                   "desc": "[ComboSkill] : 夜明事務所[TabExplain]代表グレゴール\n- ダメージ量 +20%\n- [OnSucceedAttack] [Combustion]2を付与\n- [OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [OnSucceedAttack] 対象の[Combustion]が発動。対象の[Combustion]回数が1減少"
                 }
               ]
@@ -3571,12 +3586,15 @@
         {
           "level": 3,
           "name": "夜明けの後に貫き来る楔",
-          "desc": "[WhenUse] 自分の[Breath]威力8につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Vibration]威力8につき、最終威力 +1 (最大2)\n[WhenUse]\n- 自分の[Breath]回数が3増加\n- 自分以外の行動可能な味方の楔事務所[TabExplain]所属人格数分、攻撃加重値が増加 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +30% (集中戦闘の場合は部位で判定)\n[WinDuel] [VibrationCollapse]で[FusionVibration]\n[EndSkill]\n- 自分の[ComboWedgeDawn]を全て消耗",
+          "desc": "[WhenUse] 自分の[Breath]威力8につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Vibration]威力8につき、最終威力 +1 (最大2)\n[WhenUse]\n- 自分の[Breath]回数が3増加\n- 自分以外の行動可能な味方の楔事務所[TabExplain]所属人格数分、攻撃加重値が増加 (最大2)\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +60% (集中戦闘の場合は部位で判定)\n[WinDuel] [VibrationCollapse]で[FusionVibration]\n[EndSkill]\n- 自分の[ComboWedgeDawn]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の20%分の貫通ダメージ"
                 },
                 {
                   "desc": "[ComboSkill] : 夜明事務所[TabExplain]フィクサーファウスト\n- ダメージ量 +20%\n- [OnSucceedAttack] [Combustion]3を付与\n- [OnSucceedAttack] [VibrationIgnition]で[Switch_Vibration]"
@@ -3590,6 +3608,9 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の20%分の貫通ダメージ"
                 },
                 {
                   "desc": "[ComboSkill] : 楔事務所[TabExplain]フィクサードンキホーテ\n- クリティカルダメージ量 +20%\n- [OnSucceedAttack] [Vibration]2を付与"
@@ -3609,6 +3630,9 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の20%分の貫通ダメージ"
                 }
               ]
             }

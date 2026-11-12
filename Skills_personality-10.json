@@ -3507,7 +3507,7 @@
                   "summary": "[ReUseOnSucceedAttack] [VibrationCollapse]へ[Switch_Vibration]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] このコインの最終ダメージ量の(対象の[WedgeMarkYellow] × 4)%分の貫通ダメージ (最大32%)",
+                  "desc": "[ReUseOnSucceedAttack] このコインの最終ダメージ量の(対象の[WedgeMarkYellow] × 6)%分の貫通ダメージ (最大48%)",
                   "summary": "[ReUseOnSucceedAttack] 対象の[WedgeMarkYellow]に比例して貫通ダメージ"
                 },
                 {
@@ -3563,7 +3563,7 @@
                   "summary": "[ReUseOnSucceedAttack] [VibrationCollapse]へ[Switch_Vibration]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] このコインの最終ダメージ量の(対象の[WedgeMarkYellow] × 4)%分の貫通ダメージ (最大32%)",
+                  "desc": "[ReUseOnSucceedAttack] このコインの最終ダメージ量の(対象の[WedgeMarkYellow] × 6)%分の貫通ダメージ (最大48%)",
                   "summary": "[ReUseOnSucceedAttack] 対象の[WedgeMarkYellow]に比例して貫通ダメージ"
                 },
                 {
