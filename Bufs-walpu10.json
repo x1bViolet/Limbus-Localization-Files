@@ -142,25 +142,25 @@
     {
       "id": "EmotionLevelZero",
       "name": "Emotion Level 0",
-      "desc": "- Max Stack: 30\n- Does not increase beyond 9 Stacks until all allies are at 9 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 9 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage",
+      "desc": "- Max Stack: 30\n- Take -75% damage from Burn effects (rounded down)\n- Does not increase beyond 9 Stacks until all allies are at 9 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 9 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage",
       "summary": ""
     },
     {
       "id": "EmotionLevelOne",
       "name": "Emotion Level 1",
-      "desc": "- Max Stack: 30\n- Final Power +1\n- Does not increase beyond 19 Stacks until all allies are at 19 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 19 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)",
+      "desc": "- Max Stack: 30\n- Final Power +1\n- Take -75% damage from Burn effects (rounded down)\n- Does not increase beyond 19 Stacks until all allies are at 19 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 19 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)",
       "summary": ""
     },
     {
       "id": "EmotionLevelTwo",
       "name": "Emotion Level 2",
-      "desc": "- Max Stack: 30\n- Final Power +2\n- Does not increase beyond 29 Stacks until all allies are at 29 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 29 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)\n- Nostalgic Embrace of the Old Days: On Clash Win, 20% chance to trigger Tremor Burst on target; chance increases with every Clash against the same target (2% for every Clash, max 50%)",
+      "desc": "- Max Stack: 30\n- Final Power +2\n- Take -75% damage from Burn effects (rounded down)\n- Does not increase beyond 29 Stacks until all allies are at 29 Emotion Level Stacks\n- Gain 3 Stacks On Clash Win, On Heads Hit, and On Kill\n- Gain 1 Stack On Clash Lose, On Tails Hit, and on Ally Death\n- Turn End: If all allies are at 29 Emotion Level Stacks, gain 1 more Stack and increase Emotion Level stage\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)\n- Nostalgic Embrace of the Old Days: On Clash Win, 20% chance to trigger Tremor Burst on target; chance increases with every Clash against the same target (2% for every Clash, max 50%)",
       "summary": ""
     },
     {
       "id": "EmotionLevelThree",
       "name": "Emotion Level 3",
-      "desc": "- Max Stack: 30\n- Final Power +3\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)\n- Nostalgic Embrace of the Old Days: On Clash Win, 20% chance to trigger Tremor Burst on target; chance increases with every Clash against the same target (2% for every Clash, max 50%)\n- Gluttony: If this unit's attack target has taken damage this turn, deal 1-3 additional damage On Hit and heal 2-5 HP",
+      "desc": "- Max Stack: 30\n- Final Power +3\n- Take -75% damage from Burn effects (rounded down)\n\n[Patron Librarian Exclusive Effect]\n- Ashes: When hit, inflict 1~3 Burn on the attacker and 40% chance to gain the \"On Hit using Skills, inflict 1 Burn\" effect for the next turn (does not Stack)\n- Nostalgic Embrace of the Old Days: On Clash Win, 20% chance to trigger Tremor Burst on target; chance increases with every Clash against the same target (2% for every Clash, max 50%)\n- Gluttony: If this unit's attack target has taken damage this turn, deal 1-3 additional damage On Hit and heal 2-5 HP",
       "summary": ""
     },
     {

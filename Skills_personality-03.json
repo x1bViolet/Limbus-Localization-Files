@@ -3986,7 +3986,7 @@
                   "summary": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([WedgeMarkGreen] on target x 5)% of this Coin's final damage (max 40%)",
+                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([WedgeMarkGreen] on target x 7)% of this Coin's final damage (max 56%)",
                   "summary": "[OnSucceedAttack] Deal Pierce damage based on [WedgeMarkGreen] on target"
                 },
                 {
@@ -4047,7 +4047,7 @@
                   "summary": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([WedgeMarkGreen] on target x 5)% of this Coin's final damage (max 40%)",
+                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([WedgeMarkGreen] on target x 7)% of this Coin's final damage (max 56%)",
                   "summary": "[OnSucceedAttack] Deal Pierce damage based on [WedgeMarkGreen] on target"
                 },
                 {
