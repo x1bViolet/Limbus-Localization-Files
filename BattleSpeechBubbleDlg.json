@@ -1808,6 +1808,16 @@
       "dlg": "일사절명(一射絶命)."
     },
     {
+      "id": "battle_special_10213_5",
+      "desc": "",
+      "dlg": "…조준 중입니다."
+    },
+    {
+      "id": "battle_special_10213_5_1",
+      "desc": "",
+      "dlg": "적기를 기다리고 있습니다."
+    },
+    {
       "id": "battle_s3_10513_1_4",
       "desc": "",
       "dlg": "행진의 꽃... 이것이 서곡의 피날레다."
@@ -4086,6 +4096,169 @@
       "id": "battle_s3_10617_2_1",
       "desc": "",
       "dlg": "덮어주고 씻겨내리라."
+    },
+    {
+      "id": "battle_special_11116_1",
+      "desc": "",
+      "dlg": "다 보던 얼굴들이군. 작전은… 설명 안 해도 알고 있을 테고."
+    },
+    {
+      "id": "battle_special_11216_4",
+      "desc": "",
+      "dlg": "형제 사무소라는 게 그런 거지. 뭐, 이번에도 잘 부탁하겠네."
+    },
+    {
+      "id": "battle_special_11116_2",
+      "desc": "",
+      "dlg": "이왕이면, 그 전에 끝내는 게 낫지 않겠나?"
+    },
+    {
+      "id": "battle_special_11116_3_1",
+      "desc": "",
+      "dlg": "쐐기 대형 전개!"
+    },
+    {
+      "id": "battle_special_11116_3_2",
+      "desc": "",
+      "dlg": "섬광!"
+    },
+    {
+      "id": "battle_special_11116_4",
+      "desc": "",
+      "dlg": "진입로 확보. 전원 격돌!"
+    },
+    {
+      "id": "battle_special_11116_5",
+      "desc": "",
+      "dlg": "책임 정도는 져야겠지."
+    },
+    {
+      "id": "battle_s3_11017_1",
+      "desc": "",
+      "dlg": "휘몰아친다!"
+    },
+    {
+      "id": "battle_special_11017_1_3",
+      "desc": "",
+      "dlg": "합격(合撃)!"
+    },
+    {
+      "id": "battle_special_11017_2",
+      "desc": "",
+      "dlg": "제가 알아서 한다고요!"
+    },
+    {
+      "id": "battle_special_11017_3_9",
+      "desc": "",
+      "dlg": "꿰뚫고,"
+    },
+    {
+      "id": "battle_special_11017_4",
+      "desc": "",
+      "dlg": "흔들어 휩쓴다!"
+    },
+    {
+      "id": "battle_special_11017_5_9",
+      "desc": "",
+      "dlg": "좋아, 한 번 해보자... 이거지?"
+    },
+    {
+      "id": "battle_special_11017_6",
+      "desc": "",
+      "dlg": "...하나만, 하라고요!"
+    },
+    {
+      "id": "battle_special_11017_7",
+      "desc": "",
+      "dlg": "…신경 안 쓸 거니까요."
+    },
+    {
+      "id": "battle_special_11017_9",
+      "desc": "",
+      "dlg": "길을 열게요!"
+    },
+    {
+      "id": "battle_special_11017_10",
+      "desc": "",
+      "dlg": "측면 돌파!"
+    },
+    {
+      "id": "battle_special_11017_11",
+      "desc": "",
+      "dlg": "훗, 마음에 드네요!"
+    },
+    {
+      "id": "battle_s3_10316_1",
+      "desc": "",
+      "dlg": "휘몰아친다!"
+    },
+    {
+      "id": "battle_special_10316_1",
+      "desc": "",
+      "dlg": "꿰뚫어주겠네!"
+    },
+    {
+      "id": "battle_special_10316_2_3",
+      "desc": "",
+      "dlg": "뒤를 봐주시게!"
+    },
+    {
+      "id": "battle_special_10316_3",
+      "desc": "",
+      "dlg": "또 꿰뚫는다!"
+    },
+    {
+      "id": "battle_special_10316_4_6",
+      "desc": "",
+      "dlg": "꿰뚫어 흔들면!"
+    },
+    {
+      "id": "battle_special_10316_5",
+      "desc": "",
+      "dlg": "본인이 쐐기를 박지!"
+    },
+    {
+      "id": "battle_special_10316_6_4",
+      "desc": "",
+      "dlg": "필살! 필격! 필중!"
+    },
+    {
+      "id": "battle_special_10316_8",
+      "desc": "",
+      "dlg": "...이번에는 주워갈 머리조차 부숴져 버렸는가."
+    },
+    {
+      "id": "battle_special_10316_9",
+      "desc": "",
+      "dlg": "길을 열겠네!"
+    },
+    {
+      "id": "battle_special_10316_10",
+      "desc": "",
+      "dlg": "측면 돌파!"
+    },
+    {
+      "id": "battle_special_10316_11",
+      "desc": "",
+      "dlg": "쐐기, 사출!"
+    },
+    {
+      "id": "battle_special_10216_6_link_1",
+      "dlg": "반응형 사출."
+    },
+    {
+      "id": "battle_special_10216_6_link_2",
+      "dlg": "전부 조각내두죠."
+    },
+    {
+      "id": "85SV-065_1",
+      "desc": "오티스 - 5인 합동기",
+      "dlg": "빠르고 확실하게 꿰뚫어주지."
+    },
+    {
+      "id": "battle_s3_11116",
+      "desc": "",
+      "dlg": "꿰뚫린 채로, 흔들려라."
     }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_59_1",
+      "dlg": "시간을 까닭 없이 흘려 보내지 않는게 좋겠지요. 곧 이곳은 소란스러워지고 괴로워지겠지만, 정해진 결과를 굼뜨게 받아들일 필요는 없을 겁니다."
+    },
+    {
+      "id": "announcer_cheer_59_2",
+      "dlg": "당신이 직원들의 죽음으로 괴로워하는 걸 원치는 않습니다. 그러니 편안한 마음으로 관리를 시작하죠. 이곳에선 되풀이만이 있을 뿐, 누구도 잃지는 않을 테니."
+    },
+    {
+      "id": "announcer_specialcheer_59_1",
+      "dlg": "제법 불리해졌군요. 괜찮습니다. 다음엔 다른 방식으로 해보죠."
+    },
+    {
+      "id": "announcer_specialcheer_59_2",
+      "dlg": "시도해보고자 했던 것을 전부 시도해보시죠. 그리고 새롭게 시작하면 됩니다."
+    },
+    {
+      "id": "announcer_enemy_break_59_1",
+      "dlg": "저것들 역시 멈춰서고, 정지하는군요."
+    },
+    {
+      "id": "announcer_ally_break_59_1",
+      "dlg": "직원의 상태가 온전치 못해 보이는군요."
+    },
+    {
+      "id": "announcer_killenemy_59_1",
+      "dlg": "역시 당신은 뛰어나군요. 방금의 성과를 기록해두겠습니다."
+    },
+    {
+      "id": "announcer_ally_dead_59_1",
+      "dlg": "직원이 사망하는 만큼 새롭게 채워지겠죠. 그저 순환을 반복하는 것일 뿐, 괴로울 필요는 없습니다."
+    },
+    {
+      "id": "announcer_enemy_adv_59_1",
+      "dlg": "그냥 여기서 멈추는 것은 어떻습니까. 우리가 꼭 변화해야 할 필요는 없을 겁니다."
+    },
+    {
+      "id": "announcer_ally_adv_59_1",
+      "dlg": "성공의 수식을 따르는군요. 이 수식만을 무한히 따라갈 수 있다면 좋겠습니다만."
+    },
+    {
+      "id": "announcer_ally_advex_59_1",
+      "dlg": "…그럼에도 나아가겠다고 말하는 것입니까."
+    },
+    {
+      "id": "announcer_danger_59_1",
+      "dlg": "시간의 흐름을 무한히 늘려 놓아도 결국 마지막 페이지에 도달할 수밖에 없는 걸까요.\n마지막 기록을 작성하시겠습니까?"
+    },
+    {
+      "id": "announcer_enemy_specialskill_59_1",
+      "dlg": "기록에 의하면, 저 행동이 곧 죽음을 몰고 올 것입니다. 주의하세요."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_59_1",
+      "dlg": "당신이라면 이성의 눈으로 판단하고, 결론을 도출할 수 있겠죠. 그렇게 하세요. 저는 그 결과를 기록하도록 하죠."
+    },
+    {
+      "id": "announcer_advatk_physical_59_1",
+      "dlg": "기록과 일치하는 행동이군요."
+    },
+    {
+      "id": "announcer_disadvatk_physical_59_1",
+      "dlg": "기록과 다르게 행동하려는 건가요?"
+    },
+    {
+      "id": "announcer_advatk_attr_59_1",
+      "dlg": "이성적인 판단이네요."
+    },
+    {
+      "id": "announcer_disadvatk_attr_59_1",
+      "dlg": "…과한 이성은 자신을 찌르는 칼이 됩니다."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_59_1",
+      "dlg": "격리실 바깥의 세상에서 자유를 만끽하는 걸까요. 한층 날뛰는군요."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_59_1",
+      "dlg": "억지력이 정상적으로 작동하는 군요. 기록과 고과에 반영해야겠어요."
+    },
+    {
+      "id": "announcer_ally_specialbuff_59_1",
+      "dlg": "뛸 듯 기뻐보이는군요. 제가 보낸 입사 제안 편지를 받은 자들이 저런 표정이었을지도."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_59_1",
+      "dlg": "저 직원은 자신의 잃어버린 정신을 찾아 헤메이고 있군요."
+    },
+    {
+      "id": "announcer_enemy_destroy_59_1",
+      "dlg": "깨어져나와 흘러버리는군요."
+    },
+    {
+      "id": "announcer_enemy_destroy_59_2",
+      "dlg": "기어코 변하고 부서져 내리기 시작했네요. 변화를 바라는 당신에게는 잘된 일일지도 모르겠습니다."
+    },
+    {
+      "id": "announcer_round_takebigdmg_59_1",
+      "dlg": "저는 모르겠군요. 얼마나 더 희생을 치르고, 거기서 무엇을 얻으려고 하는 것인지를."
+    },
+    {
+      "id": "announcer_round_takebigdmg_59_2",
+      "dlg": "멈춰야 할 때를 모르겠습니까? 저는 그게 지금이라고 생각합니다. 그저 여기에 멈춰 저와 함께하시죠. 영원히."
+    },
+    {
+      "id": "announcer_round_givebigdmg_59_1",
+      "dlg": "이런 우수한 모습은 익숙하네요. 제 머릿속에 항상 머물러있죠."
+    },
+    {
+      "id": "announcer_round_givebigdmg_59_2",
+      "dlg": "당신이 선택한 직원과 명령이니, 이런 결과는 당연할지도 모르겠습니다. 하지만 그 당연함이 칭찬받지 못할 이유가 되진 않겠죠. 잘 하셨습니다."
+    },
+    {
+      "id": "announcer_multikillenemy_59_1",
+      "dlg": "놀랍네요. 이 직원의 대한 신상은 기록해둬야겠습니다. 추후에 당신이 또 선택하고 싶어할테니까요."
+    },
+    {
+      "id": "announcer_battle_win_59_1",
+      "dlg": "당신의 선택과 희생의 결과를 만끽하시죠. 상실의 시간 속에서 얻어낸 성과는 만족스럽습니까?"
+    },
+    {
+      "id": "announcer_battle_defeat_59_1",
+      "dlg": "망가진 결과를 구태여 붙들어 맬 필요는 없을 것입니다. 자, 다시 해보죠. 저와 함께.\n기억하실지 모르지만, 저는 언제나 당신의 편이었습니다."
+    },
+    {
+      "id": "announcer_equip_59_1",
+      "dlg": "곧 오실 줄 알았습니다. 모든 것이 가라앉은 공간에서, 오롯한 기다림 속에서도 알고 있었죠.\n저를 호크마라 부르시면 됩니다. 일어나는 모든 일의 기록과 통제를 맡고 있지요."
+    }
+  ]
+}

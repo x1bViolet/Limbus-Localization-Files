@@ -557,6 +557,10 @@
       "content": "패시브 스킬 추가"
     },
     {
+      "id": "mainui_synergy_addition",
+      "content": "시너지 획득"
+    },
+    {
       "id": "mainui_ego_awaken_skill_reinforcement",
       "content": "E.G.O 각성 스킬 강화"
     },
@@ -603,6 +607,10 @@
     {
       "id": "mainui_new_passive_skill_acquisition",
       "content": "신규 패시브 스킬 [{0}] 획득"
+    },
+    {
+      "id": "mainui_new_synergy_acquisition",
+      "content": "시너지 [{0}] 획득"
     },
     {
       "id": "mainui_new_battle_passive_acquisition",
@@ -2083,6 +2091,14 @@
     {
       "id": "mainui_exp_dungeon_18_open_day",
       "content": "경험치 채광 10단계 (타격) 스테이지는 금요일, 토요일, 일요일에 개방됩니다."
+    },
+    {
+      "id": "unitinfo_tab_synergy",
+      "content": "시너지"
+    },
+    {
+      "id": "unitinfo_synergy_unsatisfied",
+      "content": "조건 {0}개 불충족"
     }
   ]
 }

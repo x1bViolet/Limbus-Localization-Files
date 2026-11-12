@@ -59,6 +59,54 @@
     {
       "id": "exp_dungeon_10_open_condition",
       "content": "9.5-26 및 10-4 클리어"
+    },
+    {
+      "id": "formation_deck_code_condition_reset",
+      "content": "편성 조건에 맞지 않는 인격은 기본 인격으로 적용되었습니다."
+    },
+    {
+      "id": "character_list_friend_support_companion_impossible",
+      "content": "함께 지정되는 {0}의 지원 인격을 지정할 수 없는 스테이지입니다."
+    },
+    {
+      "id": "gacha_additional_explain_button_label",
+      "content": "동시 획득 인격 안내"
+    },
+    {
+      "id": "gacha_307_additional_explain_title",
+      "content": "동시 획득 인격 안내"
+    },
+    {
+      "id": "gacha_307_additional_explain_desc",
+      "content": "쐐기 사무소 해결사 돈키호테와 쐐기 사무소 해결사 싱클레어는 추출에서 하나의 3성 인격으로 취급되며,\n등장 시 두 인격을 항상 함께 획득합니다.\n\n· 쐐기 사무소 해결사 돈키호테 & 쐐기 사무소 해결사 싱클레어의 등장 확률은 아래와 같습니다.\n- 두 인격이 대표 3성 인격(픽업)인 특정 추출: 대표 3성 인격 1명의 등장 확률과 동일\n- 그 외 두 인격이 등장하는 추출: 대표가 아닌 3성 인격 1명의 등장 확률과 동일\n(자세한 확률은 각 추출의 [확률 상세보기]에서 확인할 수 있습니다.)\n \n· 별빛도 3성 인격 1명분으로 계산되어, 추출에서 첫 획득 시 두 인격을 합쳐 별빛 300개를 얻습니다.\n\n· 두 인격이 대표 3성 인격인 특정 추출에서는 이상[理想] 200개로 두 인격을 함께 교환할 수 있습니다.\n\n· 두 인격을 이미 보유한 상태에서 다시 획득하면,\n등급에 따른 자아 파편 대신 현재 시즌의 돈키호테 자아 파편 25개와 싱클레어 자아 파편 25개를 획득합니다.\n\n· 자판기에 추가된 후에는 돈키호테 자아 파편과 싱클레어 자아 파편을 합쳐 400개로 두 인격을 함께 구입할 수 있습니다. 두 자아 파편을 각각 1개 이상 사용해야 하며, 비율은 자유롭게 정할 수 있습니다.\n\n· 인격 레벨 상승, 동기화, 외형 투영 시 두 인격을 각각 따로 진행해야하며, 인격마다 일반 3성 인격과 같은 재료가 필요합니다. 이때 자아 파편은 해당 수감자의 자아 파편을 사용합니다."
+    },
+    {
+      "id": "formation_ui_panel_start_battle_lor",
+      "content": "접대 시작"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_ashes",
+      "content": "밝은 모든 것들을 남김없이 태워버리기 위해…"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_nostalgic_embrace",
+      "content": "나를 꼬옥 안아주지 않을래? 마음이 편해질 거야."
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_gluttony",
+      "content": "우리가 네 곁을 지키는 이유?\n당연히 보호하기 위해서지!"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have_companion",
+      "content": "선택한 인격을 모두 이미 보유 중입니다. 이상[理想] 200개를 소모하여 각 수감자의 파편을 25개씩 교환하시겠습니까?"
+    },
+    {
+      "id": "notice_of_vending_machine_companion_1",
+      "content": "돈키호테 자아 파편과 싱클레어 자아 파편을 합쳐 400개로 두 인격을 함께 구입할 수 있습니다. 두 자아 파편을 각각 1개 이상 사용해야 하며, 비율은 자유롭게 정할 수 있습니다."
+    },
+    {
+      "id": "notice_of_story_same_content",
+      "content": "{0}와 동일한 내용으로, 보상만 수령되었습니다."
     }
   ]
 }

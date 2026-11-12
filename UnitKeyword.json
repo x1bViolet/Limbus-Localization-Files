@@ -331,6 +331,14 @@
     {
       "id": "UnitKeyword_LE_KHAKI",
       "content": "르카키"
+    },
+    {
+      "id": "UnitKeyword_WEDGE",
+      "content": "쐐기 사무소"
+    },
+    {
+      "id": "UnitKeyword_FIREPUNCH_OFFICE",
+      "content": "불주먹 사무소"
     }
   ]
 }

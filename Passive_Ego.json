@@ -637,6 +637,24 @@
       "name": "레모라지 앵테른(l'hémorragie interne)",
       "desc": "[AlwaysUseEGOPassive]\n자신의 [BulletHole]이 5면, ‘구멍’ E.G.O 스킬(각성, 침식) 사용 시 E.G.O 자원을 소모하지 않음\n\n턴 시작 시 [BulletHole] 1 얻음\n\n[WhenUseEGOPassive]\n턴 시작 시, [BlackWingHole] 1 얻음\n\n자신이 [Bullet]을 누적 3개 소모하거나 잃을 때마다 정신력을 5 회복하고, 다음 턴에 [ResultEnhancement] 1 얻음 (특수 [Bullet] 포함. 턴당 [Bullet] 최대 9개까지 판정)",
       "flavor": "타자의 시선이 나에게 박혀 구멍을 내고 온갖 것을 쏟아내게 한다. 쏟아져 나온 것은 탄환이 되어 다시 네게 쏘아져 구멍을 뚫는다."
+    },
+    {
+      "id": 2061111,
+      "name": "절망속에서",
+      "desc": "자신의 1.5를 초과하는 물리 내성이 1.5로 조정됨 (흐트러짐 상태 제외)\n자신이 흐트러짐 상태면, 받는 피해량 -30% (강제 흐트러짐 포함)\n\n자신의 [DespairKnightEGOMind]가 999면, '눈물로 벼려낸 검' E.G.O 스킬(각성, 침식) 사용 시 E.G.O 자원을 소모하지 않음\n\n자신을 포함한 아군이 받은 피해만큼 [DespairKnightEGOMind] 얻음 (보호막 피해 포함)\n아군 사망시 [DespairKnightEGOSword] 1 얻음 (턴당 1회)\n[DespairKnightEGOProtect]를 보유한 아군 사망 시 [DespairKnightEGOSword] 1 얻음 (턴당 1회)\n\n사망 상태인 아군 2명당 자신의 공격 레벨 +1, 방어 레벨 -1 (최대 5)",
+      "summary": "내성 강화, 받는 피해량이 감소."
+    },
+    {
+      "id": 50001,
+      "name": "매지컬 아르카나",
+      "desc": "마법소녀 인격 또는 마법소녀 E.G.O 출격 인원 수가 일정 수 이상이면 아래 효과 발동 (인격, E.G.O 중복 적용 가능)\n(2) 아군 마법소녀 인격 또는 마법소녀 E.G.O의 스킬 피해량 +10%",
+      "summary": "(2) 마법소녀 인격, EGO의 스킬 피해량 +10%"
+    },
+    {
+      "id": 50002,
+      "name": "매지컬 아르카나",
+      "desc": "(3) 모든 아군의 빼기 코인 스킬 피해량 +10%\n'눈물로 벼려낸 검' E.G.O 스킬로 메인 타겟인 적에게 공격 종료시, [DespairKnightEGOAlly] 1 부여 (턴당 1회)",
+      "summary": "(3) 모든 아군 빼기 코인 스킬 피해량 +10%, '눈물로 벼려낸 검' 공격 종료시, [DespairKnightEGOAlly] 1 부여"
     }
   ]
 }

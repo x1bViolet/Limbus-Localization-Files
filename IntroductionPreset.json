@@ -2163,6 +2163,30 @@
     {
       "id": "introduce_sentence_271",
       "content": "{0}하셔야죠?"
+    },
+    {
+      "id": "introduce_word_272",
+      "content": "쐐기"
+    },
+    {
+      "id": "introduce_sentence_272",
+      "content": "{0} 대형 전개!"
+    },
+    {
+      "id": "introduce_word_273",
+      "content": "보험갱신"
+    },
+    {
+      "id": "introduce_sentence_273",
+      "content": "이번에 {0} 하는 거 까먹지 않았죠?"
+    },
+    {
+      "id": "introduce_word_274",
+      "content": "맹세"
+    },
+    {
+      "id": "introduce_sentence_274",
+      "content": "지키지 못한 {0}(으로/로) 벼려낸 이 검은…"
     }
   ]
 }

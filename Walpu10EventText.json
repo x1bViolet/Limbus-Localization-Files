@@ -1,0 +1,280 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu10_reward_event_desc",
+      "content": "제10회 발푸르기스의 밤 쉬움, 어려움 난이도 전투에서 미션을 클리어하세요.\n\n미션을 클리어하면 다양한 보상을 얻을 수 있습니다."
+    },
+    {
+      "id": "Walpu10_reward_normal_tab",
+      "content": "쉬움 난이도"
+    },
+    {
+      "id": "Walpu10_reward_hard_tab",
+      "content": "어려움 난이도"
+    },
+    {
+      "id": "missionConditionTitle_10159",
+      "content": "1회 전투에서 새벽 사무소 해결사를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10159",
+      "content": "1회 전투에서 ???를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10160",
+      "content": "1회 전투에서 쐐기 사무소 해결사를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10160",
+      "content": "1회 전투에서 ???를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10161",
+      "content": "새벽 사무소 / 쐐기 사무소 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10161",
+      "content": "??? 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10162",
+      "content": "1회 전투에서 불확실한 슬픔의 감정을 최대 5까지 획득하지 않은 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10162",
+      "content": "1회 전투에서 ???을 최대 5까지 획득하지 않은 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10163",
+      "content": "지정 사서 버프가 있는 아군이 1회 전투에서 합을 10회 이상 승리하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10164",
+      "content": "지정 사서 버프가 있는 아군이 1회 전투에서 적을 2명 이상 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10165",
+      "content": "감정 단계 2단계 달성한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10166",
+      "content": "쐐기 사무소 해결사들의 연계 스킬을 5회 이상 발동시키지 않고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10167",
+      "content": "1회 전투에서 공격 스킬 1개(ego 스킬, 반격 스킬 포함)로 적 1개체에게 가한 피해량 300 이상 달성하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10168",
+      "content": "모든 아군이 생존한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10169",
+      "content": "모든 아군이 정신력 -45에 도달하지 않고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_10170",
+      "content": "아군이 5회 이상 흐트러지지 않고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20080",
+      "content": "1회 전투에서 새벽 사무소 해결사를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20080",
+      "content": "1회 전투에서 ???를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20081",
+      "content": "1회 전투에서 쐐기 사무소 해결사를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20081",
+      "content": "1회 전투에서 ???를 모두 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20082",
+      "content": "새벽 사무소 / 쐐기 사무소 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20082",
+      "content": "??? 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20083",
+      "content": "1회 전투에서 불확실한 슬픔의 감정을 최대 5까지 획득하지 않은 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20083",
+      "content": "1회 전투에서 ???을 최대 5까지 획득하지 않은 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20084",
+      "content": "지정 사서 버프가 있는 아군이 1회 전투에서 합을 10회 이상 승리하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20085",
+      "content": "지정 사서 버프가 있는 아군이 1회 전투에서 적을 3명 이상 처치한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20086",
+      "content": "아군이 1회 전투에서 필립의 타오르는 일격 스킬과의 합을 1회 이상 승리하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20086",
+      "content": "아군이 1회 전투에서 ???의 ??? 스킬과의 합을 1회 이상 승리하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20087",
+      "content": "감정 단계 3단계 달성한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20088",
+      "content": "1회 전투에서 공격 스킬 1개(ego 스킬, 반격 스킬 포함)로 적 1개체에게 가한 피해량 300 이상 달성하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20089",
+      "content": "쐐기 사무소 해결사들의 연계 스킬을 3회 이상 발동시키지 않고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20090",
+      "content": "1회 전투에서 1턴 내에 파멜리, 파멜라를 동시에 처치한 채로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20090",
+      "content": "1회 전투에서 1턴 내에 ???, ???를 동시에 처치한 채로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20091",
+      "content": "1회 전투에서 고독한 해결사 효과를 받은 유나를 처치하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20091",
+      "content": "1회 전투에서 ??? 효과를 받은 ???를 처치하고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20092",
+      "content": "모든 아군이 생존한 상태로 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20093",
+      "content": "모든 아군이 정신력 -45에 도달하지 않고 접대 성공"
+    },
+    {
+      "id": "missionConditionTitle_20094",
+      "content": "쉬움, 어려움 난이도의 모든 미션 클리어"
+    },
+    {
+      "id": "walpu_battle_3_wave",
+      "content": "역사의 층"
+    },
+    {
+      "id": "walpu_battle_name_10574",
+      "content": "새벽 사무소 / 쐐기 사무소"
+    },
+    {
+      "id": "walpu_battle_name_10575",
+      "content": "새벽 사무소 / 쐐기 사무소"
+    },
+    {
+      "id": "walpu_battle_name_10576",
+      "content": "새벽 사무소 / 쐐기 사무소"
+    },
+    {
+      "id": "walpu_battle_name_10577",
+      "content": "새벽 사무소 / 쐐기 사무소"
+    },
+    {
+      "id": "walpu_battle_result_win_3",
+      "content": "{0} 접대 완료"
+    },
+    {
+      "id": "walpu_battle_result_lose_3",
+      "content": "{0} 접대 실패"
+    },
+    {
+      "id": "mainui_battleresult_win_lor_stage_type_3",
+      "content": "접대 완료"
+    },
+    {
+      "id": "mainui_battleresult_defeat_lor_stage_type_3",
+      "content": "접대 실패"
+    },
+    {
+      "id": "Walpu10_normal_stage_name",
+      "content": "초대장 보내기"
+    },
+    {
+      "id": "Walpu10_hard_stage_name",
+      "content": "초대장 보내기"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_title",
+      "content": "제10회 발푸르기스밤"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_title_01",
+      "content": "제10회 발푸르기스밤"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_desc_01",
+      "content": "[제10회 발푸르기스밤]은 주요 이야기의 진행도에 관계 없이 개방됩니다. 유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_02_title_01",
+      "content": "이벤트 기간"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_02_desc_01",
+      "content": "제10회 발푸르기스밤 이벤트 기간이 표시됩니다. 이벤트 기간 동안 쉬움 난이도, 어려움 난이도의 전투를 진행하여 미션을 수행하고, 완료한 미션의 보상을 수령할 수 있습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_title_01",
+      "content": "쉬움 난이도 전투"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_desc_01",
+      "content": "문을 눌러 쉬움 난이도 전투에 입장할 수 있습니다. 전투는 입장 시 엔케팔린 모듈을 소모합니다. 쉬움 난이도 전투에서는 인격의 레벨이 65보다 낮은 경우, 65로 상승합니다. 또한 인격의 동기화 단계, E.G.O의 환상해석 단계가 3단계보다 낮은 경우, 3단계로 상승합니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_title_02",
+      "content": "어려움 난이도 전투"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_desc_02",
+      "content": "쉬움 난이도 전투를 클리어하면 어려움 난이도 전투가 개방됩니다. 어려움 난이도 전투는 인격의 레벨, 인격의 동기화 단계, E.G.O의 환상해석 단계가 현재 육성 상태로 반영됩니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_04_title_01",
+      "content": "지정 사서 [역사의 층]"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_04_desc_01",
+      "content": "전투 편성에서 편성 순서 1번 수감자에게 ‘지정 사서 [역사의 층]’ 효과가 부여됩니다. 해당 효과를 받은 수감자는 전투에서 행동 수가 증가하고, 이로운 효과를 얻습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_05_title_01",
+      "content": "미션 목록"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_05_desc_01",
+      "content": "전투 중 수행할 수 있는 미션과 미션의 보상을 확인할 수 있는 [미션 목록] 페이지로 입장할 수 있습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_01",
+      "content": "[미션 목록] 페이지에서 보상을 수령할 수 있는 기간이 표시됩니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_02",
+      "content": "쉬움 난이도 전투와 어려움 난이도 전투의 미션을 각각 확인할 수 있습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_03",
+      "content": "미션을 완료하면 [미션 목록]에서 다양한 보상을 얻을 수 있습니다."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_07_desc_01",
+      "content": "이벤트가 종료된 이후에도 운전석과 상영관 - [그 밖의 이야기]를 통해 ‘제10회 발푸르기스밤’의 전투를 다시 즐기거나 스토리를 감상할 수 있습니다."
+    }
+  ]
+}

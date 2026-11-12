@@ -3187,6 +3187,393 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "격돌",
+          "desc": "[WhenUse] [Breath] 1 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +1\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 마지막 코인 1회 재사용",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 1 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [WedgeMarkYellow] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "격돌",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 2)</style>\n[WhenUse] [Breath] <style=\"highlight\">2</style> 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +<style=\"highlight\">2</style>\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 마지막 코인 1회 재사용",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] <style=\"highlight\">2</style> 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [WedgeMarkYellow] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "격돌",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] [Breath] 2 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +2\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 마지막 코인 1회 재사용",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [WedgeMarkYellow] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "여세를 몰아",
+          "desc": "[WhenUse] [Breath] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 1 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "여세를 몰아",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Breath] <style=\"highlight\">3</style> 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] <style=\"highlight\">2</style> 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">자신의 [BattleFieldKnow] 1당, 피해량 +5% (최대 15%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "여세를 몰아",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 3 얻음<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [BattleFieldKnow] 1당, 피해량 +5% (최대 <style=\"highlight\">20%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "창 휩쓸기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +1\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 피해량 +20%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [BattleFieldKnow] 1당, 피해량 +10% (최대 40%)"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 피해량 +20%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "창 휩쓸기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +<style=\"highlight\">3</style>\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 피해량 +<style=\"highlight\">30%</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [BattleFieldKnow] 1당, 피해량 +10% (최대 40%)"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 피해량 +<style=\"highlight\">30%</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "숨 고르기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력이 6 이상이면, 코인 위력 +1\n[OnSucceedEvade] [Breath] 1 얻음 (턴당 3회)\n[OnBattleEnd] 이번 턴에 스킬 효과로 [BattleFieldKnow]을 얻지 못했으면, [BattleFieldKnow] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "숨 고르기",
+          "desc": "<style=\"highlight\">[StartBattle] 대상의 [WedgeMarkYellow]가 4 이상이면, 대신 ‘빠르고 확실하게 꿰뚫어주마’로 발동됨 (턴당 1회, 이 효과는 일방 공격에도 발동함)</style>\n[WhenUse] 자신의 [Breath] 위력이 6 이상이면, 코인 위력 +1\n[OnSucceedEvade] [Breath] <style=\"highlight\">2</style> 얻음 (턴당 3회)\n[OnBattleEnd] 이번 턴에 스킬 효과로 [BattleFieldKnow]을 얻지 못했으면, [BattleFieldKnow] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "숨 고르기",
+          "desc": "[StartBattle] 대상의 [WedgeMarkYellow]가 4 이상이면, 대신 ‘빠르고 확실하게 꿰뚫어주마’로 발동됨 (턴당 1회, 이 효과는 일방 공격에도 발동함)\n[WhenUse] 자신의 [Breath] 위력이 6 이상이면, 코인 위력 +1\n[OnSucceedEvade] [Breath] 2 얻음 (턴당 3회)\n<style=\"highlight\">[OnSucceedEvade] 다음 턴에 [Agility] 1 얻음 (턴당 1회)</style>\n[OnBattleEnd] 이번 턴에 스킬 효과로 [BattleFieldKnow]을 얻지 못했으면, [BattleFieldKnow] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101705,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "빠르고 확실하게 꿰뚫어주마",
+          "desc": "이 스킬은 수비 스킬 대신 발동해도 공격 스킬로 취급되어, 수비 위력 변경 효과를 받지 않고, 공격 위력 변경 효과가 적용됨\n대상의 [WedgeMarkYellow] 2당, 합 위력 +1 (최대 4)\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +1\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 피해량 +20%\n[EndSkill] 대상의 [WedgeMarkYellow] 전부 소멸\n[EndSkill] 아군 <noparse>쐐기 사무소</noparse> 대표 오티스 인격의 [ComboWedge] 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "자신의 [BattleFieldKnow] 1당, 피해량 +10% (최대 40%)",
+                  "summary": "[BattleFieldKnow]에 비례하여 피해량이 증가"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 피해량 +30%",
+                  "summary": "피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]",
+                  "summary": "[ReUseOnSucceedAttack] [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkYellow] x 4)%만큼 관통 피해 (최대 32%)",
+                  "summary": "[ReUseOnSucceedAttack] 대상의 [WedgeMarkYellow]에 비례하여 관통 피해"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "빠르고 확실하게 꿰뚫어주마",
+          "desc": "이 스킬은 수비 스킬 대신 발동해도 공격 스킬로 취급되어, 수비 위력 변경 효과를 받지 않고, 공격 위력 변경 효과가 적용됨\n대상의 [WedgeMarkYellow] 2당, 합 위력 +1 (최대 4)\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[ComboSkill] : <noparse>쐐기 사무소</noparse> 해결사 돈키호테의 스킬과 공명 시 아래 효과 발동 (턴당 1회)\n- [WhenUse] 합 위력 +<style=\"highlight\">3</style>\n- [WhenUse] [BattleFieldKnow] 1 얻음\n- [WhenUse] 피해량 +<style=\"highlight\">30%</style>\n[EndSkill] 대상의 [WedgeMarkYellow] 전부 소멸\n[EndSkill] 아군 <noparse>쐐기 사무소</noparse> 대표 오티스 인격의 [ComboWedge] 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "자신의 [BattleFieldKnow] 1당, 피해량 +10% (최대 40%)",
+                  "summary": "[BattleFieldKnow]에 비례하여 피해량이 증가"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 피해량 +30%",
+                  "summary": "피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]",
+                  "summary": "[ReUseOnSucceedAttack] [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WedgeMarkYellow] x 4)%만큼 관통 피해 (최대 32%)",
+                  "summary": "[ReUseOnSucceedAttack] 대상의 [WedgeMarkYellow]에 비례하여 관통 피해"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

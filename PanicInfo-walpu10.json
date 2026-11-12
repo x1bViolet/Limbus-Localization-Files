@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1123,
+      "panicName": "새벽 사무소",
+      "lowMoraleDescription": "[Combustion]이 있는 적에게 가하는 피해량 -5%\n[Vibration]이 있는 적에게 가하는 흐트러짐 피해량 +5%",
+      "panicDescription": "[Combustion]이 있는 적에게 가하는 피해량 -10%\n[Vibration]이 있는 적에게 가하는 흐트러짐 피해량 +10%"
+    },
+    {
+      "id": 1124,
+      "panicName": "쐐기 사무소",
+      "lowMoraleDescription": "크리티컬 피해량 -5%\n[Vibration]이 있는 적에게 가하는 흐트러짐 피해량 +5%",
+      "panicDescription": "크리티컬 피해량 -10%\n[Vibration]이 있는 적에게 가하는 흐트러짐 피해량 +10%"
+    },
+    {
+      "id": 1125,
+      "panicName": "밀랍날개",
+      "lowMoraleDescription": "[Vulnerable] 1 얻음\n[Combustion]이 있는 적에게 가하는 피해량 +10%",
+      "panicDescription": "[Vulnerable] 1 얻음\n[Combustion]이 있는 적에게 가하는 피해량 +25%"
+    }
+  ]
+}

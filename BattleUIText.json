@@ -877,6 +877,10 @@
     {
       "id": "battle_operation_player_support",
       "content": "서포트"
+    },
+    {
+      "id": "PassiveSynergyConditionCount",
+      "content": "{0}"
     }
   ]
 }

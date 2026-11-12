@@ -3209,6 +3209,450 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1111601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쾌속 찌르기",
+          "desc": "[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "쾌속 찌르기",
+          "desc": "<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "쾌속 찌르기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [WedgeOffice]가 3이면, 최종 위력 +1</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "섬광의 창",
+          "desc": "[StartBattle] 자신을 포함한 모든 아군 쐐기 사무소[TabExplain] 소속 인격에게 [PenetrateDamageUp] 1 부여 (턴당 1회)\n[WhenUse] 이 스킬 슬롯의 장착하지 않은 스킬이 '쾌속 찌르기'면 버림\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 3 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "섬광의 창",
+          "desc": "[StartBattle] 자신을 포함한 모든 아군 쐐기 사무소[TabExplain] 소속 인격에게 [PenetrateDamageUp] 1 부여 (턴당 1회)\n[WhenUse] 이 스킬 슬롯의 장착하지 않은 스킬이 '쾌속 찌르기'면 버림\n<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1</style>\n<style=\"highlight\">[WhenUse] 자신의 [WedgeOffice] 1당 최종 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 3 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "섬광의 창",
+          "desc": "[StartBattle] 자신을 포함한 모든 아군 쐐기 사무소[TabExplain] 소속 인격에게 [PenetrateDamageUp] 1 부여 (턴당 1회)\n[WhenUse] 이 스킬 슬롯의 장착하지 않은 스킬이 '쾌속 찌르기'면 버림\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 6<style=\"highlight\">당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [WedgeOffice] 1당, 최종 위력 +1 (최대 3)\n[WhenUse] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 3 얻음<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "꿰뚫기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] [Breath] 2 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n\n[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- [WhenUse] [ComboWedgeDawn] 1 얻음 (스킬당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 이 코인 피해량 +50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +30%\n- [OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "꿰뚫기",
+          "desc": "<style=\"highlight\">[WhenUse] 피해량 +(대상의 [Vibration] 위력 x [Vibration] 횟수)% (최대 100%)</style>\n<style=\"highlight\">[WhenUse] 크리티컬 피해량 +(자신의 [Breath] 위력 x [Breath] 횟수)% (최대 100%)</style>\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">5</style>)\n<style=\"highlight\">[WhenUse] 자신의 [WedgeOffice]가 3이면, 합 위력 +6</style>\n[WhenUse] [Breath] 2 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n\n[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- [WhenUse] [ComboWedgeDawn] 1 얻음 (스킬당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "대상이 [Switch_Vibration]이나 [FusionVibration] 상태면, 이 코인 피해량 +50%<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [PenetrateTakeDamageUp] 2 부여 (턴당 1회)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +30%\n- [OnSucceedAttack] [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "숨 고르기",
+          "desc": "[StartBattle] [SupportProtect] 1 얻음 (턴당 2회)\n[OnSucceedEvade]\n- [Breath] 2 얻음 (턴 당 3회)\n- 다음 턴에 [Agility] 2 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "숨 고르기",
+          "desc": "[StartBattle] [SupportProtect] 1 얻음 (턴당 2회)\n<style=\"highlight\">[WhenUse] 자신의 [Breath] 위력 3당, 코인 위력 +1 (최대 2)</style>\n[OnSucceedEvade]\n- [Breath] 2 얻음 (턴 당 3회)\n- 다음 턴에 [Agility] 2 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "쐐기 대형 전개",
+          "desc": "[CantDuel]\n[WhenUse] 자신의 [Breath] 위력이 8 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Vibration] 위력이 8 이상이면, 최종 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[EndSkill]\n- 자신의 [ComboWedge] 25 소모\n- 자신을 제외한 아군 쐐기 사무소[TabExplain] 소속 인격에게 다음 턴에 [PenetrateResultUp] 1 부여\n- [ComboWedgeDawn] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 돈키호테\n- 피해량 +30%\n- 마지막 코인 적중시 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 싱클레어\n- 피해량 +30%\n- 마지막 코인 적중시 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "...전원 격돌 준비.",
+          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationCollapse]로 [FusionVibration]"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 해결사 파우스트\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 3 부여\n- [OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 돈키호테\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 싱클레어\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 2 부여\n- [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [OnSucceedAttack] 대상의 [Combustion] 발동. 대상의 [Combustion] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111608,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "새벽 뒤 꿰뚫어 오는 쐐기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력 8당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Vibration] 위력 8당, 최종 위력 +1 (최대 2)\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 행동 가능한 아군 쐐기 사무소[TabExplain] 소속 인격 수만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +30% (집중 전투인 경우, 부위로 판정)\n[WinDuel] [VibrationCollapse]로 [FusionVibration]\n[EndSkill]\n- 자신의 [ComboWedgeDawn] 모두 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 해결사 파우스트\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 3 부여\n- [OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[ComboSkill] : 새벽 사무소[TabExplain] 대표 그레고르\n- 피해량 +20%\n- [OnSucceedAttack] [Combustion] 2 부여\n- [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [OnSucceedAttack] 대상의 [Combustion] 발동. 대상의 [Combustion] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 돈키호테\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소[TabExplain] 해결사 싱클레어\n- 크리티컬 피해량 +20%\n- [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "물러서도록",
+          "desc": "[DuelCounter]\n[SupportProtect] 전용 스킬\n[WhenUse] 자신의 잃은 체력 20%당 합 위력 +1 (최대 4)\n[WhenUse]\n- [SupportProtect]한 대상 아군과 자신의 정신력 5 회복\n- 최대 체력의 15%만큼 보호막 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

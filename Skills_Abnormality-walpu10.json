@@ -1,0 +1,1294 @@
+{
+  "dataList": [
+    {
+      "id": 158001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "의뢰 처리",
+          "desc": "[BeforeAttack] 정신력 10 회복\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [ResultEnhancement] 1 얻음"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "여명의 섬광",
+          "desc": "[WhenUse] 자신의 [DawnOfficeStigmaSOne]이 15 이상이면, 스킬의 2코인이 [SuperCoin]으로 1개 추가됨",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "노을빛 검",
+          "desc": "[WhenUse] 자신의 [DawnOfficeStigmaSOne]이 15 이상이면, 아래 효과 적용\n- 스킬의 3코인이 [SuperCoin]으로 1개 추가됨\n- 추가된 코인의 적중시 [VibrationExplosion]. [Vibration] 횟수 1 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "새벽을 가르는 검",
+          "desc": "[WhenUse] 자신의 [DawnOfficeStigmaSOne] 10당 최종 위력 +1, 피해량 +10%\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 1회 발동, [Combustion] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "새벽녘",
+          "desc": "[WhenUse] 지정된 대상 수 1명당 피해량 +20% (최대 60%)\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 최대 체력의 (모든 타겟의 [Combustion] 위력의 합 x 2)% 만큼 체력 회복 (최대 30%)\n[EndSkill] 자신의 [DawnOfficeStigmaSOne]과 [Combustion] 전부 소모",
+          "flavor": "연기전쟁의 치열했던 여러 전장 중 한 곳. 그곳에서 어느 결전 병기의 남은 날개 한 쌍을 공간과 함께 녹여 자르며 새벽의 끝을 알리던 기술.\n\n“하… 죽을 뻔했군…”\n“이봐. 저 괴물을… 해치워 줄 수… 있겠나?”",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 5 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 2회"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 2회 발동"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "수호자",
+          "desc": "[CanDuelGuard]\n[StartBattle] [SupportProtect]를 1 얻음\n[StartBattle] 자신의 최대 체력의 20%만큼 보호막을 얻음\n[StartBattle] [Combustion]을 보유한 적의 수만큼 [Protection]를 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "아지랑이",
+          "desc": "[DuelCounter]\n[SupportProtect] 전용 스킬\n[WhenUse] [DawnOfficeStigmaSOne] 5 얻음\n[WhenUse] 모든 아군 정신력 6 상승",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "의뢰 처리",
+          "desc": "[BeforeAttack] 정신력 10 회복\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [PlusCoinValueUp] 1 얻음"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "나비 베기",
+          "desc": "[WhenUse] [DawnOfficeStigmaYOne] 6 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [DawnOfficeStigmaYOne] 10당 이 코인 1회 재사용 (스킬당 최대 2회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사출",
+          "desc": "[WhenUse] [DawnOfficeStigmaYOne] 8 얻음\n[WhenUse] 자신의 [DawnOfficeStigmaYOne] 10당 최종 위력 +1\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 1회 발동, [Combustion] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "자신의 [DawnOfficeStigmaYOne] 10당 이 코인 1회 재사용 (스킬당 최대 2회)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 1회 발동, [Combustion] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사출 - 정오",
+          "desc": "[WideAreaRampage]\n[WhenUse] 지정된 타겟수 1명당 피해량 +20% (최대 60%)\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n[BeforeAttack] 모든 대상에게 [VibrationIgnition]로 [Switch_Vibration]\n[EndSkill] 최대 체력의 모든 타겟의 [Combustion] 위력의 합만큼 체력 회복 (최대 15%)\n[EndSkill] 최대 체력의 자신의 [Combustion] 위력만큼 체력 회복 (최대 15%)\n[EndSkill] 자신의 [DawnOfficeStigmaYOne]과 [Combustion] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "자신의 [DawnOfficeStigmaYOne] 10당 이 코인 1회 재사용 (스킬당 최대 2회)"
+                },
+                {
+                  "desc": "- 재사용 시, 이 코인은 모든 공격 대상에게 적중함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack]"
+                },
+                {
+                  "desc": "- [UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 2회"
+                },
+                {
+                  "desc": "- [UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 2회 발동"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "낙인",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>턴 시작시 보유했던 자신의 [DawnOfficeStigmaYOne] 10당 피격 시 이 스킬 1회 재사용 (최대 2회)</color></mark></b></u>\n[StartBattle] [DawnOfficeStigmaYOne] 2당 최종 위력 +1 (최대 5)\n[StartBattle] [Combustion]을 보유한 적의 수만큼 [DefenseUp]를 얻음\n[WhenUse] 자신의 [DawnOfficeStigmaYOne] 10당 부정적인 효과 부여량 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "연계",
+          "desc": "[WhenUse] 자신의 [DawnOfficeStigmaYOne] 1당 피해량 +2%, 10당 최종 위력 +1 (최대 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "의뢰 처리",
+          "desc": "[BeforeAttack] 자신의 정신력 20 회복\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [ResultEnhancement] 1 얻음"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "노을빛 검",
+          "desc": "[WhenUse] 대상의 [Combustion] 4당 최종 위력 +1 (최대 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "낙인",
+          "desc": "[WhenUse] 대상의 [Combustion] 4당 최종 위력 +1 (최대 2)\n[BeforeAttack] 정신력 15 회복\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Combustion] 5 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 2회 발동, [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "회피",
+          "desc": "[WhenUse] 대상의 [Combustion] 4당 최종 위력 +1 (최대 3)\n<color=#ff6000><mark color=#ff000040><b><u>[OnSucceedEvade] 자신의 최대 체력의 15%만큼 회복</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쾌속 찌르기",
+          "desc": "[WhenUse] 자신의 [WalpuTenWedgeOffice]가 3이면, 합 위력 +1\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "섬광의 창",
+          "desc": "[WhenUse] 자신의 [WalpuTenWedgeOffice]가 3이면, 합 위력 +2\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 3 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "꿰뚫기",
+          "desc": "피해량 +(<color=#ff6000><mark color=#ff000040><b><u>대상의 현재 체력 비율</color></mark></b></u> - 50)% (최대 50%, 최소 0%)\n크리티컬 피해량 +(자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 x 2.5)% (최대 50%)\n[WhenUse] 자신의 [WalpuTenWedgeOffice]가 3이면, 합 위력 +6\n[WinDuel] [Breath] 2 얻음, 자신의 [Breath] 횟수 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark color=#ff000040><b><u>대상이 [Switch_Vibration]이나 [FusionVibration] 상태면,</color></mark></b></u> 이 코인 피해량 +50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp] 2 부여 (턴당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소 (스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쐐기 대형 전개",
+          "desc": "이 스킬 공격 가중치보다 낮은 공격 대상 1당 피해량 +30%\n[WhenUse]\n- 자신의 [Breath] 횟수 3 증가\n- 자신을 제외한 <color=#ff6000><mark color=#ff000040><b><u>행동 가능한 쐐기 사무소 소속 아군 수만큼 공격 가중치 증가</color></mark></b></u> (최대 2)\n[EndSkill]\n- 자신의 [WalpuTenComboWedge] 25 소모\n- (사용하지 못한 코인 갯수 x 5)만큼 다음 턴에 [WalpuTenComboWedge] 얻음\n- 자신을 제외한 쐐기 사무소 소속 아군에게 다음 턴에 [PenetrateResultUp] 1 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소 해결사 파멜라"
+                },
+                {
+                  "desc": "- 피해량 +30%"
+                },
+                {
+                  "desc": "- 마지막 코인 적중시 [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[ComboSkill] : 쐐기 사무소 해결사 파멜리"
+                },
+                {
+                  "desc": "- 피해량 +30%"
+                },
+                {
+                  "desc": "- 마지막 코인 적중시 [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "숨고르기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력 3당, 코인 위력 +1 (최대 2)\n[OnSucceedEvade]\n- [Breath] 2 얻음 (턴 당 3회)\n- 다음 턴에 [Agility] 2 얻음 (턴당 1회)\n[EndBattle] 다음 턴에 [PenetrateResultUp] 1, [PenetrateDamageUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "물러서도록",
+          "desc": "[DuelCounter]\n원호방어 전용 스킬\n[WhenUse] 자신의 잃은 체력 20%당 합 위력 +1 (최대 4)\n[WhenUse]\n- [SupportProtect]한 대상 아군과 자신의 정신력 5 회복\n- 최대 체력의 15%만큼 보호막 얻음 (턴당 1회)\n- [Protection] 2 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "격돌",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] [Breath] 2 얻음\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜라</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 마지막 코인 재사용 (스킬당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [WalpuTenBattleFieldKnow] 1당, 피해량 +5% (최대 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [WalpuTenWedgeMarkSilver] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "여세를 몰아",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [WalpuTenBattleFieldKnow] 1당, 피해량 +5% (최대 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "창 휩쓸기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜라</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 피해량 +30%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [WalpuTenBattleFieldKnow] 1당, 피해량 +10% (최대 40%)"
+                },
+                {
+                  "desc": "대상의 [Vibration] 위력 1당, 피해량 +2% (최대 20%)"
+                },
+                {
+                  "desc": "<color=#ff6000><mark color=#ff000040><b><u>대상이 [Switch_Vibration]이나 [FusionVibration] 상태면</color></mark></b></u>, 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "빠르고 확실하게 꿰뚫어주마",
+          "desc": "대상의 [WalpuTenWedgeMarkSilver] 1당, 합 위력 +1 (최대 5)\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[WhenUse] 모든 코인이 [SuperCoin]이 됨\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜라</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 피해량 +30%\n[EndSkill] 대상의 [WalpuTenWedgeMarkSilver] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "자신의 [WalpuTenBattleFieldKnow] 1당, 피해량 +10% (최대 40%)"
+                },
+                {
+                  "desc": "대상의 [Vibration] 위력 1당, 피해량 +2% (최대 40%)"
+                },
+                {
+                  "desc": "<color=#ff6000><mark color=#ff000040><b><u>대상이 [Switch_Vibration]이나 [FusionVibration] 상태면</color></mark></b></u>, 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [WalpuTenWedgeMarkSilver] x 10)%만큼 관통 피해 (최대 50%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "숨고르기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력이 6이상이면, 코인 위력 +1\n[OnSucceedEvade] [Breath] 2 얻음 (스킬당 1회)\n[OnSucceedEvade] 다음 턴에 [Agility] 1 얻음 (턴당 1회)\n[EndBattle] 다음 턴에 [PenetrateResultUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "격돌",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] [Breath] 4 얻음\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜리</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 마지막 코인 재사용 (스킬당 1회)\n[WinDuel] 다음 턴에 [PenetrateDamageUp] 1 얻음 (턴당 1회)\n[BeforeAttack] 자신의 [WalpuTenBattleFieldKnow] 1당, 마지막 코인의 최종 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [WalpuTenWedgeMarkGold] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "빈틈 노리기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] [Breath] 3 얻음\n[WinDuel] 대상에게 [Vibration] 1 부여하고 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n[BeforeAttack] 자신의 [WalpuTenBattleFieldKnow] 1당, 마지막 코인의 최종 위력 +1 (최대 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "창 휩쓸기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜리</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 피해량 +40%\n[WinDuel] 대상에게 [Vibration] 2 부여하고 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n[BeforeAttack] 자신의 [WalpuTenBattleFieldKnow] 1당, 마지막 코인의 최종 위력 +1 (최대 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Vibration] 위력 1당, 피해량 +2% (최대 20%)"
+                },
+                {
+                  "desc": "<color=#ff6000><mark color=#ff000040><b><u>대상이 [Switch_Vibration]이나 [FusionVibration] 상태면</color></mark></b></u>, 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "빈틈 없이 확실하게 꿰뚫어주지",
+          "desc": "대상의 [WalpuTenWedgeMarkGold] 1당, 합 위력 +1 (최대 5)\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Vibration] 위력의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 2 얻음\n[WhenUse] 모든 코인이 [SuperCoin]이 됨\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>[ComboSkill]: 쐐기 사무소 해결사 파멜리</color></mark></b></u> (턴당 1회)\n- [WalpuTenBattleFieldKnow] 1 얻음\n- 피해량 +30%\n[WinDuel] 대상에게 [Vibration] 4 부여하고 [VibrationExplosion]\n[BeforeAttack] 자신의 [WalpuTenBattleFieldKnow]과 대상의 [WalpuTenWedgeMarkGold]의 합 1당, 마지막 코인의 최종 위력 +1 (최대 8)\n[EndSkill] 대상의 [WalpuTenWedgeMarkGold] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Breath] 4 얻음"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Vibration] 위력 1당, 피해량 +2% (최대 40%)"
+                },
+                {
+                  "desc": "<color=#ff6000><mark color=#ff000040><b><u>대상이 [Switch_Vibration]이나 [FusionVibration] 상태면</color></mark></b></u>, 피해량 +30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상이 [Switch_Vibration] 상태가 아니면, [VibrationCollapse]로 [Switch_Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "숨고르기",
+          "desc": "[WhenUse] 자신의 [Breath] 위력이 6이상이면, 코인 위력 +1\n[OnSucceedEvade] [Breath] 3 얻음 (스킬당 1회)\n[OnSucceedEvade] 다음 턴에 [Agility] 1 얻음 (턴당 1회)\n[EndBattle] 다음 턴에 [PenetrateResultUp] 1 얻음 (턴당 1회)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "후회",
+          "desc": "[WhenUse] 대상의 [Combustion] 4당 최종 위력 +2 (최대 4)\n[BeforeAttack] <color=#ff6000><mark color=#ff000040><b><u>자신의 정신력이 20/40 이상이면</color></mark></b></u>, 피해량 +50%/+100%\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Combustion] 5 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Vibration] 5 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 2회 발동, [Combustion] 횟수 2 감소"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 2회, [Vibration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "서글픈 노을",
+          "desc": "[WhenUse] 자신의 정신력이 40 이상이면, 다음 턴에 [ParryingResultUp] 1 얻음\n[BeforeAttack] 정신력 10 회복",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 4 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "깃털 방패",
+          "desc": "[WhenUse] [Protection] 2 얻음\n- <color=#ff6000><mark color=#ff000040><b><u>대상에게 [Combustion]이 있으면</color></mark></b></u>, 추가로 2 얻음\n[WhenUse] 자신의 정신력이 30 이상이면, 다음 턴에 [DefenseUp] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "이글거리는 검",
+          "desc": "[WhenUse] 대상의 [Combustion] 6당 최종 위력 +1 (최대 2)\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n[BeforeAttack] 자신의 정신력이 40/45 이상이면, 공격 가중치 +1/+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Combustion] 횟수 3 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 6 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [PhilipWax] 3 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "맹렬한 돌진",
+          "desc": "[WhenUse] 대상의 [Combustion] 6당 최종 위력 +1 (최대 2)\n[BeforeAttack] 대상의 [Combustion] 2당 피해량 +2% (최대 30%)\n[EndSkill] 1코인 재사용 횟수만큼 정신력 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 4 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 이 코인 재사용 (스킬당 최대 2회)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 대상의 [Combustion] 횟수 2 증가"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [PhilipWax] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "타오르는 일격",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>속도에 상관없이 이 스킬과 합을 할 수 있음</color></mark></b></u>\n이 스킬을 장착한 턴에 <color=#ff6000><mark color=#ff000040><b><u>공격 스킬로 피격 시, [ResultReduction] 2 얻음</color></mark></b></u> (스킬당 1회. 턴당 최대 3회)\n[WhenUse] 메인 타겟의 [Combustion] 4당 최종 위력 +2 (최대 4)\n[BeforeAttack] 자신의 정신력이 20/40 이상이면, 피해량 +50%/+100%\n[DefeatDuel]\n- 피해량 -80%\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 이번 턴 종료",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 10 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Combustion] 2회 발동, [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

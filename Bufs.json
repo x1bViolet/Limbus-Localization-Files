@@ -4014,6 +4014,7 @@
     {
       "id": "DawnTeam",
       "name": "새벽 사무소",
+      "excludeAutoLink": true,
       "desc": "- 최댓값: 3\n- 수치 1당, 공격 레벨 1 증가\n- 수치가 3이면, 턴 시작 시 정신력 5 회복\n- 턴 시작 시 자신을 제외하고 '새벽 사무소'를 보유한 아군 인격이 모두 사망했으면 소멸",
       "summary": "",
       "undefined": "-",
@@ -4250,28 +4251,28 @@
     {
       "id": "PersonalityCombustion",
       "name": "화상 인격",
-      "desc": "",
+      "desc": "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 기본 공격 스킬을 보유한 인격",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PersonalityLaceration",
       "name": "출혈 인격",
-      "desc": "",
+      "desc": "출혈 위력, 출혈 횟수 또는 특수 출혈을 부여하는 기본 공격 스킬을 보유한 인격",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PersonalityBurst",
       "name": "파열 인격",
-      "desc": "",
+      "desc": "파열 위력, 파열 횟수 또는 특수 파열을 부여하는 기본 공격 스킬을 보유한 인격",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PersonalitySinking",
       "name": "침잠 인격",
-      "desc": "",
+      "desc": "침잠 위력, 침잠 횟수 또는 특수 침잠을 부여하는 기본 공격 스킬을 보유한 인격",
       "summary": "",
       "undefined": "-"
     },
@@ -4423,6 +4424,94 @@
       "id": "WarinessHonglu",
       "name": "경청 형벌",
       "desc": "- 최댓값 : 2\n- 수치만큼 공격 레벨 -1\n- 경청의 시간을 보유한 인격이 있을 때, 르누아르 소속 인격에게 받는 피해량 +(수치 x 10)%\n- 경청의 시간을 보유한 인격이 있을 때, 턴 종료시 1 감소 (이 효과를 부여한 인격이 퇴각 및 사망했으면, 소멸)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WedgeOffice",
+      "name": "쐐기 사무소",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 3\n- 수치 1당, 공격 레벨 1 증가\n- 수치가 3이면, 전투 시작 시 관통 피해량 증가 1 얻음\n- 턴 종료시 소멸",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ComboWedge",
+      "name": "승기",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 30\n- 턴당 최대 20까지 얻을 수 있음",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ComboWedgeDawn",
+      "name": "새벽의 유대",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 5",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DespairKnightEGOProtect",
+      "name": "기사의 수호",
+      "excludeAutoLink": true,
+      "desc": "기본값 : 3\n자신의 1.5를 초과하는 물리 내성이 1.5로 조정됨 (흐트러짐 상태 제외)\n자신이 흐트러짐 상태면, 받는 피해량 -30% (강제 흐트러짐 포함)\n\n턴 종료시 1 감소\n부여한 캐릭터가 퇴각 또는 사망하거나, 다른 대상에게 이 효과를 부여하면 소멸. 다른 캐릭터의 동일한 효과가 부여될 경우 교체됨.\n\n적에게 사망 시, 공격자에게 다음 턴에 취약 2를 부여하고, 이 효과 부여자가 다음 턴에 공격 위력 증가 2, 피해량 증가 3 얻음 (턴당 1회)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DespairKnightEGOSword",
+      "name": "눈물로 벼려낸 검",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 3\n- 충전을 얻거나 소모하는 스킬 피해량 +(충전 위력 x 2)% (최대 10%)\n- 관통 또는 오만 스킬 피해량 +(수치 x 5)%\n- 자신의 관통 또는 오만 스킬 적중시, (이 효과 수치 x 2) + (해당 코인 최종 피해량의 5%)만큼 오만 피해\n- 공격 종료시, 메인 타겟이 적이면 수치만큼 침잠 위력 부여",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DespairKnightEGOMind",
+      "name": "닳아버린 긍지",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 999\n- 턴당 최대 500까지 얻을 수 있음",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DespairKnightEGOAlly",
+      "name": "잊혀진 기사의 검",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값 : 3\n- 관통 또는 오만 스킬에 피격 시 수치 1 증가 (스킬당 1회)\n· 수치가 최대치면, 오만 피해를 50 받고 이 효과 소멸. 이번 턴과 다음 턴에 관통 취약 1 얻음\n- 이 효과는 동시에 하나의 캐릭터만 보유할 수 있음 (다른 대상에게 부여 시 기존의 효과 소멸)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BattleFieldKnow",
+      "name": "전장 파악",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값: 5\n- 이 효과의 수치가 증가할 때, 자신의 호흡 횟수 1 증가\n- 턴 종료 시 수치만큼 자신의 호흡 횟수 증가\n- 이 효과 수치에 따라 기본 공격 스킬이 아래 효과 얻음\n· 2 ~ : 스킬 사용 시 적에게 가하는 피해량 +(30/코인 수)% (소수점 버림)\n· 3 ~ : 코인 위력 +1, 스킬 사용 시 마지막 코인이 파괴 불가 코인이 됨\n· 4 ~ : 스킬 사용 시 적에게 가하는 피해량 +(30/코인 수)% (소수점 버림)\n· 5 ~ : 공격 시작 시부터 공격 종료 시까지 공격 대상의 관통 내성 +0.1\n- 피해량 증가와 파괴 불가 코인 변경은 스킬 사용 직전의 수치로 판정",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WedgeMarkYellow",
+      "name": "쐐기 - 돈키호테",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값: 8\n- 이 효과가 일정 수치 이상이면, 쐐기 사무소 해결사 싱클레어의 특정 스킬이 강화됨\n- 턴 종료 시 자신의 진동 횟수 1 증가\n- 턴 시작 시 전장에 적 쐐기 사무소 소속 캐릭터가 없으면, 이 효과 소멸",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WedgeMarkGreen",
+      "name": "쐐기 - 싱클레어",
+      "excludeAutoLink": true,
+      "desc": "- 최댓값: 8\n- 이 효과가 일정 수치 이상이면, 쐐기 사무소 해결사 돈키호테의 특정 스킬이 강화됨\n- 턴 종료 시 자신의 진동 횟수 1 증가\n- 턴 시작 시 전장에 적 쐐기 사무소 소속 캐릭터가 없으면, 이 효과 소멸",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ComboSkill",
+      "name": "연",
+      "excludeAutoLink": true,
+      "desc": "해당하는 인격이 전장에 행동 가능한 상태로 생존해 있으면, 추가 효과 발동 (해당하는 인격이 모든 종류의 행동 불가 상태, E.G.O 침식, 흐트러짐 상태인 경우, 발동하지 않음)",
       "summary": "",
       "undefined": "-"
     }
