@@ -107,6 +107,10 @@
     {
       "id": "notice_of_story_same_content",
       "content": "{0}와 동일한 내용으로, 보상만 수령되었습니다."
+    },
+    {
+      "id": "10th_anniversary_event_desc",
+      "content": "기간 내 접속 시 3성 인격 출현 추출 티켓 및 광기 증정"
     }
   ]
 }

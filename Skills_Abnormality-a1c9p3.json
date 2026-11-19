@@ -3971,7 +3971,7 @@
         {
           "level": 1,
           "name": "Furioso [Lacrimosa-Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>이 스킬은 대상의 수비 스킬을 발동시키지 않음</u></b></mark></color>\n속도에 상관없이 이 스킬과 합을 할 수 있음\n<color=#ff6000><mark=#ff000040><b><u>- 료슈의 기본 E.G.O와 합 진행 시, 합 위력 -20</u></b></mark></color>\n[WhenUse]\n- [Breath] 9 얻음, 자신의 [Breath] 횟수 9 증가\n- 합 위력 +15 (자신의 카르마 [KarmaOfIndexRien_2Phase] 20당 1씩 감소)\n[WhenUse] 정신력이 0 이상이면, 망 3개 생성\n- 피해량이 100%만큼 증가하고 최종 위력 +12\n[WinDuel]\n- 공격 종료 시 공격이 적중한 모든 대상에게 다음 턴에 [Laceration] 5, [Binding] 3, [Vulnerable] 3 부여\n[DefeatDuel] \n- [AttackDmgDown] 8, [Paralysis] 9 얻음\n- 이 스킬의 피해로 대상이 흐트러지지 않고 적중 시 대상의 [Sinking] 효과가 발동하지 않음  \n[EndSkill] 망을 생성했으면, 정신력 30만큼 감소\n[EndSkill] 이번 턴 종료",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>이 스킬은 대상의 수비 스킬을 발동시키지 않음</u></b></mark></color>\n속도에 상관없이 이 스킬과 합을 할 수 있음\n<color=#ff6000><mark=#ff000040><b><u>- 료슈의 기본 E.G.O와 합 진행 시, 합 위력 -20</u></b></mark></color>\n[WhenUse]\n- [Breath] 9 얻음, 자신의 [Breath] 횟수 9 증가\n- 합 위력 +15 (자신의 [KarmaOfIndexRien_2Phase] 20당 1씩 감소)\n[WhenUse] 정신력이 0 이상이면, 망 3개 생성\n- 피해량이 100%만큼 증가하고 최종 위력 +12\n[WinDuel]\n- 공격 종료 시 공격이 적중한 모든 대상에게 다음 턴에 [Laceration] 5, [Binding] 3, [Vulnerable] 3 부여\n[DefeatDuel] \n- [AttackDmgDown] 8, [Paralysis] 9 얻음\n- 이 스킬의 피해로 대상이 흐트러지지 않고 적중 시 대상의 [Sinking] 효과가 발동하지 않음  \n[EndSkill] 망을 생성했으면, 정신력 30만큼 감소\n[EndSkill] 이번 턴 종료",
           "coinlist": [
             {
               "coindescs": [

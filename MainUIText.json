@@ -2099,6 +2099,10 @@
     {
       "id": "unitinfo_synergy_unsatisfied",
       "content": "조건 {0}개 불충족"
+    },
+    {
+      "id": "limtochess_entrance_coming_soon",
+      "content": "준비 중입니다."
     }
   ]
 }
