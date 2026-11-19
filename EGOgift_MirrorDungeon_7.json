@@ -633,7 +633,7 @@
     {
       "id": 9282,
       "name": "翼の形をした蝋燭",
-      "desc": "ターン開始時、<noparse>夜明事務所</noparse>所属人格が3名以上のときに発動 (編成人員を基準とする)\n最初のターンなら、全味方に[DawnLight]2を付与\n<noparse>夜明事務所</noparse>フィクサー シンクレアが戦闘開始時に精神力を10回復し、「不安定な自我の殻」パッシブ効果によって不安定E.G.O::蜜蝋の翼状態になる精神力条件が25へ減少\n\n[<noparse>夜明事務所</noparse>所属人格専用効果]\n基本スキルの攻撃的中時、対象へ[Combustion]2, [Vibration]2を付与 (スキルごとに1回)\n<noparse>夜明事務所</noparse>所属人格は[Combustion]・[Vibration]を付与する人格として扱われる\n- この効果により、基本スキルが[Combustion]・[Vibration]を付与するスキルとして扱われる\nステージ開始時、<noparse>夜明事務所</noparse>フィクサー ファウスト人格が戦闘に出場しているなら、[Firstlight]1を付与",
+      "desc": "ターン開始時、<noparse>夜明事務所</noparse>所属人格が3名以上のときに発動 (待機人員を含む)\n最初のターンなら、全味方に[DawnLight]2を付与\n<noparse>夜明事務所</noparse>フィクサー シンクレアが戦闘開始時に精神力を10回復し、「不安定な自我の殻」パッシブ効果によって不安定E.G.O::蜜蝋の翼状態になる精神力条件が25へ減少\n\n[<noparse>夜明事務所</noparse>所属人格専用効果]\n基本スキルの攻撃的中時、対象へ[Combustion]2, [Vibration]2を付与 (スキルごとに1回)\n<noparse>夜明事務所</noparse>所属人格は[Combustion]・[Vibration]を付与する人格として扱われる\n- この効果により、基本スキルが[Combustion]・[Vibration]を付与するスキルとして扱われる\nステージ開始時、<noparse>夜明事務所</noparse>フィクサー ファウスト人格が戦闘に出場しているなら、[Firstlight]1を付与",
       "simpleDesc": [
         {
           "abilityID": 9281,

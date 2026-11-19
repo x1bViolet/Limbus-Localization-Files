@@ -2381,7 +2381,7 @@
     {
       "id": 1041203,
       "name": "お前ら全員面白いもんを見せてやろう",
-      "desc": "戦闘開始時、N社E.G.O::<noparse>凶弾</noparse>イサンの「対象調整射撃」が以下の効果を得る\n- N社E.G.O::<noparse>軽蔑</noparse>、畏敬良秀が[ContemptPersonality]を保有中かつ、基本スキルを使用できるなら、代わりに「撃ち放たん / いつでも」を良秀に使用する (1ターンにつき1回。「撃ち放たん / いつでも」にはイサンの同期化段階が適用される)\n- N社E.G.O::<noparse>軽蔑</noparse>、畏敬良秀がメインターゲットでないなら、攻撃開始前に良秀がメインターゲットをスキル1で一方攻撃する (1ターンにつき1回。ダメージ量 -50% [CantIdentify]、該当スキルでメインターゲットが死亡しない)"
+      "desc": "戦闘開始時、N社E.G.O::<noparse>凶弾</noparse>イサンの「対象調整射撃」が以下の効果を得る\n- N社E.G.O::<noparse>軽蔑</noparse>、畏敬良秀が[ContemptPersonality]を保有中かつ、基本スキルを使用できるなら、代わりに「撃ち放たん / いつでも」を良秀に使用する (1ターンにつき1回。「撃ち放たん / いつでも」にはイサンの同期化段階が適用される)\n- N社E.G.O::<noparse>軽蔑</noparse>、畏敬良秀がメインターゲットでなく、基本スキルを使用できるなら、攻撃開始前に良秀がメインターゲットをスキル1で一方攻撃する (1ターンにつき1回。ダメージ量 -50% [CantIdentify]、該当スキルでメインターゲットが死亡しない)"
     },
     {
       "id": 1041221,
@@ -2619,7 +2619,7 @@
     {
       "id": 1021401,
       "name": "遂行者の剣",
-      "desc": "自分の[BlessingOfIndexPrescriptAlly]1につき、[IndexPrescriptTargetMarkToEnemy]が刻まれたスキルのダメージ量 +2% (最大16%)\n- [BlessingOfIndexPrescriptAlly]が9なら、代わりに基本攻撃スキルのダメージ量 +20%\n\n[IndexPrescriptTargetToEnemy]がある対象に基本攻撃スキルを的中時、\n[Breath]1を得て[Sinking]1を付与 (1ターンにつき1回)\n- [BlessingOfIndexPrescriptAlly]3につき、1ターンごとの発動可能回数 +1 (最大2)\n\n[BlessingOfIndexPrescriptAlly]が9なら、基本スキルの[Sinking]威力付与値 +1, [Breath]威力獲得値 +1",
+      "desc": "自分の[BlessingOfIndexPrescriptAlly]1につき、[IndexPrescriptTargetMarkToEnemy]が刻まれたスキルのダメージ量 +2% (最大16%)\n- [BlessingOfIndexPrescriptAlly]が9なら、代わりに基本スキルのダメージ量 +20%\n\n[IndexPrescriptTargetToEnemy]がある対象に基本スキルを的中時、\n[Breath]1を得て[Sinking]1を付与 (1ターンにつき1回)\n- [BlessingOfIndexPrescriptAlly]3につき、1ターンごとの発動可能回数 +1 (最大2)\n\n[BlessingOfIndexPrescriptAlly]が9なら、基本スキルの[Sinking]威力付与値 +1, [Breath]威力獲得値 +1",
       "summary": "指令の印が刻まれたスキルなら、指令の加護に比例してダメージ量が増加\n的中時、呼吸を得て沈潜付与"
     },
     {
@@ -2648,7 +2648,7 @@
     {
       "id": 1031401,
       "name": "やはり魔法のピピ様は当人が望むことを分かってくれるのだな！",
-      "desc": "自分の[BlessingOfIndexPrescriptAlly]1につき、[IndexPrescriptTargetMarkToEnemy]が刻まれたスキルのダメージ量 +2% (最大16%)\n- [BlessingOfIndexPrescriptAlly]が9なら、代わりに基本攻撃スキルのダメージ量 +20%\n\n[IndexPrescriptTargetToEnemy]がある対象に基本攻撃スキルを的中時、\n精神力を3回復 (スキルごとに1回、1ターンにつき2回)\n- [UnlockBuff_Base]段階だけ精神力を追加で回復",
+      "desc": "自分の[BlessingOfIndexPrescriptAlly]1につき、[IndexPrescriptTargetMarkToEnemy]が刻まれたスキルのダメージ量 +2% (最大16%)\n- [BlessingOfIndexPrescriptAlly]が9なら、代わりに基本スキルのダメージ量 +20%\n\n[IndexPrescriptTargetToEnemy]がある対象に基本攻撃スキルを的中時、\n精神力を3回復 (スキルごとに1回、1ターンにつき2回)\n- [UnlockBuff_Base]段階だけ精神力を追加で回復",
       "summary": "指令の印が刻まれたスキルなら、指令の加護に比例してダメージ量が増加\n的中時、精神力を回復"
     },
     {
@@ -2962,7 +2962,7 @@
     {
       "id": 1041502,
       "name": "再会",
-      "desc": "戦闘に初めて登場時、[SojiRyoshuEchoPast]0, [SojiRyoshuEntangle]0を得る\n\n戦闘に初めて登場時、編成された蜘蛛の巣所属の味方人格(自分を含む)3名につき、[SojiRyoshuEchoPast]の最小・最大値が1増加 (最大3)\n\n蜘蛛の巣所属人格が出場中なら、自分が体力ダメージを受けるときに現体力の比率が最も低い蜘蛛の巣所属の味方人格へ、受けた体力ダメージを転嫁する\n\n体力が0になるダメージを受けるとき、当該ターンの間体力が1未満に減少しない (戦闘ごとに1回)\n\n蜘蛛の巣所属の味方人格が死亡した状態なら、下記の効果を適用\n- [SojiRyoshuEchoPast]1を得る\n- 死亡した人格によって、この戦闘のあいだ下記の追加効果を得る\n・蜘蛛の巣 人差し指の親方 イサン : 基本攻撃スキル使用時、最終コインが[SuperCoin]に変更される。基本攻撃スキルの[SuperCoin]のダメージ量 +10%\n・人差し指代行者 - 開花[TabExplain]E.G.O::代行 ドンキホーテ : 基本攻撃スキル使用時に[Breath]2を得る。基本攻撃スキルがクリティカル的中時、[Sinking]1を付与\n・蜘蛛の巣 中指の子方 イシュメール : 防御レベル +2, 基本攻撃スキルで付与する[Combustion]威力 +1\n・蜘蛛の巣 薬指の親方 ホンル : [MelodyBodyArt]を得る\n・蜘蛛の巣 薬指の子方 ファウスト : 毎ターン開始時、体力最大値の10%だけバリアを得る\n・蜘蛛の巣 小指の子方 シンクレア : 毎ターン開始時に[Breath]回数1, [CriticalDamageUp]1を得る\n\nこの人格は[Combustion]・[Laceration]・[Breath]を付与する人格としてのみ扱う\n\n待機解除または復帰する人格がいないなら、死亡状態の蜘蛛の巣所属の味方人格3名につき、蜘蛛の巣の刀 良秀のスロット数 +1 (最大3回増加)\n- この効果によって、当該戦闘の最大スロット数を超過してスロットが増えることはない\n- 一部コンテンツのスロット増加制限効果を無視して発動可能\n\n特定条件達成時、この戦闘のあいだ戦闘BGMを変更 (一部の戦闘を除く)",
+      "desc": "戦闘に初めて登場時、[SojiRyoshuEchoPast]0, [SojiRyoshuEntangle]0を得る\n\n戦闘に初めて登場時、編成された蜘蛛の巣所属の味方人格(自分を含む)3名につき、[SojiRyoshuEchoPast]の最小・最大値が1増加 (最大3)\n\n蜘蛛の巣所属人格が出場中なら、自分が体力ダメージを受けるときに現体力の比率が最も低い蜘蛛の巣所属の味方人格へ、受けた体力ダメージを転嫁する\n\n体力が0になるダメージを受けるとき、当該ターンの間体力が1未満に減少しない (戦闘ごとに1回)\n\n蜘蛛の巣所属の味方人格が死亡した状態なら、下記の効果を適用\n- [SojiRyoshuEchoPast]1を得る\n- 死亡した人格によって、この戦闘のあいだ下記の追加効果を得る\n・蜘蛛の巣 人差し指の親方 イサン : 基本攻撃スキル使用時、最終コインが[SuperCoin]に変更される。基本攻撃スキルの[SuperCoin]のダメージ量 +10%\n・人差し指代行者 - 開花[TabExplain]E.G.O::代行 ドンキホーテ : 基本攻撃スキル使用時に[Breath]2を得る。基本攻撃スキルがクリティカル的中時、[Sinking]1を付与\n・蜘蛛の巣 中指の子方 イシュメール : 防御レベル +2, 基本スキルで付与する[Combustion]威力 +1\n・蜘蛛の巣 薬指の親方 ホンル : [MelodyBodyArt]を得る\n・蜘蛛の巣 薬指の子方 ファウスト : 毎ターン開始時、体力最大値の10%だけバリアを得る\n・蜘蛛の巣 小指の子方 シンクレア : 毎ターン開始時に[Breath]回数1, [CriticalDamageUp]1を得る\n\nこの人格は[Combustion]・[Laceration]・[Breath]を付与する人格としてのみ扱う\n\n待機解除または復帰する人格がいないなら、死亡状態の蜘蛛の巣所属の味方人格3名につき、蜘蛛の巣の刀 良秀のスロット数 +1 (最大3回増加)\n- この効果によって、当該戦闘の最大スロット数を超過してスロットが増えることはない\n- 一部コンテンツのスロット増加制限効果を無視して発動可能\n\n特定条件達成時、この戦闘のあいだ戦闘BGMを変更 (一部の戦闘を除く)",
       "summary": "被ダメージを蜘蛛の巣の人格に転嫁",
       "flavor": "「再び会いたくないものとは再び会うことになり、再び会いたいものとは再び会えない。」\n「それゆえ、再会の瞬間には心を鬼にしなければならない。」"
     },

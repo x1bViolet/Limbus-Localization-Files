@@ -39,7 +39,7 @@
     {
       "id": "MosesRedBreathAttack",
       "name": "赤い息 - 奔る身体",
-      "desc": "- 攻撃レベルが5増加\n- 基本攻撃スキルのマッチ威力 +5",
+      "desc": "- 攻撃レベルが5増加\n- 基本スキルのマッチ威力 +5",
       "summary": "",
       "undefined": "-"
     },
