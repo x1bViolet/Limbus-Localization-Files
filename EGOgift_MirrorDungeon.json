@@ -4719,7 +4719,7 @@
     {
       "id": 9195,
       "name": "Cloudpattern Gourd Bottle",
-      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn per Identity)",
+      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Base Attack Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9195,
@@ -4888,7 +4888,7 @@
     {
       "id": 9200,
       "name": "Dueling Manual Book 3",
-      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
+      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity, using Base Skills to attack, dealt damage On Hit against an enemy inflicted by their 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
       "simpleDesc": [
         {
           "abilityID": 9200,

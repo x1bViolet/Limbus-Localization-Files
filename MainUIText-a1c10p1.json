@@ -107,6 +107,10 @@
     {
       "id": "notice_of_story_same_content",
       "content": "Contents the same as {0}. Only the reward is obtained."
+    },
+    {
+      "id": "10th_anniversary_event_desc",
+      "content": "Log in during the event and pick up a [3★ Guarantee Decaextraction Ticket and Lunacy]"
     }
   ]
 }

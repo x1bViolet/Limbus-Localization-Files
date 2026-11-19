@@ -1711,7 +1711,7 @@
     {
       "id": 1051111,
       "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit using Base Attack Skills: Inflict [ConcentratedAttackMeursault] next turn (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot that has [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit using Base Skills: Inflict [ConcentratedAttackMeursault] next turn (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot that has [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
       "summary": "Turn End: Gain [Agility] based on [Breath] Count on self. On Hit using a Base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
     },
     {
@@ -2501,7 +2501,7 @@
     {
       "id": 1071402,
       "name": "Gamefowl",
-      "desc": "When activating [HeishouCombo], The Lord of Hongyuan Hong Lu gains the following effect as the [HeishouComboCountHonglu] effect:\n- On Hit with this unit's Base Attack Skill: Deal 5% of Gluttony damage dealt as Wrath damage\n\nCannot be Staggered or fall below 1 HP due to [Combustion] damage.\n\nGain 3 [ChickenStance] and +3 [Combustion] Count in the same turn it Substitutes or Returns in.",
+      "desc": "When activating [HeishouCombo], The Lord of Hongyuan Hong Lu gains the following effect as the [HeishouComboCountHonglu] effect:\n- On Hit using this unit's Base Skill: Deal 5% of Gluttony damage dealt as Wrath damage\n\nCannot be Staggered or fall below 1 HP due to [Combustion] damage.\n\nGain 3 [ChickenStance] and +3 [Combustion] Count in the same turn it Substitutes or Returns in.",
       "summary": ""
     },
     {

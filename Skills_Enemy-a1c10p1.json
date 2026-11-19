@@ -223,7 +223,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [ChargeNoir] Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
                 }
               ]
             }
