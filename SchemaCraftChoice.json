@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": "schemacraft_choice_1_title",
+      "content": "전당포"
+    },
+    {
+      "id": "schemacraft_choice_1_text",
+      "content": "어중간한 비극과 빈곤으로는 아무도 전당포를 찾지 않지. 너저분하고 구차한 삶의 소음을 묵묵히 견뎌냈음에도, 미래에 걸었던 불투명한 기대마저 사라졌을 때. 사람들은 비로소, 가장 값진 과거를 내려놓으러 이곳으로 모여드는 거야. 양각으로 장식된 오른팔 의수, 어떤 곳으로 향할지 알 수 없는 기차표, 녹슬었지만 그 나름대로의 가치를 할 수 있을 것 같은 만년필 등이 진열되어 있어. 당신은 어색하게 주춤거리지만 주인은 그런 사람들 따위 수도 없이 보았다는 듯 고개도 들지 않고 물었지. '맡길 것?' 주머니를 뒤져 보던 당신은…"
+    },
+    {
+      "id": "schemacraft_choice_1_option_a",
+      "content": "가진 것들을 전부 올려놓았다."
+    },
+    {
+      "id": "schemacraft_choice_1_option_b",
+      "content": "제일 하찮은 것 하나만 내민다."
+    },
+    {
+      "id": "schemacraft_choice_1_skip",
+      "content": "훑어오는 시선을 피해 달아난다."
+    },
+    {
+      "id": "schemacraft_choice_2_title",
+      "content": "대리시험"
+    },
+    {
+      "id": "schemacraft_choice_2_text",
+      "content": "골목에 모여 있던 사람들이 다가왔어. '알다시피 내일 있는 실기 시험은… 얼굴을 꼼꼼하게 확인하지 않아요' 당신들은 이들이 왜 이런 말을 늘어놓는지 이내 깨달았지. '그리고 우리 아이들은 아직 너무 어려요. 경험도 부족하죠' 곧이어 옆의 사람이 이어 말했어. '하지만 이번 달까지 자격증을 전부 따야 다음 달에 있는 입사 면접에서 가산점을 딸 수 있다던데…' 어떤 시험인지는 말해주지 않아. 하지만 당신들이라면 이들이 둥지 이주에 대한 발판을 마련하는 데 조금의 도움을 줄 수 있을지도 모르지."
+    },
+    {
+      "id": "schemacraft_choice_2_option_a",
+      "content": "수감자 하나만 보낸다. 내키지 않아 하는 기색이지만 어쩔 수 없지."
+    },
+    {
+      "id": "schemacraft_choice_2_option_b",
+      "content": "제비뽑기를 통해 뽑힌 둘을 보낸다. 이로써 최대한 많은 합격자가 나올 수 있도록."
+    },
+    {
+      "id": "schemacraft_choice_2_skip",
+      "content": "관여하지 않는다. 둥지로의 이주는 이렇게 쉽게 이뤄지는 게 아니다."
+    },
+    {
+      "id": "schemacraft_choice_3_title",
+      "content": "자리 없는 놀이터"
+    },
+    {
+      "id": "schemacraft_choice_3_text",
+      "content": "이삿짐이 놓인 트럭이 좁은 골목을 비집고 들어오고 있어. 놀이터의 아이들은 일제히 고개를 돌리지만 반기는 얼굴은 하나도 없네. ‘하지만 이 놀이터는 이미 꽉 찼어. 빨간 그네에 여덟, 초록 그네에 다섯, 미끄럼틀에 열, 계단에 넷 하고 반, 시소에 열.’ 대장처럼 보이는 아이가 또박또박 말을 해. ‘그렇다면, 새로 오는 아이는 어디에 두지?’"
+    },
+    {
+      "id": "schemacraft_choice_3_option_a",
+      "content": "모랫바닥. 늦게 온 아이가 있을 곳은 그곳밖에 없다."
+    },
+    {
+      "id": "schemacraft_choice_3_option_b",
+      "content": "빨간 그네. 조금 더 비집고 끼워 넣는다면 가능할지도?"
+    },
+    {
+      "id": "schemacraft_choice_3_skip",
+      "content": "셈에 끼지 않기로 했다. 아이들을 등지고 걸어간다."
+    },
+    {
+      "id": "schemacraft_choice_4_title",
+      "content": "위조 명함"
+    },
+    {
+      "id": "schemacraft_choice_4_text",
+      "content": "‘무엇이든 될 수 있지. 꿈도 못 꿔본 것들 전부’ 사연 있는 사람들을 수차례 상대해 보았는지 주인은 익숙하게 영업을 해. 거창한 말과는 달리 그자의 손에 들린 것은 몇 장의 명함들 뿐. ‘이 종이에서만큼은, 당신은 K사의 팀장이지. 5급 해결사 사무소의 대표도 될 수 있고. 단 단속반이 온다면, 이곳은 과일 가게가 되는 거고 지금의 당신이 사간 건 잘 익은 사과뿐이 될 테지만.’ 이 자가 교묘하게 만들어준 명함 한 장이면 당신은 누구든 될 수 있어."
+    },
+    {
+      "id": "schemacraft_choice_4_option_a",
+      "content": "아무나 되어 본다. 지금의 나만 아니라면 누구든 상관없다."
+    },
+    {
+      "id": "schemacraft_choice_4_option_b",
+      "content": "날개의 입사자가 되어 본다. 많은 이들의 부러움을 받게 될 테니."
+    },
+    {
+      "id": "schemacraft_choice_4_skip",
+      "content": "지금의 나에게 만족한다. 지금 이대로도 나쁘지 않은 인생이다."
+    },
+    {
+      "id": "schemacraft_choice_5_title",
+      "content": "넝마 언덕"
+    },
+    {
+      "id": "schemacraft_choice_5_text",
+      "content": "혼잡스러운 시장 가판대 사이로 언덕 하나가 보여. 살펴보니 그것은 수많은 옷으로 쌓인 층들이야. 이곳의 모든 이들의 세탁물일지도 모르지. 구겨지고 주름지고 더럽고 냄새나는 경험들. 어쩌면 후일을 위해 한 벌 정도는 가져가 봐도 될지 몰라. 언젠가 우리들의 옷도 흐르고 흘러 이 언덕 아래에 쌓일 테니…"
+    },
+    {
+      "id": "schemacraft_choice_5_option_a",
+      "content": "정장 한 벌을 가져간다. 좀 더 헹구고 다림질을 한다면 꽤나 그럴듯해 보일지도 모른다."
+    },
+    {
+      "id": "schemacraft_choice_5_option_b",
+      "content": "무언가의 가죽 하나를 가져간다. 이곳을 돌아다니다 보면 가끔은 인간처럼 보이지 않아야 할 때가 찾아올 수 있기에."
+    },
+    {
+      "id": "schemacraft_choice_5_skip",
+      "content": "어떤 것도 가져가지 않는다. 지금 입은 것으로도 충분하다."
+    },
+    {
+      "id": "schemacraft_choice_6_title",
+      "content": "아무도 없는 정류장"
+    },
+    {
+      "id": "schemacraft_choice_6_text",
+      "content": "인적이 끊긴 정류장. 어디로 가는지도 어디서 왔는지도 모를 버스가 당신 앞에 멈춰섰어. 기다려온 시간에 보답하듯, 버스는 경적 한 번 울리지 않고 당신을 기다리지. 그러나 기다림은 오래지 않을 거야. 밤이 온 뒤에도, 뒷골목에는 한 번 더 밤이 찾아오기에… 서둘러 귀로를 정해야만 하겠지."
+    },
+    {
+      "id": "schemacraft_choice_6_option_a",
+      "content": "버스에 탑승한다."
+    },
+    {
+      "id": "schemacraft_choice_6_option_b",
+      "content": "기억하는 방향으로 걸어간다."
+    },
+    {
+      "id": "schemacraft_choice_6_skip",
+      "content": "버스를 보내고 정류장에 남는다. 다음 차가 오기는 할까."
+    },
+    {
+      "id": "schemacraft_choice_7_title",
+      "content": "백야"
+    },
+    {
+      "id": "schemacraft_choice_7_text",
+      "content": "빽빽한 건물들의 틈 사이로, 환한 빛이 솟구쳐 오르고 있어. 밤이라는 것이 세상에서 사라진 것처럼, 온 세상이 밝아지지. 뒷골목의 사람들이 하나둘 고개를 들어 하늘을 바라봐. 그 따사로운 빛 아래서, 당신은…"
+    },
+    {
+      "id": "schemacraft_choice_7_option_a",
+      "content": "사람들과 함께 하늘을 올려다본다."
+    },
+    {
+      "id": "schemacraft_choice_7_option_b",
+      "content": "도로 위 난반사된 빛을 내려다본다."
+    },
+    {
+      "id": "schemacraft_choice_7_skip",
+      "content": "그냥 눈을 질끈 감는다."
+    },
+    {
+      "id": "schemacraft_choice_8_title",
+      "content": "소문으로 가득찬 벽"
+    },
+    {
+      "id": "schemacraft_choice_8_text",
+      "content": "자질구레한 심부름부터 탐사와 청부살인까지. 해결사를 찾는 의뢰는 언제나 끊이질 않나봐. 의뢰의 대가는 표면적으로나마 모두 합당해 보여. 무엇을 맡고, 무엇을 외면할지는 스스로의 선택에 달려있을 거야"
+    },
+    {
+      "id": "schemacraft_choice_8_option_a",
+      "content": "도시 괴담. 항상 해오던 의뢰를 맡는다."
+    },
+    {
+      "id": "schemacraft_choice_8_option_b",
+      "content": "돈이 될만한 뜬소문을 쫓는다."
+    },
+    {
+      "id": "schemacraft_choice_8_option_c",
+      "content": "도시 전설. 막대한 보수가 걸린 의뢰를 맡는다."
+    },
+    {
+      "id": "schemacraft_choice_8_skip",
+      "content": "의뢰를 받지 않는다."
+    },
+    {
+      "id": "schemacraft_choice_201_title",
+      "content": "익숙하면서 낯선 골목"
+    },
+    {
+      "id": "schemacraft_choice_201_text",
+      "content": "미로 같은 골목이 이어지고 있어. 이 뒷골목은 기억하고 있는 그 어떤 곳의 골목과도 닮아있으며 동시에 낯설지. 걷고 또 걸어도 끝을 알 수 없는 골목을 걷다 문득 당신의 관심을 끌고 있는 것이 무엇인지를 알아챘어. 그것은…"
+    },
+    {
+      "id": "schemacraft_choice_201_option_a",
+      "content": "어두워진 주변이다. 단말기를 꺼내 시간을 살펴보자."
+    },
+    {
+      "id": "schemacraft_choice_201_option_a_desc",
+      "content": "3시 13분. 뒷골목에 밤이 내리면 그들이 찾아온다. 해가 오르면 그 어떠한 흔적도 남지 않도록."
+    },
+    {
+      "id": "schemacraft_choice_201_option_b",
+      "content": "어딘가에서 나는 음악소리였다. 흥겨운 박자다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_b_desc",
+      "content": "잘그락거리는 사슬 소리. 과시하는 듯한 웃음 소리. 그래. 중지는 잊는 법이 없다. 그들에게 원한을 산 이상, 언제까지나 도망자 신세일 수밖에 없다. 결국은 어느 골목 어귀에서 그들과 마주치고 말 테니까."
+    },
+    {
+      "id": "schemacraft_choice_201_option_c",
+      "content": "무언가가 짖고 있는 소리였다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_c_desc",
+      "content": "한 마리가 짖기 시작하자 이내 모든 골목 전체가 따라짖는 소리로 가득찼다. 발이 네개 있는 것들이 골목을 기어다니며 무엇을 지키는지도 모른 채 울부짖는다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_d",
+      "content": "관심이 별로 생기지 않는다. 앞으로 계속 걸어간다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_d_desc",
+      "content": "앞으로 계속 걸어가기로 했다. 내가 기다리고 있는 것은 이 골목에선 없을지도 모른다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_e",
+      "content": "의미없는 것이다. 더 이상 아무것도 신경쓰고 싶지 않았다."
+    },
+    {
+      "id": "schemacraft_choice_201_option_e_desc",
+      "content": "어떤 것이든 별로 궁금하지 않았다. 기척은 이내 잦아들 것이다. 그리고 또 다시 새로운 기척으로 채워지겠지."
+    },
+    {
+      "id": "schemacraft_choice_202_title",
+      "content": "검은 구름"
+    },
+    {
+      "id": "schemacraft_choice_202_text",
+      "content": "미로 같은 골목의 끝에서, 텅빈 공터에 발을 들였어. 이 뒷골목은 기억하고 있는 그 어떤 곳의 골목과도 달라 낯설고, 동시에 무관심하지. 그렇기에 기억을 종이 삼아, 그 위로 뒷골목의 삶을 마음대로 그려 봐도 될 거야. 진위도 가리지 않고, 허실도 구분하지 않고… 그렇게 거리의 무관심이 달갑지 않은 관심으로 변하는 순간. 생각에서 피어난 검은 구름이 골목을 따라 길게 드리웠어"
+    },
+    {
+      "id": "schemacraft_choice_202_option_a",
+      "content": "구름을 벤다."
+    },
+    {
+      "id": "schemacraft_choice_202_option_a_desc",
+      "content": "동부십검. 검귀. 수라. 지옥의 문을 열어 처절히 경험했기에, 나는 그 이름을 가졌던 자들을 기억한다. 이곳에는…"
+    },
+    {
+      "id": "schemacraft_choice_202_option_c",
+      "content": "구름을 피해 도망친다."
+    },
+    {
+      "id": "schemacraft_choice_202_option_c_desc",
+      "content": "구축한 세계에 반드시 발을 들이밀 필요는 없다."
+    },
+    {
+      "id": "schemacraft_choice_203_title",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_text",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_option_a",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_option_a_desc",
+      "content": ""
+    }
+  ]
+}

@@ -3282,6 +3282,370 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "가죽 뜯기",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1\n[DefeatDuel] 자신의 최대 체력의 5%만큼 보호막을 얻고, 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "가죽 뜯기",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +10%</style>\n[DefeatDuel] 자신의 최대 체력의 5%만큼 보호막을 얻고, 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "가죽 뜯기",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력과 [MoodooJoesu]의 합 4당, 최종 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">20%</style>\n[DefeatDuel] 자신의 최대 체력의 5%만큼 보호막을 얻고, 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "스플리팅",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 8 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [BulletJoesu]가 3 이상이면, [HitTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu] 3 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "스플리팅",
+          "desc": "[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +10%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 8 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [BulletJoesu]가 3 이상이면, [HitTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu] 3 소모"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration] 횟수 1 증가</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "스플리팅",
+          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력과 [MoodooJoesu]의 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +1\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">20%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 8 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [BulletJoesu]가 3 이상이면, [HitTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu] 3 소모"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "원죄적 뇌유 텀블링",
+          "desc": "[BeforeUse] [BulletJoesu]가 6이면, [WideAreaRampage], 공격 가중치 +2 (턴당 1회)\n\n[WhenUse] 메인 타겟의 [Vibration] 위력과 [MoodooJoesu]의 합이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 5 소모하여, 최종 위력 +2\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +10%\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +20% (집중 전투면, 부위로 판정)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu] 6 소모"
+                },
+                {
+                  "desc": "이 코인은 모든 공격 대상에게 적중함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "원죄적 뇌유 텀블링",
+          "desc": "[BeforeUse] [BulletJoesu]가 6이면, [WideAreaRampage], 공격 가중치 +2 (턴당 1회)\n\n<style=\"highlight\">[WhenUse] 메인 타겟의 [Vibration] 위력과 [MoodooJoesu]의 합 6당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 5 소모하여, 최종 위력 +2\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1, 피해량 +<style=\"highlight\">20%</style>\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +<style=\"highlight\">30%</style> (집중 전투면, 부위로 판정)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 4 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu] 6 소모"
+                },
+                {
+                  "desc": "이 코인은 모든 공격 대상에게 적중함"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "통제를위한통제",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)\n\n[WhenUse] 대상의 [MoodooJoesu] 2당, 코인 위력 +1 (최대 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "통제를위한통제",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)\n\n[WhenUse] 대상의 [MoodooJoesu] 2당, 코인 위력 +1 (최대 3)\n\n<style=\"highlight\">[StartDuel] [RuleSanction] 1 얻음 (턴당 1회)</style>\n<style=\"highlight\">[WinDuel] 대상에게 [RuleViolation] 1 부여 (턴당 1회)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "통제를위한통제",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 자신의 [ChargeNoirAlly] 횟수 4 증가 (턴당 1회)\n\n<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 최종 위력 +1</style>\n[WhenUse] 대상의 [MoodooJoesu] 2당, 코인 위력 +1 (최대 3)\n\n[StartDuel] [RuleSanction] 1 얻음 (턴당 1회)\n[WinDuel] 대상에게 [RuleViolation] 1 부여 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011705,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "퍼니싱 버니싱 피니싱",
+          "desc": "[CantDuel]\n[WhenUse] 대상의 [Vibration] 위력과 [MoodooJoesu]의 합 4당, 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +2, 피해량 +20%\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 최종 위력 +1, 피해량 +30%\n\n[EndSkill] [RuleSanction] 3 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "피해량 +100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 4 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 ([MoodooJoesu] x 4)%만큼 타격 피해 (최대 16%, 소수점 버림)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "퍼니싱 버니싱 피니싱",
+          "desc": "[CantDuel]\n[WhenUse] 대상의 [Vibration] 위력과 [MoodooJoesu]의 합 4당, 최종 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수를 3 소모하여, 최종 위력 +2, 피해량 +<style=\"highlight\">40%</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 최종 위력 +<style=\"highlight\">2</style>, 피해량 +<style=\"highlight\">60%</style>\n\n[EndSkill] [RuleSanction] 3 감소",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "피해량 +<style=\"highlight\">120%</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 4 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 ([MoodooJoesu] x <style=\"highlight\">5</style>)%만큼 타격 피해 (최대 <style=\"highlight\">20%</style>, 소수점 버림)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

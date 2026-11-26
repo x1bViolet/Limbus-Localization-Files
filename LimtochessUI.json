@@ -1,0 +1,4104 @@
+{
+  "dataList": [
+    {
+      "id": "limtochess_entrance_continue",
+      "content": "이어하기"
+    },
+    {
+      "id": "limtochess_entrance_new_game",
+      "content": "새로하기"
+    },
+    {
+      "id": "limtochess_entrance_pass",
+      "content": "도상구축 패스"
+    },
+    {
+      "id": "limtochess_entrance_overwrite_title",
+      "content": "새로하기"
+    },
+    {
+      "id": "limtochess_entrance_overwrite_desc",
+      "content": "진행 중인 도상구축을 종료하고 새로 시작하시겠습니까?\n확인 선택 시, 지금까지의 진행도에 따라 보상을 받은 다음 새롭게 시작합니다."
+    },
+    {
+      "id": "limtochess_mode_name",
+      "content": "도상구축"
+    },
+    {
+      "id": "limtochess_mode_title",
+      "content": "도상구축 (베타)"
+    },
+    {
+      "id": "limtochess_entrance_enter",
+      "content": "입장하기"
+    },
+    {
+      "id": "limtochess_entrance_auto_select_bonus",
+      "content": "이번 플레이 시 자동 편성 새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_entrance_locked",
+      "content": "{0} 후 입장할 수 있습니다."
+    },
+    {
+      "id": "limtochess_room_type_start",
+      "content": "시작 방"
+    },
+    {
+      "id": "limtochess_room_type_empty",
+      "content": "빈 방"
+    },
+    {
+      "id": "limtochess_room_type_normal",
+      "content": "일반"
+    },
+    {
+      "id": "limtochess_room_type_elite",
+      "content": "정예"
+    },
+    {
+      "id": "limtochess_room_type_rest",
+      "content": "휴식"
+    },
+    {
+      "id": "limtochess_room_type_temptation",
+      "content": "유혹"
+    },
+    {
+      "id": "limtochess_room_type_event",
+      "content": "이벤트"
+    },
+    {
+      "id": "limtochess_room_type_segment_boss",
+      "content": "보스"
+    },
+    {
+      "id": "limtochess_room_type_final_boss",
+      "content": "최종 보스"
+    },
+    {
+      "id": "limtochess_roominfo_title_room",
+      "content": "제 {0}도상 {1} #{2}"
+    },
+    {
+      "id": "limtochess_roominfo_bonus_none",
+      "content": "-"
+    },
+    {
+      "id": "limtochess_roominfo_bonus_mp_recover",
+      "content": "정신력 회복 +{0} (방에 들어올 때 적용됨)"
+    },
+    {
+      "id": "limtochess_roominfo_bonus_mp_risk",
+      "content": "정신력 손실 위험 -{0} (방에 들어올 때 적용됨)"
+    },
+    {
+      "id": "limtochess_roominfo_list_effect",
+      "content": "효과"
+    },
+    {
+      "id": "limtochess_roominfo_list_penalty",
+      "content": "패널티"
+    },
+    {
+      "id": "limtochess_roominfo_list_event_boss",
+      "content": "이번 도상구축의 끝에서 마주할 것을 그립니다"
+    },
+    {
+      "id": "limtochess_roominfo_list_event_skip",
+      "content": "고르지 않고 나가면 효과와 고난을 모두 받지 않습니다"
+    },
+    {
+      "id": "limtochess_roominfo_list_tempt_offer",
+      "content": "입장 시, 인격 또는 E.G.O를 선택하여 받을 수 있습니다. (단, 선택하지 않아도 됩니다.)"
+    },
+    {
+      "id": "limtochess_roominfo_list_tempt_mp",
+      "content": "제안에 따라 편성 인격 전원 정신력 {0}"
+    },
+    {
+      "id": "limtochess_roominfo_list_rest_pick",
+      "content": "들어가면 아래 휴식 효과 중 하나를 고릅니다"
+    },
+    {
+      "id": "limtochess_roominfo_list_rest_mp",
+      "content": "정신력 회복"
+    },
+    {
+      "id": "limtochess_roominfo_list_rest_reroll",
+      "content": "새로고침 기회"
+    },
+    {
+      "id": "limtochess_roominfo_list_rest_syncup",
+      "content": "편성 인격 1명 동기화 +1단계"
+    },
+    {
+      "id": "limtochess_roominfo_list_rest_freeroll_carry",
+      "content": "추가 굴림 (쓰지 않은 추가 굴림은 다음 도상으로 이어집니다)"
+    },
+    {
+      "id": "limtochess_roominfo_list_event_pool",
+      "content": "들어가면 아래 이벤트 중 하나가 나오며, 선택지 하나를 골라 효과를 받습니다"
+    },
+    {
+      "id": "limtochess_roominfo_to_formation",
+      "content": "편성 시작"
+    },
+    {
+      "id": "limtochess_roominfo_move",
+      "content": "표상 진입"
+    },
+    {
+      "id": "limtochess_roominfo_cannot_move",
+      "content": "갈 수 없음"
+    },
+    {
+      "id": "limtochess_battleprep_step_formation",
+      "content": "편성"
+    },
+    {
+      "id": "limtochess_battleprep_step_defense",
+      "content": "방어 정책"
+    },
+    {
+      "id": "limtochess_battleprep_step_briefing",
+      "content": "브리핑"
+    },
+    {
+      "id": "limtochess_battleprep_back",
+      "content": "뒤로"
+    },
+    {
+      "id": "limtochess_packpreview_grade",
+      "content": "{0}등급"
+    },
+    {
+      "id": "limtochess_packpreview_label_random",
+      "content": "무작위"
+    },
+    {
+      "id": "limtochess_pack_mix_identity",
+      "content": "인격 {0}개 중 {1}개 획득"
+    },
+    {
+      "id": "limtochess_pack_mix_ego",
+      "content": "E.G.O {0}개 중 {1}개 획득"
+    },
+    {
+      "id": "limtochess_pack_keep_identity",
+      "content": "인격 {0}명"
+    },
+    {
+      "id": "limtochess_pack_keep_ego",
+      "content": "E.G.O {0}개"
+    },
+    {
+      "id": "limtochess_pack_keep_suffix",
+      "content": "획득 가능"
+    },
+    {
+      "id": "limtochess_pack_mix_identity_none",
+      "content": "인격 없음"
+    },
+    {
+      "id": "limtochess_pack_mix_ego_none",
+      "content": "E.G.O 없음"
+    },
+    {
+      "id": "limtochess_pack_cost",
+      "content": "COST {0}"
+    },
+    {
+      "id": "limtochess_packpreview_tier_line",
+      "content": "{0} / {1}명"
+    },
+    {
+      "id": "limtochess_personality_name",
+      "content": "{0} {1}"
+    },
+    {
+      "id": "limtochess_level",
+      "content": "Lv {0}"
+    },
+    {
+      "id": "limtochess_battleprep_start",
+      "content": "전투 시작"
+    },
+    {
+      "id": "limtochess_defense_option_placeholder",
+      "content": "N"
+    },
+    {
+      "id": "limtochess_defense_option_queue",
+      "content": "{0}개"
+    },
+    {
+      "id": "limtochess_defense_type_guard",
+      "content": "방어"
+    },
+    {
+      "id": "limtochess_defense_type_evade",
+      "content": "회피"
+    },
+    {
+      "id": "limtochess_defense_type_counter",
+      "content": "반격"
+    },
+    {
+      "id": "limtochess_defense_preset_name_0",
+      "content": "쓰지 않음"
+    },
+    {
+      "id": "limtochess_defense_preset_name_4",
+      "content": "공격받을 때"
+    },
+    {
+      "id": "limtochess_defense_preset_name_6",
+      "content": "사망 위험"
+    },
+    {
+      "id": "limtochess_defense_preset_name_7",
+      "content": "강한 공격을 받을 때"
+    },
+    {
+      "id": "limtochess_defense_preset_name_11",
+      "content": "대기 스킬 중 같은 속성 {0}개 이상"
+    },
+    {
+      "id": "limtochess_defense_preset_name_12",
+      "content": "고유 조건"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_0",
+      "content": "수비 스킬을 쓰지 않습니다"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_4",
+      "content": "자신에게 공격 스킬을 사용하려는 적이 있을 때"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_6",
+      "content": "사망할 정도의 피해를 받을 것 같을 때"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_7",
+      "content": "자신에게 스킬 3 또는 강화 스킬 3을 사용하려는 적이 있을 때"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_11",
+      "content": "대기 중인 스킬에 같은 속성이 {0}개 이상일 때"
+    },
+    {
+      "id": "limtochess_defense_preset_desc_12",
+      "content": "이 인격의 고유 조건이 충족될 때"
+    },
+    {
+      "id": "limtochess_defense_default",
+      "content": "기본 설정"
+    },
+    {
+      "id": "limtochess_defense_all_default",
+      "content": "전원 기본값으로"
+    },
+    {
+      "id": "limtochess_defense_all_selected",
+      "content": "선택한 인격 설정을 전원에 적용"
+    },
+    {
+      "id": "limtochess_defense_all_none",
+      "content": "전원 쓰지 않음"
+    },
+    {
+      "id": "limtochess_briefing_average_level",
+      "content": "평균 레벨"
+    },
+    {
+      "id": "limtochess_briefing_enemy_status",
+      "content": "적 스테이터스"
+    },
+    {
+      "id": "limtochess_briefing_speed",
+      "content": "속도"
+    },
+    {
+      "id": "limtochess_briefing_ally",
+      "content": "아군"
+    },
+    {
+      "id": "limtochess_briefing_enemy",
+      "content": "적"
+    },
+    {
+      "id": "limtochess_briefing_headcount",
+      "content": "인원"
+    },
+    {
+      "id": "limtochess_briefing_threat_0",
+      "content": "여유"
+    },
+    {
+      "id": "limtochess_briefing_threat_1",
+      "content": "보통"
+    },
+    {
+      "id": "limtochess_briefing_threat_2",
+      "content": "위험"
+    },
+    {
+      "id": "limtochess_briefing_threat_3",
+      "content": "절망"
+    },
+    {
+      "id": "limtochess_briefing_script_0",
+      "content": "일반"
+    },
+    {
+      "id": "limtochess_briefing_script_1",
+      "content": "정예"
+    },
+    {
+      "id": "limtochess_briefing_script_2",
+      "content": "보스"
+    },
+    {
+      "id": "limtochess_briefing_wave_tag",
+      "content": "웨이브 x{0}"
+    },
+    {
+      "id": "limtochess_briefing_enemy_count",
+      "content": "x{0}"
+    },
+    {
+      "id": "limtochess_briefing_refill",
+      "content": "전투 중 적 {0}명이 추가로 등장합니다."
+    },
+    {
+      "id": "limtochess_briefing_no_refill",
+      "content": "추가로 등장하는 적이 없습니다."
+    },
+    {
+      "id": "limtochess_briefing_speed_faster",
+      "content": "아군이 대체로 먼저 움직입니다."
+    },
+    {
+      "id": "limtochess_briefing_speed_slower",
+      "content": "적이 대체로 먼저 움직입니다."
+    },
+    {
+      "id": "limtochess_briefing_speed_similar",
+      "content": "아군과 적의 속도가 비슷합니다."
+    },
+    {
+      "id": "limtochess_briefing_multi_action_tag",
+      "content": "연속 행동 x{0}"
+    },
+    {
+      "id": "limtochess_briefing_multi_action_grow_tag",
+      "content": "연속 행동 x{0}→x{1}"
+    },
+    {
+      "id": "limtochess_packselect_my_deck",
+      "content": "편성 확인"
+    },
+    {
+      "id": "limtochess_packselect_deck_tag",
+      "content": "{0} {1}"
+    },
+    {
+      "id": "limtochess_packselect_reroll",
+      "content": "새로고침 기회"
+    },
+    {
+      "id": "limtochess_packselect_deck_count",
+      "content": "전투 편성에 {0}명"
+    },
+    {
+      "id": "limtochess_packselect_swap",
+      "content": "팩 새로고침"
+    },
+    {
+      "id": "limtochess_packselect_swap_cost",
+      "content": "팩 교체 · 기회 소모량 {0}"
+    },
+    {
+      "id": "limtochess_packselect_swap_done",
+      "content": "새로고침 완료"
+    },
+    {
+      "id": "limtochess_packselect_card_reroll",
+      "content": "교체"
+    },
+    {
+      "id": "limtochess_packselect_rest_title",
+      "content": "이 방의 팩 목록"
+    },
+    {
+      "id": "limtochess_packselect_rest_desc",
+      "content": "팩 교체 시 아래 팩 중 하나로 바뀝니다"
+    },
+    {
+      "id": "limtochess_packselect_open_pack",
+      "content": "팩 열기"
+    },
+    {
+      "id": "limtochess_packselect_open_pack_mix",
+      "content": "팩 열기 · 인격 {0} · E.G.O {1}"
+    },
+    {
+      "id": "limtochess_packselect_open_pack_step",
+      "content": "{0} ({1}/{2})"
+    },
+    {
+      "id": "limtochess_packselect_odds_cost",
+      "content": "인격 코스트"
+    },
+    {
+      "id": "limtochess_packselect_odds_ego",
+      "content": "E.G.O 등급"
+    },
+    {
+      "id": "limtochess_packselect_odds_sync",
+      "content": "카드 동기화"
+    },
+    {
+      "id": "limtochess_packselect_odds_item_cost",
+      "content": "COST {0} {1}%"
+    },
+    {
+      "id": "limtochess_packselect_odds_item_sync",
+      "content": "동기화 {0}단계 {1}%"
+    },
+    {
+      "id": "limtochess_packselect_odds_item",
+      "content": "{0} {1}%"
+    },
+    {
+      "id": "limtochess_packselect_pack_title",
+      "content": "[ {0} ] 팩"
+    },
+    {
+      "id": "limtochess_packselect_confirm",
+      "content": "확정"
+    },
+    {
+      "id": "limtochess_packselect_confirm_count",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_packselect_confirm_preview",
+      "content": "선택 항목"
+    },
+    {
+      "id": "limtochess_packselect_toggle_recruit",
+      "content": "편성"
+    },
+    {
+      "id": "limtochess_packselect_toggle_replace",
+      "content": "교체"
+    },
+    {
+      "id": "limtochess_packselect_toggle_fragment",
+      "content": "조각"
+    },
+    {
+      "id": "limtochess_packselect_toggle_syncup",
+      "content": "동기화"
+    },
+    {
+      "id": "limtochess_packselect_desc_recruit",
+      "content": "편성에 추가됩니다.\n동기화 {0}단계로 시작"
+    },
+    {
+      "id": "limtochess_packselect_desc_replace",
+      "content": "선택 시 현재 인격\n[{0}](과/와) 교체됩니다."
+    },
+    {
+      "id": "limtochess_packselect_desc_ego_equip",
+      "content": "선택 시 빈 {0} 칸에 장착합니다."
+    },
+    {
+      "id": "limtochess_packselect_ego_tier",
+      "content": "환상 해석 {0}단계"
+    },
+    {
+      "id": "limtochess_packselect_sync_change",
+      "content": "동기화 {0}단계 → 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_packselect_summary_recruit",
+      "content": "{0} 편성"
+    },
+    {
+      "id": "limtochess_packselect_summary_replace",
+      "content": "{0} 인격 교체"
+    },
+    {
+      "id": "limtochess_packselect_summary_syncup",
+      "content": "{0} 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_packselect_summary_fragment",
+      "content": "{0} 조각 획득 (동기화에 필요한 조각 {2}개 중 {1}개)"
+    },
+    {
+      "id": "limtochess_packselect_summary_fragment_keep",
+      "content": "{0} 조각 보관 {1}개"
+    },
+    {
+      "id": "limtochess_packselect_summary_fragment_generic",
+      "content": "{0} 범용 조각 +{1}"
+    },
+    {
+      "id": "limtochess_packselect_summary_none",
+      "content": "선택한 인격 · E.G.O가 없습니다.\n※ 인격 동기화 필요 조각 (동기화 1/2/3단계) : 2/3/3개"
+    },
+    {
+      "id": "limtochess_packselect_summary_ego_equip",
+      "content": "{0} E.G.O 장착"
+    },
+    {
+      "id": "limtochess_packselect_summary_ego_replace",
+      "content": "{0} E.G.O 교체"
+    },
+    {
+      "id": "limtochess_packselect_discard",
+      "content": ""
+    },
+    {
+      "id": "limtochess_packselect_full",
+      "content": "고를 수 있는 카드는 {0}장까지입니다. 고른 카드를 눌러 뺄 수 있습니다."
+    },
+    {
+      "id": "limtochess_packselect_full_identity",
+      "content": "인격은 {0}장까지 고를 수 있습니다. 고른 카드를 눌러 뺄 수 있습니다."
+    },
+    {
+      "id": "limtochess_packselect_full_ego",
+      "content": "E.G.O는 {0}장까지 고를 수 있습니다. 고른 카드를 눌러 뺄 수 있습니다."
+    },
+    {
+      "id": "limtochess_packselect_count_identity",
+      "content": "인격 {0}/{1}"
+    },
+    {
+      "id": "limtochess_packselect_count_ego",
+      "content": "E.G.O {0}/{1}"
+    },
+    {
+      "id": "limtochess_packselect_need_identity",
+      "content": "인격을 {0}장 더 골라야 확정할 수 있습니다."
+    },
+    {
+      "id": "limtochess_packselect_need_ego",
+      "content": "E.G.O를 {0}장 더 골라야 확정할 수 있습니다."
+    },
+    {
+      "id": "limtochess_packselect_need_both",
+      "content": "인격 {0}장, E.G.O {1}장을 더 골라야 확정할 수 있습니다."
+    },
+    {
+      "id": "limtochess_roster_count",
+      "content": "편성 {0}/{1}"
+    },
+    {
+      "id": "limtochess_roster_replace_note",
+      "content": "현재 도상의 편성 최대 인원({0}명)에 도달하여 {1}명을 제외해야 합니다."
+    },
+    {
+      "id": "limtochess_confirm_unclaimed_title",
+      "content": "받지 않은 보상이 있습니다"
+    },
+    {
+      "id": "limtochess_confirm_unclaimed_desc",
+      "content": "{0}\n이대로 진행하시겠습니까?"
+    },
+    {
+      "id": "limtochess_confirm_overwrite_title",
+      "content": "새 판 시작"
+    },
+    {
+      "id": "limtochess_packselect_reroll_bonus_title",
+      "content": "새로고침 기회 보너스"
+    },
+    {
+      "id": "limtochess_packselect_reroll_count",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_elite_swap_title",
+      "content": "인격 교체 : {0}"
+    },
+    {
+      "id": "limtochess_elite_swap_head",
+      "content": "바꿀 대상"
+    },
+    {
+      "id": "limtochess_elite_personality_sync",
+      "content": "{0} 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_elite_recruit_title",
+      "content": "편성 : {0}"
+    },
+    {
+      "id": "limtochess_elite_replace_title",
+      "content": "교체 : {0}"
+    },
+    {
+      "id": "limtochess_elite_keyword_head",
+      "content": "동기화 {0}단계 인격"
+    },
+    {
+      "id": "limtochess_elite_base_ego",
+      "content": "수감자 기본 E.G.O"
+    },
+    {
+      "id": "limtochess_elite_growth_title",
+      "content": "성장 : 조각 +{0}개"
+    },
+    {
+      "id": "limtochess_elite_growth_head",
+      "content": "전투 편성 내 수감자 1명에게 조각 부여"
+    },
+    {
+      "id": "limtochess_elite_growth_desc",
+      "content": "인격 동기화에 사용됩니다."
+    },
+    {
+      "id": "limtochess_elite_skip_title",
+      "content": "받지 않기"
+    },
+    {
+      "id": "limtochess_elite_skip_head",
+      "content": "현재 전투 편성 유지"
+    },
+    {
+      "id": "limtochess_elite_sync",
+      "content": "동기화 {0}단계"
+    },
+    {
+      "id": "limtochess_elite_fragments_label",
+      "content": "보유 {0} 조각"
+    },
+    {
+      "id": "limtochess_elite_back",
+      "content": "뒤로가기"
+    },
+    {
+      "id": "limtochess_elite_confirm",
+      "content": "확인"
+    },
+    {
+      "id": "limtochess_confirm_pack_none",
+      "content": "인격 카드를 하나도 고르지 않았습니다. 최대 {0}장까지 받을 수 있습니다."
+    },
+    {
+      "id": "limtochess_confirm_pack_left",
+      "content": "인격 카드를 {0}장 더 받을 수 있습니다(고른 {1}/{2}장)."
+    },
+    {
+      "id": "limtochess_confirm_pack_none_ego",
+      "content": "E.G.O 카드를 하나도 고르지 않았습니다. 최대 {0}장까지 받을 수 있습니다."
+    },
+    {
+      "id": "limtochess_confirm_pack_none_both",
+      "content": "카드를 하나도 고르지 않았습니다. 인격 최대 {0}장, E.G.O 최대 {1}장까지 받을 수 있습니다."
+    },
+    {
+      "id": "limtochess_confirm_pack_left_ego",
+      "content": "E.G.O 카드를 {0}장 더 받을 수 있습니다(고른 {1}/{2}장)."
+    },
+    {
+      "id": "limtochess_confirm_pack_left_both",
+      "content": "인격 카드 {0}장, E.G.O 카드 {1}장을 더 받을 수 있습니다(고른 {2}/{3}장)."
+    },
+    {
+      "id": "limtochess_confirm_reward_skip",
+      "content": "받을 수 있는 보상 {0}개 중 하나도 받지 않고 넘어갑니다."
+    },
+    {
+      "id": "limtochess_confirm_reward_rest_generic",
+      "content": "범용 조각 {0}개를 이 휴식에서 아직 쓸 수 있습니다(최대 {1}번).\n휴식 보상을 받으면 휴식이 끝나 이번에는 더 쓸 수 없습니다."
+    },
+    {
+      "id": "limtochess_confirm_ego_replace_title",
+      "content": "E.G.O 교체"
+    },
+    {
+      "id": "limtochess_confirm_ego_replace_desc",
+      "content": "{0}의 {1} 칸에 이미 '{2}'({3}단계)가 있습니다.\n'{4}'({5}단계)로 덮어쓰시겠습니까?\n취소하면 새 E.G.O는 버립니다."
+    },
+    {
+      "id": "limtochess_elite_disabled_swap",
+      "content": "바꿀 수 있는 인격이 없습니다."
+    },
+    {
+      "id": "limtochess_elite_disabled_keyword",
+      "content": "고를 수 있는 인격이 없습니다."
+    },
+    {
+      "id": "limtochess_elite_disabled_growth",
+      "content": "조각을 받을 수감자가 없습니다."
+    },
+    {
+      "id": "limtochess_elite_head_swap",
+      "content": "인격 교체"
+    },
+    {
+      "id": "limtochess_elite_head_recruit",
+      "content": "인격 편성"
+    },
+    {
+      "id": "limtochess_elite_head_growth",
+      "content": "성장"
+    },
+    {
+      "id": "limtochess_elite_growth_target",
+      "content": "전투 편성 내 수감자 1명에게 조각 {0}개 부여"
+    },
+    {
+      "id": "limtochess_elite_base_ego_equipped",
+      "content": "수감자 기본 E.G.O 장착 중"
+    },
+    {
+      "id": "limtochess_elite_roster_full_head",
+      "content": "편성 인원 가득 참"
+    },
+    {
+      "id": "limtochess_elite_roster_full_desc",
+      "content": "선택 시 기존 인격 {0}명을 제외합니다"
+    },
+    {
+      "id": "limtochess_elite_skip_desc",
+      "content": "정예 보상을 받지 않고\n진행합니다."
+    },
+    {
+      "id": "limtochess_start_title_direct",
+      "content": "시작 편성"
+    },
+    {
+      "id": "limtochess_start_title_auto",
+      "content": "시작 편성"
+    },
+    {
+      "id": "limtochess_start_toggle_direct",
+      "content": "수동 편성"
+    },
+    {
+      "id": "limtochess_start_toggle_auto",
+      "content": "자동 편성"
+    },
+    {
+      "id": "limtochess_start_count",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_start_remaining_cost",
+      "content": "남은 코스트"
+    },
+    {
+      "id": "limtochess_start_clear_all",
+      "content": "일괄 편성 해제"
+    },
+    {
+      "id": "limtochess_start_empty_slot",
+      "content": "편성 가능"
+    },
+    {
+      "id": "limtochess_start_empty",
+      "content": "편성 해제"
+    },
+    {
+      "id": "limtochess_start_locked_band",
+      "content": "편성 불가"
+    },
+    {
+      "id": "limtochess_start_locked_list",
+      "content": "※ 자동 편성 중에는 목록을 수정할 수 없습니다."
+    },
+    {
+      "id": "limtochess_start_block_budget",
+      "content": "코스트 부족"
+    },
+    {
+      "id": "limtochess_start_block_topcost",
+      "content": "{0}코스트 제한"
+    },
+    {
+      "id": "limtochess_start_block_full",
+      "content": "인원 초과"
+    },
+    {
+      "id": "limtochess_start_block_auto",
+      "content": "자동 편성 중"
+    },
+    {
+      "id": "limtochess_start_desc_auto",
+      "content": "※자동 편성 시 패스 경험치 추가 획득"
+    },
+    {
+      "id": "limtochess_start_desc_topcost",
+      "content": ""
+    },
+    {
+      "id": "limtochess_start_start",
+      "content": "시작"
+    },
+    {
+      "id": "limtochess_start_saved_deck",
+      "content": "자동 편성 목록"
+    },
+    {
+      "id": "limtochess_start_reroll",
+      "content": "자동 편성 새로고침"
+    },
+    {
+      "id": "limtochess_start_rolls_left",
+      "content": "남은 굴림 횟수"
+    },
+    {
+      "id": "limtochess_start_rolls_bonus",
+      "content": "· 지난 판 진행 보너스로 자동 편성 새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_start_reroll_help",
+      "content": "(더미) 자동 편성을 다시 굴립니다.\n\n· 매일 <color=#5f77fa>{0}회</color> 주어지며, 날짜가 바뀌면 다시 채워집니다.\n· 판이 끝나면(클리어·패배·포기 무관) 처치한 도상 보스 수에 따라 다음 판에 쓸 <color=#f8c200>새로고침 보너스</color>를 받습니다. 보너스는 이전 보너스에 더해지지 않고 새로 정해집니다.\n{1}\n· 보너스는 매일 횟수보다 먼저 쓰이고, 날짜가 바뀌어도 사라지지 않습니다.\n· 매일 남은 횟수와 보너스를 합쳐 최대 {2}회까지 쓸 수 있습니다.\n\n현재 보너스 : <color=#f8c200>{3}</color>"
+    },
+    {
+      "id": "limtochess_start_reroll_help_tier",
+      "content": "    - 도상 보스 처치 {0} : <color=#f8c200>+{1}</color>"
+    },
+    {
+      "id": "limtochess_start_reroll_help_single",
+      "content": "{0}회"
+    },
+    {
+      "id": "limtochess_start_reroll_help_range",
+      "content": "{0}~{1}회"
+    },
+    {
+      "id": "limtochess_start_reroll_help_open",
+      "content": "{0}회 이상"
+    },
+    {
+      "id": "limtochess_packselect_deck_tag_more",
+      "content": "..."
+    },
+    {
+      "id": "limtochess_confirm_underfilled_desc",
+      "content": "편성 가능한 인원보다 적게 선택했습니다. ({0}/{1}명)"
+    },
+    {
+      "id": "limtochess_confirm_underfilled_proceed",
+      "content": "이대로 진행하시겠습니까?"
+    },
+    {
+      "id": "limtochess_map_roster_standby",
+      "content": "대기"
+    },
+    {
+      "id": "limtochess_map_extra_move_steps",
+      "content": "추가 굴림"
+    },
+    {
+      "id": "limtochess_map_extra_roll_warning",
+      "content": "초과 굴림 시, 도상 왜곡"
+    },
+    {
+      "id": "limtochess_map_elite_conversion_warning",
+      "content": "(※ 초과 굴림 3번째부터 이번 도상의 남은 일반 전투가 모두 정예 전투로 바뀝니다.)"
+    },
+    {
+      "id": "limtochess_map_unreachable_room",
+      "content": "현재 갈 수 없는 표상입니다."
+    },
+    {
+      "id": "limtochess_map_legend_title",
+      "content": "범례"
+    },
+    {
+      "id": "limtochess_map_legend_normal",
+      "content": "일반 전투"
+    },
+    {
+      "id": "limtochess_map_legend_elite",
+      "content": "정예 전투"
+    },
+    {
+      "id": "limtochess_map_legend_boss",
+      "content": "보스 전투"
+    },
+    {
+      "id": "limtochess_map_legend_rest",
+      "content": "휴식"
+    },
+    {
+      "id": "limtochess_map_legend_temptation",
+      "content": "유혹"
+    },
+    {
+      "id": "limtochess_map_section",
+      "content": "제 {0}도상"
+    },
+    {
+      "id": "limtochess_roll_penalty_title",
+      "content": "도상 왜곡"
+    },
+    {
+      "id": "limtochess_roll_penalty_count",
+      "content": "도상 왜곡 {0}개"
+    },
+    {
+      "id": "limtochess_roll_penalty_next",
+      "content": "무작위 왜곡 1개 (후보 {0})"
+    },
+    {
+      "id": "limtochess_roll_penalty_next_short",
+      "content": "+1"
+    },
+    {
+      "id": "limtochess_roll_penalty_level",
+      "content": "적 레벨 +{0}"
+    },
+    {
+      "id": "limtochess_roll_penalty_clash_power",
+      "content": "합 위력 +{0}"
+    },
+    {
+      "id": "limtochess_roll_penalty_final_power",
+      "content": "최종 위력 +{0}"
+    },
+    {
+      "id": "limtochess_roll_penalty_damage",
+      "content": "가하는 피해량 +{0}%"
+    },
+    {
+      "id": "limtochess_roll_penalty_max_hp",
+      "content": "최대 체력 +{0}%"
+    },
+    {
+      "id": "limtochess_roll_penalty_boss_max_hp",
+      "content": "보스 전투 최대 체력 +{0}%"
+    },
+    {
+      "id": "limtochess_roll_penalty_level_name",
+      "content": "적 레벨"
+    },
+    {
+      "id": "limtochess_roll_penalty_clash_power_name",
+      "content": "합 위력"
+    },
+    {
+      "id": "limtochess_roll_penalty_final_power_name",
+      "content": "최종 위력"
+    },
+    {
+      "id": "limtochess_roll_penalty_damage_name",
+      "content": "가하는 피해량"
+    },
+    {
+      "id": "limtochess_roll_penalty_max_hp_name",
+      "content": "최대 체력"
+    },
+    {
+      "id": "limtochess_roll_penalty_boss_max_hp_name",
+      "content": "보스 전투 최대 체력"
+    },
+    {
+      "id": "limtochess_map_setting_title",
+      "content": "설정"
+    },
+    {
+      "id": "limtochess_map_setting_leave",
+      "content": "잠시 나가기"
+    },
+    {
+      "id": "limtochess_map_setting_abandon",
+      "content": "도상구축 포기"
+    },
+    {
+      "id": "limtochess_map_setting_close",
+      "content": "닫기"
+    },
+    {
+      "id": "limtochess_map_setting_wait",
+      "content": "지금은 나갈 수 없습니다. 잠시 뒤 다시 시도해 주세요."
+    },
+    {
+      "id": "limtochess_confirm_leave_title",
+      "content": "잠시 나가기"
+    },
+    {
+      "id": "limtochess_confirm_leave_desc",
+      "content": "진행 중인 도상구축을 그대로 두고 로비로 나가시겠습니까?\n입장 화면의 '이어하기'로 돌아올 수 있습니다."
+    },
+    {
+      "id": "limtochess_confirm_abandon_title",
+      "content": "도상구축 포기"
+    },
+    {
+      "id": "limtochess_confirm_abandon_desc",
+      "content": "이번 도상구축을 포기하시겠습니까?\n지금까지의 진행도에 따라 보상을 받고 종료됩니다."
+    },
+    {
+      "id": "limtochess_report_title",
+      "content": "전투 리포트"
+    },
+    {
+      "id": "limtochess_report_tab_hp",
+      "content": "진영별 체력"
+    },
+    {
+      "id": "limtochess_report_ally",
+      "content": "아군"
+    },
+    {
+      "id": "limtochess_report_enemy",
+      "content": "적"
+    },
+    {
+      "id": "limtochess_report_legend_death",
+      "content": "사망"
+    },
+    {
+      "id": "limtochess_report_legend_ego",
+      "content": "E.G.O 사용"
+    },
+    {
+      "id": "limtochess_report_detail_ally_death",
+      "content": "아군 사망"
+    },
+    {
+      "id": "limtochess_report_detail_ego",
+      "content": "E.G.O 사용"
+    },
+    {
+      "id": "limtochess_report_retry_title",
+      "content": "재전투"
+    },
+    {
+      "id": "limtochess_report_retry_desc",
+      "content": "같은 전투를 바로 다시 시작하시겠습니까?\n취소하면 도상으로 돌아가며, 이 전투에 다시 들어갈 수 있습니다."
+    },
+    {
+      "id": "limtochess_report_retry_button",
+      "content": "재도전 (남은 횟수 <color=#6F87FF>{2}</color>)"
+    },
+    {
+      "id": "limtochess_report_retry_button_unlimited",
+      "content": "재도전 <color=#6F87FF>{0}</color>"
+    },
+    {
+      "id": "limtochess_final_clear",
+      "content": "CLEAR"
+    },
+    {
+      "id": "limtochess_final_fail",
+      "content": "FAIL"
+    },
+    {
+      "id": "limtochess_report_defeat_title",
+      "content": "구축 실패"
+    },
+    {
+      "id": "limtochess_report_defeat_title_alt",
+      "content": "구축 실패"
+    },
+    {
+      "id": "limtochess_report_p0_line",
+      "content": "공통 주기 {0} · 합 {1}승 {2}패 · 일방 아군 {3}/적 {4} · 정신력 {5}→{6} · 사망 {7} · 수비 발동 {8}/충족 {9}/큐 부족 {10}"
+    },
+    {
+      "id": "limtochess_report_p0_death",
+      "content": "{0} ← {1}「{2}」"
+    },
+    {
+      "id": "limtochess_report_p0_death_more",
+      "content": "{0} 외 {1}"
+    },
+    {
+      "id": "limtochess_report_p0_death_noskill",
+      "content": "{0} ← {1}"
+    },
+    {
+      "id": "limtochess_final_stage",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_final_time",
+      "content": "총 소요 시간 {0}"
+    },
+    {
+      "id": "limtochess_final_count",
+      "content": "{0}<color=#a16a3b>/{1}</color>"
+    },
+    {
+      "id": "limtochess_final_complete",
+      "content": "완성"
+    },
+    {
+      "id": "limtochess_final_incomplete",
+      "content": "미완성"
+    },
+    {
+      "id": "limtochess_final_gift_enhance",
+      "content": "{0} +{1}"
+    },
+    {
+      "id": "limtochess_final_empty",
+      "content": "-"
+    },
+    {
+      "id": "limtochess_final_completion",
+      "content": "완성 판정"
+    },
+    {
+      "id": "limtochess_final_ego",
+      "content": "E.G.O"
+    },
+    {
+      "id": "limtochess_rest_mp_title",
+      "content": "정신력 +{0}"
+    },
+    {
+      "id": "limtochess_rest_mp_desc",
+      "content": "현재 평균 {0} → {1}"
+    },
+    {
+      "id": "limtochess_rest_reroll_title",
+      "content": "새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_rest_reroll_desc",
+      "content": "팩 · 인격 · E.G.O 교체에 쓸 수 있습니다."
+    },
+    {
+      "id": "limtochess_rest_syncup_title",
+      "content": "인격 1명 동기화 +{0}단계"
+    },
+    {
+      "id": "limtochess_rest_syncup_desc",
+      "content": "전투 편성 내 동기화 {0}단계 이하 인격 1명을 고릅니다."
+    },
+    {
+      "id": "limtochess_rest_syncup_disabled",
+      "content": "동기화를 올릴 수 있는 인격이 없습니다."
+    },
+    {
+      "id": "limtochess_rest_syncup_unowned_cap",
+      "content": "계정에서 보유하지 않은 인격은 최대 동기화 단계가 {0}단계로 제한됩니다."
+    },
+    {
+      "id": "limtochess_rest_freeroll_title",
+      "content": "추가 굴림 +{0}"
+    },
+    {
+      "id": "limtochess_rest_freeroll_carry",
+      "content": "쓰지 않은 추가 굴림은 다음 도상으로 이어집니다."
+    },
+    {
+      "id": "limtochess_rest_generic_label",
+      "content": "범용 조각"
+    },
+    {
+      "id": "limtochess_rest_generic_use",
+      "content": "범용 조각 사용"
+    },
+    {
+      "id": "limtochess_rest_generic_desc",
+      "content": "범용 조각으로 동기화 {1}단계 이하 인격을 동기화할 수 있습니다.\n※ 필요 범용 조각 (동기화 1/2/3단계) : 4/6/6개\n※ 보유한 인격 조각 1개당 필요한 범용 조각이 2개씩 줄어듭니다."
+    },
+    {
+      "id": "limtochess_rest_generic_none",
+      "content": "범용 조각으로 동기화할 수 있는 인격이 없습니다. (동기화 {0}단계 이하 인격만 가능)"
+    },
+    {
+      "id": "limtochess_rest_generic_confirm",
+      "content": "범용 조각을 사용하시겠습니까?"
+    },
+    {
+      "id": "limtochess_rest_growth_title",
+      "content": "휴식 : 성장"
+    },
+    {
+      "id": "limtochess_rest_generic_title",
+      "content": "범용 조각 사용"
+    },
+    {
+      "id": "limtochess_rest_empty",
+      "content": "비어 있음"
+    },
+    {
+      "id": "limtochess_bossreward_empty_slot",
+      "content": "비어 있음"
+    },
+    {
+      "id": "limtochess_rest_sync_change",
+      "content": "동기화 {0}단계 → 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_rest_sync_cap",
+      "content": "동기화 {0}단계 상한"
+    },
+    {
+      "id": "limtochess_rest_generic_need",
+      "content": "범용 {0}개 필요"
+    },
+    {
+      "id": "limtochess_rest_not_target",
+      "content": "대상 아님"
+    },
+    {
+      "id": "limtochess_rest_select",
+      "content": "선택"
+    },
+    {
+      "id": "limtochess_current_deck",
+      "content": "편성 확인"
+    },
+    {
+      "id": "limtochess_current_deck_sync",
+      "content": "동기화 {0}단계"
+    },
+    {
+      "id": "limtochess_giftstatus_title",
+      "content": "E.G.O 기프트 현황"
+    },
+    {
+      "id": "limtochess_tempt_title_original",
+      "content": "유혹"
+    },
+    {
+      "id": "limtochess_tempt_original_title",
+      "content": "동기화 {0}단계 인격 + E.G.O"
+    },
+    {
+      "id": "limtochess_tempt_recruit",
+      "content": "{0} 편성"
+    },
+    {
+      "id": "limtochess_tempt_replace",
+      "content": "{0} 교체"
+    },
+    {
+      "id": "limtochess_tempt_replace_before",
+      "content": "기존 인격 {0} 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_tempt_ego_equip",
+      "content": "{0} {1} {2}단계 장착"
+    },
+    {
+      "id": "limtochess_tempt_ego_no_slot",
+      "content": "장착할 수 있는 빈 E.G.O 칸이 없어 E.G.O는 받지 못합니다."
+    },
+    {
+      "id": "limtochess_tempt_ego_none",
+      "content": "받을 수 있는 E.G.O가 없어 E.G.O는 받지 못합니다."
+    },
+    {
+      "id": "limtochess_tempt_skip_title",
+      "content": "받지 않기"
+    },
+    {
+      "id": "limtochess_tempt_skip_desc",
+      "content": "지금 전투 편성을 유지합니다."
+    },
+    {
+      "id": "limtochess_tempt_roll_cost",
+      "content": "주사위 굴림 {1}회 차감"
+    },
+    {
+      "id": "limtochess_tempt_roll_free",
+      "content": "주사위 굴림 차감 없음"
+    },
+    {
+      "id": "limtochess_tempt_roll_penalty",
+      "content": "남은 굴림 개수가 부족하여 도상 왜곡 +{0}"
+    },
+    {
+      "id": "limtochess_tempt_before_label",
+      "content": "기존 인격"
+    },
+    {
+      "id": "limtochess_tempt_before_sync",
+      "content": "동기화"
+    },
+    {
+      "id": "limtochess_battleprep_level_label",
+      "content": "현재 인격 레벨"
+    },
+    {
+      "id": "limtochess_briefing_threat_title",
+      "content": "위협 등급"
+    },
+    {
+      "id": "limtochess_briefing_threat_reason",
+      "content": "레벨 차이 {0}"
+    },
+    {
+      "id": "limtochess_briefing_threat_reason_script",
+      "content": "레벨 차이 {0} · {2}"
+    },
+    {
+      "id": "limtochess_briefing_threat_script_1",
+      "content": "정예 +1"
+    },
+    {
+      "id": "limtochess_briefing_threat_script_2",
+      "content": "보스 +2"
+    },
+    {
+      "id": "limtochess_briefing_weak_label",
+      "content": "약점"
+    },
+    {
+      "id": "limtochess_briefing_weak_none",
+      "content": "약점 없음"
+    },
+    {
+      "id": "limtochess_briefing_egores_title",
+      "content": "획득 자원"
+    },
+    {
+      "id": "limtochess_briefing_egores_demand",
+      "content": "필요 자원"
+    },
+    {
+      "id": "limtochess_briefing_appear",
+      "content": "명 출현"
+    },
+    {
+      "id": "limtochess_briefing_reinforce",
+      "content": "전투 중 적 {0}명 추가 등장"
+    },
+    {
+      "id": "limtochess_briefing_refill_card",
+      "content": "증원 {0}명"
+    },
+    {
+      "id": "limtochess_packselect_screen_title",
+      "content": "전투 보상 : 팩 고르기"
+    },
+    {
+      "id": "limtochess_elite_screen_title",
+      "content": "정예 보상 : 선택"
+    },
+    {
+      "id": "limtochess_bossreward_screen_title",
+      "content": "도상 클리어 보상"
+    },
+    {
+      "id": "limtochess_bossreward_gift_rule",
+      "content": "한 칸은 전투 편성 키워드에서, 나머지 셋은 무작위입니다."
+    },
+    {
+      "id": "limtochess_bossreward_gift_rule_pair",
+      "content": "전투 편성 키워드 1칸 · 보유 기프트 짝 1칸 · 무작위 2칸"
+    },
+    {
+      "id": "limtochess_bossreward_gift_skip_full",
+      "content": "기프트 {0}개 보유"
+    },
+    {
+      "id": "limtochess_bossreward_gift_skip_none",
+      "content": "고를 수 있는 기프트 없음"
+    },
+    {
+      "id": "limtochess_bossreward_progress",
+      "content": "완성 : 동기화 4단계 {0}/{1}명 · E.G.O 조건 {2}/{1}명"
+    },
+    {
+      "id": "limtochess_bossreward_gift_enhance_title",
+      "content": "기프트 강화 +1"
+    },
+    {
+      "id": "limtochess_bossreward_gift_enhance_desc",
+      "content": "선택하면 현재 소지하고 있는 기프트 중 1개가 강화됩니다."
+    },
+    {
+      "id": "limtochess_bossreward_gift_enhance_twice_title",
+      "content": "기프트 강화 +1 ({0}회)"
+    },
+    {
+      "id": "limtochess_bossreward_gift_enhance_twice_desc",
+      "content": "선택하면 현재 소지하고 있는 기프트를 {0}번 골라 강화합니다."
+    },
+    {
+      "id": "limtochess_bossreward_gift_enhance_disabled",
+      "content": "강화할 수 있는 기프트가 없습니다."
+    },
+    {
+      "id": "limtochess_bossreward_reroll_title",
+      "content": "새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_bossreward_reroll_desc",
+      "content": "새로고침 기회를 {0}회 얻습니다."
+    },
+    {
+      "id": "limtochess_bossreward_sync_under_title",
+      "content": "동기화 {0}단계 이하인 인격 1명의 동기화 단계 +{1}"
+    },
+    {
+      "id": "limtochess_bossreward_sync_plus_title",
+      "content": "동기화 {0}단계 이하인 인격 1명의 동기화 단계 +{1}"
+    },
+    {
+      "id": "limtochess_bossreward_sync_desc",
+      "content": "조건에 맞는 인격 {0}명 중 1명을 고릅니다."
+    },
+    {
+      "id": "limtochess_bossreward_sync_disabled",
+      "content": "동기화를 올릴 수 있는 인격이 없습니다."
+    },
+    {
+      "id": "limtochess_bossreward_generic_title",
+      "content": "범용 조각 +{0}"
+    },
+    {
+      "id": "limtochess_bossreward_generic_desc",
+      "content": "범용 조각이 +{0} 추가됩니다. 휴식에서 다른 인격의 동기화를 올릴 때 씁니다."
+    },
+    {
+      "id": "limtochess_bossreward_gift_pick",
+      "content": "도상 클리어 보상 : 기프트 강화"
+    },
+    {
+      "id": "limtochess_bossreward_gift_pick_count",
+      "content": "도상 클리어 보상 : 기프트 강화 ({0}/{1})"
+    },
+    {
+      "id": "limtochess_bossreward_enhance_change",
+      "content": "강화 {0} → {1}"
+    },
+    {
+      "id": "limtochess_bossreward_enhance_max",
+      "content": "강화 최대"
+    },
+    {
+      "id": "limtochess_bossreward_sync_pick",
+      "content": "도상 클리어 보상 : 성장"
+    },
+    {
+      "id": "limtochess_bossreward_enhance_none",
+      "content": "강화 불가"
+    },
+    {
+      "id": "limtochess_bossreward_pack_random",
+      "content": "+ 무작위 팩 1개 ({0}등급)"
+    },
+    {
+      "id": "limtochess_bossreward_pack_sinner",
+      "content": "+ 선택한 수감자 팩 1개 ({0}등급)"
+    },
+    {
+      "id": "limtochess_bossreward_pack_sinner_pick",
+      "content": "도상 클리어 보상 : 수감자 팩"
+    },
+    {
+      "id": "limtochess_bossreward_pack_sinner_change",
+      "content": "수감자 팩 {0}등급"
+    },
+    {
+      "id": "limtochess_bossreward_pack_sinner_not_joined",
+      "content": "편성 밖 — 인격 카드로 영입"
+    },
+    {
+      "id": "limtochess_gauge_cycle",
+      "content": "TURN {0}"
+    },
+    {
+      "id": "limtochess_unitstatus_break",
+      "content": "흐트러짐"
+    },
+    {
+      "id": "limtochess_unitstatus_panic",
+      "content": "패닉"
+    },
+    {
+      "id": "limtochess_unitstatus_erode",
+      "content": "침식"
+    },
+    {
+      "id": "limtochess_skillart_awaken",
+      "content": "각성"
+    },
+    {
+      "id": "limtochess_skillart_erosion",
+      "content": "침식"
+    },
+    {
+      "id": "limtochess_unitstatus_lowmorale",
+      "content": "동요"
+    },
+    {
+      "id": "limtochess_egobar_auto_target",
+      "content": "자동 타겟"
+    },
+    {
+      "id": "limtochess_egobar_waiting",
+      "content": "발동 대기"
+    },
+    {
+      "id": "limtochess_egobar_waiting_target",
+      "content": "발동 대기 → {0}"
+    },
+    {
+      "id": "limtochess_egobar_lethal",
+      "content": "사망 직전"
+    },
+    {
+      "id": "limtochess_egobar_aimed",
+      "content": "타겟됨 {0}"
+    },
+    {
+      "id": "limtochess_egobar_retreat",
+      "content": "퇴각 중"
+    },
+    {
+      "id": "limtochess_egobar_block_defect",
+      "content": "결함"
+    },
+    {
+      "id": "limtochess_egobar_block_inactionable",
+      "content": "행동 불가"
+    },
+    {
+      "id": "limtochess_egobar_block_resource",
+      "content": "자원 부족"
+    },
+    {
+      "id": "limtochess_egobar_block_unusable",
+      "content": "사용 불가"
+    },
+    {
+      "id": "limtochess_egobar_onesided",
+      "content": "일방 공격"
+    },
+    {
+      "id": "limtochess_egobar_resonance",
+      "content": "공명"
+    },
+    {
+      "id": "limtochess_egobar_notice_lack",
+      "content": "자원 부족 — {0} 더 필요"
+    },
+    {
+      "id": "limtochess_egobar_notice_no_overclock",
+      "content": "오버클록 불가 — 침식 스킬 없음"
+    },
+    {
+      "id": "limtochess_roominfo_pack_label",
+      "content": "{0}등급 {1}"
+    },
+    {
+      "id": "limtochess_battle_pause",
+      "content": "정지"
+    },
+    {
+      "id": "limtochess_battle_resume",
+      "content": "재개"
+    },
+    {
+      "id": "limtochess_battle_speed",
+      "content": "{0}x"
+    },
+    {
+      "id": "limtochess_battle_resume_hint",
+      "content": "[재개]를 눌러 계속"
+    },
+    {
+      "id": "limtochess_battle_resume_hint_key",
+      "content": "[재개]를 눌러 계속"
+    },
+    {
+      "id": "limtochess_battle_tail_speed",
+      "content": "후반 배속 {0}x"
+    },
+    {
+      "id": "limtochess_battle_toggle_damage",
+      "content": "대미지 숫자"
+    },
+    {
+      "id": "limtochess_battle_toggle_hitfx",
+      "content": "타격감"
+    },
+    {
+      "id": "limtochess_battle_toggle_ally_cards",
+      "content": "아군 카드"
+    },
+    {
+      "id": "limtochess_battle_toggle_enemy_cards",
+      "content": "적 카드"
+    },
+    {
+      "id": "limtochess_battle_stage",
+      "content": "제 {0}도상 {1}스테이지"
+    },
+    {
+      "id": "limtochess_battle_turn",
+      "content": "공통 턴 {0}"
+    },
+    {
+      "id": "limtochess_report_seconds",
+      "content": "{0}s"
+    },
+    {
+      "id": "limtochess_report_time",
+      "content": "소요 시간"
+    },
+    {
+      "id": "limtochess_roominfo_enemy_avg_level",
+      "content": "적 평균 레벨"
+    },
+    {
+      "id": "limtochess_gauge_skill_tier",
+      "content": "스킬 {0}"
+    },
+    {
+      "id": "limtochess_gauge_clash",
+      "content": "합 진행"
+    },
+    {
+      "id": "limtochess_gauge_onesided",
+      "content": "일방 공격"
+    },
+    {
+      "id": "limtochess_battle_retry_used_up",
+      "content": "마지막 재도전입니다 — 패배하면 도상구축이 종료됩니다"
+    },
+    {
+      "id": "limtochess_battle_retry_count",
+      "content": "재도전 {0}회 사용 (남은 횟수 {2})"
+    },
+    {
+      "id": "limtochess_battle_retry_count_unlimited",
+      "content": "재도전 {0}회 사용(무제한)"
+    },
+    {
+      "id": "limtochess_battle_retry_confirm_title",
+      "content": "전투 재도전"
+    },
+    {
+      "id": "limtochess_battle_retry_confirm_desc",
+      "content": "다시 시작하면 재도전 기회를 1회 사용합니다 (남은 횟수 {2}).\n다시 시작하시겠습니까?"
+    },
+    {
+      "id": "limtochess_battle_giveup_confirm_title",
+      "content": "전투 포기"
+    },
+    {
+      "id": "limtochess_battle_giveup_confirm_desc",
+      "content": "포기하면 재도전 기회를 1회 사용합니다 (남은 횟수 {2}).\n도상으로 돌아가며, 이 전투에 다시 들어갈 수 있습니다. 포기하시겠습니까?"
+    },
+    {
+      "id": "limtochess_battle_giveup_confirm_desc_last",
+      "content": "재도전 횟수를 모두 사용했습니다.\n포기하면 이번 도상구축이 종료됩니다. 포기하시겠습니까?"
+    },
+    {
+      "id": "limtochess_room_info_elite_fx",
+      "content": "정예 효과"
+    },
+    {
+      "id": "limtochess_elite_fx_brawler",
+      "content": "싸움꾼"
+    },
+    {
+      "id": "limtochess_elite_fx_brawler_desc",
+      "content": "모든 적의 합 위력 +{0}"
+    },
+    {
+      "id": "limtochess_elite_fx_footwork",
+      "content": "발놀림"
+    },
+    {
+      "id": "limtochess_elite_fx_footwork_desc",
+      "content": "모든 적의 속도 최솟값·최댓값 +{0}"
+    },
+    {
+      "id": "limtochess_elite_fx_weapon",
+      "content": "연장"
+    },
+    {
+      "id": "limtochess_elite_fx_weapon_desc",
+      "content": "모든 적이 가하는 피해량 +{0}%"
+    },
+    {
+      "id": "limtochess_elite_fx_firststrike",
+      "content": "선제공격"
+    },
+    {
+      "id": "limtochess_elite_fx_firststrike_desc",
+      "content": "전장에 등장한 적이 {0}턴 동안 가하는 피해량 +{1}%"
+    },
+    {
+      "id": "limtochess_elite_fx_tough",
+      "content": "맷집"
+    },
+    {
+      "id": "limtochess_elite_fx_tough_desc",
+      "content": "모든 적의 최대 체력 +{0}%"
+    },
+    {
+      "id": "limtochess_elite_fx_struggle",
+      "content": "발버둥"
+    },
+    {
+      "id": "limtochess_elite_fx_struggle_desc",
+      "content": "턴 시작 시 체력 50% 이하인 적이 피해량 증가 {0}, 신속 {1}"
+    },
+    {
+      "id": "limtochess_elite_fx_boss",
+      "content": "두목"
+    },
+    {
+      "id": "limtochess_elite_fx_boss_desc",
+      "content": "스테이지 시작 시 최대 체력이 가장 높은 적 1명의 최대 체력 +{0}%, 가하는 피해량 +{1}%"
+    },
+    {
+      "id": "limtochess_elite_fx_brawl",
+      "content": "막싸움"
+    },
+    {
+      "id": "limtochess_elite_fx_brawl_desc",
+      "content": "적이 가하는 피해량 +{0}%, 적이 받는 피해량 +{1}%"
+    },
+    {
+      "id": "limtochess_elite_fx_loyalty",
+      "content": "의리"
+    },
+    {
+      "id": "limtochess_elite_fx_loyalty_desc",
+      "content": "적 사망 시 전장의 다른 모든 적이 다음 턴에 공격 레벨 +{0}"
+    },
+    {
+      "id": "limtochess_elite_fx_interest",
+      "content": "이자"
+    },
+    {
+      "id": "limtochess_elite_fx_interest_desc",
+      "content": "모든 적의 공격 레벨 +{0}, 턴이 지날 때마다 +{1}씩 (합산 최대 +{2})"
+    },
+    {
+      "id": "limtochess_elite_fx_companion",
+      "content": "길동무"
+    },
+    {
+      "id": "limtochess_elite_fx_companion_desc",
+      "content": "적이 받는 스킬 피해 +{0}% 대신, 받은 최종 피해량의 {1}%를 공격한 수감자에게 되돌림"
+    },
+    {
+      "id": "limtochess_elite_fx_intimidate",
+      "content": "위압"
+    },
+    {
+      "id": "limtochess_elite_fx_intimidate_desc",
+      "content": "수감자가 합 패배 시 또는 다른 수감자 사망 시 잃는 정신력 {0}배"
+    },
+    {
+      "id": "limtochess_elite_fx_backer",
+      "content": "뒷배"
+    },
+    {
+      "id": "limtochess_elite_fx_backer_desc",
+      "content": "대기 중인 적이 전장에 나올 때마다 정신력이 있는 모든 적의 정신력 +{0}, 다음 턴 신속 {1}·더하기 코인 강화 {2}"
+    },
+    {
+      "id": "limtochess_event_deck_title",
+      "content": "선택지 {0}"
+    },
+    {
+      "id": "limtochess_event_deck_text",
+      "content": "덱을 다듬을 기회다. 고른 칸의 대가는 판이 끝날 때까지 모든 적에게 걸린다."
+    },
+    {
+      "id": "limtochess_event_boss_title",
+      "content": "보스 선택지 {0}"
+    },
+    {
+      "id": "limtochess_event_boss_text",
+      "content": "이번 판의 최종 보스를 정한다. 대가는 없다."
+    },
+    {
+      "id": "limtochess_event_effect_none",
+      "content": "효과 없음"
+    },
+    {
+      "id": "limtochess_event_effect_reroll_segment",
+      "content": "이번 도상 새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_event_effect_reroll_carry",
+      "content": "새로고침 기회 +{0} (다음 도상 이월)"
+    },
+    {
+      "id": "limtochess_event_effect_sync_pick",
+      "content": "고른 인격 {0}명 동기화 +1단계"
+    },
+    {
+      "id": "limtochess_event_effect_sync_pick_set",
+      "content": "고른 인격 {0}명 동기화 {1}단계로"
+    },
+    {
+      "id": "limtochess_event_effect_sync_random",
+      "content": "무작위 인격 {0}명 동기화 +1단계"
+    },
+    {
+      "id": "limtochess_event_effect_recruit_pick",
+      "content": "편성에 없는 수감자 1명 영입\n동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_event_effect_pack_random",
+      "content": "무작위 팩 획득"
+    },
+    {
+      "id": "limtochess_event_effect_pack_keyword",
+      "content": "고른 키워드의 팩 획득"
+    },
+    {
+      "id": "limtochess_event_effect_pack_random_grade",
+      "content": "무작위 {0}등급 팩 획득"
+    },
+    {
+      "id": "limtochess_event_effect_pack_keyword_grade",
+      "content": "고른 키워드의 {0}등급 팩 획득"
+    },
+    {
+      "id": "limtochess_event_effect_ego_pick",
+      "content": "편성 수감자의 E.G.O 1개 장착"
+    },
+    {
+      "id": "limtochess_event_effect_ego_keyword",
+      "content": "고른 키워드의 E.G.O 1개 장착"
+    },
+    {
+      "id": "limtochess_event_effect_reroll_to_generic",
+      "content": "남은 새로고침 기회 {0}개당 범용 조각 1개로 교환"
+    },
+    {
+      "id": "limtochess_event_effect_swap_affiliation_random",
+      "content": "무작위 수감자 {0}명을 같은 소속 인격으로 교체"
+    },
+    {
+      "id": "limtochess_event_effect_swap_affiliation_pick",
+      "content": "수감자 1명을 같은 소속 인격으로 교체"
+    },
+    {
+      "id": "limtochess_event_effect_cost_up_tail",
+      "content": "\n{0}% 확률로 코스트 +1"
+    },
+    {
+      "id": "limtochess_event_effect_swap_pick",
+      "content": "편성 수감자 1명을 다른 인격으로 교체\n동기화 유지"
+    },
+    {
+      "id": "limtochess_event_effect_swap_all_cost_up",
+      "content": "편성 전원을 무작위 인격으로 교체\n동기화 유지 · {0}% 확률로 코스트 +1"
+    },
+    {
+      "id": "limtochess_event_effect_swap_one_random",
+      "content": "무작위 수감자 1명을 무작위 인격으로 교체\n동기화 무작위"
+    },
+    {
+      "id": "limtochess_event_effect_swap_one_cost_up",
+      "content": "무작위 수감자 1명을 무작위 인격으로 교체\n동기화 유지 · {0}% 확률로 코스트 +1"
+    },
+    {
+      "id": "limtochess_event_effect_pack_grade_open",
+      "content": "새로고침 기회 {0}회 소모 · 무작위 {1}등급 팩 획득"
+    },
+    {
+      "id": "limtochess_event_effect_pack_sync_tail",
+      "content": "\n인격 동기화 {0}단계"
+    },
+    {
+      "id": "limtochess_event_reroll_left",
+      "content": "남은 새로고침 기회 {0}"
+    },
+    {
+      "id": "limtochess_event_effect_swap_cost_up_pick",
+      "content": "고른 수감자 1명을 코스트 +1 인격으로 교체\n동기화 유지"
+    },
+    {
+      "id": "limtochess_event_effect_swap_cost_up_pick_multi",
+      "content": "고른 수감자 {0}명을 코스트 +1 인격으로 교체\n동기화 유지"
+    },
+    {
+      "id": "limtochess_event_effect_swap_one_pick",
+      "content": "고른 수감자 1명을 무작위 인격으로 교체\n동기화 유지 · 코스트 {0}"
+    },
+    {
+      "id": "limtochess_event_effect_final_boss",
+      "content": "최종 보스 → {0}"
+    },
+    {
+      "id": "limtochess_event_effect_segment_boss",
+      "content": "제 {0}도상 보스 → {1}"
+    },
+    {
+      "id": "limtochess_event_effect_segment_pool",
+      "content": "제 {0}도상 전투가 {1}의 적으로 바뀜"
+    },
+    {
+      "id": "limtochess_event_effect_stage_unlock",
+      "content": "보스 변경 없음 · 보스 선택지 {0} 등장 가능"
+    },
+    {
+      "id": "limtochess_event_effect_decline",
+      "content": "보스 변경 없음"
+    },
+    {
+      "id": "limtochess_event_locked",
+      "content": "미해금 — {0} 격파 필요"
+    },
+    {
+      "id": "limtochess_event_hardship_hp",
+      "content": "모든 적의 체력 +{0}%"
+    },
+    {
+      "id": "limtochess_event_hardship_dmg",
+      "content": "모든 적이 가하는 피해량 +{0}%"
+    },
+    {
+      "id": "limtochess_event_hardship_none",
+      "content": "고난 없음"
+    },
+    {
+      "id": "limtochess_event_pick_cost_up_sinner",
+      "content": "코스트 +1 인격으로 바꿀 수감자를 고르세요."
+    },
+    {
+      "id": "limtochess_event_pick_swap_one_sinner",
+      "content": "무작위 인격으로 바꿀 수감자를 고르세요."
+    },
+    {
+      "id": "limtochess_event_pick_sinner",
+      "content": "동기화를 올릴 인격을 고르세요."
+    },
+    {
+      "id": "limtochess_event_pick_personality",
+      "content": "영입할 인격을 고르세요."
+    },
+    {
+      "id": "limtochess_event_pick_ego",
+      "content": "장착할 E.G.O를 고르세요."
+    },
+    {
+      "id": "limtochess_event_pick_keyword",
+      "content": "받을 팩의 키워드를 고르세요."
+    },
+    {
+      "id": "limtochess_event_boss_name_jun",
+      "content": "흑운회 부조장 쥰"
+    },
+    {
+      "id": "limtochess_event_boss_name_ricardo",
+      "content": "리카르도"
+    },
+    {
+      "id": "limtochess_event_boss_name_cleaners",
+      "content": "도시의 청소부"
+    },
+    {
+      "id": "limtochess_event_boss_name_alley",
+      "content": "골목 파수견·포레그"
+    },
+    {
+      "id": "limtochess_event_boss_name_blackcloud",
+      "content": "흑운회"
+    },
+    {
+      "id": "limtochess_event_skip_text",
+      "content": "무작위 패널티 1개 (정신력·조각·체력·공격 레벨·합 위력 감소)"
+    },
+    {
+      "id": "limtochess_event_skip_short",
+      "content": "받지 않기"
+    },
+    {
+      "id": "limtochess_event_skip_text_reserve_roll",
+      "content": "무작위 패널티 1개 (정신력·조각·체력·공격 레벨·합 위력 감소)"
+    },
+    {
+      "id": "limtochess_event_skip_short_reserve_roll",
+      "content": "받지 않기 · 추가 굴림 +{0}"
+    },
+    {
+      "id": "limtochess_event_penalty_none",
+      "content": "패널티 없음"
+    },
+    {
+      "id": "limtochess_event_penalty_mentalall",
+      "content": "편성 수감자 전원 정신력 −{0}"
+    },
+    {
+      "id": "limtochess_event_penalty_mentalrandom",
+      "content": "무작위 수감자 {0}명 정신력 −{1}"
+    },
+    {
+      "id": "limtochess_event_penalty_fragmentsinner",
+      "content": "수감자 {0}의 동기화 조각을 0으로"
+    },
+    {
+      "id": "limtochess_event_penalty_fragmentgeneric",
+      "content": "범용 조각 {0}개 잃음"
+    },
+    {
+      "id": "limtochess_event_penalty_fragment_random",
+      "content": "무작위 1명"
+    },
+    {
+      "id": "limtochess_event_penalty_hpall",
+      "content": "스테이지 시작 시 출격 아군 전원 최대 체력의 {0}% 체력 감소"
+    },
+    {
+      "id": "limtochess_event_penalty_hprandom",
+      "content": "스테이지 시작 시 무작위 출격 아군 {0}명 최대 체력의 {1}% 체력 감소"
+    },
+    {
+      "id": "limtochess_event_penalty_attackdownall",
+      "content": "스테이지 시작 시 출격 아군 전원 공격 레벨 감소 {0}"
+    },
+    {
+      "id": "limtochess_event_penalty_attackdownrandom",
+      "content": "스테이지 시작 시 무작위 출격 아군 {0}명 공격 레벨 감소 {1}"
+    },
+    {
+      "id": "limtochess_event_penalty_clashdownall",
+      "content": "스테이지 시작 시 출격 아군 전원 합 위력 감소 {0}"
+    },
+    {
+      "id": "limtochess_event_penalty_clashdownrandom",
+      "content": "스테이지 시작 시 무작위 출격 아군 {0}명 합 위력 감소 {1}"
+    },
+    {
+      "id": "limtochess_event_penalty_pending",
+      "content": "다음 전투 패널티 {0}개"
+    },
+    {
+      "id": "limtochess_event_penalty_nextbattle",
+      "content": "다음 전투 1회 — {0}"
+    },
+    {
+      "id": "limtochess_event_penalty_immediate",
+      "content": "즉시 — {0}"
+    },
+    {
+      "id": "limtochess_event_penalty_fragment_now",
+      "content": "(지금 {0}개)"
+    },
+    {
+      "id": "limtochess_event_penalty_label",
+      "content": "패널티"
+    },
+    {
+      "id": "limtochess_hud_hardship",
+      "content": "고난 : {0}"
+    },
+    {
+      "id": "limtochess_hud_segment_penalty",
+      "content": "도상 왜곡 : {0}"
+    },
+    {
+      "id": "limtochess_hud_none",
+      "content": "없음"
+    },
+    {
+      "id": "limtochess_hud_hardship_hp",
+      "content": "적 체력 {0}%"
+    },
+    {
+      "id": "limtochess_hud_hardship_dmg",
+      "content": "적 피해량 {0}%"
+    },
+    {
+      "id": "limtochess_hud_hardship_atk",
+      "content": "공격 레벨 {0}"
+    },
+    {
+      "id": "limtochess_hud_hardship_def",
+      "content": "방어 레벨 {0}"
+    },
+    {
+      "id": "limtochess_hud_hardship_order",
+      "content": "고른 고난 : {0}"
+    },
+    {
+      "id": "limtochess_hud_penalty_order",
+      "content": "적용 순서 : {0}"
+    },
+    {
+      "id": "limtochess_hud_penalty_target_all",
+      "content": "도상 왜곡은 이번 도상의 모든 전투에 적용됩니다."
+    },
+    {
+      "id": "limtochess_hud_penalty_target_boss",
+      "content": "도상 왜곡은 이번 도상의 보스 전투에 적용됩니다."
+    },
+    {
+      "id": "limtochess_event_pick_swap",
+      "content": "바꿔 들일 인격을 고르세요. (동기화 유지)"
+    },
+    {
+      "id": "limtochess_synergy_line",
+      "content": "시너지 : {0}"
+    },
+    {
+      "id": "limtochess_synergy_item",
+      "content": "{0}(덱 {1}명)"
+    },
+    {
+      "id": "limtochess_synergy_item_strength",
+      "content": "{0} {1}(덱 {2}명)"
+    },
+    {
+      "id": "limtochess_synergy_more",
+      "content": "+{0}"
+    },
+    {
+      "id": "limtochess_synergy_tag",
+      "content": "{0} {1}명"
+    },
+    {
+      "id": "limtochess_synergy_strength_1",
+      "content": "약"
+    },
+    {
+      "id": "limtochess_synergy_strength_2",
+      "content": "중"
+    },
+    {
+      "id": "limtochess_synergy_strength_3",
+      "content": "강"
+    },
+    {
+      "id": "limtochess_synergy_set_full_stop_office",
+      "content": "마침표 사무소"
+    },
+    {
+      "id": "limtochess_synergy_set_black_beast_hongyuan_lord",
+      "content": "흑수 + 홍원 군주 홍루"
+    },
+    {
+      "id": "limtochess_synergy_set_black_beast_horse_family_ga",
+      "content": "흑수 - 오 필두 이상 + 가주 후보 이스마엘"
+    },
+    {
+      "id": "limtochess_synergy_set_blade_lineage",
+      "content": "검계"
+    },
+    {
+      "id": "limtochess_synergy_set_blade_lineage_chakyeong_hwido",
+      "content": "검계 + 착영휘도"
+    },
+    {
+      "id": "limtochess_synergy_set_black_cloud",
+      "content": "흑운회"
+    },
+    {
+      "id": "limtochess_synergy_set_wedge_office",
+      "content": "쐐기 사무소"
+    },
+    {
+      "id": "limtochess_synergy_set_wedge_dawn_office",
+      "content": "쐐기 + 새벽 사무소"
+    },
+    {
+      "id": "limtochess_synergy_set_dawn_office",
+      "content": "새벽 사무소"
+    },
+    {
+      "id": "limtochess_synergy_set_spider_house",
+      "content": "거미집"
+    },
+    {
+      "id": "limtochess_synergy_set_spider_house_thumb",
+      "content": "거미집 엄지"
+    },
+    {
+      "id": "limtochess_synergy_set_spider_house_middle",
+      "content": "거미집 중지"
+    },
+    {
+      "id": "limtochess_synergy_set_spider_house_ring",
+      "content": "거미집 약지"
+    },
+    {
+      "id": "limtochess_synergy_set_ring_finger",
+      "content": "약지"
+    },
+    {
+      "id": "limtochess_synergy_set_ring_finger_fauvism",
+      "content": "약지 야수파"
+    },
+    {
+      "id": "limtochess_synergy_set_index_finger",
+      "content": "검지"
+    },
+    {
+      "id": "limtochess_synergy_set_thumb_finger",
+      "content": "엄지"
+    },
+    {
+      "id": "limtochess_synergy_set_middle_finger",
+      "content": "중지"
+    },
+    {
+      "id": "limtochess_synergy_set_middle_finger_spider_house",
+      "content": "중지·거미집"
+    },
+    {
+      "id": "limtochess_synergy_set_le_rouge",
+      "content": "르루주"
+    },
+    {
+      "id": "limtochess_synergy_set_le_noir",
+      "content": "르누아르"
+    },
+    {
+      "id": "limtochess_synergy_set_la_mancha_land",
+      "content": "라만차랜드"
+    },
+    {
+      "id": "limtochess_synergy_set_la_mancha_land_mircalla",
+      "content": "라만차랜드 + 갈망-미르칼라"
+    },
+    {
+      "id": "limtochess_synergy_set_n_corp_ego",
+      "content": "N사 E.G.O"
+    },
+    {
+      "id": "limtochess_synergy_set_n_corp_fanatic",
+      "content": "N사 광신도"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_solemn_lament",
+      "content": "엄숙한 애도"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_hyungtan",
+      "content": "흉탄"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_gyeongmyeol_gyeongoe",
+      "content": "경멸, 경외"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_hongyeomsal",
+      "content": "홍염살"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_aedd",
+      "content": "AEDD"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_matan",
+      "content": "마탄"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_love_and_hate",
+      "content": "사랑과 증오의 이름으로"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_ohyeol_eupru",
+      "content": "오혈읍루"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_samcheon_daesegye",
+      "content": "삼천대세계"
+    },
+    {
+      "id": "limtochess_synergy_set_wuthering_heights",
+      "content": "워더링하이츠"
+    },
+    {
+      "id": "limtochess_synergy_set_t_corp",
+      "content": "T사"
+    },
+    {
+      "id": "limtochess_synergy_set_dieci",
+      "content": "디에치 협회"
+    },
+    {
+      "id": "limtochess_synergy_set_pequod",
+      "content": "피쿼드호"
+    },
+    {
+      "id": "limtochess_synergy_set_seven",
+      "content": "세븐 협회"
+    },
+    {
+      "id": "limtochess_synergy_set_cinq",
+      "content": "섕크 협회"
+    },
+    {
+      "id": "limtochess_synergy_set_zwei",
+      "content": "츠바이 협회"
+    },
+    {
+      "id": "limtochess_synergy_set_liu",
+      "content": "리우 협회"
+    },
+    {
+      "id": "limtochess_synergy_set_w_corp",
+      "content": "W사"
+    },
+    {
+      "id": "limtochess_synergy_set_ego_equipment",
+      "content": "E.G.O 장비"
+    },
+    {
+      "id": "limtochess_synergy_set_fixer",
+      "content": "해결사"
+    },
+    {
+      "id": "limtochess_synergy_set_backstreet_cook",
+      "content": "료.고.파"
+    },
+    {
+      "id": "limtochess_sync_change",
+      "content": "동기화 {0}단계 → 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_event_cost_up_sinner",
+      "content": "{0} · {1} · 코스트 {2} → {3}"
+    },
+    {
+      "id": "limtochess_event_swap_one_sinner",
+      "content": "{0} · {1} · 코스트 {2}"
+    },
+    {
+      "id": "limtochess_sync_target",
+      "content": "{0} · {1} 동기화 {2}단계 → 동기화 {3}단계"
+    },
+    {
+      "id": "limtochess_sync_level",
+      "content": "동기화 {0}단계"
+    },
+    {
+      "id": "limtochess_sync_of_cap",
+      "content": "동기화 {0}/{1}단계"
+    },
+    {
+      "id": "limtochess_sync_keep",
+      "content": " · 동기화 {0}단계 유지"
+    },
+    {
+      "id": "limtochess_sync_card_name",
+      "content": "{0} 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_sync_after_replace",
+      "content": "교체 후 동기화 {0}단계"
+    },
+    {
+      "id": "limtochess_sync_cap_unowned",
+      "content": " (미보유 동기화 3단계 상한)"
+    },
+    {
+      "id": "limtochess_sync_cap_unowned_sub",
+      "content": " · 미보유 동기화 3단계 상한"
+    },
+    {
+      "id": "limtochess_sync_generic_cost",
+      "content": " · 범용 {0}개"
+    },
+    {
+      "id": "limtochess_pack_outcome_fill",
+      "content": "편성되지 않음 → 동기화 {0}단계로 영입"
+    },
+    {
+      "id": "limtochess_pack_outcome_replace",
+      "content": "동기화 {0}단계 → 동기화 {1}단계 교체"
+    },
+    {
+      "id": "limtochess_pack_outcome_syncup",
+      "content": "같은 인격 동기화 {0}단계 → 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_pack_outcome_fragment_up",
+      "content": "조각 +{0} {1}/{2} → 동기화 {3}단계 → 동기화 {4}단계"
+    },
+    {
+      "id": "limtochess_reward_fragment_up",
+      "content": "조각 +{0} → 동기화 {1}단계 → 동기화 {2}단계"
+    },
+    {
+      "id": "limtochess_cost_label",
+      "content": "코스트 {0}"
+    },
+    {
+      "id": "limtochess_affiliation_tail",
+      "content": " · 소속 {0}"
+    },
+    {
+      "id": "limtochess_start_topcost_block_hint",
+      "content": " · 코스트 {0} 인격은 {1}명까지"
+    },
+    {
+      "id": "limtochess_start_topcost_hint",
+      "content": " · 직접 편성은 코스트 {0} 인격 {1}명까지(자동 편성은 제한 없음)"
+    },
+    {
+      "id": "limtochess_sync_cap_unowned_tail",
+      "content": " · 미보유(동기화 {0}단계 상한)"
+    },
+    {
+      "id": "limtochess_pack_hover_replace",
+      "content": "지금 {0} 동기화 {1}단계\n→ 이 카드 동기화 {2}단계"
+    },
+    {
+      "id": "limtochess_pack_hover_syncup",
+      "content": "지금 같은 인격 동기화 {0}단계\n→ 동기화 {1}단계"
+    },
+    {
+      "id": "limtochess_reward_no_target_sync",
+      "content": "대상 없음 (※ 모두 동기화 {0}단계 이상이거나 편성에 없는 경우)"
+    },
+    {
+      "id": "limtochess_reward_face_sync_plus",
+      "content": "동기화 +{0}단계"
+    },
+    {
+      "id": "limtochess_reward_why_capped",
+      "content": "동기화 {0}단계 · 상한"
+    },
+    {
+      "id": "limtochess_reward_why_generic_cost",
+      "content": "동기화 {0}단계 · 범용 {1}개 필요"
+    },
+    {
+      "id": "limtochess_reward_why_generic_max",
+      "content": "동기화 {0}단계 · 범용은 동기화 {1}단계까지"
+    },
+    {
+      "id": "limtochess_reward_why_not_target",
+      "content": "동기화 {0}단계 · 대상 아님"
+    },
+    {
+      "id": "limtochess_reward_title_sync_up_small",
+      "content": "보유 인격 1명 동기화 ({0}단계까지)"
+    },
+    {
+      "id": "limtochess_reward_face_sync_personality",
+      "content": "동기화 {0}단계 인격"
+    },
+    {
+      "id": "limtochess_reward_title_sync_under",
+      "content": "동기화 {0}단계 미만 인격 1명"
+    },
+    {
+      "id": "limtochess_reward_label_sync_up_small",
+      "content": "보유 인격 1명 동기화 +{0}단계 ({1}단계까지)"
+    },
+    {
+      "id": "limtochess_sync_cap_unowned_short",
+      "content": "미보유(동기화 {0}단계 상한)"
+    },
+    {
+      "id": "limtochess_generic_rule_tail",
+      "content": "동기화 {0}단계까지 +1"
+    },
+    {
+      "id": "limtochess_completion_sync4",
+      "content": "동기화 4단계 {0}/{1}명 (1단계 조건 {2}명)"
+    },
+    {
+      "id": "limtochess_completion_stage2",
+      "content": "2단계 : 전원 동기화 4단계 + 인격마다 4단계 E.G.O {0}개 ({1}/{2}명)"
+    },
+    {
+      "id": "limtochess_completion_record",
+      "content": "기록 달성 — {0} 인격 {1}명 동기화 4단계"
+    },
+    {
+      "id": "limtochess_roominfo_name_battle",
+      "content": "{0} 전투"
+    },
+    {
+      "id": "limtochess_roominfo_name_room",
+      "content": "{0}"
+    },
+    {
+      "id": "limtochess_roominfo_name_hidden",
+      "content": "밝혀지지 않은 방"
+    },
+    {
+      "id": "limtochess_roominfo_name_visited",
+      "content": "{0} · 방문한 방"
+    },
+    {
+      "id": "limtochess_roominfo_name_current",
+      "content": "{0} · 현재 위치"
+    },
+    {
+      "id": "limtochess_roominfo_pack_count",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_packtip_cost_low",
+      "content": "COST 0~1"
+    },
+    {
+      "id": "limtochess_packtip_chance_line",
+      "content": "{0}  {1}"
+    },
+    {
+      "id": "limtochess_packtip_percent",
+      "content": "{0}%"
+    },
+    {
+      "id": "limtochess_packtip_percent_under_min",
+      "content": "0.01% 미만"
+    },
+    {
+      "id": "limtochess_part_focus_header",
+      "content": "WARNING"
+    },
+    {
+      "id": "limtochess_part_focus_6011_pole",
+      "content": "전봇대 우선 공격"
+    },
+    {
+      "id": "limtochess_entrance_pass_locked_title",
+      "content": "미개방"
+    },
+    {
+      "id": "limtochess_final_title_cleared",
+      "content": "구축 성공"
+    },
+    {
+      "id": "limtochess_final_title_defeated",
+      "content": "구축 실패"
+    },
+    {
+      "id": "limtochess_final_title_abandoned",
+      "content": "구축 포기"
+    },
+    {
+      "id": "limtochess_final_mode_auto",
+      "content": "자동 편성"
+    },
+    {
+      "id": "limtochess_final_mode_manual",
+      "content": "수동 편성"
+    },
+    {
+      "id": "limtochess_final_summary_line",
+      "content": "{0} · 도상 진행도 {1}/{2} · 편성 인격 {3}명 · 인격 레벨 {4}"
+    },
+    {
+      "id": "limtochess_final_auto_bonus",
+      "content": "※ 자동 편성 보너스 : 도상구축 패스 경험치 +40%"
+    },
+    {
+      "id": "limtochess_final_measure_line",
+      "content": "총 소요 시간 : {0} · 주사위 굴림 횟수 : {1}회"
+    },
+    {
+      "id": "limtochess_duration_hours",
+      "content": "{0}시간 {1}분"
+    },
+    {
+      "id": "limtochess_duration_minutes",
+      "content": "{0}분 {1}초"
+    },
+    {
+      "id": "limtochess_final_defeat_where",
+      "content": "패배 스테이지 - {0}"
+    },
+    {
+      "id": "limtochess_final_completion_none",
+      "content": "최종 편성"
+    },
+    {
+      "id": "limtochess_final_not_in_roster",
+      "content": "편성 제외"
+    },
+    {
+      "id": "limtochess_final_damage_head",
+      "content": "피해 기록 [일반 전투 {0}회, 정예 전투 {1}회, 보스 전투 {2}회 합계]"
+    },
+    {
+      "id": "limtochess_final_damage_row",
+      "content": "가한 피해 {0}({1}%) · 받은 피해 {2} · 처치 {3} · 출전 {4}회"
+    },
+    {
+      "id": "limtochess_final_damage_row_deaths",
+      "content": " · 사망 {0}"
+    },
+    {
+      "id": "limtochess_final_damage_total",
+      "content": "합계 — 가한 피해 {0} · 받은 피해 {1} · 처치 {2}"
+    },
+    {
+      "id": "limtochess_final_battle_log_head",
+      "content": "전투 기록"
+    },
+    {
+      "id": "limtochess_final_battle_log_line",
+      "content": "{0} — {1} ({2}턴 진행) · 소요 시간 : {3} · 사망한 인격 수 : {4}명"
+    },
+    {
+      "id": "limtochess_battle_result_win",
+      "content": "승리"
+    },
+    {
+      "id": "limtochess_room_title",
+      "content": "제 {0}도상 {1}"
+    },
+    {
+      "id": "limtochess_room_label_final_boss",
+      "content": "최종 보스 전투"
+    },
+    {
+      "id": "limtochess_report_subline",
+      "content": "{0} · {1}턴"
+    },
+    {
+      "id": "limtochess_report_round",
+      "content": "{0}턴"
+    },
+    {
+      "id": "limtochess_report_retry_left",
+      "content": "재전투 (남은 횟수 {0})"
+    },
+    {
+      "id": "limtochess_report_continue",
+      "content": "계속"
+    },
+    {
+      "id": "limtochess_event_hardship_stacked",
+      "content": "받은 고난 {0}개 — {1}"
+    },
+    {
+      "id": "limtochess_event_boss_current",
+      "content": "현재 최종 보스 : {0}"
+    },
+    {
+      "id": "limtochess_event_pick_guide",
+      "content": "추가되는 고난은 이후 모든 전투의 적에게 누적되어 적용됩니다."
+    },
+    {
+      "id": "limtochess_event_card_selected",
+      "content": "선택됨"
+    },
+    {
+      "id": "limtochess_event_card_select",
+      "content": "선택"
+    },
+    {
+      "id": "limtochess_event_choice_confirm",
+      "content": "확인"
+    },
+    {
+      "id": "limtochess_event_keyword_picked",
+      "content": "선택한 키워드 : {0}"
+    },
+    {
+      "id": "limtochess_event_roster_note",
+      "content": "편성 {0}/{1}명 — 영입하면 편성된 인격 1명과 교체됩니다"
+    },
+    {
+      "id": "limtochess_event_none",
+      "content": "진행할 수 있는 이벤트가 없습니다."
+    },
+    {
+      "id": "limtochess_event_back_to_map",
+      "content": "맵으로 돌아가기"
+    },
+    {
+      "id": "limtochess_event_empty_slot",
+      "content": "비어 있는 편성"
+    },
+    {
+      "id": "limtochess_event_unknown_personality",
+      "content": "알 수 없는 인격"
+    },
+    {
+      "id": "limtochess_event_unknown_ego",
+      "content": "알 수 없는 E.G.O"
+    },
+    {
+      "id": "limtochess_notice_battle_quit",
+      "content": "전투를 중단했습니다. 전투 진입 직전 상태로 되돌아갑니다."
+    },
+    {
+      "id": "limtochess_notice_server_wait",
+      "content": "서버 정보를 불러오는 중입니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "id": "limtochess_notice_deck_unavailable",
+      "content": "지금은 사용할 수 없는 편성입니다."
+    },
+    {
+      "id": "limtochess_notice_rolls_used_up",
+      "content": "편성 새로고침 횟수를 전부 소모했습니다."
+    },
+    {
+      "id": "limtochess_notice_auto_rolls_used_up",
+      "content": "자동 편성 새로고침 횟수를 전부 소모했습니다."
+    },
+    {
+      "id": "limtochess_notice_pick_one",
+      "content": "인격을 1명 이상 선택해 주세요."
+    },
+    {
+      "id": "limtochess_notice_roll_first",
+      "content": "먼저 편성 새로고침을 진행해 주세요."
+    },
+    {
+      "id": "limtochess_notice_cost_over",
+      "content": "코스트가 부족합니다."
+    },
+    {
+      "id": "limtochess_notice_max_picks",
+      "content": "최대 {0}명까지 편성할 수 있습니다."
+    },
+    {
+      "id": "limtochess_notice_run_in_progress",
+      "content": "진행 중인 데이터가 확인되었습니다. 이어하기로 진행해 주세요."
+    },
+    {
+      "id": "limtochess_notice_already_picked",
+      "content": "이미 선택한 대상입니다."
+    },
+    {
+      "id": "limtochess_notice_no_target",
+      "content": "선택할 수 있는 대상이 없습니다."
+    },
+    {
+      "id": "limtochess_confirm_ego_swap_desc",
+      "content": "{0}의 E.G.O를 교체하시겠습니까?"
+    },
+    {
+      "id": "limtochess_notice_reroll_charged",
+      "content": "새로고침 기회가 {0}회 충전되었습니다."
+    },
+    {
+      "id": "limtochess_notice_reroll_short",
+      "content": "새로고침 기회가 부족합니다."
+    },
+    {
+      "id": "limtochess_notice_identity_joined",
+      "content": "인격을 편성했습니다."
+    },
+    {
+      "id": "limtochess_notice_identity_replaced",
+      "content": "인격을 교체했습니다."
+    },
+    {
+      "id": "limtochess_notice_sync_up",
+      "content": "{0} 인격의 동기화 단계가 {1}단계에서 {2}단계로 상승했습니다."
+    },
+    {
+      "id": "limtochess_notice_level_catch_up",
+      "content": "인격 레벨이 {0} → {1} 상승했습니다."
+    },
+    {
+      "id": "limtochess_formation_cost",
+      "content": "{0} Cost"
+    },
+    {
+      "id": "limtochess_notice_server_error",
+      "content": "서버 오류가 발생했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "id": "limtochess_notice_battle_enter_failed",
+      "content": "전투에 진입하지 못했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "id": "limtochess_roster_replace_title",
+      "content": "편성 인원 초과 - 제외할 인격 {0}명을 선택하세요"
+    },
+    {
+      "id": "limtochess_roster_replace_desc",
+      "content": "이번 도상의 편성 상한은 {0}명이며, 영입하면 편성 인격이 총 {1}명이 됩니다.\n제외된 인격은 장착한 E.G.O를 잃고, 동기화 단계에 따라 그 인격의 조각 일부가 보관됩니다. 다시 영입하면 보관된 조각이 적용됩니다."
+    },
+    {
+      "id": "limtochess_roster_replace_confirm",
+      "content": "제외하고 받기"
+    },
+    {
+      "id": "limtochess_roster_replace_count",
+      "content": "선택 {0}/{1}명"
+    },
+    {
+      "id": "limtochess_roster_replace_head",
+      "content": "편성 인원 초과"
+    },
+    {
+      "id": "limtochess_roster_replace_sub",
+      "content": "제외할 인격을 {0}명 선택하세요"
+    },
+    {
+      "id": "limtochess_roster_replace_card_power",
+      "content": "구축력 {0}"
+    },
+    {
+      "id": "limtochess_roster_replace_card_refund",
+      "content": "제외할 경우, 조각 {0}개 보관"
+    },
+    {
+      "id": "limtochess_roster_replace_exclude",
+      "content": "제외하기"
+    },
+    {
+      "id": "limtochess_roster_replace_cancel",
+      "content": "취소"
+    },
+    {
+      "id": "limtochess_roster_replace_limit",
+      "content": "대체는 {0}명까지 — 고른 수감자를 눌러 빼고 고르세요"
+    },
+    {
+      "id": "limtochess_formation_all_join",
+      "content": "모든 인격이 전투에 참전해야 진행할 수 있습니다."
+    },
+    {
+      "id": "limtochess_weekly_reset_end_title",
+      "content": "구축 종료"
+    },
+    {
+      "id": "limtochess_weekly_reset_end_desc",
+      "content": "주간 초기화로 진행 중이던 구축이 종료되었습니다."
+    },
+    {
+      "id": "limtochess_final_claim_reward",
+      "content": "보상받기"
+    },
+    {
+      "id": "limtochess_final_exit",
+      "content": "나가기"
+    },
+    {
+      "id": "limtochess_report_duel_win",
+      "content": "아군 합 승리 수"
+    },
+    {
+      "id": "limtochess_report_mp_avg",
+      "content": "아군 정신력 평균"
+    },
+    {
+      "id": "limtochess_report_table_title",
+      "content": "전투 기록"
+    },
+    {
+      "id": "limtochess_report_dealt",
+      "content": "가한 피해"
+    },
+    {
+      "id": "limtochess_report_taken",
+      "content": "받은 피해"
+    },
+    {
+      "id": "limtochess_report_ego_damage",
+      "content": "E.G.O 피해"
+    },
+    {
+      "id": "limtochess_report_kill",
+      "content": "처치"
+    },
+    {
+      "id": "limtochess_report_duel",
+      "content": "합 승리"
+    },
+    {
+      "id": "limtochess_report_dealt_count",
+      "content": "가한 피해(횟수)"
+    },
+    {
+      "id": "limtochess_report_taken_count",
+      "content": "받은 피해(횟수)"
+    },
+    {
+      "id": "limtochess_report_damage_count",
+      "content": "{0} ({1})"
+    },
+    {
+      "id": "limtochess_report_duel_rate",
+      "content": "합 승률"
+    },
+    {
+      "id": "limtochess_report_one_sided",
+      "content": "일방 공격 비율"
+    },
+    {
+      "id": "limtochess_report_weak_resist",
+      "content": "<color=#FF6B5E>약점</color>·<color=#6FB2FF>내성</color> 적중"
+    },
+    {
+      "id": "limtochess_report_dot",
+      "content": "지속 피해"
+    },
+    {
+      "id": "limtochess_report_tab_attack",
+      "content": "공격"
+    },
+    {
+      "id": "limtochess_report_tab_hit",
+      "content": "피격"
+    },
+    {
+      "id": "limtochess_report_total_ally",
+      "content": "아군 전체"
+    },
+    {
+      "id": "limtochess_report_total_enemy",
+      "content": "적 전체"
+    },
+    {
+      "id": "limtochess_sweeper_banner_start_time",
+      "content": "새벽 3시 13분"
+    },
+    {
+      "id": "limtochess_sweeper_banner_elapsed",
+      "content": "{0}분 경과"
+    },
+    {
+      "id": "limtochess_sweeper_banner_night_start",
+      "content": "뒷골목의 밤이 시작됩니다."
+    },
+    {
+      "id": "limtochess_sweeper_banner_rush",
+      "content": "더 많은 청소부가 몰려옵니다."
+    },
+    {
+      "id": "limtochess_sweeper_banner_night_end",
+      "content": "뒷골목의 밤이 끝나갑니다."
+    },
+    {
+      "id": "limtochess_battle_hardship_label",
+      "content": "고난"
+    },
+    {
+      "id": "limtochess_final_result_title",
+      "content": "최종 전투 결과"
+    },
+    {
+      "id": "limtochess_final_pass_exp",
+      "content": "도상구축 패스 경험치 +{0}"
+    },
+    {
+      "id": "limtochess_final_segment_progress",
+      "content": "도상 진행도"
+    },
+    {
+      "id": "limtochess_final_battle_progress",
+      "content": "전투 진행 횟수"
+    },
+    {
+      "id": "limtochess_final_participants",
+      "content": "참여 인격"
+    },
+    {
+      "id": "limtochess_final_identity_level",
+      "content": "인격 레벨"
+    },
+    {
+      "id": "limtochess_final_level_value",
+      "content": "LV {0}"
+    },
+    {
+      "id": "limtochess_final_damage_title",
+      "content": "피해 기록"
+    },
+    {
+      "id": "limtochess_final_battle_detail_bracket",
+      "content": "[ 일반 전투 {0}회, 정예 전투 {1}회, 보스 전투 {2}회 ]"
+    },
+    {
+      "id": "limtochess_final_clash_value",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_final_reward_title",
+      "content": "보상 기록"
+    },
+    {
+      "id": "limtochess_final_pack_picked",
+      "content": "선택"
+    },
+    {
+      "id": "limtochess_final_reroll_used",
+      "content": "새로고침 기회 사용 횟수"
+    },
+    {
+      "id": "limtochess_final_generic_shards",
+      "content": "범용 조각 개수"
+    },
+    {
+      "id": "limtochess_final_acquired_identity",
+      "content": "획득한 인격 개수"
+    },
+    {
+      "id": "limtochess_final_acquired_ego",
+      "content": "획득한 E.G.O 개수"
+    },
+    {
+      "id": "limtochess_final_history_title",
+      "content": "히스토리"
+    },
+    {
+      "id": "limtochess_final_history_change",
+      "content": "{0} → {1}"
+    },
+    {
+      "id": "limtochess_final_history_ego",
+      "content": "[{0}] {1}"
+    },
+    {
+      "id": "limtochess_battle_buildpower_label",
+      "content": "구축력"
+    },
+    {
+      "id": "limtochess_battle_distortion_row",
+      "content": "도상 왜곡"
+    },
+    {
+      "id": "limtochess_roominfo_line",
+      "content": "• {0}"
+    },
+    {
+      "id": "limtochess_roominfo_effect_hardship",
+      "content": "{0} 또는 {1}"
+    },
+    {
+      "id": "limtochess_roominfo_section_packs",
+      "content": "등장 팩 목록"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_reroll_segment",
+      "content": "새로고침 기회"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_sync_pick",
+      "content": "동기화 상승 선택"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_sync_random",
+      "content": "무작위 동기화 상승"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_recruit_pick",
+      "content": "인격 영입"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_pack_random",
+      "content": "무작위 팩 획득"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_pack_keyword",
+      "content": "키워드 팩 획득"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_ego_pick",
+      "content": "E.G.O 장착"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_ego_keyword",
+      "content": "키워드 E.G.O 장착"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_reroll_to_generic",
+      "content": "범용 조각 환산"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_affiliation_random",
+      "content": "같은 소속 무작위 교체"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_affiliation_pick",
+      "content": "같은 소속 선택 교체"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_pick",
+      "content": "인격 교체 영입"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_all",
+      "content": "편성 전원 변경"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_one",
+      "content": "인격 1명 변경"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_pack_grade_open",
+      "content": "등급 팩 개봉"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_cost_up_pick",
+      "content": "코스트 +1 교체"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_swap_one_pick",
+      "content": "고른 인격 1명 변경"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_final_boss",
+      "content": "최종 보스 변경"
+    },
+    {
+      "id": "limtochess_roominfo_effect_name_stage_unlock",
+      "content": "보스 선택지 해금"
+    },
+    {
+      "id": "limtochess_packtip_deck_match",
+      "content": "현재 편성 중인 {1} 인격 {0}명"
+    },
+    {
+      "id": "limtochess_packtip_guarantee_head",
+      "content": "{1} 카드 최소 {0}장 확정"
+    },
+    {
+      "id": "limtochess_packtip_chance_head",
+      "content": "확률"
+    },
+    {
+      "id": "limtochess_packtip_identity",
+      "content": "인격"
+    },
+    {
+      "id": "limtochess_packtip_ego",
+      "content": "E.G.O"
+    },
+    {
+      "id": "limtochess_packtip_keep",
+      "content": "선택\n가능"
+    },
+    {
+      "id": "limtochess_gauge_cycle_state_extended",
+      "content": "공통주기 연장중"
+    },
+    {
+      "id": "limtochess_option_retry_left",
+      "content": "남은 횟수 {0}"
+    },
+    {
+      "id": "limtochess_roominfo_list_merit",
+      "content": "승리 보상"
+    },
+    {
+      "id": "limtochess_roominfo_merit_pack",
+      "content": "팩 {0}개 중 1개 개봉"
+    },
+    {
+      "id": "limtochess_roominfo_merit_reroll",
+      "content": "새로고침 기회 +{0}"
+    },
+    {
+      "id": "limtochess_roominfo_merit_elite",
+      "content": "정예 보상 1개 선택 (인격 및 E.G.O 교체·편성·동기화)"
+    },
+    {
+      "id": "limtochess_roominfo_merit_level",
+      "content": "인격 레벨 +{0}"
+    },
+    {
+      "id": "limtochess_ego_choice_title",
+      "content": "{0} {1} E.G.O 선택"
+    },
+    {
+      "id": "limtochess_ego_choice_desc",
+      "content": "{0}의 {1} 칸에는 E.G.O를 1개만 장착할 수 있습니다. 장착할 E.G.O를 고르세요."
+    },
+    {
+      "id": "limtochess_ego_choice_warning",
+      "content": "고르지 않은 E.G.O는 사라집니다."
+    },
+    {
+      "id": "limtochess_ego_choice_current",
+      "content": "기존 E.G.O · {0}단계"
+    },
+    {
+      "id": "limtochess_ego_choice_new",
+      "content": "신규 E.G.O · {0}단계"
+    },
+    {
+      "id": "limtochess_ego_choice_confirm",
+      "content": "장착"
+    },
+    {
+      "id": "limtochess_ego_choice_back",
+      "content": "뒤로"
+    },
+    {
+      "id": "limtochess_packselect_summary_ego_keep",
+      "content": "{0} E.G.O 보관"
+    },
+    {
+      "id": "limtochess_packselect_ego_same_grade",
+      "content": "{0}의 {1} E.G.O를 {2}장 골랐습니다. 확정 시 1장만 장착합니다."
+    },
+    {
+      "id": "limtochess_band_ready_buff_turn",
+      "content": "TURN {0}부터"
+    },
+    {
+      "id": "limtochess_roominfo_choice_1",
+      "content": "선택지 1"
+    },
+    {
+      "id": "limtochess_roominfo_choice_2",
+      "content": "선택지 2"
+    },
+    {
+      "id": "limtochess_roominfo_choice_3",
+      "content": "선택지 3"
+    },
+    {
+      "id": "limtochess_roominfo_choice_4",
+      "content": "선택지 4"
+    },
+    {
+      "id": "limtochess_roominfo_choice_5",
+      "content": "선택지 5"
+    },
+    {
+      "id": "limtochess_roominfo_choice_6",
+      "content": "선택지 6"
+    },
+    {
+      "id": "limtochess_roominfo_choice_7",
+      "content": "선택지 7"
+    },
+    {
+      "id": "limtochess_roominfo_choice_8",
+      "content": "선택지 8"
+    },
+    {
+      "id": "limtochess_roominfo_choice_option",
+      "content": "{0} · {1}"
+    },
+    {
+      "id": "limtochess_briefing_skill",
+      "content": "스킬"
+    },
+    {
+      "id": "limtochess_ink_lobby_run_title",
+      "content": "진행 중인 도상구축"
+    },
+    {
+      "id": "limtochess_ink_lobby_ticker",
+      "content": "※ BETA — 베타 기간 중에는 도상구축의 진행 방식과 화면이 달라질 수 있습니다"
+    },
+    {
+      "id": "limtochess_ink_start_ego_resource",
+      "content": "시작 E.G.O 자원"
+    },
+    {
+      "id": "limtochess_ink_start_primary",
+      "content": "구축 시작"
+    },
+    {
+      "id": "limtochess_ink_start_reroll_info",
+      "content": "· 자동 편성 새로고침 기회는 최대 {1}회까지 보유할 수 있습니다.\n· 자동 편성 새로고침 기회는 매일 {0}회씩 충전됩니다.\n· 도상구축을 마치면 진행도에 따라 자동 편성 새로고침 기회를 {1}회까지 획득할 수 있습니다."
+    },
+    {
+      "id": "limtochess_ink_map_formation",
+      "content": "편성"
+    },
+    {
+      "id": "limtochess_ink_start_deck_empty",
+      "content": "· 자동 편성 새로고침으로 등장한 편성은 화면 하단에 저장되며, 원하는 편성을 선택하여 입장할 수 있습니다."
+    },
+    {
+      "id": "limtochess_ink_event_pick_skip",
+      "content": "받지 않기"
+    },
+    {
+      "id": "limtochess_ink_pass_tab_reward",
+      "content": "보상"
+    },
+    {
+      "id": "limtochess_ink_pass_tab_mission_progress",
+      "content": "업적 {0}%"
+    },
+    {
+      "id": "limtochess_ink_pass_max",
+      "content": "최고 레벨"
+    },
+    {
+      "id": "limtochess_ink_pass_featured",
+      "content": "Lv {0} 보상"
+    },
+    {
+      "id": "limtochess_ink_pass_featured_receivable",
+      "content": "지금 받을 수 있습니다"
+    },
+    {
+      "id": "limtochess_ink_pass_featured_need",
+      "content": "패스 경험치 {0} 더 필요합니다"
+    },
+    {
+      "id": "limtochess_ink_pass_featured_received",
+      "content": "받은 보상입니다"
+    },
+    {
+      "id": "limtochess_ink_pass_count",
+      "content": "x{0}"
+    },
+    {
+      "id": "limtochess_ink_pass_coming",
+      "content": "준비 중"
+    },
+    {
+      "id": "limtochess_ink_result_mvp_tag",
+      "content": "MVP"
+    },
+    {
+      "id": "limtochess_ink_prep_ego_owned_demand",
+      "content": "보유 / 요구"
+    },
+    {
+      "id": "limtochess_ink_pass_featured_item",
+      "content": "{0} x{1}"
+    },
+    {
+      "id": "limtochess_ink_pass_mission_empty",
+      "content": "등록된 업적이 없습니다"
+    },
+    {
+      "id": "limtochess_ink_pass_mission_progress",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_ink_pass_mission_receivable",
+      "content": "받기"
+    },
+    {
+      "id": "limtochess_ink_pass_mission_received",
+      "content": "받음"
+    },
+    {
+      "id": "limtochess_battleprep_sortie_label",
+      "content": "전투 가능 인원"
+    },
+    {
+      "id": "limtochess_ink_pass_exp",
+      "content": "{0}/{1}"
+    },
+    {
+      "id": "limtochess_ink_pass_beta_notice",
+      "content": "· 도상구축 플레이로 얻는 패스 경험치는 주마다 최대 1,000까지 획득할 수 있습니다.\n· 현재 개방된 최대 레벨에 도달하면, 도상구축 플레이로 얻는 경험치는 추가로 쌓이지 않습니다.\n· 단, 향후 추가될 업적으로 얻는 경험치의 초과분은 패스 레벨이 확장될 때 자동으로 반영됩니다."
+    },
+    {
+      "id": "limtochess_ink_start_drawer_open",
+      "content": "출전 인격 선택"
+    },
+    {
+      "id": "limtochess_ink_gauge_cycle",
+      "content": "TURN {0}"
+    },
+    {
+      "id": "limtochess_ink_band_ready_buff_turn",
+      "content": "TURN {0}부터\n효과 적용"
+    },
+    {
+      "id": "limtochess_ego_guide_aim_click",
+      "content": "대상 적을 선택하세요"
+    },
+    {
+      "id": "limtochess_ego_guide_aim_cancel",
+      "content": "(우클릭 = 취소)"
+    },
+    {
+      "id": "limtochess_ego_guide_drop_fire",
+      "content": "적 위에 놓으면 발동"
+    },
+    {
+      "id": "limtochess_ego_guide_drop_reserve",
+      "content": "적 위에 놓으면 사용 예약"
+    },
+    {
+      "id": "limtochess_ego_guide_drop_cancel",
+      "content": "(빈 곳에 놓으면 취소)"
+    },
+    {
+      "id": "limtochess_ego_badge_duel",
+      "content": "합"
+    },
+    {
+      "id": "limtochess_ego_badge_oneside",
+      "content": "일방"
+    },
+    {
+      "id": "limtochess_ego_badge_impossible",
+      "content": "불가"
+    },
+    {
+      "id": "limtochess_ego_badge_target",
+      "content": "E.G.O 대상"
+    },
+    {
+      "id": "limtochess_ego_badge_resonance",
+      "content": "{0} {1}공명"
+    },
+    {
+      "id": "limtochess_ego_badge_absolute",
+      "content": "절대 {0}"
+    },
+    {
+      "id": "limtochess_egoaim_guide",
+      "content": "적 위로 드래그"
+    },
+    {
+      "id": "limtochess_egoaim_resonance",
+      "content": "{0}공명"
+    },
+    {
+      "id": "limtochess_egoaim_absolute",
+      "content": "{0}완전공명"
+    },
+    {
+      "id": "limtochess_egoaim_target",
+      "content": "{0} ({1})"
+    },
+    {
+      "id": "limtochess_packpreview_detail",
+      "content": "상세 보기"
+    },
+    {
+      "id": "limtochess_ink_start_exp_up",
+      "content": "도상구축 패스 경험치 +40%"
+    },
+    {
+      "id": "limtochess_cost_tag",
+      "content": "COST"
+    },
+    {
+      "id": "limtochess_elite_replace_target_label",
+      "content": "교체할 인격"
+    },
+    {
+      "id": "limtochess_result_dmg_label",
+      "content": "DMG"
+    },
+    {
+      "id": "limtochess_buildpower_help",
+      "content": "구축력은 현재 편성이 얼마나 갖춰졌는지를 보여 주는 수치입니다.\n\n인격의 코스트 · 동기화 단계 · 레벨이 높을수록 구축력이 증가합니다. 또한 같은 키워드 · 소속의 인격을 모으거나, 등급이 높은 E.G.O를 장착하는 경우에도 구축력이 증가합니다. 출격 인격은 대기 인격보다 구축력에 더 크게 반영됩니다.\n\n※ 단, 구축력은 편성의 강함을 가늠하는 참고 지표일 뿐이며, 전투에 직접적인 영향은 주지 않습니다."
+    },
+    {
+      "id": "limtochess_event_block_no_boss_set",
+      "content": "보스 적 세트 없음"
+    },
+    {
+      "id": "limtochess_event_block_same_boss",
+      "content": "지금 최종 보스와 같음"
+    },
+    {
+      "id": "limtochess_event_block_cleared_boss",
+      "content": "이미 깬 보스"
+    },
+    {
+      "id": "limtochess_event_block_no_target",
+      "content": "대상 없음"
+    },
+    {
+      "id": "limtochess_event_block_not_enough_reroll",
+      "content": "새로고침 기회 부족"
+    },
+    {
+      "id": "limtochess_event_block_skip_off",
+      "content": "안 고른다 꺼짐"
+    },
+    {
+      "id": "limtochess_packselect_roster_cap_short",
+      "content": "편성 상한 {0}명 — 대체할 수 있는 수감자가 모자랍니다. 고른 카드를 줄이세요"
+    },
+    {
+      "id": "limtochess_ink_start_auto_cost_info",
+      "content": "· 자동 편성 선택 시, {0}코스트 안에서 무작위로 인격이 선택됩니다."
+    },
+    {
+      "id": "limtochess_notice_roster_cap_up",
+      "content": "편성 가능한 인격 수가 {0}명에서 {1}명으로 증가했습니다."
+    },
+    {
+      "id": "limtochess_level_bonus",
+      "content": "Lv {0}+{1}"
+    },
+    {
+      "id": "limtochess_ink_gauge_cycle_extended",
+      "content": "TURN {0} - 연장 중"
+    },
+    {
+      "id": "limtochess_battle_effect_level",
+      "content": "적 레벨 {0}"
+    },
+    {
+      "id": "limtochess_roster_replace_power_now",
+      "content": "현재 구축력"
+    },
+    {
+      "id": "limtochess_buildpower_recommended_label",
+      "content": "권장 구축력"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10910",
+      "content": "딜리버리 캐리어 - 로쟈가 15 이상이고 퇴각이 가능할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11011",
+      "content": "딜리버리 캐리어 - 싱클레어가 15 이상이고 퇴각이 가능할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10812",
+      "content": "시[始]가 3 이상이고 퇴각이 가능할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10613",
+      "content": "대기·복귀 인원이 있고 퇴각시킬 흑수가 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10710",
+      "content": "듀라한을 준비할 때, 또는 공격받을 때 듀라한이 있고 정신력이 15 이상이어서 강화 반격이 가능하면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10415",
+      "content": "천살을 준비할 거미집 아군이 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10416",
+      "content": "르누아르 개버딘 원단 코트와 아르뮈르 에비이예를 전환할 때, 또는 공격받을 때 강화 공격이 가능하면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10216",
+      "content": "공격받을 때, 불꽃나비의 관이 30 이상이고 과열된 관이 없으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11216",
+      "content": "공격받을 때, 새벽불이 30 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10110",
+      "content": "산나비와 죽은나비의 합이 최대치의 25% 이하이고 재장전 뒤 정신력이 -40 초과일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10115",
+      "content": "해금 - II를 준비할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10213",
+      "content": "저격 자세를 준비하거나 섬궁으로 전환할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10309",
+      "content": "시간 대여를 시작할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10314",
+      "content": "해금 단계를 높일 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10315",
+      "content": "검은 신의 가호가 100 이상이어서 강화 공격을 사용할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10412",
+      "content": "시선의 경멸 상태로 진입할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10514",
+      "content": "포자탄[기본]과 포자탄[산탄]의 합이 최대치의 25% 이하이고 재장전 뒤 정신력이 -40 초과일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10611",
+      "content": "탄환이 없고 재장전할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10713",
+      "content": "충전 횟수가 15 미만이고 과충전을 준비할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10813",
+      "content": "다음 스킬로 스킬 1이 2개 이상 쌓여 짝패를 바꿀 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10816",
+      "content": "체력이 10% 이하여서 탈의실에 들어가거나 탈의실에서 체력이 최대 체력 미만이어서 회복할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10902",
+      "content": "공격받을 때, 호흡이 5 이상이어서 흑운도 패시브로 강화 반격을 사용할 수 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10909",
+      "content": "시간 대여를 시작할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10913",
+      "content": "눈물 벼리기가 3 미만이고 정신력 소모 뒤 정신력이 -40 초과일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10915",
+      "content": "자신에게 레플렉시옹이 없고 공격해 오는 적의 부정적인 효과가 3개 이상이어서 크리틱을 사용할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10916",
+      "content": "가속탄이 5 미만이어서 보충할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11113",
+      "content": "시간 대여를 시작할 수 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11213",
+      "content": "체력 40% 이하인 적이 있고 메르체 추가 공격을 준비할 수 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10111",
+      "content": "미끼 요정이 3 미만일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10113",
+      "content": "반격할 상대가 있고 찢어진 추억이 2 미만일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10114",
+      "content": "각력【오】가 없고 다음 턴에 얻을 예정도 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10207",
+      "content": "공격받을 때 진동 횟수가 6 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10210",
+      "content": "공격받을 때 충전 횟수가 5 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10211",
+      "content": "공격받을 때 자기 화상이 10 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10212",
+      "content": "반격할 상대가 있고 각력【묘】가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10312",
+      "content": "공격받을 때 사랑/증오 횟수가 4 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10313",
+      "content": "반격할 상대가 있고 발각[發角]이 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10411",
+      "content": "반격할 상대가 있고 각력【묘】가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10413",
+      "content": "호위태세가 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10503",
+      "content": "충전 횟수가 5 미만일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10506",
+      "content": "공격받을 때 충전 횟수가 5 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10612",
+      "content": "공격받을 때 충전 횟수가 10 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10709",
+      "content": "공격받을 때 충전 횟수가 5 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10714",
+      "content": "반격할 상대가 있고 혈염[血炎]이 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10810",
+      "content": "방어 태세가 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10905",
+      "content": "충전 횟수가 5 미만일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10912",
+      "content": "사완이 없고 다음 턴에 얻을 예정도 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10914",
+      "content": "공격받을 때 충전 횟수가 5 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11010",
+      "content": "공격받을 때 진동 횟수가 3 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11014",
+      "content": "반격할 상대가 있고 혈염[血炎]이 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11015",
+      "content": "호흡 25 미만이면 스킬 1을 사용할 차례에 수비 사용. 호흡 25 이상이고 공격받을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11110",
+      "content": "공격받을 때 충전 횟수가 15 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11112",
+      "content": "반격할 상대가 있고 각력【묘】가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11211",
+      "content": "12구산 연료가 50 미만일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11212",
+      "content": "사완이 없고 다음 턴에 얻을 예정도 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11215",
+      "content": "고전압 외피가 없을 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10105",
+      "content": "공격받을 때, 대기 스킬에 스킬 1만 2개 이상 남았으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11105",
+      "content": "공격받을 때, 대기 스킬에 스킬 1만 2개 이상 남았으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10108",
+      "content": "공격받을 때, 대기 스킬에 스킬 3 없이 탐구한 지식을 유지하거나 올릴 수 있는 버리기가 가능할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10608",
+      "content": "공격받을 때, 대기 스킬에 스킬 3 없이 탐구한 지식을 유지하거나 올릴 수 있는 버리기가 가능할 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10510",
+      "content": "공격받을 때, 대기 스킬에서 스킬 3을 보존하면서 탐구한 지식을 유지하거나 올릴 수 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10907",
+      "content": "공격받을 때, 대기 스킬에서 스킬 3을 보존하면서 탐구한 지식을 유지하거나 올릴 수 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10116",
+      "content": "충전 횟수가 7 미만이고 체력 비용을 낸 뒤 체력이 60% 이상이면 스킬 1을 사용할 차례에 수비 사용. 충전 횟수 15 초과·체력 85% 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10310",
+      "content": "혈찬이 10 이상이고 경혈이 10 미만이며 체력이 60% 이상일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10414",
+      "content": "공격받을 때, 체력이 80% 이상이고 꽃잎이 10 미만이며 취약이 없으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10513",
+      "content": "공격받을 때, 경혈 갑주가 3 미만이고 대상 아군이 출혈 비용을 낸 뒤 체력이 60% 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10605",
+      "content": "공격받을 때, 체력이 50% 이하이고 K사 앰플이 2 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10702",
+      "content": "공격받을 때, 호흡 횟수가 3 이상이고 체력 5를 소모한 뒤 체력이 60% 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10705",
+      "content": "공격받을 때, 체력이 60% 이상이고 정신력이 -20 이상 0 이하이며 자기 침잠이 5 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11005",
+      "content": "정신력 -30 이하일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11006",
+      "content": "공격받을 때, 부적이 4이고 뒤에 전달할 3스킬이 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11016",
+      "content": "폭주 상태가 아니고 맥동 횟수가 15 미만이며 체력 비용을 낸 뒤 체력이 60% 이상일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11107",
+      "content": "공격받을 때, 마탄이 6 미만이고 정신력 비용을 낸 뒤 정신력이 -20 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11210",
+      "content": "체력 40% 미만이고 혈찬이 있으면 수비 사용. 그 외에는 닳아버린 마음이 3 미만이고 출혈 비용을 낸 뒤 체력이 60% 이상이면 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11214",
+      "content": "램프가 8 미만이고 체력 비용을 낸 뒤 체력이 60% 이상일 때, 스킬 1을 사용할 차례에 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10215",
+      "content": "구속 해제 - 창작 몰입 상태에서 체력 70% 이하인 아군이 있고 원호 방어가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10614",
+      "content": "체력 70% 이하인 아군이 있고 원호 방어가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10615",
+      "content": "공격받을 때, 호흡이 5 미만이고 포박 [홍루]가 부여된 적이 없으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10711",
+      "content": "공격받을 때, 원호 가능한 마침표 홍루가 있고 집중【저격】이 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10808",
+      "content": "공격받을 때, 양옆 아군 중 정신력이 35 이하인 아군이 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10811",
+      "content": "속도가 가장 빠른 흑운회 아군 2명 중 체력 70% 이하이고 수비 위력 증가가 없는 아군이 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10815",
+      "content": "체력 70% 이하인 아군이 있고 원호 방어가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10911",
+      "content": "공격받을 때, 출혈이 3 이상인 다른 아군이 있으면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10917",
+      "content": "본인이나 체력 비율이 가장 낮은 아군 2명 중 체력 70% 이하이고 보호막이 없는 대상이 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10410",
+      "content": "공격받을 때, 반격으로 얻을 적안 또는 참회가 7 미만이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11116",
+      "content": "체력 70% 이하인 아군이 있고 원호 방어가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10316",
+      "content": "공격해 오는 적의 쐐기 - 싱클레어가 4 이상일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11017",
+      "content": "공격해 오는 적의 쐐기 - 돈키호테가 4 이상일 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10617",
+      "content": "경청의 시간이 있으면 공격받을 때 수비 사용. 그 외에는 체력 70% 이하인 아군이 있고 원호 방어가 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10717",
+      "content": "공격 받을 때, 자신의 체력이 50% 이상이면 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_10117",
+      "content": "공격해 오는 적에게 '규칙: 수비 스킬 지정 금지'가 있을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_condition_11217",
+      "content": "이어진 실을 보유한 아군이 없을 때 수비 사용"
+    },
+    {
+      "id": "limtochess_defense_identity_retreat_support",
+      "content": "이스마엘의 지원 효과로 퇴각이 가능할 때"
+    },
+    {
+      "id": "limtochess_defense_identity_fallback",
+      "content": "이 인격의 고유 조건이 충족될 때"
+    },
+    {
+      "id": "limtochess_event_choice_tag_gain",
+      "content": "획득"
+    },
+    {
+      "id": "limtochess_event_choice_tag_cost",
+      "content": "대가"
+    },
+    {
+      "id": "limtochess_buildpower_band_low",
+      "content": "주의"
+    },
+    {
+      "id": "limtochess_buildpower_band_fit",
+      "content": "적정"
+    },
+    {
+      "id": "limtochess_buildpower_band_high",
+      "content": "여유"
+    },
+    {
+      "id": "limtochess_buildpower_penalty_hint",
+      "content": "패널티 상세 확인"
+    },
+    {
+      "id": "limtochess_buildpower_range",
+      "content": "{0}~{1}"
+    },
+    {
+      "id": "limtochess_packselect_cap_title",
+      "content": "편성 인원 가득 참"
+    },
+    {
+      "id": "limtochess_packselect_cap_desc",
+      "content": "선택 시 기존 인격 1명을 제외합니다"
+    },
+    {
+      "id": "limtochess_egoreplace_sync_label",
+      "content": "환상 해석"
+    },
+    {
+      "id": "limtochess_report_to_formation_retry",
+      "content": "편성을 변경하여 재도전"
+    },
+    {
+      "id": "limtochess_rest_generic_short",
+      "content": "범용 조각이 부족합니다."
+    },
+    {
+      "id": "limtochess_lobby_run_level",
+      "content": "인격 레벨 {0}"
+    },
+    {
+      "id": "limtochess_packselect_boss_reward",
+      "content": "보스 클리어 보상"
+    },
+    {
+      "id": "limtochess_packselect_slot_reroll_identity",
+      "content": "새로고침"
+    },
+    {
+      "id": "limtochess_packselect_slot_reroll_ego",
+      "content": "새로고침"
+    },
+    {
+      "id": "limtochess_packselect_slot_reroll_used",
+      "content": "새로고침 완료"
+    },
+    {
+      "id": "limtochess_packselect_sync_keep",
+      "content": "동기화 {0}단계 유지"
+    },
+    {
+      "id": "limtochess_roominfo_list_event_skip_head",
+      "content": "선택하지 않을 때"
+    },
+    {
+      "id": "limtochess_packselect_title_event_reward",
+      "content": "이벤트 보상"
+    },
+    {
+      "id": "limtochess_ink_start_reroll_caption",
+      "content": "남은 횟수"
+    },
+    {
+      "id": "limtochess_packselect_title_normal_reward",
+      "content": "일반 전투 클리어 보상"
+    },
+    {
+      "id": "limtochess_packselect_title_elite_reward",
+      "content": "정예 전투 클리어 보상"
+    },
+    {
+      "id": "limtochess_part_focus_6011_pole_broken",
+      "content": "전봇대 파괴"
+    },
+    {
+      "id": "limtochess_part_focus_6011_pole_failed",
+      "content": "전봇대 파괴 실패"
+    },
+    {
+      "id": "limtochess_part_focus_6011_pole_imminent",
+      "content": "적뢰 발동 임박"
+    },
+    {
+      "id": "limtochess_report_axis_round",
+      "content": "T{0}"
+    },
+    {
+      "id": "limtochess_packselect_toggle_replace_identity",
+      "content": "인격 교체"
+    },
+    {
+      "id": "limtochess_packselect_toggle_replace_ego",
+      "content": "E.G.O 교체"
+    },
+    {
+      "id": "limtochess_ink_start_ego_resource_help",
+      "content": "E.G.O 자원은 다음 전투로 이월되지 않으며, 전투를 시작할 때마다 현재 편성에 따라 E.G.O 자원을 얻고 전투를 진행합니다.\n\nE.G.O 자원의 획득량은 편성한 인격 전원(대기 포함)의 스킬을 속성별로 센 수의 절반(소수점 버림)입니다.\n· 스킬 1·2·3은 각각 3·2·1개로 셉니다.\n· 수비 스킬은 세지 않습니다."
+    },
+    {
+      "id": "limtochess_pass_weekly_max_limit",
+      "content": "주간 획득 한도"
+    },
+    {
+      "id": "limtochess_beta_desc_at_all",
+      "content": "※ BETA — 베타 기간 중에는 도상구축의 진행 방식과 화면이 달라질 수 있습니다"
+    },
+    {
+      "id": "limtochess_buildpower_line_change",
+      "content": "구축력 {0} → {1} ({2})"
+    },
+    {
+      "id": "limtochess_buildpower_line_range",
+      "content": "구축력 {0} → {1} ~ {2}"
+    },
+    {
+      "id": "limtochess_buildpower_roster_drop",
+      "content": "제외 시 구축력 {0}"
+    },
+    {
+      "id": "limtochess_buildpower_roster_result_pending",
+      "content": "구축력 영입 후 {0} → 제외 후 ?"
+    },
+    {
+      "id": "limtochess_buildpower_roster_result",
+      "content": "구축력 영입 후 {0} → 제외 후 {1} ({2})"
+    },
+    {
+      "id": "limtochess_buildpower_roster_now",
+      "content": "지금 {0}"
+    },
+    {
+      "id": "limtochess_event_effect_final_boss_weakness",
+      "content": "최종 보스 → {0} {1}"
+    },
+    {
+      "id": "limtochess_event_boss_hidden_name",
+      "content": "???"
+    },
+    {
+      "id": "limtochess_event_boss_weakness_jun",
+      "content": "[권장 속성 : 참격·탐식·오만]"
+    },
+    {
+      "id": "limtochess_event_boss_weakness_ricardo",
+      "content": "[권장 속성 : 타격·나태·질투]"
+    },
+    {
+      "id": "limtochess_event_boss_weakness_cleaners",
+      "content": "[권장 속성 : 관통·색욕·오만]"
+    },
+    {
+      "id": "limtochess_event_boss_weakness_alley",
+      "content": "[권장 속성 : 타격·나태·오만]"
+    },
+    {
+      "id": "limtochess_event_boss_weakness_blackcloud",
+      "content": "[권장 속성 : 참격·오만]"
+    },
+    {
+      "id": "limtochess_pass_level_up_popup_title",
+      "content": "패스 레벨 상승"
+    },
+    {
+      "id": "limtochess_pass_level_up_popup_name",
+      "content": "도상구축 패스"
+    }
+  ]
+}

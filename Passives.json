@@ -3554,6 +3554,51 @@
       "name": "보조 맞추기",
       "desc": "턴 종료 시 속도가 가장 느린 아군 인격 1명에게 다음 턴에 [Agility] 1 부여 (해결사 우선 부여)\n- 해당 아군 인격이 해결사면, 대신 다음 턴에 [Agility] 1, [AttackUp] 1 부여",
       "summary": "속도가 가장 느린 아군에게 다음 턴에 [Agility] 부여\n해당 아군이 해결사면 대신 다음 턴에 [Agility], [AttackUp] 부여"
+    },
+    {
+      "id": 1011701,
+      "name": "속죄적 엠보싱",
+      "desc": "자신의 [ChargeNoirAlly] 위력이 3 이상이면, 기본 공격 스킬 사용 시 마지막 코인이 [SuperCoin]으로 변경됨\n\n[MoreJoesu]으로 얻은 [BulletJoesu] 1당, 자신의 체력을 최대 체력의 2%만큼 회복 (턴당 최대 10%)\n- 이 효과로 체력을 초과해서 회복했으면, 초과된 수치만큼 다음 턴에 보호막 얻음"
+    },
+    {
+      "id": 1011702,
+      "name": "원죄적 원피수급",
+      "desc": "상시 적용: [BulletJoesu] 6개 보유\n\n턴 종료 시 [BulletJoesu]가 6개 미만이면, [MoreJoesu]\n\n[BulletJoesu]를 소모하는 코인 시작 시 [BulletJoesu]가 부족하면, 자신의 최대 체력의 (부족한 수치 x 3)%만큼 체력 피해(보호막 피해 포함)를 받고, 부족한 수치만큼 [BulletJoesu] 얻음\n- 이 효과로 흐트러짐 상태가 되거나 체력이 1 미만으로 감소하지 않음\n\n전투 중 누적으로 자신의 [ChargeNoirAlly] 횟수를 10 소모할 때마다 [ChargeNoirAlly] 위력 1 얻음"
+    },
+    {
+      "id": 1011703,
+      "name": "태너리 규칙",
+      "desc": "턴 시작 시 [RuleViolation]이 3인 적이 없으면, 공격 스킬을 장착한 적 1명에게 아래 규칙 중 하나를 무작위로 부여함 (집중 전투면, 무작위 부위에 부여)\n- [RuleDontA]\n- [RuleDontB]\n- [RuleDontC]\n\n규칙은 자신이 가장 최근에 공격한 메인 타겟 적에게 우선 부여하고, 해당 적이 없거나 사망했으면, 본체 최대 체력이 가장 높은 적에게 우선 부여함 (대상 지정 불가능한 적은 제외)\n\n아래 조건 중 하나라도 만족 시 [RuleSanction] 1 얻고, 자신의 [ChargeNoirAlly] 횟수 4 증가\n- 자신이 부여한 규칙을 대상이 어겼을 경우\n- 턴 시작 시 [RuleViolation]이 3인 적이 있는 경우\n\n자신의 [RuleSanction]이 3 이상이면, 자신의 기본 공격 스킬 종료 시 ‘퍼니싱 버니싱 피니싱’으로 전장에 [RuleViolation]이 가장 많은 대상에게 일방 공격함 (턴당 1회, 집중 전투면, 부위로 판정)"
+    },
+    {
+      "id": 1011711,
+      "name": "속죄적 엠보싱",
+      "desc": "자신의 [ChargeNoirAlly] 위력이 3 이상이면, 기본 공격 스킬 사용 시 마지막 코인이 [SuperCoin]으로 변경됨\n\n[MoreJoesu]으로 얻은 [BulletJoesu] 1당, 자신의 체력을 최대 체력의 <style=\"highlight\">4%</style>만큼 회복 (턴당 최대 <style=\"highlight\">20%</style>)\n- 이 효과로 체력을 초과해서 회복했으면, 초과된 수치만큼 다음 턴에 보호막 얻음"
+    },
+    {
+      "id": 1011721,
+      "name": "규칙과 법칙의 차이",
+      "desc": "전투 종료 시 [Charge] 횟수가 가장 적은 아군 [PersonalityCharge] 1명의 [Charge] 횟수 1 증가 (해당 아군 인격이 시지프 소속이면, 대신 [Charge] 횟수 2 증가)\n- 위력이 고정된 특수 [Charge]은 대상에서 제외"
+    },
+    {
+      "id": 1121701,
+      "name": "물레를 돌려주도록 할까",
+      "desc": "전투 시작시, [RougeGregAutoHeal] 1 얻음\n전투 시작시, 색욕 공명 수만큼 자신의 [ChargeRougeAlly] 횟수 증가 (최대 7)"
+    },
+    {
+      "id": 1121702,
+      "name": "새롭게 들려오는 붉은 목소리",
+      "desc": "전투 중 누적으로 자신의 [ChargeRougeAlly] 횟수 10을 소모할 때마다 [ChargeRougeAlly] 위력 1 얻음\n\n전투에 오트쿠튀르::르루주 붉은 신 싱클레어가 있으면, [GoldBuffet] 1 부여\n\n턴 시작시 자신의 [RougeGregWarmUp]이 최댓값이면, 아군 오트쿠튀르::르루주 붉은 신 싱클레어 인격이 [TransformSinclair]을 보유한 동안 아래 효과 얻음 (전투당 1회)\n\n- [RougeFamilySinclair] 1 얻음\n- [ChargeRougeAlly] 횟수 최대치 +5\n- ‘라 보라시테(la voracité)’, ‘라 카스트라시옹(la castration)’ 스킬 사용 전 [ChargeRougeAlly] 횟수 5 얻음"
+    },
+    {
+      "id": 1121703,
+      "name": "번잡하게 얽힌 타래",
+      "desc": "자신의 기본 스킬의 체력 감소 효과로 흐트러지거나 체력이 1 미만으로 감소하지 않음 (체력이 1인 경우, 기본 스킬 효과중 체력 소모로 발동되는 효과를 적용 받을 수 있음)\n\n[RougeGregLink]을 보유한 아군이 적에게 사용한 색욕 속성 스킬의 공격 종료 시, 해당 공격의 메인 타겟에게 ‘자아내기’ 스킬 사용 (턴당 1회)\n- 메인 타겟이 사망했으면, 무작위 적에게 사용\n- 이 효과로 ‘자아내기’ 스킬 사용 시, [RougeGregWarmUp] 1 얻음"
+    },
+    {
+      "id": 1121721,
+      "name": "덧바느질",
+      "desc": "전투 시작시 현재 체력 비율이 가장 낮은 아군 1명에게 [RougeGregAutoHeal] 1 부여"
     }
   ]
 }

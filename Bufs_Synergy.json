@@ -1,0 +1,11 @@
+{
+  "dataList": [
+    {
+      "id": "SynergyActivationConditions_ForthMatchFlame",
+      "name": "시너지 발동 조건",
+      "excludeAutoLink": true,
+      "desc": "- [4번째 성냥불] 이상 : 환상 해석 5단계\n- [4번째 성냥불] 료슈 : 환상 해석 5단계\n- [4번째 성냥불] 로쟈 : 환상 해석 5단계",
+      "summary": ""
+    }
+  ]
+}

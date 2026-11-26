@@ -5,6 +5,10 @@
       "content": "기본 설정"
     },
     {
+      "id": "mainui_settings_ego_fast_forward_speed",
+      "content": "E.G.O 빠른 재생 배속"
+    },
+    {
       "id": "mainui_settings_graphic",
       "content": "그래픽"
     },

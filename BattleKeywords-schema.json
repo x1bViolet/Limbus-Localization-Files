@@ -1,0 +1,50 @@
+{
+  "dataList": [
+    {
+      "id": "BlackCloudBladeEnemy",
+      "name": "흑운도",
+      "desc": "- 최댓값 : 1\n- 참격 위력 1 증가\n- 참격 스킬로 공격 적중시 출혈 1 부여",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EngageToBattleEnemy",
+      "name": "임전",
+      "desc": "- 최댓값 : 1\n- 자신의 스킬, 코인 효과로 출혈 위력, 횟수를 부여할 때 부여하는 값 +1\n- 이번 전투 동안 참격 위력 증가 1, 참격 피해량 증가 3 얻음",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SharpSensibility",
+      "name": "칼질의 재미",
+      "desc": "- 최댓값 : 100\n- 스킬 슬롯에 ‘발도 자세’가 장착된 상태에서 자신의 스킬 코인 적중 시, 10 얻음 (스킬당 1회)\n- 특정 스킬에서 소모됨",
+      "summary": "",
+      "flavor": "‘검에 집중하고 검을 뽑고 누군가가 쓰러지고. 이렇게 삶과 죽음이 교차하는 검 놀이가 제일 재밌단 말이지.’",
+      "undefined": "-"
+    },
+    {
+      "id": "InkwashShadow_LowMorale",
+      "name": "안하무인",
+      "desc": "- 사기 저하\n- 턴 시작 시 피해량 증가 1, 취약 1을 얻음",
+      "summary": ""
+    },
+    {
+      "id": "InkwashShadow_Panic",
+      "name": "안하무인",
+      "desc": "- 패닉\n- 턴 시작 시 피해량 증가 2, 취약 2를 얻음",
+      "summary": ""
+    },
+    {
+      "id": "ElectricPolePower",
+      "name": "고압 방전",
+      "desc": "- 최댓값 : 10\n- 진동 폭발 피격 시 5 감소 (스킬당 1회)\n- 나태 속성 스킬 피격 시 1 감소 (스킬당 1회)\n- 나태 속성이 아닌 스킬에 받는 피해량 -100%\n- 흐트러짐 상태가 되지 않음",
+      "summary": ""
+    },
+    {
+      "id": "SweeperSchema",
+      "name": "청소 시간",
+      "desc": "{0}턴 후 청소 종료",
+      "summary": ""
+    }
+  ]
+}

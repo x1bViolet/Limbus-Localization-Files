@@ -1,0 +1,483 @@
+{
+  "dataList": [
+    {
+      "id": 600201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "구름 걷기",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여 (스킬당 1회)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 이 코인 재사용 (스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "암운",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Paralysis] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가 (스킬당 1회)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 이 코인 재사용 (스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "발도 자세",
+          "desc": "[WhenUse] 자신의 정신력 5 회복\n- 체력이 50% 이하면, 대신 10 회복",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [SlashTakeDamageUp] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쿠모기리",
+          "desc": "[Laceration] 위력이 제일 높은 대상을 우선으로 타겟\n[WhenUse]\n- [SharpSensibility] 50당, 공격 가중치 +1, 코인 위력 +1\n- 피해량 +([SharpSensibility] 수치)%\n[WhenUse] 피해량 +(메인 타겟의 [Laceration] 위력)% (최대 50%)\n[DefeatDuel] [Paralysis] 3 얻음, 피해량 -75%, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkillAll] [SharpSensibility] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 5 이상이면, [Laceration] 2회 발동. 대상의 [Laceration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "아메기리",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [AttackDown] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 10 이상이면, [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쿠로쿠모기리",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Paralysis] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 10 이상이면, [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "공간참[쿠로쿠모]",
+          "desc": "[Laceration] 위력이 제일 높은 대상을 우선으로 타겟\n[WhenUse]\n- [SharpSensibility] 25당, 공격 가중치 +1\n- [SharpSensibility] 50당, 코인 위력 +1\n- 피해량 +([SharpSensibility] 수치)%\n[WhenUse] 피해량 +(메인 타겟의 [Laceration] 위력과 횟수의 합)% (최대 100%)\n[DefeatDuel] [Paralysis] 4 얻음, 피해량 -75%, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkillAll] [SharpSensibility] 전부 소모",
+          "flavor": "흑운회 제2조장이 창시한 검술. 불완전한 참격임에도 일순, 공간을 베어낸다.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 횟수가 5 이상이면, [Laceration] 2회 발동. 대상의 [Laceration] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 601101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "등압추격",
+          "desc": "[WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [ElectricShock]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Burst] 5 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Burst] 횟수 4 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 601102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "피뢰",
+          "desc": "[WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +20% (최대 80%)\n[WhenUse] 대상의 [ElectricShock]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Burst] 5 부여, [Burst] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 601103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "적뢰",
+          "desc": "[WhenUse] 자신의 [ElectricPolePower] 2당, 공격 가중치 +1 (최대 5)\n[WhenUse] 자신의 [ElectricPolePower] 1당, 최종 위력 +1, 피해량 +10% (최대 10, 100%)\n[WhenUse] 메인 타겟의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [ElectricPolePower] 소멸",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Burst] 10 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Burst] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쓰레기 처리",
+          "desc": "대상의 [Laceration]이 4 이상이면, 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "이 코인에서 적중 시, 입힌 체력 피해량의 30%만큼 체력 회복"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 이 코인 재사용 (스킬 당 최대 3회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "333..1973",
+          "desc": "[StartBattle] [Persistent] 4 얻음\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 흐트러짐 5 회복"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 출혈 횟수 3 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "뒷골목의 밤",
+          "desc": "대상의 [Laceration]이 2 이상이면, 코인 위력 +1\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 체력 8 회복"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 체력 8 회복"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 흐트러짐 8 회복"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 1 회 발동 ([Laceration] 횟수 1 감소)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

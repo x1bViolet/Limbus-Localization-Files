@@ -5465,6 +5465,482 @@
     {
       "id": "TutoRailway2BokGak_P21_D3",
       "content": "이후에 얻게 되는 보상은 별도의 추가 엔케팔린 모듈 소모 없이 언제든지 획득할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_Title",
+      "content": "도상구축"
+    },
+    {
+      "id": "TutoSchemacraft_P1_T1",
+      "content": "도상구축"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D1",
+      "content": "도상구축은 주사위를 굴려 도상을 탐사하고, 전투 보상으로 얻은 인격과 E.G.O로 편성을 갖추어 나가는 콘텐츠입니다."
+    },
+    {
+      "id": "TutoSchemacraft_P1_D2",
+      "content": "전투는 자동으로 진행되며, 어느 표상으로 나아갈지와 어떤 보상을 고를지, 언제 E.G.O를 사용할지를 선택하여 최종 보스 처치를 목표로 합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P1_T2",
+      "content": "입장하기"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D3",
+      "content": "입장하기를 선택하면 시작 편성 화면으로 이동합니다. 진행 중인 도상구축이 있으면 이어하기로 계속하거나 새로하기로 다시 시작할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P1_T3",
+      "content": "도상구축 패스"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D4",
+      "content": "도상구축을 진행하여 패스 경험치를 획득하고, 레벨에 따라 보상을 수령할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_T1",
+      "content": "시작 편성"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D1",
+      "content": "도상구축을 함께 시작할 인격을 최대 4명까지 편성합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_T2",
+      "content": "수동 편성"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D2",
+      "content": "주어진 코스트 안에서 원하는 인격을 직접 선택합니다. 코스트가 높은 인격은 편성할 수 있는 수가 제한됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_T3",
+      "content": "자동 편성"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D3",
+      "content": "수동 편성보다 많은 코스트로 구성된 무작위 편성을 받습니다. 받은 편성은 자동 편성 목록에 보관되어 그중 하나를 선택할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_D4",
+      "content": "자동 편성 새로고침으로 새로운 편성을 받을 수 있으며, 남은 횟수는 매일 초기화됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_D5",
+      "content": "도상구축을 일정 도상 이상 진행한 뒤 종료하면, 자동 편성 새로고침 기회를 추가로 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P2_D6",
+      "content": "자동 편성으로 시작하면 도상구축 패스 경험치를 추가로 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_T1",
+      "content": "도상 탐사"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D1",
+      "content": "도상구축은 여러 개의 도상으로 구성되며, 각 도상의 보스를 처치하면 다음 도상으로 넘어갑니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_D2",
+      "content": "표상은 도상 위에서 이동할 수 있는 지점입니다. 일반 전투, 정예 전투, 보스 전투, 휴식, 유혹, 이벤트로 구분됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_T2",
+      "content": "주사위"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D3",
+      "content": "주사위를 굴리면 나온 눈만큼의 거리 안에 있는 표상이 밝혀지며, 그중 하나를 선택하여 이동할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_T3",
+      "content": "도상 왜곡"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D4",
+      "content": "남은 횟수와 추가 굴림을 모두 사용한 뒤에도 주사위를 굴릴 수 있지만, 굴릴 때마다 도상 왜곡이 쌓이게 됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_D5",
+      "content": "도상 왜곡은 현재 도상의 적을 강화합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_T4",
+      "content": "편성과 구축력"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D6",
+      "content": "인격 레벨은 편성한 모든 인격에게 공통으로 적용되며, 전투에서 승리할수록 상승합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P3_D7",
+      "content": "구축력은 현재 편성의 강함을 나타내는 수치입니다. 표상 정보에서 권장 구축력과 비교할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P4_T1",
+      "content": "표상 정보"
+    },
+    {
+      "id": "TutoSchemacraft_P4_D1",
+      "content": "해당 표상의 종류와 적의 평균 레벨 등을 확인할 수 있습니다. 표상 진입을 선택하면 해당 표상으로 이동합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P4_T2",
+      "content": "등장 팩 목록"
+    },
+    {
+      "id": "TutoSchemacraft_P4_D2",
+      "content": "전투에서 승리하였을 때 등장할 수 있는 팩의 목록입니다. 각 팩을 선택하여 팩의 자세한 정보를 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P5_T1",
+      "content": "전투 편성"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D1",
+      "content": "전투에 참여할 인격과 순서를 정합니다. 전투 가능 인원은 도상이 진행될수록 늘어납니다."
+    },
+    {
+      "id": "TutoSchemacraft_P5_D2",
+      "content": "전투 가능 인원을 넘는 인격은 대기 인원으로 편성되며, 아군이 사망하면 편성 순서에 따라 대신 전투에 참여합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P5_T2",
+      "content": "전투 준비"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D3",
+      "content": "하단의 버튼을 선택하여 방어 정책과 브리핑을 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P5_D4",
+      "content": "준비를 마친 뒤 전투 시작을 선택하면 전투가 시작됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P6_T1",
+      "content": "방어 정책"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D1",
+      "content": "방어 정책에서는 각 인격이 수비 스킬을 사용할 조건을 정할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P6_T2",
+      "content": "수비 조건"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D2",
+      "content": "인격을 선택한 뒤, 목록에서 수비 스킬을 사용할 조건을 선택합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P6_T3",
+      "content": "일괄 설정"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D3",
+      "content": "편성한 인격의 수비 조건을 한 번에 기본값으로 되돌리거나, 같은 조건으로 변경할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P7_T1",
+      "content": "브리핑"
+    },
+    {
+      "id": "TutoSchemacraft_P7_D1",
+      "content": "전투를 시작하기 전에 아군과 적의 평균 레벨, 출현하는 적의 수와 약점을 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P7_T2",
+      "content": "E.G.O 자원"
+    },
+    {
+      "id": "TutoSchemacraft_P7_D2",
+      "content": "먼저 출전하는 인격의 스킬로 얻을 수 있는 E.G.O 자원과, 장착한 E.G.O에 필요한 자원을 비교할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P8_T1",
+      "content": "자동 전투"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D1",
+      "content": "아군과 적은 각자의 속도에 따라 자동으로 행동하며, 서로의 스킬이 마주치면 합을 진행합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P8_T2",
+      "content": "TURN"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D2",
+      "content": "화면 중앙의 게이지는 턴 진행 상황을 나타내며, 턴 종료 시 효과는 턴이 끝날 때마다 적용됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P8_T3",
+      "content": "전투 인원"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D3",
+      "content": "출전한 아군이 사망하면 대기 인원이 투입되며, 편성한 인격이 모두 사망하면 전투에서 패배합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P8_T4",
+      "content": "적용 효과"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D4",
+      "content": "고난과 도상 왜곡으로 적에게 적용 중인 효과를 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P8_T5",
+      "content": "E.G.O 자원"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D5",
+      "content": "전투 시작 시 대기 인격을 포함해 죄악 속성별로 스킬 2장당 자원 1개를 얻습니다. 전투 중에도 스킬 속성에 따라 자원을 얻을 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P9_T1",
+      "content": "인격 패널"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D1",
+      "content": "화면 하단의 인격 패널에는 출전 중인 인격마다 발동 중인 스킬, 대기 중인 스킬, 수비 스킬이 차례로 표시됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P9_T2",
+      "content": "E.G.O 사용"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D2",
+      "content": "E.G.O 자원이 충분하면 인격 패널의 E.G.O를 선택하여 사용할 수 있으며, 대상은 자동으로 정해집니다."
+    },
+    {
+      "id": "TutoSchemacraft_P9_D3",
+      "content": "E.G.O를 위로 끌어 적에게 놓으면 대상을 직접 지정할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P9_D4",
+      "content": "E.G.O를 아래로 끌면 오버클록으로 전환되며, 그대로 손을 떼거나 적에게 놓아 사용할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P9_D5",
+      "content": "E.G.O를 길게 누른 뒤 손을 떼면 해당 E.G.O의 정보를 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P10_T1",
+      "content": "전투 리포트"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D1",
+      "content": "전투 리포트에서는 진영별 체력의 변화와 아군의 평균 정신력, 수감자별 기록을 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P10_T2",
+      "content": "전투 후 상태"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D2",
+      "content": "전투가 종료되면 사망한 인격도 복귀하고 체력이 모두 회복됩니다. 정신력은 다음 전투까지 이어지며, 0보다 낮다면 0으로 회복됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P10_T3",
+      "content": "재도전"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D3",
+      "content": "전투마다 정해진 횟수만큼 재도전할 수 있으며, 횟수를 모두 사용한 상태에서 패배하면 도상구축이 종료됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P11_T1",
+      "content": "전투 보상 - 팩 고르기"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D1",
+      "content": "전투에서 승리하면 3개의 팩이 제시되며, 그중 하나를 골라 인격과 E.G.O를 선택할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P11_D2",
+      "content": "각 팩에는 확정으로 등장하는 소속 또는 키워드와 인격의 코스트별 확률이 표시됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P11_T2",
+      "content": "팩 교체"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D3",
+      "content": "새로고침 기회를 소모하여 제시된 팩을 등장 팩 목록의 다른 팩으로 교체할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P11_D4",
+      "content": "새로고침 기회는 전투에서 승리할 때마다 획득하며, 휴식 표상 등에서도 추가로 획득할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_T1",
+      "content": "인격과 E.G.O 선택"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D1",
+      "content": "팩을 열면 제시된 인격과 E.G.O 중 정해진 수만큼 골라 획득합니다. 새로고침 기회를 소모하여 카드마다 한 번씩 다시 뽑을 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_T2",
+      "content": "편성 / 교체 / 조각"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D2",
+      "content": "편성 : 아직 편성되지 않은 수감자의 인격을 편성에 추가합니다. 편성 상한에 도달했다면 제외할 인격을 선택해야 합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_D3",
+      "content": "교체 : 이미 편성된 수감자의 인격을 선택한 인격으로 바꿉니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_D4",
+      "content": "조각 : 인격을 편성하는 대신 해당 수감자의 조각을 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_T3",
+      "content": "동기화와 조각"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D5",
+      "content": "편성 중인 인격과 같은 인격을 선택하면 동기화 단계가 상승합니다. 계정에서 보유하지 않은 인격은 동기화 3단계까지만 올릴 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_D6",
+      "content": "수감자의 조각이 필요한 수만큼 모이면, 해당 수감자의 인격이 다음 동기화 단계로 상승합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_T4",
+      "content": "범용 조각"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D7",
+      "content": "동기화 단계가 상한에 도달한 수감자의 조각은 범용 조각으로 전환됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P12_T5",
+      "content": "E.G.O 환상 해석"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D8",
+      "content": "E.G.O의 환상 해석 단계는 계정의 보유 단계를 따르며, 보유하지 않은 E.G.O는 환상 해석 1단계로 적용됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P13_T1",
+      "content": "정예 전투"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D1",
+      "content": "정예 전투에서 승리하면 팩 보상과 함께 정예 보상 중 하나를 선택하여 획득할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P13_D2",
+      "content": "인격 교체 : 편성 중인 수감자의 인격을 제시된 다른 인격으로 바꿉니다."
+    },
+    {
+      "id": "TutoSchemacraft_P13_D3",
+      "content": "인격 편성 : 제시된 인격을 편성에 추가합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P13_D4",
+      "content": "성장 : 편성 중인 수감자 1명을 골라 조각을 부여합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P13_D5",
+      "content": "받지 않기 : 정예 보상을 받지 않고 진행합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P14_T1",
+      "content": "유혹"
+    },
+    {
+      "id": "TutoSchemacraft_P14_D1",
+      "content": "유혹 표상에서는 인격과 E.G.O를 제안받으며, 선택한 인격은 편성에 추가되거나 기존 인격과 교체됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P14_D2",
+      "content": "받지 않기를 선택하여 현재 전투 편성을 유지할 수도 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P14_D3",
+      "content": "제안에 따라 주사위 굴림 횟수가 차감될 수 있습니다. 남은 횟수가 부족하더라도 선택할 수 있지만, 부족한 만큼 도상 왜곡이 쌓이게 됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P15_T1",
+      "content": "이벤트"
+    },
+    {
+      "id": "TutoSchemacraft_P15_D1",
+      "content": "이벤트 표상에서는 상황에 따른 선택지가 제시되며, 하나를 선택하여 해당 효과를 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P15_D2",
+      "content": "선택지를 고르지 않고 나갈 수도 있으며, 이 경우 효과와 고난을 모두 받지 않습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P15_T2",
+      "content": "고난"
+    },
+    {
+      "id": "TutoSchemacraft_P15_D3",
+      "content": "선택지의 고난은 적의 체력 또는 적이 가하는 피해량을 증가시키며, 도상구축이 끝날 때까지 누적됩니다."
+    },
+    {
+      "id": "TutoSchemacraft_P16_T1",
+      "content": "휴식"
+    },
+    {
+      "id": "TutoSchemacraft_P16_D1",
+      "content": "휴식 표상에서는 새로고침 기회, 동기화 단계 상승, 주사위 굴림 횟수 증가 등의 효과 중 하나를 선택하여 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P16_T2",
+      "content": "범용 조각 사용"
+    },
+    {
+      "id": "TutoSchemacraft_P16_D2",
+      "content": "범용 조각을 사용하여 원하는 인격의 동기화 단계를 올릴 수 있습니다. 올릴 수 있는 단계는 도상이 진행될수록 높아집니다."
+    },
+    {
+      "id": "TutoSchemacraft_P17_T1",
+      "content": "최종 전투 결과"
+    },
+    {
+      "id": "TutoSchemacraft_P17_D1",
+      "content": "도상구축이 종료되면 도상 진행도와 전투 진행 횟수, 참여 인격의 피해 기록과 보상 기록을 확인할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_T1",
+      "content": "도상구축 패스"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D1",
+      "content": "더 깊은 도상까지 나아갈수록 더 많은 패스 경험치를 획득합니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_D2",
+      "content": "패스 보상은 정해진 기간까지만 수령할 수 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_D3",
+      "content": "획득 가능한 패스 경험치는 매주 한정되어 있습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_D4",
+      "content": "주간 초기화 시점에 진행 중인 도상구축은 종료되므로, 이를 유의해주시기 바랍니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_D6",
+      "content": "현재 개방된 최고 레벨에 도달하면, 다음 구간이 개방될 때까지 플레이로 패스 경험치를 획득할 수 없습니다."
+    },
+    {
+      "id": "TutoSchemacraft_P18_T2",
+      "content": "업적"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D5",
+      "content": "업적은 향후 업데이트를 통해 추가될 예정입니다."
     }
   ]
 }

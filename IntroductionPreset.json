@@ -2187,6 +2187,22 @@
     {
       "id": "introduce_sentence_274",
       "content": "지키지 못한 {0}(으로/로) 벼려낸 이 검은…"
+    },
+    {
+      "id": "introduce_word_275",
+      "content": "욕망"
+    },
+    {
+      "id": "introduce_sentence_275",
+      "content": "{0}에 골몰중이오."
+    },
+    {
+      "id": "introduce_word_276",
+      "content": "실"
+    },
+    {
+      "id": "introduce_sentence_276",
+      "content": "그래, {0}(을/를) 잣고 싶나?"
     }
   ]
 }

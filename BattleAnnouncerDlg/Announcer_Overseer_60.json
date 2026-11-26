@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_60_1",
+      "dlg": "좋은 가죽을 만들기 위해서는 절차에 맞게, 통제에 따라 진행해야 해요. 그 가죽으로 옷을 만들어 걸친다면, 위층으로 올라가 런웨이에 설 수 있을지도 모르겠네요. 봐줄 만한 자태."
+    },
+    {
+      "id": "announcer_cheer_60_2",
+      "dlg": "고객은 죽어서 가죽을 남기고, 마네킹도 죽어서 가죽을 남기죠. 유류품 회수."
+    },
+    {
+      "id": "announcer_specialcheer_60_1",
+      "dlg": "가죽이 많이 해졌군요. 원물 손상."
+    },
+    {
+      "id": "announcer_specialcheer_60_2",
+      "dlg": "누더기나 다름없는 꼴이잖아요. 조만간 패치워크를 하나 만들 수 있겠어요. 신상 패턴 기획."
+    },
+    {
+      "id": "announcer_enemy_break_60_1",
+      "dlg": "흐으으읍…! 당신도 보이시나요? 곧 제 품에 안길 저 원피가! 기대감 증폭."
+    },
+    {
+      "id": "announcer_ally_break_60_1",
+      "dlg": "흐음, 통제에서 벗어났네요. 재수감 검토."
+    },
+    {
+      "id": "announcer_killenemy_60_1",
+      "dlg": "수확의 시간. 원피 한 장, 눈알 하나 빠짐없이 모두 긁어모아 주세요. 소유권 이전."
+    },
+    {
+      "id": "announcer_ally_dead_60_1",
+      "dlg": "다음 죄수 준비하세요~ 인력 충원."
+    },
+    {
+      "id": "announcer_enemy_adv_60_1",
+      "dlg": "표면에 난 상처는 아쉽지만, 뭐… 괜찮아요. 저는 스웨이드도 잘 만든답니다. 표피 절삭."
+    },
+    {
+      "id": "announcer_ally_adv_60_1",
+      "dlg": "절차대로 흘러가네요. 절차 유효성 검증됨."
+    },
+    {
+      "id": "announcer_ally_advex_60_1",
+      "dlg": "가끔은 별주를 넣는 분들도 있어요. 온갖 고난과 역경이 그려진, 그렇게 질겨진 가죽으로 만든 물건을. 음… 지금이 딱 적합하군요. 이상적인 파티나."
+    },
+    {
+      "id": "announcer_danger_60_1",
+      "dlg": "이제 폴리싱만 남았는데, 여기까지 와서 망치면 아쉽겠죠? 도전 욕구 자극."
+    },
+    {
+      "id": "announcer_enemy_specialskill_60_1",
+      "dlg": "으… 느껴져요… 제골기에 끼워져 괴롭게 버둥거리는 가죽의 소리가… 파열 전조 관측."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_60_1",
+      "dlg": "관찰 중… 흠, 이건 예외 케이스로 보이네요. 예외 처리 요망."
+    },
+    {
+      "id": "announcer_advatk_physical_60_1",
+      "dlg": "말끔한 플레싱이네요. 뛰어난 솜씨."
+    },
+    {
+      "id": "announcer_disadvatk_physical_60_1",
+      "dlg": "재단 규정을 찾아보긴 했나요? 게으른 성정."
+    },
+    {
+      "id": "announcer_advatk_attr_60_1",
+      "dlg": "정석적인 크롬 태닝이네요. 염료를 얹기 딱 좋겠어요. 합리적 공정."
+    },
+    {
+      "id": "announcer_disadvatk_attr_60_1",
+      "dlg": "낯 뜨거운 판단이네요. 공감성 수치."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_60_1",
+      "dlg": "비싼 약품 냄새가 나네요. 대체 뭘 썼죠? 경쟁 상품 파악."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_60_1",
+      "dlg": "구더기가 슬어있는 부분부터 도려내세요. 적극적 트리밍 필요."
+    },
+    {
+      "id": "announcer_ally_specialbuff_60_1",
+      "dlg": "오… 뭘 받아온 거죠? 죄수 여러분 몸에 귀티가 나네요. 서비스 환영."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_60_1",
+      "dlg": "이런! 오일 탠드 가죽인데 저렇게 건조해질 수가. 제가 솔질에 신경 쓰라고 했을 텐데요. 업무 태만."
+    },
+    {
+      "id": "announcer_enemy_destroy_60_1",
+      "dlg": "방금 피할된 부위는 얇은 코트로 딱이네요. 욕망 표출."
+    },
+    {
+      "id": "announcer_enemy_destroy_60_2",
+      "dlg": "아, 떨어진 육편은 전처리장으로 보내주세요. 제 로고로 압인하는 것 잊지 마시고요. 잉여 재고 확보."
+    },
+    {
+      "id": "announcer_round_takebigdmg_60_1",
+      "dlg": "상식적이지 않네요. 대상의 지능 의심."
+    },
+    {
+      "id": "announcer_round_takebigdmg_60_2",
+      "dlg": "눈구멍은 면피가 모자라서 뚫었나요? 의문 생성."
+    },
+    {
+      "id": "announcer_round_givebigdmg_60_1",
+      "dlg": "아… 감탄과 칭찬."
+    },
+    {
+      "id": "announcer_round_givebigdmg_60_2",
+      "dlg": "좋아요. 그렇게, 조금만 더 집중하죠. 목부터 일자로 그어 빼내면 손상 없이 원피를 확보할 수 있을 거예요. 필드 드레싱."
+    },
+    {
+      "id": "announcer_multikillenemy_60_1",
+      "dlg": "저 많은 것들의 수족만 깔끔하게 날리다니요! 칭찬을 아낄 필요가 없겠어요. 공적 치하."
+    },
+    {
+      "id": "announcer_battle_win_60_1",
+      "dlg": "작업 실패… 그런 건 당연히 없겠죠. 제 공정은 완벽했으니까. 완전무결."
+    },
+    {
+      "id": "announcer_battle_defeat_60_1",
+      "dlg": "규정… 미준수. 절차… 불이행. 결과… 본디드만도 못하군요… 죄수 전원 집합. 추가 무두질 예고."
+    },
+    {
+      "id": "announcer_equip_60_1",
+      "dlg": "일할 시간이에요~ 죄수 배치. 언제나 그랬듯 저의 통제에 따라 엘레강스한 제혁을 실시할게요. 작업 개시."
+    }
+  ]
+}

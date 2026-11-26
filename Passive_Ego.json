@@ -655,6 +655,18 @@
       "name": "매지컬 아르카나",
       "desc": "(3) 모든 아군의 빼기 코인 스킬 피해량 +10%\n'눈물로 벼려낸 검' E.G.O 스킬로 메인 타겟인 적에게 공격 종료시, [DespairKnightEGOAlly] 1 부여 (턴당 1회)",
       "summary": "(3) 모든 아군 빼기 코인 스킬 피해량 +10%, '눈물로 벼려낸 검' 공격 종료시, [DespairKnightEGOAlly] 1 부여"
+    },
+    {
+      "id": 50003,
+      "name": "4번째 성냥불",
+      "desc": "[SynergyActivationConditions]\n다음 [SynergyActivationConditions_ForthMatchFlame]을 만족한 4번째 성냥불 E.G.O가\n편성된 수에 따라 아래 효과 발동 (전투에 참여하지 않은 인격 포함)\n\n[SynergyActivationEffect]\n(2) 편성 창에 편성된 [PersonalityCombustion] 수가 3/5/7/10명 이상이면,\n4번째 성냥불 E.G.O의 피해량 20/40/60/80% 증가\n- 전투에 참여하지 않은 인격 포함\n- 해당 E.G.O 스킬의 공격 가중치보다 낮은 대상 1당, 피해량 +20%",
+      "summary": "(2) 4번째 성냥불 E.G.O 스킬 피해량 증가[TabExplain]"
+    },
+    {
+      "id": 50004,
+      "name": "4번째 성냥불",
+      "desc": "(3) 4번째 성냥불 E.G.O 스킬 공격 종료 시, 적중한 모든 타겟의 [BurningMatch] 횟수가 1 증가하고 적중한 대상에게 25만큼 [BurningMatch] 위력을 무작위로 나누어 부여 (각 E.G.O마다 턴당 1회 발동)",
+      "summary": "(3) 4번째 성냥불 E.G.O 스킬 공격 종료 시, 적중한 타겟에게 [BurningMatch] 부여"
     }
   ]
 }
