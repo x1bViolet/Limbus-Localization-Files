@@ -5,6 +5,10 @@
       "content": "General"
     },
     {
+      "id": "mainui_settings_ego_fast_forward_speed",
+      "content": "E.G.O Fast-forward Speed"
+    },
+    {
       "id": "mainui_settings_graphic",
       "content": "Graphics"
     },

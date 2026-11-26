@@ -637,6 +637,12 @@
       "flavor": "Contains recordings of Announcers who relay the current battlefield status.\n\n\"Hey, so... some of these tapes are recordings of people who are already long dead. Wonder where they got these voices from?\"\n\"By capturing and trapping a few—situationally relevant, of course—voices observed from beyond the Mirror Worlds, they say.\"\n\"It's the Mirror again? Mirror this, Mirror that—might as well use the Mirror to deal with everything, this company!\"\n\"Aren't we already doing that?\"\n\"... Yeah, but... Have we thought about the consequences of using this technology...?\""
     },
     {
+      "id": 752,
+      "name": "Nominable Announcer Ticket [Yisang Exchange] (Schemacraft Beta)",
+      "desc": "Use this item to select and obtain an Announcer from a limited list of Announcers that can be acquired through Yisang Exchange on the Extraction menu.\n(※ Does not include Walpurgis Night Announcers)\n(※ Only Announcers released up to the Season 8's end date can be obtained through this item)",
+      "flavor": "Contains recordings of Announcers who relay the current battlefield status.\n\n\"Hey, so... some of these tapes are recordings of people who are already long dead. Wonder where they got these voices from?\"\n\"By capturing and trapping a few—situationally relevant, of course—voices observed from beyond the Mirror Worlds, they say.\"\n\"It's the Mirror again? Mirror this, Mirror that—might as well use the Mirror to deal with everything, this company!\"\n\"Aren't we already doing that?\"\n\"... Yeah, but... Have we thought about the consequences of using this technology...?\""
+    },
+    {
       "id": 237,
       "name": "Takeoff Module - E.G.O Spinning [TETH]",
       "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os TETH Level or lower)",

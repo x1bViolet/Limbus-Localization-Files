@@ -35,7 +35,7 @@
         },
         {
           "message": "Brew our own batch of ssanghwa-cha.",
-          "messageDesc": "Wrath Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "messageDesc": "Wrath Advantage check. Pass to gain a Pierce E.G.O Gift.",
           "result": [
             ""
           ]
@@ -98,7 +98,7 @@
       "options": [
         {
           "message": "Ask if we can work with them.",
-          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "messageDesc": "Select to gain a Pierce E.G.O Gift",
           "result": [
             "\"You want to work with us?\"\n\nHe studies us for a moment, then slowly shakes his head.\n\n\"You look capable in a fight, but I have no way of judging your battle analysis and decision-making skills just by looking at you.\"\n\n\"I doubt you could work in step with us just yet.\"\n\n\"Our sister Office might be a better fit, though.\"\n\nHe takes a white cravat from his desk drawer and hands it to us.\n\n\"Take this to Dawn Office. They value fighting ability more than we do.\"\n\nHe rises and sees us out with the other two Fixers.\n\n\"Perhaps we'll meet again someday.\""
           ]

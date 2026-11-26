@@ -655,6 +655,18 @@
       "name": "Magical Arcana",
       "desc": "(3) All allies' Minus Coin Skills deal +10% damage\nAt Attack End against the enemy main target of \"The Sword Sharpened with Tears\" E.G.O Skill, inflict 1 [DespairKnightEGOAlly] (once per turn)",
       "summary": "(3) All allies' Minus Coin Skills deal +10% damage\nAttack End of \"The Sword Sharpened with Tears\": Inflict 1 [DespairKnightEGOAlly]"
+    },
+    {
+      "id": 50003,
+      "name": "4th Match Flame",
+      "desc": "[SynergyActivationConditions]\nActivate the [SynergyActivationEffect] based on the number of equipped 4th Match Flame E.G.O that meet the conditions stipulated in [SynergyActivationConditions_ForthMatchFlame] (includes Identities not on the field)\n\n[SynergyActivationEffect]\n(2) If 3+/5+/7+/10+ [PersonalityCombustion]s are equipped in the Team Loadout, 4th Match Flame E.G.O deals +20%/+40%/+60%/+80% damage\n- Includes Identities not on the field\n- Deal +20% damage for every excess Atk Weight beyond the # of actual targets",
+      "summary": "(2) 4th Match Flame E.G.O deals more damage"
+    },
+    {
+      "id": 50004,
+      "name": "4th Match Flame",
+      "desc": "(3) At 4th Match Flame E.G.O Skill Attack End, inflict +1 [BurningMatch] Count on all targets hit and randomly inflict 25 [BurningMatch] Potency between targets hit (once per turn per E.G.O)",
+      "summary": "(3) At 4th Match Flame E.G.O Skill Attack End, inflict [BurningMatch] on targets hit"
     }
   ]
 }

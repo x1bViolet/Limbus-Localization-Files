@@ -3601,7 +3601,7 @@
         {
           "level": 1,
           "name": "Retouche",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +3 [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects (once per turn):\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is [PersonalityCharge], apply 1 [Enhancement]",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +3 [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects (once per turn):\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is a [PersonalityCharge], apply 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": []
@@ -3611,7 +3611,7 @@
         {
           "level": 2,
           "name": "Retouche",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +<style=\"highlight\">4</style> [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects (once per turn):\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is [PersonalityCharge], apply 1 [Enhancement]<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +<style=\"highlight\">4</style> [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects (once per turn):\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is a [PersonalityCharge], apply 1 [Enhancement]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": []
@@ -3621,7 +3621,7 @@
         {
           "level": 4,
           "name": "Retouche",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +4 [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects <style=\"highlight\">(2 times per turn)</style>:\n- Apply Shield equal to <style=\"highlight\">10%</style> of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is [PersonalityCharge], apply 2 [Enhancement]",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] If target is an ally, apply +4 [Charge] Count and 1 [AttackUp]\n[EndSkill] If target is an ally, activate the following effects <style=\"highlight\">(2 times per turn)</style>:\n- Apply Shield equal to <style=\"highlight\">10%</style> of this unit's max HP (min 1)\n- Apply 1 [NoirScissorShield]\n- If target is a [PersonalityCharge], apply 2 [Enhancement]",
           "coinlist": [
             {
               "coindescs": []
@@ -3636,7 +3636,7 @@
         {
           "level": 1,
           "name": "Pin and Trim Along the Patterns",
-          "desc": "[StartBattle] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]; once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said Identity is [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
+          "desc": "[StartBattle] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]s; once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said Identity is a [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -3664,7 +3664,7 @@
         {
           "level": 2,
           "name": "Pin and Trim Along the Patterns",
-          "desc": "[StartBattle] Apply the following effects to <style=\"highlight\">this unit and</style> 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]; once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said Identity is [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
+          "desc": "[StartBattle] Apply the following effects to <style=\"highlight\">this unit and</style> 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]s; once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said Identity is a [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -3692,7 +3692,7 @@
         {
           "level": 4,
           "name": "Pin and Trim Along the Patterns",
-          "desc": "[StartBattle] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]), <style=\"highlight\">and 1 ally with the lowest current HP percentage</style> (once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said ally is [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Vibration] Potency on target (max 2)</style>\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
+          "desc": "[StartBattle] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]s), <style=\"highlight\">and 1 ally with the lowest current HP percentage</style> (once per turn):\n- Apply 2 [AttackUp]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n- If the said ally is a [PersonalityCharge], apply an additional 1 [AttackUp] and Shield equal to 5% of this unit's max HP\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Vibration] Potency on target (max 2)</style>\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -3728,7 +3728,7 @@
         {
           "level": 3,
           "name": "Coupez dans le Biais",
-          "desc": "Deal +15% damage for every [NoirScissorCut] on self (max 30%)\n\n[StartBattle] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]) and 1 ally with the lowest current HP percentage (once per turn):\n- Apply 1 [NoirScissorShield]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Final Power +1 for every 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2\n\n[EndSkill] Gain +5 [ChargeKhakiAlly] Count",
+          "desc": "Deal +15% damage for every [NoirScissorCut] on self (max 30%)\n\n[StartBattle] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]s) and 1 ally with the lowest current HP percentage (once per turn):\n- Apply 1 [NoirScissorShield]\n- Apply Shield equal to 5% of this unit's max HP (min 1)\n\n[WhenUse] If target has 6+ [Vibration] Potency, Coin Power +1\n[WhenUse] Final Power +1 for every 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2\n\n[EndSkill] Gain +5 [ChargeKhakiAlly] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -3765,7 +3765,7 @@
         {
           "level": 4,
           "name": "Coupez dans le Biais",
-          "desc": "Deal <style=\"highlight\">+30%</style> damage for every [NoirScissorCut] on self <style=\"highlight\">(max 60%)</style>\n\n[StartBattle] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]), and 1 ally with the lowest current HP percentage (once per turn):\n- Apply 1 [NoirScissorShield]\n- Apply Shield equal to <style=\"highlight\">10%</style> of this unit's max HP (min 1)\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Vibration] Potency on target (max 2)</style>\n[WhenUse] Final Power +1 for every 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2\n\n[EndSkill] Gain +5 [ChargeKhakiAlly] Count",
+          "desc": "Deal <style=\"highlight\">+30%</style> damage for every [NoirScissorCut] on self <style=\"highlight\">(max 60%)</style>\n\n[StartBattle] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [PersonalityCharge]s), and 1 ally with the lowest current HP percentage (once per turn):\n- Apply 1 [NoirScissorShield]\n- Apply Shield equal to <style=\"highlight\">10%</style> of this unit's max HP (min 1)\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Vibration] Potency on target (max 2)</style>\n[WhenUse] Final Power +1 for every 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Consume 5 [ChargeKhakiAlly] Count to gain Final Power +2\n\n[EndSkill] Gain +5 [ChargeKhakiAlly] Count",
           "coinlist": [
             {
               "coindescs": [

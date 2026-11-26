@@ -265,7 +265,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 },
                 {
-                  "desc": "On Hit with this Coin, heal 30% of the HP damage dealt"
+                  "desc": "On Hit using this Coin, heal 30% of the HP damage dealt"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reuse this Coin (3 times per Skill)"

@@ -525,6 +525,10 @@
     {
       "id": "RougeFamily10717",
       "desc": "Haute Couture::Le Rouge King of Needleworks Heathcliff\n- On Hit using the \"La Demande\" Skill's Coins, gain +1 Pulsation Count and heal 5% HP"
+    },
+    {
+      "id": "RougeFamily11217",
+      "desc": "Haute Couture::Le Rouge B2F Skein Nest Gregor\n- Pulsation Count max cap +5\nGain +5 Pulsation Count before using the \"La Voracité\" and \"La Castration\" Skills"
     }
   ]
 }
