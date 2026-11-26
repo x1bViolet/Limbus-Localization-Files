@@ -974,7 +974,7 @@
         {
           "level": 1,
           "name": "下がりなさい…",
-          "desc": "[StartBattle] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
+          "desc": "[StartBattle] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
           "coinlist": [
             {},
             {
@@ -992,7 +992,7 @@
         {
           "level": 2,
           "name": "下がりなさい…",
-          "desc": "[StartBattle] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "[StartBattle] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {},
             {
@@ -1010,7 +1010,7 @@
         {
           "level": 4,
           "name": "下がりなさい…",
-          "desc": "[StartBattle] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
+          "desc": "[StartBattle] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大20消耗して[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
           "coinlist": [
             {},
             {
@@ -1033,7 +1033,7 @@
         {
           "level": 1,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
+          "desc": "[StartBattle] 自分と体力最大値が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 2,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
+          "desc": "[StartBattle] 自分と体力最大値が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "撒き散らし、磨り潰されよ",
-          "desc": "[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
+          "desc": "[StartBattle] 自分と体力最大値が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3601,7 +3601,7 @@
         {
           "level": 1,
           "name": "ルトゥーシュ(Retouche)",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数3, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 (1ターンにつき1回)\n- 自分の最大体力の5%だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]1を付与",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数3, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 (1ターンにつき1回)\n- 自分の体力最大値の5%だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]1を付与",
           "coinlist": [
             {
               "coindescs": []
@@ -3611,7 +3611,7 @@
         {
           "level": 2,
           "name": "ルトゥーシュ(Retouche)",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数<style=\"highlight\">4</style>, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 (1ターンにつき1回)\n- 自分の最大体力の5%だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]1を付与<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数<style=\"highlight\">4</style>, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 (1ターンにつき1回)\n- 自分の体力最大値の5%だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]1を付与<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": []
@@ -3621,7 +3621,7 @@
         {
           "level": 4,
           "name": "ルトゥーシュ(Retouche)",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数4, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 <style=\"highlight\">(1ターンにつき2回)</style>\n- 自分の最大体力の<style=\"highlight\">10%</style>だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]2を付与",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 対象が味方なら、[Charge]回数4, [AttackUp]1を付与\n[EndSkill] 対象が味方なら、下記の効果を発動 <style=\"highlight\">(1ターンにつき2回)</style>\n- 自分の体力最大値の<style=\"highlight\">10%</style>だけバリアを付与 (最小1)\n- [NoirScissorShield]1を付与\n- 対象が[PersonalityCharge]なら、[Enhancement]2を付与",
           "coinlist": [
             {
               "coindescs": []
@@ -3636,7 +3636,7 @@
         {
           "level": 1,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の体力最大値の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の体力最大値の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3664,7 +3664,7 @@
         {
           "level": 2,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] <style=\"highlight\">自分と、</style>自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] <style=\"highlight\">自分と、</style>自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)に[AttackUp]2, 自分の体力最大値の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の体力最大値の5%だけバリアを追加で付与\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3692,7 +3692,7 @@
         {
           "level": 4,
           "name": "固定、そしてパターンに沿って裁断",
-          "desc": "[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、<style=\"highlight\">現体力の比率が最も低い味方1名</style>に[AttackUp]2, 自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の最大体力の5%だけバリアを追加で付与\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
+          "desc": "[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、<style=\"highlight\">現体力の比率が最も低い味方1名</style>に[AttackUp]2, 自分の体力最大値の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n- [PersonalityCharge]なら、[AttackUp]1, 自分の体力最大値の5%だけバリアを追加で付与\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -3728,7 +3728,7 @@
         {
           "level": 3,
           "name": "クーペ・ダン・ル・ビエ",
-          "desc": "自分の[NoirScissorCut]1につき、ダメージ量+15% (最大30%)\n\n[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
+          "desc": "自分の[NoirScissorCut]1につき、ダメージ量+15% (最大30%)\n\n[StartBattle] 自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の体力最大値の5%だけバリアを付与 (最小1, 1ターンにつき1回)\n\n[WhenUse] 対象の[Vibration]威力が6以上なら、コイン威力+1\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -3765,7 +3765,7 @@
         {
           "level": 4,
           "name": "クーペ・ダン・ル・ビエ",
-          "desc": "自分の[NoirScissorCut]1につき、ダメージ量<style=\"highlight\">+30% (最大60%)</style>\n\n[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の最大体力の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
+          "desc": "自分の[NoirScissorCut]1につき、ダメージ量<style=\"highlight\">+30% (最大60%)</style>\n\n[StartBattle] 自分と、自分を除く編成順が最も早い味方1名([PersonalityCharge]を優先)、現体力の比率が最も低い味方1名に[NoirScissorShield]1を付与し、自分の体力最大値の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力6につき、コイン威力+1 (最大2)</style>\n[WhenUse] 自分の[ChargeKhakiAlly]威力3につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeKhakiAlly]回数5を消耗し、最終威力+2\n\n[EndSkill] 自分の[ChargeKhakiAlly]回数が5増加",
           "coinlist": [
             {
               "coindescs": [
@@ -3807,7 +3807,7 @@
         {
           "level": 1,
           "name": "トリミング",
-          "desc": "[DuelCounter]\n[StartBattle] 自分の[ChargeKhakiAlly]回数が5増加 (1ターンにつき2回)\n[StartBattle] 自分と、自分を除く現体力の比率が最も低い味方2名に、自分の最大体力の5%だけバリアを付与 (最小1, 1ターンにつき1回)",
+          "desc": "[DuelCounter]\n[StartBattle] 自分の[ChargeKhakiAlly]回数が5増加 (1ターンにつき2回)\n[StartBattle] 自分と、自分を除く現体力の比率が最も低い味方2名に、自分の体力最大値の5%だけバリアを付与 (最小1, 1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
@@ -3821,7 +3821,7 @@
         {
           "level": 4,
           "name": "トリミング",
-          "desc": "[DuelCounter]\n[StartBattle] 自分の[ChargeKhakiAlly]回数が5増加 (1ターンにつき2回)\n[StartBattle] 自分と、自分を除く現体力の比率が最も低い味方2名に、自分の最大体力の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 自分の[ChargeKhakiAlly]回数5につき、マッチ威力+1 (最大4)</style>",
+          "desc": "[DuelCounter]\n[StartBattle] 自分の[ChargeKhakiAlly]回数が5増加 (1ターンにつき2回)\n[StartBattle] 自分と、自分を除く現体力の比率が最も低い味方2名に、自分の体力最大値の<style=\"highlight\">10%</style>だけバリアを付与 (最小1, 1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 自分の[ChargeKhakiAlly]回数5につき、マッチ威力+1 (最大4)</style>",
           "coinlist": [
             {
               "coindescs": [

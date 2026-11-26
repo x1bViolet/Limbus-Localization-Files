@@ -299,6 +299,14 @@
     {
       "id": "OnBattleEnd",
       "name": "[戦闘終了時]"
+    },
+    {
+      "id": "SynergyActivationConditions",
+      "name": "[発動条件]"
+    },
+    {
+      "id": "SynergyActivationEffect",
+      "name": "[発動効果]"
     }
   ]
 }

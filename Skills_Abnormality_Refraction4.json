@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "あなたは誰ですか？",
-          "desc": "[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を持っているなら、このスキルで付与する[Sinking], [Sinking]回数 +1",
+          "desc": "[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を保有しているなら、このスキルで付与する[Sinking], [Sinking]回数 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -94,7 +94,7 @@
         {
           "level": 1,
           "name": "招かざる客ですか？",
-          "desc": "[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を持っているなら、このスキルで付与する[Sinking], [Sinking]回数 +1",
+          "desc": "[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を保有しているなら、このスキルで付与する[Sinking], [Sinking]回数 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -129,7 +129,7 @@
         {
           "level": 1,
           "name": "招かざる客は出て行ってください",
-          "desc": "[UninvitedGuest]対象を優先して攻撃\n[UninvitedGuest]を持つ敵の数だけ加重値増加\n[WhenUse] [UninvitedGuest]を持つ敵の数だけマッチ威力が増加",
+          "desc": "[UninvitedGuest]対象を優先して攻撃\n[UninvitedGuest]を保有する敵の数だけ加重値増加\n[WhenUse] [UninvitedGuest]を保有する敵の数だけマッチ威力が増加",
           "coinlist": [
             {
               "coindescs": [
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "接地拒否",
-          "desc": "[AntiSheepGround]を持つ人格を優先して攻撃\n[ConnectedPlug]1につきマッチ威力 +1\n[StartBattle] (3 - [ConnectedPlug]の数) × 2だけ[Protection]を得る\n[WhenUse] 自分の[Charge]回数が1増加\n[DefeatDuel] 対象に[AntiSheepGround]があれば、[ConnectedPlug]1を得る",
+          "desc": "[AntiSheepGround]を保有する人格を優先して攻撃\n[ConnectedPlug]1につきマッチ威力 +1\n[StartBattle] (3 - [ConnectedPlug]の数) × 2だけ[Protection]を得る\n[WhenUse] 自分の[Charge]回数が1増加\n[DefeatDuel] 対象に[AntiSheepGround]があれば、[ConnectedPlug]1を得る",
           "coinlist": [
             {
               "coindescs": [

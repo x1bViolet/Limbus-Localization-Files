@@ -1726,7 +1726,7 @@
         {
           "level": 1,
           "name": "パレードの王子",
-          "desc": "[StartBattle] [Laceration]を持つ対象の数だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
+          "desc": "[StartBattle] [Laceration]を保有する対象の数だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
           "coinlist": [
             {
               "coindescs": [
@@ -2351,7 +2351,7 @@
         {
           "level": 1,
           "name": "残ったのはこれだけだよ！",
-          "desc": "マッチ進行時、[Exalted]2を付与\n[Vibration]を持つ対象を優先して攻撃",
+          "desc": "マッチ進行時、[Exalted]2を付与\n[Vibration]を保有する対象を優先して攻撃",
           "coinlist": [
             {},
             {
@@ -2371,7 +2371,7 @@
         {
           "level": 1,
           "name": "これ食べちゃうぞ！",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[Exalted]を持つ対象を優先して攻撃\n対象に[Tipsiness]がないなら、マッチ威力 +5",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[Exalted]を保有する対象を優先して攻撃\n対象に[Tipsiness]がないなら、マッチ威力 +5",
           "coinlist": [
             {
               "coindescs": [
@@ -2379,7 +2379,7 @@
                   "desc": "[OnSucceedAttack] 対象が[Exalted]を保有しているなら、[Exalted]1につきダメージ量 +10%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象が[Tipsiness]を持っているなら与ダメージが0になり、自分の体力が-50"
+                  "desc": "[OnSucceedAttack] 対象が[Tipsiness]を保有しているなら与ダメージが0になり、自分の体力が-50"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の[Exalted]または[Tipsiness]を全て消耗"
@@ -2396,7 +2396,7 @@
         {
           "level": 1,
           "name": "これ食べちゃうぞ！",
-          "desc": "[Exalted]を持つ対象を優先して攻撃\n対象に[Tipsiness]がないなら、マッチ威力 +5",
+          "desc": "[Exalted]を保有する対象を優先して攻撃\n対象に[Tipsiness]がないなら、マッチ威力 +5",
           "coinlist": [
             {
               "coindescs": [
@@ -2404,7 +2404,7 @@
                   "desc": "[OnSucceedAttack] 対象が[Exalted]を保有しているなら、[Exalted]1につきダメージ量 +100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象が[Tipsiness]を持っているなら与ダメージが0になり、自分の体力が-50"
+                  "desc": "[OnSucceedAttack] 対象が[Tipsiness]を保有しているなら与ダメージが0になり、自分の体力が-50"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の[Exalted]または[Tipsiness]を全て消耗"

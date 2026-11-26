@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "一点狙い",
-          "desc": "[BeforeUse] 自分が[Bullet_LogicAtelier]を持っているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%",
+          "desc": "[BeforeUse] 自分が[Bullet_LogicAtelier]を保有しているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "一点狙い",
-          "desc": "[BeforeUse] 自分が[Bullet_LogicAtelier]を持っているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%\n<style=\"highlight\">[EndSkill] 自分の[Breath]回数が2増加</style>",
+          "desc": "[BeforeUse] 自分が[Bullet_LogicAtelier]を保有しているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%\n<style=\"highlight\">[EndSkill] 自分の[Breath]回数が2増加</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3534,7 +3534,7 @@
         {
           "level": 2,
           "name": "脇線の外側に縫い目が2本見えたらダブルニードル。失格！",
-          "desc": "[WideAreaRampage]\nこのスキルの的中時、自分の体力最大値の8%を回復\n[WhenUse] 自分の[NeedlekinAlly]を全て消耗し、次のターンに自分と自分以外のランダムな味方2名へ[PenetrateDamageUp]1を付与\n- ル・ルージュ所属を優先して適用 (編成順)",
+          "desc": "[WideAreaRampage]\nこのスキルの的中時、自分の体力を最大値の8%だけ回復\n[WhenUse] 自分の[NeedlekinAlly]を全て消耗し、次のターンに自分と自分以外のランダムな味方2名へ[PenetrateDamageUp]1を付与\n- ル・ルージュ所属を優先して適用 (編成順)",
           "coinlist": [
             {
               "coindescs": [

@@ -81,13 +81,13 @@
     {
       "id": 149503,
       "name": "裁断",
-      "desc": "ステージ開始時、または混乱状態から脱した後のターン開始時、\n[FinishedFabric]30を得る\n\n[PanicChangeLock]効果が適用され、\nターン終了時にパニック状態なら精神力が30に変更される\n\nターン開始時、\n- 自分の<color=#ff6000><mark=#ff000040><b><u>最大体力の([FinishedFabric]の数値)%だけバリア</u></b></mark></color>を得る(最大30%)\n- [FinishedFabric]の数値だけ精神力を回復",
+      "desc": "ステージ開始時、または混乱状態から脱した後のターン開始時、\n[FinishedFabric]30を得る\n\n[PanicChangeLock]効果が適用され、\nターン終了時にパニック状態なら精神力が30に変更される\n\nターン開始時、\n- 自分の<color=#ff6000><mark=#ff000040><b><u>体力最大値の([FinishedFabric]の数値)%だけバリア</u></b></mark></color>を得る(最大30%)\n- [FinishedFabric]の数値だけ精神力を回復",
       "flavor": "裁断とは、生地を型紙に合わせて切ること。お直しが服を人に合わせる過程なら、裁断は生地を服に合わせる過程だ。\n\nゆえに、生地にとって裁断はお直しと同じだ。一度切り離された生地は、その性質を残したまま、お直し職人が意図した一着の服へと釘付けにされる。"
     },
     {
       "id": 149504,
       "name": "断ち切れぬはさみの動き",
-      "desc": "お直し職人アネットが\n- <color=#ff6000><mark=#ff000040><b><u>囚人から攻撃を受けるたびに、自分の混乱区間が最大体力の0.8%だけ前進する</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>混乱状態になると、\n自分のバリア、[FinishedFabric]、[LargeTailoringShears]を全て失い、[Vulnerable]3を得る</u></b></mark></color>\n\nターン開始時に自分の体力が60%以下なら、\n- 失った体力20%につき、[ResultEnhancement]1, [SlashDamageUp]1を得る(それぞれ最大3)\n- 「トリミング」の最後のコイン、「カッティング」の2枚目のコインが[SuperCoin]に変更される",
+      "desc": "お直し職人アネットが\n- <color=#ff6000><mark=#ff000040><b><u>囚人から攻撃を受けるたびに、自分の混乱区間が体力最大値の0.8%だけ前進する</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>混乱状態になると、\n自分のバリア、[FinishedFabric]、[LargeTailoringShears]を全て失い、[Vulnerable]3を得る</u></b></mark></color>\n\nターン開始時に自分の体力が60%以下なら、\n- 失った体力20%につき、[ResultEnhancement]1, [SlashDamageUp]1を得る(それぞれ最大3)\n- 「トリミング」の最後のコイン、「カッティング」の2枚目のコインが[SuperCoin]に変更される",
       "flavor": "お直しを価値として形作られた身体は、果てしなく直し、裁断するためにはさみを動かす手を止めない。\n\n身体が壊れていっても、直し、裁断することを断ち切ることはできない。断ち切る仕事をしているのに、当の自分は断ち切れないのだ。"
     },
     {
@@ -116,7 +116,7 @@
     {
       "id": 150401,
       "name": "ル・ノワール生地",
-      "desc": "ステージ初登場時、[NoirBindArmor]5を得る\n\nターン開始時、自分の最大体力の([NoirBindArmor]の数値)%だけバリアを得る\n\n混乱状態になると[NoirBindArmor]を全て失い、\nターン開始時に混乱状態が解除されると[NoirBindArmor]5を得る",
+      "desc": "ステージ初登場時、[NoirBindArmor]5を得る\n\nターン開始時、自分の体力最大値の([NoirBindArmor]の数値)%だけバリアを得る\n\n混乱状態になると[NoirBindArmor]を全て失い、\nターン開始時に混乱状態が解除されると[NoirBindArmor]5を得る",
       "flavor": "ル・ノワールの生地は、鎧のように堅牢で形の崩れないシルエットによってお客様の体型を補整する。"
     },
     {
@@ -140,7 +140,7 @@
     {
       "id": 150501,
       "name": "ル・ノワール生地",
-      "desc": "ステージ初登場時、[NoirBindArmor]5を得る\n\nターン開始時、自分の最大体力の([NoirBindArmor]の数値)%だけバリアを得る\n\n混乱状態になると[NoirBindArmor]を全て失い、\nターン開始時に混乱状態が解除されると[NoirBindArmor]5を得る",
+      "desc": "ステージ初登場時、[NoirBindArmor]5を得る\n\nターン開始時、自分の体力最大値の([NoirBindArmor]の数値)%だけバリアを得る\n\n混乱状態になると[NoirBindArmor]を全て失い、\nターン開始時に混乱状態が解除されると[NoirBindArmor]5を得る",
       "flavor": "ル・ノワールの生地は、鎧のように堅牢で形の崩れないシルエットによってお客様の体型を補整する。"
     },
     {

@@ -2263,7 +2263,7 @@
         {
           "level": 1,
           "name": "黒獣利爪",
-          "desc": "[DuelCounter]\n[StartBattle] 味方の黒獣人格(最大共鳴数)名へ[SlashResultUp]1を付与 (1ターンにつき1回)\n\n[StartBattle] 待機人員がいれば、現体力の比率が最も低い味方黒獣1名を指定\n- このスキル使用時に指定した対象へ[HeishouAttack]を付与、ターン終了時に[RetreatForCommon]を命令して、退却時に体力最大値の10%を回復させる (1ターンにつき1回)\n- この効果で退却した黒獣人格は、復帰する人格のうち黒獣ではない人格より復帰順が早く配置される\n[StartBattle] 待機人員がいなければ、現体力の比率が最も低い味方の黒獣1名へ[Enhancement]2を付与 (1ターンにつき1回)",
+          "desc": "[DuelCounter]\n[StartBattle] 味方の黒獣人格(最大共鳴数)名へ[SlashResultUp]1を付与 (1ターンにつき1回)\n\n[StartBattle] 待機人員がいれば、現体力の比率が最も低い味方黒獣1名を指定\n- このスキル使用時に指定した対象へ[HeishouAttack]を付与、ターン終了時に[RetreatForCommon]を命令して、退却時に体力を最大値の10%だけ回復させる (1ターンにつき1回)\n- この効果で退却した黒獣人格は、復帰する人格のうち黒獣ではない人格より復帰順が早く配置される\n[StartBattle] 待機人員がいなければ、現体力の比率が最も低い味方の黒獣1名へ[Enhancement]2を付与 (1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
@@ -2277,7 +2277,7 @@
         {
           "level": 4,
           "name": "黒獣利爪",
-          "desc": "[DuelCounter]\n[StartBattle] 味方の黒獣人格(最大共鳴数)名へ[SlashResultUp]1を付与 (1ターンにつき1回)\n\n[StartBattle] 待機人員がいれば、現体力の比率が最も低い味方黒獣1名を指定\n- このスキル使用時に指定した対象へ[HeishouAttack]を付与、ターン終了時に[RetreatForCommon]を命令して、退却時に体力最大値の10%を回復させる (1ターンにつき1回)\n- この効果で退却した黒獣人格は、復帰する人格のうち黒獣ではない人格より復帰順が早く配置される\n[StartBattle] 待機人員がいなければ、現体力の比率が最も低い味方の黒獣1名へ[Enhancement]2を付与 (1ターンにつき1回)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[StartBattle] 味方の黒獣人格(最大共鳴数)名へ[SlashResultUp]1を付与 (1ターンにつき1回)\n\n[StartBattle] 待機人員がいれば、現体力の比率が最も低い味方黒獣1名を指定\n- このスキル使用時に指定した対象へ[HeishouAttack]を付与、ターン終了時に[RetreatForCommon]を命令して、退却時に体力を最大値の10%だけ回復させる (1ターンにつき1回)\n- この効果で退却した黒獣人格は、復帰する人格のうち黒獣ではない人格より復帰順が早く配置される\n[StartBattle] 待機人員がいなければ、現体力の比率が最も低い味方の黒獣1名へ[Enhancement]2を付与 (1ターンにつき1回)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

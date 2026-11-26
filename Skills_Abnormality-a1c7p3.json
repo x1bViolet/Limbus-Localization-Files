@@ -344,7 +344,7 @@
         {
           "level": 1,
           "name": "もの悲しい抱擁",
-          "desc": "[CantChangeTarget]\n直前のターンに'愛情表現'でマッチした対象を指定\n対象に与えるダメージ量が0に固定\n[StartBattle] 次のターンまで[Vulnerable]2を得る\n[EndBattle] 混乱する",
+          "desc": "[CantChangeTarget]\n直前のターンに'愛情表現'でマッチした対象を指定\n対象への与ダメージ量が0に固定\n[StartBattle] 次のターンまで[Vulnerable]2を得る\n[EndBattle] 混乱する",
           "coinlist": [
             {
               "coindescs": [
@@ -666,7 +666,7 @@
         {
           "level": 1,
           "name": "血の歓喜",
-          "desc": "速度に関係なくこのスキルとマッチできる\n[StartBattle] 敵の中で[Laceration]を持つ敵がいれば、全ての敵の[Laceration]を発動。[Laceration]回数が2減少\n[WhenUse] 戦闘開始時に効果が発動しなかったら、[Laceration]30を得る\n[WinDuel] [BloodDinner]を最大40消耗し、消耗した[BloodDinner]10につき、[BloodArmor]1を得てダメージ量 +25%(最大100%)\n- [BloodDinner]を消耗できなかったら、[Laceration]5を得て発動させる。[Laceration]回数が2減少\n[EndSkill] このターンを終了",
+          "desc": "速度に関係なくこのスキルとマッチできる\n[StartBattle] 敵の中で[Laceration]を保有する敵がいれば、全ての敵の[Laceration]を発動。[Laceration]回数が2減少\n[WhenUse] 戦闘開始時に効果が発動しなかったら、[Laceration]30を得る\n[WinDuel] [BloodDinner]を最大40消耗し、消耗した[BloodDinner]10につき、[BloodArmor]1を得てダメージ量 +25%(最大100%)\n- [BloodDinner]を消耗できなかったら、[Laceration]5を得て発動させる。[Laceration]回数が2減少\n[EndSkill] このターンを終了",
           "coinlist": [
             {
               "coindescs": [
@@ -1082,7 +1082,7 @@
         {
           "level": 1,
           "name": "鞭を仕舞う",
-          "desc": "[ThornNoose]を持つ対象を優先して攻撃\n[ThornNoose]が無い対象の場合、ダメージ量が50%減少",
+          "desc": "[ThornNoose]を保有する対象を優先して攻撃\n[ThornNoose]が無い対象の場合、ダメージ量が50%減少",
           "coinlist": [
             {
               "coindescs": [
@@ -1125,7 +1125,7 @@
         {
           "level": 1,
           "name": "棘の投げ縄",
-          "desc": "[WhenUse] 対象の速度より自分の速度が高ければ、マッチ威力 +5\n[WhenUse] 対象の[Burst]4につき、コイン威力 +1(最大2)\n[WhenUse] [ThornNoose]を持つ対象の数だけ基本威力が増加",
+          "desc": "[WhenUse] 対象の速度より自分の速度が高ければ、マッチ威力 +5\n[WhenUse] 対象の[Burst]4につき、コイン威力 +1(最大2)\n[WhenUse] [ThornNoose]を保有する対象の数だけ基本威力が増加",
           "coinlist": [
             {},
             {},
@@ -1156,7 +1156,7 @@
         {
           "level": 1,
           "name": "鞭をまとう",
-          "desc": "[StartBattle] 現体力の([ThornNoose]を持つ敵の数)%だけバリアを得る",
+          "desc": "[StartBattle] 現体力の([ThornNoose]を保有する敵の数)%だけバリアを得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1175,7 +1175,7 @@
         {
           "level": 1,
           "name": "捉え来る投げ縄",
-          "desc": "[StartBattle] [ThornNoose]を持つ敵が3名以下なら、[ThornNoose]を1付与",
+          "desc": "[StartBattle] [ThornNoose]を保有する敵が3名以下なら、[ThornNoose]を1付与",
           "coinlist": [
             {
               "coindescs": [

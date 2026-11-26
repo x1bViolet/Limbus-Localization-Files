@@ -3219,7 +3219,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 対象が味方の場合、自分の体力最大値の5%分対象の体力を回復"
+                  "desc": "[OnSucceedAttackHead] 対象が味方の場合は対象の体力を、自分の体力最大値の5%だけ回復"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 火傷 7を付与。対象が味方の場合、次のターンにクイック 2を付与"
@@ -3237,7 +3237,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 対象が味方の場合、自分の体力最大値の10%分対象の体力を回復"
+                  "desc": "[OnSucceedAttackHead] 対象が味方の場合は対象の体力を、自分の体力最大値の10%だけ回復"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 火傷 7を付与。対象が味方の場合、次のターンに <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O資源獲得量+</color></link></u> 1, クイック 2を付与"
@@ -3255,7 +3255,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 対象が味方の場合、自分の体力最大値の10%分対象の体力を回復"
+                  "desc": "[OnSucceedAttackHead] 対象が味方の場合は対象の体力を、自分の体力最大値の10%だけ回復"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 火傷 7を付与。対象が味方の場合、次のターンに <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O資源獲得量+</color></link></u> 1, クイック 2を付与"
@@ -3279,7 +3279,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] 対象が味方なら、</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- 自分の体力最大値の(5 × このスキルの対象に指定された味方の数)%だけ、対象の体力を回復 (最大20%)</style>"
+                  "desc": "<style=\"highlight\">- 対象の体力を、自分の体力最大値の(5 × このスキルの対象に指定された味方の数)%だけ回復 (最大20%)</style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- 次のターンに[GainSinStockAdder]1, [Agility]2を付与</style>"

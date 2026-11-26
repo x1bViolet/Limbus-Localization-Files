@@ -151,7 +151,7 @@
         {
           "level": 3,
           "name": "次・魔・空・切",
-          "desc": "[WhenUse] 充電 回数7以上、15未満なら\n保有している充電 回数を全て消耗し、\n体力最大値の3 × (15 - 消耗した充電 回数)%だけ体力を消費してコイン威力 +3\n[WhenUse] 充電 回数を15消耗し、コイン威力 +3",
+          "desc": "[WhenUse] 充電 回数7以上、15未満なら\n保有している充電 回数を全て消耗し、\n体力最大値の3 × (15 - 消耗した充電 回数)%だけ体力を消耗してコイン威力 +3\n[WhenUse] 充電 回数を15消耗し、コイン威力 +3",
           "coinlist": [
             {
               "coindescs": [
@@ -186,7 +186,7 @@
         {
           "level": 4,
           "name": "次・魔・空・切",
-          "desc": "[WhenUse] 充電 回数7以上、15未満なら\n保有している充電 回数を全て消耗し、\n体力最大値の3 × (15 - 消耗した充電 回数)%だけ体力を消費してコイン威力 +5\n[WhenUse] 充電 回数を15消耗し、コイン威力 +5",
+          "desc": "[WhenUse] 充電 回数7以上、15未満なら\n保有している充電 回数を全て消耗し、\n体力最大値の3 × (15 - 消耗した充電 回数)%だけ体力を消耗してコイン威力 +5\n[WhenUse] 充電 回数を15消耗し、コイン威力 +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,7 +1381,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の([PenanceFirst] ÷ 3)%だけ回復"
+                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれ体力を最大値の([PenanceFirst] ÷ 3)%だけ回復"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を([PenanceFirst] - 10)だけ回復(最低0)"
@@ -1418,7 +1418,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の([PenanceFirst] ÷ <style=\"highlight\">2</style>)%だけ回復"
+                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれ体力を最大値の([PenanceFirst] ÷ <style=\"highlight\">2</style>)%だけ回復"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を([PenanceFirst] - 10)だけ回復(最低0)<style=\"highlight\"></style>"
@@ -1498,7 +1498,7 @@
                   "desc": "消耗した[RedEyeFirst]、[PenanceFirst]1につきダメージ量 +2.5%(最大100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の(消耗した[PenanceFirst] ÷ 2)%だけ体力を回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"
+                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれ体力を最大値の(消耗した[PenanceFirst] ÷ 2)%だけ回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を、(消耗した[PenanceFirst] - 10)だけ回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"
@@ -1529,7 +1529,7 @@
                   "desc": "消耗した[RedEyeFirst]、[PenanceFirst]1につきダメージ量 +<style=\"highlight\">4%</style>(最大<style=\"highlight\">160%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれの体力最大値の<style=\"highlight\">(消耗した[PenanceFirst])%</style>だけ体力を回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"
+                  "desc": "[OnSucceedAttack] 自分と現体力の比率が最も低い味方1名が、それぞれ体力を最大値の<style=\"highlight\">(消耗した[PenanceFirst])%</style>だけ回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分と現在の精神力が最も低い味方1名の精神力を、(消耗した[PenanceFirst] - <style=\"highlight\">5</style>)だけ回復\n- 最大共鳴数2につき、回復対象数が1増加(最大で2名増加)"

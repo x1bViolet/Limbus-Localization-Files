@@ -1612,7 +1612,7 @@
         {
           "level": 1,
           "name": "行進指揮",
-          "desc": "[WhenUse] 自分と最大体力が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る",
+          "desc": "[WhenUse] 自分と体力最大値が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1634,7 +1634,7 @@
         {
           "level": 2,
           "name": "行進指揮",
-          "desc": "[WhenUse] 自分と最大体力が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1</style>",
+          "desc": "[WhenUse] 自分と体力最大値が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1662,7 +1662,7 @@
         {
           "level": 4,
           "name": "行進指揮",
-          "desc": "[WhenUse] 自分と最大体力が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Laceration]回数が3以上なら、最終威力 +1</style>",
+          "desc": "[WhenUse] 自分と体力最大値が最も低い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n[WhenUse] 対象の[Laceration]が4以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Laceration]回数が3以上なら、最終威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1695,7 +1695,7 @@
         {
           "level": 1,
           "name": "再建の義務",
-          "desc": "[WhenUse] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る",
+          "desc": "[WhenUse] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1719,7 +1719,7 @@
         {
           "level": 2,
           "name": "再建の義務",
-          "desc": "[WhenUse] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]4につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Laceration]回数が3以上なら、最終威力 +1</style>",
+          "desc": "[WhenUse] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]4につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Laceration]回数が3以上なら、最終威力 +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1743,7 +1743,7 @@
         {
           "level": 4,
           "name": "再建の義務",
-          "desc": "[WhenUse] 自分と最大体力が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n[WhenUse] 対象の[Laceration]4につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Laceration]回数<style=\"highlight\">3につき、最終威力 +1 (最大2)</style>\n<style=\"highlight\">[WhenUse] 自分の[BloodArmorMeursault]1につき、ダメージ量 +10% (最大30%)</style>",
+          "desc": "[WhenUse] 自分と体力最大値が最も高い味方1名へ、[BloodDinner]を最大10消耗して[BloodDinner]5につき[BloodArmorMeursault]を1付与(1ターンにつき1回、最大値の対象を除外)\n- <ラ・マンチャランド>所属、<血鬼>(上位眷属)の味方に優先して付与\n- 付与した味方が<ラ・マンチャランド>所属なら、[BloodArmorMeursault]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]10を得る\n[WhenUse] 対象の[Laceration]4につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Laceration]回数<style=\"highlight\">3につき、最終威力 +1 (最大2)</style>\n<style=\"highlight\">[WhenUse] 自分の[BloodArmorMeursault]1につき、ダメージ量 +10% (最大30%)</style>",
           "coinlist": [
             {
               "coindescs": [

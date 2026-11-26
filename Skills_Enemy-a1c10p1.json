@@ -40,7 +40,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点以下切り捨て)"
+                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点切り捨て)"
                 }
               ]
             }
@@ -139,7 +139,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点以下切り捨て)"
+                  "desc": "[OnSucceedAttack] 自分に[Laceration]があるなら、その威力の数値の半分だけ対象に[Laceration]回数を付与 (最大5, 1ターンにつき1回、小数点切り捨て)"
                 }
               ]
             }

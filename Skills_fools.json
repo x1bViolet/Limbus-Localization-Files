@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "キャンディーちょうだい。",
-          "desc": "[CandyForCharon]を持つ対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する",
+          "desc": "[CandyForCharon]を保有する対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する",
           "coinlist": [
             {
               "coindescs": [
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "…コミが、おこった。",
-          "desc": "[BeforeAttack] [CandyForCharon]を持つ人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加",
+          "desc": "[BeforeAttack] [CandyForCharon]を保有する人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を保有する人格の数だけマッチ威力が増加",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "ぶるんぶるん",
-          "desc": "[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n[CandyForCharon]を持つ人格の数だけダメージ量 +10% (最大100%)",
+          "desc": "[WhenUse] [CandyForCharon]を保有する人格の数だけマッチ威力が増加\n[CandyForCharon]を保有する人格の数だけダメージ量 +10% (最大100%)",
           "coinlist": [
             {},
             {}

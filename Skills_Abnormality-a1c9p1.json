@@ -216,7 +216,7 @@
         {
           "level": 1,
           "name": "白雪を連れて来るがよい。",
-          "desc": "[WhenUse] 対象の[Laceration]と[Burst]の合計が5以上なら、基本威力 +5\n[WhenUse] 自分が[HowDareYouApple]を持っているなら、攻撃加重値 +2",
+          "desc": "[WhenUse] 対象の[Laceration]と[Burst]の合計が5以上なら、基本威力 +5\n[WhenUse] 自分が[HowDareYouApple]を保有しているなら、攻撃加重値 +2",
           "coinlist": [
             {
               "coindescs": [

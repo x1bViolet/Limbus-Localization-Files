@@ -363,7 +363,7 @@
         {
           "level": 1,
           "name": "ドンキホーテ流硬血2式 - 硬血",
-          "desc": "速度に関係なくこのスキルとマッチできる\n[StartBattle] [SwirlingBlood]を1得る\n[StartBattle] [BloodDinner]を100消耗し、消耗した[BloodDinner]10につき[BloodArmor]1, バリアを20得る。\n- [BloodDinner]が足りない場合、[Laceration]50を得て発動させる。[Laceration]回数が2減少。200だけバリア体力を得る(このダメージで体力が1未満にならない)\n[DefeatDuel] このスキルで得たバリアがある間[Vulnerable]を3得る\n[DefeatDuel] このスキルでの与ダメージ量 -50%\n[EndSkill] 戦闘終了",
+          "desc": "速度に関係なくこのスキルとマッチできる\n[StartBattle] [SwirlingBlood]を1得る\n[StartBattle] [BloodDinner]を100消耗し、消耗した[BloodDinner]10につき[BloodArmor]1, バリアを20得る。\n- [BloodDinner]が足りない場合、[Laceration]50を得て発動させる。[Laceration]回数が2減少。200だけバリア体力を得る(このダメージで体力が1未満にならない)\n[DefeatDuel] このスキルで得たバリアがある間[Vulnerable]を3得る\n[DefeatDuel] このスキルによる与ダメージ量 -50%\n[EndSkill] 戦闘終了",
           "coinlist": [
             {
               "coindescs": [

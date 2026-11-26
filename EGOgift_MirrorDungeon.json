@@ -361,7 +361,7 @@
     {
       "id": 9015,
       "name": "膏血",
-      "desc": "混乱状態の敵へ、スキルで与えるダメージ量 +10%\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、与ダメージ量 +20%",
+      "desc": "混乱状態の敵へのスキルによる与ダメージ量 +10%\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、与ダメージ量 +20%",
       "simpleDesc": [
         {
           "abilityID": 9015,
@@ -376,7 +376,7 @@
     {
       "id": 19015,
       "name": "膏血+",
-      "desc": "混乱状態の敵へ、スキルで<style=\"upgradeHighlight\">与えるダメージ量 +12.5%</style>\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、<style=\"upgradeHighlight\">与ダメージ量 +25%</style>",
+      "desc": "混乱状態の敵へのスキルによる<style=\"upgradeHighlight\">与ダメージ量 +12.5%</style>\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、<style=\"upgradeHighlight\">与ダメージ量 +25%</style>",
       "simpleDesc": [
         {
           "abilityID": 19015,
@@ -391,7 +391,7 @@
     {
       "id": 29015,
       "name": "膏血++",
-      "desc": "混乱状態の敵へ、スキルで<style=\"upgradeHighlight\">与えるダメージ量 +15%</style>\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、<style=\"upgradeHighlight\">与ダメージ量 +30%</style>",
+      "desc": "混乱状態の敵へのスキルによる<style=\"upgradeHighlight\">与ダメージ量 +15%</style>\n\n振動威力・回数を付与するか、振幅変換・振動爆発・振幅絡縺効果を保有するスキル、または怠惰属性スキルを使用する場合は効果が強化され、<style=\"upgradeHighlight\">与ダメージ量 +30%</style>",
       "simpleDesc": [
         {
           "abilityID": 29015,
@@ -703,7 +703,7 @@
     {
       "id": 9029,
       "name": "小さくて悪くなる人形",
-      "desc": "戦闘開始時点で[Laceration]または特殊出血を持つ敵への与ダメージ量 +10%\n\n戦闘開始時点で[Laceration]または特殊出血を持つ敵からの被ダメージ量 -20%\n\n傲慢属性の攻撃スキルを保有した味方の場合は効果が強化され、[Laceration]または特殊出血を持つ敵への与ダメージ量 +20%\n\n傲慢属性の攻撃スキルを保有した味方の場合は効果が強化され、[Laceration]または特殊出血を持つ敵からの被ダメージ量 -30%",
+      "desc": "戦闘開始時点で[Laceration]または特殊出血を保有する敵への与ダメージ量 +10%\n\n戦闘開始時点で[Laceration]または特殊出血を保有する敵からの被ダメージ量 -20%\n\n傲慢属性の攻撃スキルを保有した味方の場合は効果が強化され、[Laceration]または特殊出血を保有する敵への与ダメージ量 +20%\n\n傲慢属性の攻撃スキルを保有した味方の場合は効果が強化され、[Laceration]または特殊出血を保有する敵からの被ダメージ量 -30%",
       "simpleDesc": [
         {
           "abilityID": 9029,
@@ -1308,7 +1308,7 @@
     {
       "id": 9050,
       "name": "赤く染まった綿花",
-      "desc": "ステージの1ターン目開始時、全ての敵(幻想体の場合は全部位)へ[Laceration]威力1, [Laceration]回数15を付与。\n\nターン開始時、[Laceration]を持つ敵の攻撃レベルと防御レベルがこのターンの間([Laceration]威力 ÷ 3)だけ減少。([Laceration]威力が30蓄積時、効果最大)",
+      "desc": "ステージの1ターン目開始時、全ての敵(幻想体の場合は全部位)へ[Laceration]威力1, [Laceration]回数15を付与。\n\nターン開始時、[Laceration]を保有する敵の攻撃レベルと防御レベルがこのターンの間([Laceration]威力 ÷ 3)だけ減少。([Laceration]威力が30蓄積時、効果最大)",
       "simpleDesc": [
         {
           "abilityID": 9050,
@@ -1323,7 +1323,7 @@
     {
       "id": 19050,
       "name": "赤く染まった綿花+",
-      "desc": "<style=\"upgradeHighlight\">ウェーブの最初のターンの開始時</style>、全ての敵(幻想体の場合は全部位)へ<style=\"upgradeHighlight\">[Laceration]威力2</style>, [Laceration]回数15を付与。\n\nターン開始時、[Laceration]を持つ敵の攻撃レベルと防御レベルがこのターンの間([Laceration]威力 ÷ 3)だけ減少。([Laceration]威力が30蓄積時、効果最大)",
+      "desc": "<style=\"upgradeHighlight\">ウェーブの最初のターンの開始時</style>、全ての敵(幻想体の場合は全部位)へ<style=\"upgradeHighlight\">[Laceration]威力2</style>, [Laceration]回数15を付与。\n\nターン開始時、[Laceration]を保有する敵の攻撃レベルと防御レベルがこのターンの間([Laceration]威力 ÷ 3)だけ減少。([Laceration]威力が30蓄積時、効果最大)",
       "simpleDesc": [
         {
           "abilityID": 19050,
@@ -1338,7 +1338,7 @@
     {
       "id": 29050,
       "name": "赤く染まった綿花++",
-      "desc": "ウェーブの最初のターン開始時、全ての敵(幻想体の場合は全部位)へ<style=\"upgradeHighlight\">[Laceration]威力4, [Laceration]回数20を付与。</style>\n\nターン開始時、[Laceration]を持つ敵の攻撃レベルと防御レベルがこのターンの間<style=\"upgradeHighlight\">([Laceration]威力 ÷ 2)だけ減少</style>。([Laceration]威力が30蓄積時、効果最大)",
+      "desc": "ウェーブの最初のターン開始時、全ての敵(幻想体の場合は全部位)へ<style=\"upgradeHighlight\">[Laceration]威力4, [Laceration]回数20を付与。</style>\n\nターン開始時、[Laceration]を保有する敵の攻撃レベルと防御レベルがこのターンの間<style=\"upgradeHighlight\">([Laceration]威力 ÷ 2)だけ減少</style>。([Laceration]威力が30蓄積時、効果最大)",
       "simpleDesc": [
         {
           "abilityID": 29050,
@@ -1645,7 +1645,7 @@
     {
       "id": 9061,
       "name": "遺骨の屑",
-      "desc": "戦闘開始段階で[Sinking]状態の敵への与ダメージ量 +12.5%, 対象からの被ダメージ量 -12.5%\n\n憂鬱属性攻撃スキルを持つ味方の場合は効果が強化され、[Sinking]状態の敵への与ダメージ量 +20%, 対象からの被ダメージ量 -20%",
+      "desc": "戦闘開始段階で[Sinking]状態の敵への与ダメージ量 +12.5%, 対象からの被ダメージ量 -12.5%\n\n憂鬱属性攻撃スキルを保有する味方の場合は効果が強化され、[Sinking]状態の敵への与ダメージ量 +20%, 対象からの被ダメージ量 -20%",
       "simpleDesc": [
         {
           "abilityID": 9061,
@@ -2616,7 +2616,7 @@
     {
       "id": 19097,
       "name": "飾られた蹄鉄+",
-      "desc": "ターン開始時、[Breath]威力を持たないランダムな味方1名へ<style=\"upgradeHighlight\">[Breath]威力3を付与。</style>\n\n全味方が[Breath]状態の場合、効果が変更されて全味方へ<style=\"upgradeHighlight\">[Breath]回数2を付与。</style>",
+      "desc": "ターン開始時、[Breath]威力を保有していないランダムな味方1名へ<style=\"upgradeHighlight\">[Breath]威力3を付与。</style>\n\n全味方が[Breath]状態の場合、効果が変更されて全味方へ<style=\"upgradeHighlight\">[Breath]回数2を付与。</style>",
       "simpleDesc": [
         {
           "abilityID": 19097,
@@ -2631,7 +2631,7 @@
     {
       "id": 29097,
       "name": "飾られた蹄鉄++",
-      "desc": "ターン開始時、[Breath]威力を持たない<style=\"upgradeHighlight\">ランダムな味方2名</style>へ[Breath]威力3を付与。\n\n全味方が[Breath]状態の場合、効果が変更されて全味方へ<style=\"upgradeHighlight\">[Breath]回数3を付与。</style>",
+      "desc": "ターン開始時、[Breath]威力を保有していない<style=\"upgradeHighlight\">ランダムな味方2名</style>へ[Breath]威力3を付与。\n\n全味方が[Breath]状態の場合、効果が変更されて全味方へ<style=\"upgradeHighlight\">[Breath]回数3を付与。</style>",
       "simpleDesc": [
         {
           "abilityID": 29097,
@@ -2758,33 +2758,33 @@
     {
       "id": 9102,
       "name": "偏光",
-      "desc": "味方が対象より精神力が30以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルでの与ダメージ量 +7.5%(精神力が無い敵の場合は0で計算)",
+      "desc": "味方が対象より精神力が30以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルによる与ダメージ量 +7.5%(精神力が無い敵の場合は0で計算)",
       "simpleDesc": [
         {
           "abilityID": 9102,
-          "simpleDesc": "[Combustion]を付与するスキルでの与ダメージ量 +7.5%"
+          "simpleDesc": "[Combustion]を付与するスキルによる与ダメージ量 +7.5%"
         }
       ]
     },
     {
       "id": 19102,
       "name": "偏光+",
-      "desc": "味方が対象より精神力が<style=\"upgradeHighlight\">25</style>以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルでの与ダメージ量 <style=\"upgradeHighlight\">+12.5%</style>(精神力が無い敵の場合は0で計算)",
+      "desc": "味方が対象より精神力が<style=\"upgradeHighlight\">25</style>以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルによる与ダメージ量 <style=\"upgradeHighlight\">+12.5%</style>(精神力が無い敵の場合は0で計算)",
       "simpleDesc": [
         {
           "abilityID": 19102,
-          "simpleDesc": "[Combustion]を付与するスキルでの与ダメージ量 +12.5%"
+          "simpleDesc": "[Combustion]を付与するスキルによる与ダメージ量 +12.5%"
         }
       ]
     },
     {
       "id": 29102,
       "name": "偏光++",
-      "desc": "味方が対象より精神力が<style=\"upgradeHighlight\">15</style>以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルでの与ダメージ量 <style=\"upgradeHighlight\">+20%</style>(精神力が無い敵の場合は0で計算)",
+      "desc": "味方が対象より精神力が<style=\"upgradeHighlight\">15</style>以上高い場合、[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルによる与ダメージ量 <style=\"upgradeHighlight\">+20%</style>(精神力が無い敵の場合は0で計算)",
       "simpleDesc": [
         {
           "abilityID": 29102,
-          "simpleDesc": "[Combustion]を付与するスキルでの与ダメージ量 +20%"
+          "simpleDesc": "[Combustion]を付与するスキルによる与ダメージ量 +20%"
         }
       ]
     },
@@ -2824,11 +2824,11 @@
     {
       "id": 9104,
       "name": "灯り花",
-      "desc": "憤怒共鳴が3以上なら、[Combustion]威力・回数、または特殊火傷を付与するスキルのマッチ威力 +1\n- 憤怒完全共鳴3以上か、憤怒共鳴が6以上なら代わりにマッチ威力 +2\n\n[編成1・2番人格専用効果]\n\n味方が敵を攻撃するとき、対象の残体力が(保有した[Combustion]威力)%以下の場合(幻想体の場合は本体体力で計算)、[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルでの与ダメージ量 +50%",
+      "desc": "憤怒共鳴が3以上なら、[Combustion]威力・回数、または特殊火傷を付与するスキルのマッチ威力 +1\n- 憤怒完全共鳴3以上か、憤怒共鳴が6以上なら代わりにマッチ威力 +2\n\n[編成1・2番人格専用効果]\n\n味方が敵を攻撃するとき、対象の残体力が(保有した[Combustion]威力)%以下の場合(幻想体の場合は本体体力で計算)、[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルによる与ダメージ量 +50%",
       "simpleDesc": [
         {
           "abilityID": 9104,
-          "simpleDesc": "条件を満たすと[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルでの与ダメージ量 +50%"
+          "simpleDesc": "条件を満たすと[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルによる与ダメージ量 +50%"
         }
       ]
     },
@@ -2916,33 +2916,33 @@
     {
       "id": 9108,
       "name": "畏敬の念",
-      "desc": "[編成1・2番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メイン攻撃対象の[Laceration]回数が7以上ならダメージ量 +10%",
+      "desc": "[編成1・2番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メインターゲットの[Laceration]回数が7以上ならダメージ量 +10%",
       "simpleDesc": [
         {
           "abilityID": 9108,
-          "simpleDesc": "条件を満たした場合、メイン攻撃対象の[Laceration]回数が7以上ならダメージ量 +10%"
+          "simpleDesc": "条件を満たした場合、メインターゲットの[Laceration]回数が7以上ならダメージ量 +10%"
         }
       ]
     },
     {
       "id": 19108,
       "name": "畏敬の念+",
-      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メイン攻撃対象の[Laceration]回数が5以上ならダメージ量 +<style=\"upgradeHighlight\">15</style>%",
+      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メインターゲットの[Laceration]回数が5以上ならダメージ量 +<style=\"upgradeHighlight\">15</style>%",
       "simpleDesc": [
         {
           "abilityID": 19108,
-          "simpleDesc": "条件を満たした場合、メイン攻撃対象の[Laceration]回数が5以上ならダメージ量 +15"
+          "simpleDesc": "条件を満たした場合、メインターゲットの[Laceration]回数が5以上ならダメージ量 +15"
         }
       ]
     },
     {
       "id": 29108,
       "name": "畏敬の念++",
-      "desc": "[編成1・2・3番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メイン攻撃対象の[Laceration]回数が3以上ならダメージ量 +<style=\"upgradeHighlight\">20</style>%",
+      "desc": "[編成1・2・3番人格専用効果]\n\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルを使用する場合、メインターゲットの[Laceration]回数が3以上ならダメージ量 +<style=\"upgradeHighlight\">20</style>%",
       "simpleDesc": [
         {
           "abilityID": 29108,
-          "simpleDesc": "条件を満たした場合、メイン攻撃対象の[Laceration]回数が3以上ならダメージ量 +20%"
+          "simpleDesc": "条件を満たした場合、メインターゲットの[Laceration]回数が3以上ならダメージ量 +20%"
         }
       ]
     },
@@ -3045,7 +3045,7 @@
     {
       "id": 9113,
       "name": "酸っぱい酒香",
-      "desc": "[編成1・2番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +2\n\nメイン攻撃対象が[Vibration]状態で混乱した場合、スキルでの与ダメージ量 +(混乱段階 × 7.5)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × 15)%",
+      "desc": "[編成1・2番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +2\n\nメインターゲットが[Vibration]状態で混乱した場合、スキルによる与ダメージ量 +(混乱段階 × 7.5)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × 15)%",
       "simpleDesc": [
         {
           "abilityID": 9113,
@@ -3053,7 +3053,7 @@
         },
         {
           "abilityID": 91131,
-          "simpleDesc": "条件を満たした場合、スキルでの与ダメージ量 +(混乱段階 × 7.5)%"
+          "simpleDesc": "条件を満たした場合、スキルによる与ダメージ量 +(混乱段階 × 7.5)%"
         },
         {
           "abilityID": 91132,
@@ -3064,7 +3064,7 @@
     {
       "id": 19113,
       "name": "酸っぱい酒香+",
-      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +2\n\nメイン攻撃対象が[Vibration]状態で混乱した場合、スキルでの与ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">10</style>)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">20</style>)%",
+      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +2\n\nメインターゲットが[Vibration]状態で混乱した場合、スキルによる与ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">10</style>)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">20</style>)%",
       "simpleDesc": [
         {
           "abilityID": 19113,
@@ -3072,18 +3072,18 @@
         },
         {
           "abilityID": 191131,
-          "simpleDesc": "条件を満たした場合、スキルでの与ダメージ量 +(混乱段階 × 10)%"
+          "simpleDesc": "条件を満たした場合、スキルによる与ダメージ量 +(混乱段階 × 10)%"
         },
         {
           "abilityID": 191132,
-          "simpleDesc": "条件を満たした場合、スキルでの与ダメージ量 +(混乱段階 × 20)%"
+          "simpleDesc": "条件を満たした場合、スキルによる与ダメージ量 +(混乱段階 × 20)%"
         }
       ]
     },
     {
       "id": 29113,
       "name": "酸っぱい酒香++",
-      "desc": "[編成1・2・3番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +<style=\"upgradeHighlight\">3</style>\n\nメイン攻撃対象が[Vibration]状態で混乱した場合、スキルでの与ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">12.5</style>)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">25</style>)%",
+      "desc": "[編成1・2・3番人格専用効果]\n\n[Vibration]威力または[Vibration]回数を付与するスキル(本人または味方を対象とする場合を含む)の攻撃レベル +<style=\"upgradeHighlight\">3</style>\n\nメインターゲットが[Vibration]状態で混乱した場合、スキルによる与ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">12.5</style>)%\n\n[Vibration]威力または[Vibration]回数を付与するスキルで敵を攻撃する場合は効果が強化され、ダメージ量 +(混乱段階 × <style=\"upgradeHighlight\">25</style>)%",
       "simpleDesc": [
         {
           "abilityID": 29113,
@@ -3091,11 +3091,11 @@
         },
         {
           "abilityID": 291131,
-          "simpleDesc": "条件を満たした場合、スキルでの与ダメージ量 +(混乱段階 × 12.5)%"
+          "simpleDesc": "条件を満たした場合、スキルによる与ダメージ量 +(混乱段階 × 12.5)%"
         },
         {
           "abilityID": 291132,
-          "simpleDesc": "条件を満たした場合、スキルでの与ダメージ量 +(混乱段階 × 25)%"
+          "simpleDesc": "条件を満たした場合、スキルによる与ダメージ量 +(混乱段階 × 25)%"
         }
       ]
     },
@@ -3166,11 +3166,11 @@
     {
       "id": 9118,
       "name": "骨の杭",
-      "desc": "[Burst]効果が敵の保有するバリアに与えるダメージ量 +100%",
+      "desc": "[Burst]効果は、敵の保有するバリアへの与ダメージ量 +100%",
       "simpleDesc": [
         {
           "abilityID": 9118,
-          "simpleDesc": "[Burst]効果が敵の保有するバリアに与えるダメージ量 +100%"
+          "simpleDesc": "[Burst]効果は、敵の保有するバリアへの与ダメージ量 +100%"
         }
       ]
     },
@@ -3401,7 +3401,7 @@
     {
       "id": 9127,
       "name": "デビルズシェア",
-      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2を付与(E.G.Oスキルを除く)",
+      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを保有する味方の場合は効果が強化され、[Agility]2を付与(E.G.Oスキルを除く)",
       "simpleDesc": [
         {
           "abilityID": 9127,
@@ -3412,7 +3412,7 @@
     {
       "id": 19127,
       "name": "デビルズシェア+",
-      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style>を付与(E.G.Oスキルを除く)",
+      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを保有する味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style>を付与(E.G.Oスキルを除く)",
       "simpleDesc": [
         {
           "abilityID": 19127,
@@ -3423,7 +3423,7 @@
     {
       "id": 29127,
       "name": "デビルズシェア++",
-      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style>を付与(E.G.Oスキルを除く)",
+      "desc": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを保有する味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style>を付与(E.G.Oスキルを除く)",
       "simpleDesc": [
         {
           "abilityID": 29127,
@@ -4071,7 +4071,7 @@
     {
       "id": 9147,
       "name": "穴の空いた記憶",
-      "desc": "[編成1番・2番人格専用効果]\n\n貫通攻撃スキルの基本威力 +2, 加算コイン威力 +1, 減算コイン威力 -1 (E.G.Oスキルを含む)\n\n貫通攻撃スキルを使用してマッチ勝利時、ダメージ量 +15%. 該当スキルで的中時、メイン攻撃対象より速度が高ければダメージ量 +(メイン攻撃対象との速度差 × 2.5, 最大35)% (E.G.Oスキルを除く)",
+      "desc": "[編成1番・2番人格専用効果]\n\n貫通攻撃スキルの基本威力 +2, 加算コイン威力 +1, 減算コイン威力 -1 (E.G.Oスキルを含む)\n\n貫通攻撃スキルを使用してマッチ勝利時、ダメージ量 +15%. 該当スキルで的中時、メインターゲットより速度が高ければダメージ量 +(メインターゲットとの速度差 × 2.5, 最大35)% (E.G.Oスキルを除く)",
       "simpleDesc": [
         {
           "abilityID": 9147,
@@ -4641,7 +4641,7 @@
       "simpleDesc": [
         {
           "abilityID": 9192,
-          "simpleDesc": "出血を持つ味方の体力が回復"
+          "simpleDesc": "出血を保有する味方の体力が回復"
         }
       ]
     },
@@ -4652,7 +4652,7 @@
       "simpleDesc": [
         {
           "abilityID": 19192,
-          "simpleDesc": "出血を持つ味方2名の体力が回復"
+          "simpleDesc": "出血を保有する味方2名の体力が回復"
         }
       ]
     },

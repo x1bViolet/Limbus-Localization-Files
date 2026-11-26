@@ -3511,7 +3511,7 @@
         {
           "level": 3,
           "name": "黙示",
-          "desc": "[StartBattle] [OathFieldDonQuixote]3を得る (1ターンにつき1回)\n[StartBattle] 自分と自分以外で精神力が最も低いル・ノワール所属の味方人格1名の精神力が<style=\"highlight\">5</style>回復 (1ターンにつき1回)\n<style=\"highlight\">[StartBattle] 自分の[NoirShieldUpDonQuixote]が</style>\n<style=\"highlight\">- 100なら、代わりに「幾度も振り下ろし、誕生を断たん！」として発動する (1ターンにつき1回、この効果は一方攻撃でも発動する)</style>\n<style=\"highlight\">- 100未満なら、自分の最大体力の([NoirShieldUpDonQuixote]÷10)%だけバリアを得る (1ターンにつき1回)</style>\n[StartBattle] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">3</style>増加 (1ターンにつき1回)\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力と[NoirNailDonQuixote]の合計が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、<style=\"highlight\">ダメージ量 +10%</style>",
+          "desc": "[StartBattle] [OathFieldDonQuixote]3を得る (1ターンにつき1回)\n[StartBattle] 自分と自分以外で精神力が最も低いル・ノワール所属の味方人格1名の精神力が<style=\"highlight\">5</style>回復 (1ターンにつき1回)\n<style=\"highlight\">[StartBattle] 自分の[NoirShieldUpDonQuixote]が</style>\n<style=\"highlight\">- 100なら、代わりに「幾度も振り下ろし、誕生を断たん！」として発動する (1ターンにつき1回、この効果は一方攻撃でも発動する)</style>\n<style=\"highlight\">- 100未満なら、自分の体力最大値の([NoirShieldUpDonQuixote]÷10)%だけバリアを得る (1ターンにつき1回)</style>\n[StartBattle] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">3</style>増加 (1ターンにつき1回)\n<style=\"highlight\">[WhenUse] 対象の[Vibration]威力と[NoirNailDonQuixote]の合計が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、<style=\"highlight\">ダメージ量 +10%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3535,7 +3535,7 @@
         {
           "level": 4,
           "name": "黙示",
-          "desc": "[StartBattle] [OathFieldDonQuixote]3を得る (1ターンにつき1回)\n[StartBattle] 自分と自分以外で精神力が最も低いル・ノワール所属の味方人格1名の精神力が<style=\"highlight\">6</style>回復 (1ターンにつき1回)\n[StartBattle] 自分の[NoirShieldUpDonQuixote]が\n- 100なら、代わりに「幾度も振り下ろし、誕生を断たん！」として発動する (1ターンにつき1回、この効果は一方攻撃でも発動する)\n- 100未満なら、自分の最大体力の([NoirShieldUpDonQuixote]÷10)%だけバリアを得る (1ターンにつき1回)\n[StartBattle] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">4</style>増加 (1ターンにつき1回)\n[WhenUse] 対象の[Vibration]威力と[NoirNailDonQuixote]の合計<style=\"highlight\">6につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +<style=\"highlight\">20%</style>",
+          "desc": "[StartBattle] [OathFieldDonQuixote]3を得る (1ターンにつき1回)\n[StartBattle] 自分と自分以外で精神力が最も低いル・ノワール所属の味方人格1名の精神力が<style=\"highlight\">6</style>回復 (1ターンにつき1回)\n[StartBattle] 自分の[NoirShieldUpDonQuixote]が\n- 100なら、代わりに「幾度も振り下ろし、誕生を断たん！」として発動する (1ターンにつき1回、この効果は一方攻撃でも発動する)\n- 100未満なら、自分の体力最大値の([NoirShieldUpDonQuixote]÷10)%だけバリアを得る (1ターンにつき1回)\n[StartBattle] 自分の[ChargeNoirAlly]回数が<style=\"highlight\">4</style>増加 (1ターンにつき1回)\n[WhenUse] 対象の[Vibration]威力と[NoirNailDonQuixote]の合計<style=\"highlight\">6につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +<style=\"highlight\">20%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3970,7 +3970,7 @@
                   "summary": "クリティカルダメージ量が増加"
                 },
                 {
-                  "desc": "ダメージ量 +(40÷対象の貫通耐性)% (最大80%、小数点以下切り捨て)",
+                  "desc": "ダメージ量 +(40÷対象の貫通耐性)% (最大80%、小数点切り捨て)",
                   "summary": "対象の貫通耐性が低いほど、ダメージ量が増加"
                 },
                 {
@@ -4031,7 +4031,7 @@
                   "summary": "クリティカルダメージ量が増加"
                 },
                 {
-                  "desc": "ダメージ量 +(40÷対象の貫通耐性)% (最大80%、小数点以下切り捨て)",
+                  "desc": "ダメージ量 +(40÷対象の貫通耐性)% (最大80%、小数点切り捨て)",
                   "summary": "対象の貫通耐性が低いほど、ダメージ量が増加"
                 },
                 {

@@ -8,7 +8,7 @@
     {
       "id": 133101,
       "name": "私の全ての身体要素は既にティビアへ",
-      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]で受けるダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
+      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]による被ダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
     },
     {
       "id": 133102,
@@ -138,7 +138,7 @@
     {
       "id": 132801,
       "name": "こうすればいいんだよね、パパ！",
-      "desc": "ステージ開始時、[HeatingWireOffSpider]を持って始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら、該当ターンの間[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n\nターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される",
+      "desc": "ステージ開始時、[HeatingWireOffSpider]を保有して始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら、該当ターンの間[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n\nターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される",
       "summary": "",
       "undefined": "-",
       "flavor": "「パパはいつも褒めてくれるし、マンガも買ってくれてサイコー。」"
@@ -168,7 +168,7 @@
     {
       "id": 134201,
       "name": "こうすればいいんだよね、パパ！",
-      "desc": "ステージ開始時、[HeatingWireOffSpider]を持って始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら、該当ターンの間[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n\nターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される",
+      "desc": "ステージ開始時、[HeatingWireOffSpider]を保有して始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら、該当ターンの間[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n\nターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される",
       "summary": "",
       "undefined": "-"
     },
@@ -213,7 +213,7 @@
     {
       "id": 132606,
       "name": "デュエロ・ディスペラート",
-      "desc": "マッチ終了時、マッチを進行した対象へ[DuelEdge]1を付与\n[DuelEdge]を持つ対象とマッチ進行時、対象の[DuelEdge]数値1につき精神力が2増加 (最大10)"
+      "desc": "マッチ終了時、マッチを進行した対象へ[DuelEdge]1を付与\n[DuelEdge]を保有する対象とマッチ進行時、対象の[DuelEdge]数値1につき精神力が2増加 (最大10)"
     },
     {
       "id": 131401,
@@ -280,7 +280,7 @@
     {
       "id": 134501,
       "name": "私の全ての身体要素は既にティビアへ",
-      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量と混乱区間の前進量 -30%\n[Laceration]で受けるダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得る (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)",
+      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量と混乱区間の前進量 -30%\n[Laceration]による被ダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得る (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)",
       "flavor": "「蜘蛛の巣の存在理由でもある、指があれほどまでに待ち望んできた傑作がまもなく完成しそうですね。\n黄金の枝は興味深い代物ではありますが、実のところ作品を完成させるために必要な材料ではありませんでした。\nリンバス・カンパニーという会社を敵に回してまで持ち出した理由は、いまだに分かりませんが…。\n結果が確かな以上、この乱雑な過程も受け入れるほかありませんね。\nこの一連の状況は、リアン…いえ、あの男が信奉する神が望んだこと。\n神と呼ばれる存在の愛を一身に受けることは、果たして祝福なのでしょうか、それとも呪いなのでしょうか。ふふ。」"
     },
     {
@@ -380,7 +380,7 @@
     {
       "id": 133705,
       "name": "没入",
-      "desc": "[UnlockBuff_3]を得れば、下記の効果を適用\n- [Blandishment_Shin_Enemy]、最大体力の50%だけバリアを得る (この戦闘のあいだ維持)\n- [PressureOfPrescript]が[PressureOfPrescript_2nd]に変更され、最大まで増加\n- ターン開始時、[PressureOfPrescript_2nd]1を得る",
+      "desc": "[UnlockBuff_3]を得れば、下記の効果を適用\n- [Blandishment_Shin_Enemy]、体力最大値の50%だけバリアを得る (この戦闘のあいだ維持)\n- [PressureOfPrescript]が[PressureOfPrescript_2nd]に変更され、最大まで増加\n- ターン開始時、[PressureOfPrescript_2nd]1を得る",
       "summary": "",
       "undefined": "-"
     },
@@ -407,7 +407,7 @@
     {
       "id": 133805,
       "name": "恩義",
-      "desc": "良秀以外の対象とマッチを進行するとき、マッチ威力 -2\n良秀以外の対象から受けるダメージ量 -20%"
+      "desc": "良秀以外の対象とマッチを進行するとき、マッチ威力 -2\n良秀以外の対象からの被ダメージ量 -20%"
     },
     {
       "id": 133901,

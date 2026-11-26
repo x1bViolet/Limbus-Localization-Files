@@ -265,7 +265,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]回数が1増加"
                 },
                 {
-                  "desc": "このコインが的中時、与ダメージ量の30%だけ体力を回復"
+                  "desc": "このコインが的中時、与えた体力ダメージ量の30%だけ体力を回復"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大3回)"

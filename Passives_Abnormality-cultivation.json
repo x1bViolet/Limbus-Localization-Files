@@ -13,7 +13,7 @@
     {
       "id": 124703,
       "name": "魂飛中天",
-      "desc": "自分に[LegStrengthHorse]があるなら、[Vibration]のない対象へ[VibrationExplosion]効果を持つコインが的中時に[ReboundWei]1を得る ([ReboundWei]が最大値なら獲得しない)\n\nターン終了時、自分の[ReboundWei]が最大値なら全て消耗して次のターンに[LegStrengthHorse]が1減少"
+      "desc": "自分に[LegStrengthHorse]があるなら、[Vibration]のない対象へ[VibrationExplosion]効果を保有するコインが的中時に[ReboundWei]1を得る ([ReboundWei]が最大値なら獲得しない)\n\nターン終了時、自分の[ReboundWei]が最大値なら全て消耗して次のターンに[LegStrengthHorse]が1減少"
     },
     {
       "id": 124704,
@@ -28,7 +28,7 @@
     {
       "id": 127201,
       "name": "その間の被害",
-      "desc": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルからの被ダメージ量 +15%"
+      "desc": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルによる被ダメージ量 +15%"
     },
     {
       "id": 127202,
@@ -48,7 +48,7 @@
     {
       "id": 127205,
       "name": "血滴成河",
-      "desc": "ターン終了時、[Laceration]が10以上の敵が1名でもいる場合は発動\n[Laceration]を持っている敵へ[Laceration]5につき[DrunkBlood]を1付与する (敵ごとに3回)"
+      "desc": "ターン終了時、[Laceration]が10以上の敵が1名でもいる場合は発動\n[Laceration]を保有している敵へ[Laceration]5につき[DrunkBlood]を1付与する (敵ごとに3回)"
     },
     {
       "id": 124801,

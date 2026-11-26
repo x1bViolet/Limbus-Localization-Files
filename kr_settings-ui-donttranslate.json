@@ -5,6 +5,10 @@
       "content": "基本設定"
     },
     {
+      "id": "mainui_settings_ego_fast_forward_speed",
+      "content": "E.G.O早送り時の再生速度"
+    },
+    {
       "id": "mainui_settings_graphic",
       "content": "グラフィック"
     },

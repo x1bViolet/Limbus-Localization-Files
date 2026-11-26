@@ -643,7 +643,7 @@
           "level": 4,
           "name": "粉砕される過去",
           "abName": "蒸気運搬機械",
-          "desc": "[BeforeAttack] メインターゲットの([Vibration]威力 + [Vibration]回数)が30以上なら、加重値 +1\n<style=\"highlight\">- 100以上なら、代わりに加重値 +3</style>\n<style=\"highlight\">[BeforeAttack] 最大共鳴数2につき、全攻撃対象へ振動1を付与 (最大3)</style>\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<style=\"highlight\">[EndSkill] 自分の体力最大値の([AccumulatedPastSinner] × 2)%だけ体力を回復</style>\n[EndSkill] 奇数ターンに(怠惰共鳴数)が奇数か、偶数ターンに(怠惰共鳴数)が偶数なら精神力が10回復",
+          "desc": "[BeforeAttack] メインターゲットの([Vibration]威力 + [Vibration]回数)が30以上なら、加重値 +1\n<style=\"highlight\">- 100以上なら、代わりに加重値 +3</style>\n<style=\"highlight\">[BeforeAttack] 最大共鳴数2につき、全攻撃対象へ振動1を付与 (最大3)</style>\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<style=\"highlight\">[EndSkill] 自分の体力を最大値の([AccumulatedPastSinner] × 2)%だけ回復</style>\n[EndSkill] 奇数ターンに(怠惰共鳴数)が奇数か、偶数ターンに(怠惰共鳴数)が偶数なら精神力が10回復",
           "coinlist": [
             {
               "coindescs": [
@@ -759,7 +759,7 @@
           "level": 4,
           "name": "粉砕される過去",
           "abName": "蒸気運搬機械",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n最大共鳴数1につき、ダメージ量 +10% (最大100%)\n- 最大共鳴が怠惰共鳴なら、代わりにダメージ量 +20% (最大100%)\n[BeforeAttack] メインターゲットの([Vibration]威力 + [Vibration]回数)が30以上なら、加重値 +2\n[BeforeAttack] 奇数ターンに(怠惰共鳴数)が偶数か、偶数ターンに(怠惰共鳴数)が奇数ならダメージ量 +12%\n<style=\"highlight\">[EndSkill] 自分の体力最大値の([AccumulatedPastSinner] × 3)%だけ体力を回復</style>",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n最大共鳴数1につき、ダメージ量 +10% (最大100%)\n- 最大共鳴が怠惰共鳴なら、代わりにダメージ量 +20% (最大100%)\n[BeforeAttack] メインターゲットの([Vibration]威力 + [Vibration]回数)が30以上なら、加重値 +2\n[BeforeAttack] 奇数ターンに(怠惰共鳴数)が偶数か、偶数ターンに(怠惰共鳴数)が奇数ならダメージ量 +12%\n<style=\"highlight\">[EndSkill] 自分の体力を最大値の([AccumulatedPastSinner] × 3)%だけ回復</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1393,7 +1393,7 @@
                   "desc": "- [OnSucceedAttack] このコインの最終ダメージ量の<style=\"highlight\">20%</style>分の貫通ダメージ"
                 },
                 {
-                  "desc": "<style=\"highlight\">- [EnemyKill] 自分の体力最大値の5%分、体力を回復</style>"
+                  "desc": "<style=\"highlight\">- [EnemyKill] 自分の体力を最大値の5%だけ回復</style>"
                 },
                 {
                   "desc": "- [EndCoin] 自分の[BulletHole]を全て消耗<style=\"highlight\"></style>"

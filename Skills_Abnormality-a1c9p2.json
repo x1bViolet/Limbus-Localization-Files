@@ -111,7 +111,7 @@
         {
           "level": 1,
           "name": "紅炎殺",
-          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
+          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルによる与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
           "coinlist": [
             {
               "coindescs": [
@@ -175,7 +175,7 @@
         {
           "level": 1,
           "name": "火種を焚き付ける",
-          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。",
+          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる。",
           "coinlist": [
             {},
             {},
@@ -351,7 +351,7 @@
         {
           "level": 1,
           "name": "超高圧電気放出",
-          "desc": "[WhenUse] 保有している[SelfCharge]を全て消耗し、消耗した[SelfCharge]が10以上なら、マッチ威力 +5\n[DefeatDuel] この攻撃スキルの与ダメージ量が0になる",
+          "desc": "[WhenUse] 保有している[SelfCharge]を全て消耗し、消耗した[SelfCharge]が10以上なら、マッチ威力 +5\n[DefeatDuel] この攻撃スキルによる与ダメージ量が0になる",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 1,
           "name": "紅炎殺",
-          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルの与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
+          "desc": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n[DefeatDuel] 下記の効果を適用\n- このスキルによる与ダメージ量が0になる\n- 全対象の[Combustion]を除去\n- このスキルの[Combustion]、[Combustion]回数付与量が半減",
           "coinlist": [
             {
               "coindescs": [

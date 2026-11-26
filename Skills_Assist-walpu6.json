@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "アルカナ・スレイブ",
-          "desc": "[CantDuel]\n忘れられた騎士の剣へダメージを与えない\n[WornOutKnight]を持つ敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る",
+          "desc": "[CantDuel]\n忘れられた騎士の剣へダメージを与えない\n[WornOutKnight]を保有する敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -149,7 +149,7 @@
         {
           "level": 1,
           "name": "アルカナ・スレイブ",
-          "desc": "[CantDuel]\nコイン効果でのみダメージを与える\n心を壊す剣、心を引き裂く剣、心を貫く剣へダメージを与えない\n[WornOutKnight]を持つ体力600以下の敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る",
+          "desc": "[CantDuel]\nコイン効果でのみダメージを与える\n心を壊す剣、心を引き裂く剣、心を貫く剣へダメージを与えない\n[WornOutKnight]を保有する体力600以下の敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る",
           "coinlist": [
             {
               "coindescs": [

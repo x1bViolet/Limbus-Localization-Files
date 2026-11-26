@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "雪げぬ罪",
-          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1%(最大60%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復",
+          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1%(最大60%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力を最大値の10%だけ回復",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "雪げぬ罪",
-          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 <style=\"highlight\">+1.5%(最大90%)</style>\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n<style=\"highlight\">- 消耗した数値が20なら、このスキルの最終コインを再使用</style>\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復",
+          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 <style=\"highlight\">+1.5%(最大90%)</style>\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n<style=\"highlight\">- 消耗した数値が20なら、このスキルの最終コインを再使用</style>\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力を最大値の10%だけ回復",
           "coinlist": [
             {
               "coindescs": [
@@ -3294,6 +3294,317 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Vibration]1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脈動する糸",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の体力を最大値の10%だけ回復 (1ターンにつき1回)\n[WhenUse] 自分の[ChargeRougeAlly]回数が5未満なら、体力最大値の(2 × (5 - 現在の[ChargeRougeAlly]回数))%だけ体力を消耗し、[ChargeRougeAlly]回数が5に増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "脈動する糸",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の体力を最大値の10%だけ回復 (1ターンにつき1回)\n[WhenUse] 自分の[ChargeRougeAlly]回数が5未満なら、体力最大値の(2 × (5 - 現在の[ChargeRougeAlly]回数))%だけ体力を消耗し、[ChargeRougeAlly]回数が5に増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]威力が6以上なら、コイン威力 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "脈動する糸",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の体力を最大値の10%だけ回復 (1ターンにつき1回)\n[WhenUse] 自分の[ChargeRougeAlly]回数が5未満なら、体力最大値の(2 × (5 - 現在の[ChargeRougeAlly]回数))%だけ体力を消耗し、[ChargeRougeAlly]回数が5に増加\n<style=\"highlight\">[WhenUse] 自分の[ChargeRougeAlly]威力2につき、最終威力 +1 (最大2)</style>\n[WhenUse] 対象の[Laceration]威力が6以上なら、コイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "願望と欲望を一本に",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の[Charge]回数が4増加 (1ターンにつき1回)\n[StartBattle] ル・ルージュ所属、または色欲スキルを装着している味方人格全員(自分を含む)に[AttackUp]1を付与 (1ターンにつき1回)\n\n[WhenUse] 自分の[ChargeRougeAlly]回数を4消耗し、最終威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "願望と欲望を一本に",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の[Charge]回数が4増加 (1ターンにつき1回)\n[StartBattle] ル・ルージュ所属、または色欲スキルを装着している味方人格全員(自分を含む)に[AttackUp]1を付与 (1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 対象の[Laceration]威力6につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の[ChargeRougeAlly]回数を4消耗し、最終威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "願望と欲望を一本に",
+          "desc": "[StartBattle] [RougeGregLink]を保有する味方の[Charge]回数が4増加 (1ターンにつき1回)\n[StartBattle] ル・ルージュ所属、または色欲スキルを装着している味方人格全員(自分を含む)に[AttackUp]1を付与 (1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 自分の[ChargeRougeAlly]威力2につき、最終威力 +1 (最大2)</style>\n[WhenUse] 対象の[Laceration]威力6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ChargeRougeAlly]回数を4消耗し、最終威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が3増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "まばゆくもつれ合った糸",
+          "desc": "[StartBattle] 自分と[RougeGregLink]を保有する味方に[AttackUp]2を付与\n[StartBattle] [RougeGregLink]を保有する味方に[Enhancement]2、[RougeGregAutoHeal]3を付与 (1ターンにつき2回)\n- ル・ルージュ所属なら、[AttackDmgUp]2を追加で付与\n\n[WhenUse] 自分の[ChargeRougeAlly]威力が2以上なら、最終威力 +1\n[WhenUse] 対象の[Laceration]威力が6以上なら、コイン威力 +1\n[WhenUse] 自分の[RougeGregWarmUp]1につき、ダメージ量 +30%\n\n[EndSkill] 自分の[ChargeRougeAlly]回数を最大15まで消耗し、[RougeGregLink]を保有する味方に消耗した数値だけ[Charge]回数を付与\n- この効果で対象の[Charge]回数が最大値を超えた場合、対象の体力を最大値の(超過分)%だけ回復",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が8増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "まばゆくもつれ合った糸",
+          "desc": "[StartBattle] 自分と[RougeGregLink]を保有する味方に[AttackUp]2を付与\n[StartBattle] [RougeGregLink]を保有する味方に[Enhancement]2、[RougeGregAutoHeal]3を付与 (1ターンにつき2回)\n- ル・ルージュ所属なら、[AttackDmgUp]2を追加で付与\n\n[WhenUse] 自分の[ChargeRougeAlly]威力2につき、最終威力 +1 (最大3)\n[WhenUse] 対象の[Laceration]威力6につき、コイン威力 +1 (最大2)\n[WhenUse] 自分の[RougeGregWarmUp]1につき、ダメージ量 +30%\n\n[EndSkill] 自分の[ChargeRougeAlly]回数を最大15まで消耗し、[RougeGregLink]を保有する味方に消耗した数値だけ[Charge]回数を付与\n- この効果で対象の[Charge]回数が最大値を超えた場合、対象の体力を最大値の(超過分)%だけ回復",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数が8増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "糸を縒る",
+          "desc": "[CanDuelGuard]\n[SupportAlly]\n味方を指定した場合、このスキルでは[CantDuel]\n\n[StartBattle] [RougeGregAutoHeal]2を得る (1ターンにつき1回)\n[StartBattle] 自分の[ChargeRougeAlly]回数が4増加 (1ターンにつき2回)\n[StartBattle] 味方を指定した場合、対象の味方に「結び目を作る」を使用 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "糸を縒る",
+          "desc": "[CanDuelGuard]\n[SupportAlly]\n味方を指定した場合、このスキルでは[CantDuel]\n\n[StartBattle] [RougeGregAutoHeal]2を得る (1ターンにつき1回)\n<style=\"highlight\">[StartBattle] 色欲スキルを装着している味方人格全員(自分を含む)に[Charge]回数を2付与 (1ターンにつき1回)</style>\n[StartBattle] 自分の[ChargeRougeAlly]回数が4増加 (1ターンにつき2回)\n[StartBattle] 味方を指定した場合、対象の味方に「結び目を作る」を使用 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "結び目を作る",
+          "desc": "[CantIdentify]\n[CantDuel]\nこのスキルには以下の効果が適用される\n- 守備スキルを発動させない\n- 外部効果では再使用できない\n- 攻撃が的中しない\n\n[BeforeUse] 対象が味方なら、自分の「糸」を変更する\n- [RougeGregRed] → [RougeGregYellow]\n- [RougeGregYellow] → [RougeGregBlue]\n- [RougeGregBlue] → [RougeGregRed]\n\n[WhenUse] 自分が糸を保有していないなら、[RougeGregRed]を得る\n\n[EndSkill] 対象が味方なら、[RougeGregLink]を付与し、自分が現在保有している効果に応じて以下の効果を発動\n- [RougeGregRed]：対象の[Charge]回数が6増加\n- [RougeGregYellow]：[Enhancement]1、[AttackDmgUp]1を付与\n- [RougeGregBlue]：自分と対象の体力を、それぞれ最大値の15%だけ回復",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "紡ぎ出す",
+          "desc": "[CantDuel]\n\nこのスキルが的中したとき、自分の体力を最大値の8%だけ回復 (コインごとに1回)\n\n[WhenUse] 自分の[ChargeRougeAlly]回数が3増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeRougeAlly]回数を5消耗してこのコインを再使用 (スキルにつき1回)"
                 }
               ]
             }

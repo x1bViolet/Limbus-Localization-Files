@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "狂った狼の狂気",
-          "desc": "[WhenUse] 対象の[Laceration]5につき、基本威力 +1(最大4)\n[WhenUse] 対象のマイナス効果数だけ、マッチ威力 +1(最大2)\n[DefeatDuel] 対象が[AaCfPcBg]を持っているなら、次のターンに100だけ混乱区間を前進。混乱数値がない場合は0に混乱区間を作る。",
+          "desc": "[WhenUse] 対象の[Laceration]5につき、基本威力 +1(最大4)\n[WhenUse] 対象のマイナス効果数だけ、マッチ威力 +1(最大2)\n[DefeatDuel] 対象が[AaCfPcBg]を保有しているなら、次のターンに100だけ混乱区間を前進。混乱数値がない場合は0に混乱区間を作る。",
           "coinlist": [
             {
               "coindescs": [
@@ -484,7 +484,7 @@
         {
           "level": 1,
           "name": "応接道第七式 捕捉",
-          "desc": "[StartBattle] [AaCfPcBb]を持つ敵の数だけ加重値が増加\n[WhenUse] メインターゲットより速度が3以上高ければ、斬撃耐性弱化 2を付与\n[WhenUse] 対象に[AaCfPcBb]があれば、マッチ威力 +8\n[EndBattle] 全ての[AaCfPcBb]を除去",
+          "desc": "[StartBattle] [AaCfPcBb]を保有する敵の数だけ加重値が増加\n[WhenUse] メインターゲットより速度が3以上高ければ、斬撃耐性弱化 2を付与\n[WhenUse] 対象に[AaCfPcBb]があれば、マッチ威力 +8\n[EndBattle] 全ての[AaCfPcBb]を除去",
           "coinlist": [
             {
               "coindescs": [
@@ -530,7 +530,7 @@
         {
           "level": 1,
           "name": "招かざる客の捕縛",
-          "desc": "[AaCfPcBc]をもつ対象を優先して攻撃\n[DefeatDuel] 対象が[AaCfPcBc]を持っていれば、[AaCfPcBc]が消滅",
+          "desc": "[AaCfPcBc]をもつ対象を優先して攻撃\n[DefeatDuel] 対象が[AaCfPcBc]を保有していれば、[AaCfPcBc]が消滅",
           "coinlist": [
             {
               "coindescs": [
@@ -555,7 +555,7 @@
         {
           "level": 1,
           "name": "応接道第三式 結束",
-          "desc": "[WhenUse] 対象が[AaCfPcBc]を持っているなら、基本威力 +5\n[WhenUse] 対象が[AaCfPcBc]を持っているなら、[AaCfPcBc]1を付与",
+          "desc": "[WhenUse] 対象が[AaCfPcBc]を保有しているなら、基本威力 +5\n[WhenUse] 対象が[AaCfPcBc]を保有しているなら、[AaCfPcBc]1を付与",
           "coinlist": [
             {
               "coindescs": [
@@ -1430,7 +1430,7 @@
         {
           "level": 1,
           "name": "郎め…",
-          "desc": "[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)",
+          "desc": "[AaCfPbBe]を保有する対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)",
           "coinlist": [
             {
               "coindescs": [

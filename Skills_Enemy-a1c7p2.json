@@ -336,7 +336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大20%)"
                 }
               ]
             }
@@ -445,7 +445,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大20%)"
                 }
               ]
             }
@@ -577,7 +577,7 @@
                   "desc": "[OnSucceedAttack] 自分の[HardenedBlood]を全て消耗し、(消耗した[HardenedBlood] × 3)だけ[BloodDinner]が増加して、[Laceration]5を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大30%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大30%)"
                 }
               ]
             }
@@ -709,7 +709,7 @@
                   "desc": "[OnSucceedAttack] 自分の[HardenedBlood]を全て消耗し、(消耗した[HardenedBlood] × 3)だけ[BloodDinner]が増加して、[Laceration]5を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大30%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大30%)"
                 }
               ]
             }
@@ -805,7 +805,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値の([FestivalFever] × 2.5)%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の([FestivalFever] × 2.5)%だけ回復(最大20%)"
                 }
               ]
             },
@@ -902,7 +902,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値の([FestivalFever] × 2.5)%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の([FestivalFever] × 2.5)%だけ回復(最大20%)"
                 }
               ]
             },
@@ -1025,7 +1025,7 @@
                   "desc": "[OnSucceedAttack] 自分の[HardenedBlood]だけ[Laceration], [Burst]を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値の([FestivalFever] × 4)%だけ体力回復(最大40%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の([FestivalFever] × 4)%だけ回復(最大40%)"
                 }
               ]
             },
@@ -1151,7 +1151,7 @@
                   "desc": "[OnSucceedAttack] 自分の[HardenedBlood]だけ[Laceration], [Burst]を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値の([FestivalFever] × 4)%だけ体力回復(最大40%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の([FestivalFever] × 4)%だけ回復(最大40%)"
                 }
               ]
             },

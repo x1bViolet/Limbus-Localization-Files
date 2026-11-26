@@ -89,7 +89,7 @@
     {
       "id": 148711,
       "name": "くそっ、そんなグリッチどうやって見つけたんだ。",
-      "desc": "ターン開始時、[GoldenHideWarderThirdPhase]と[GoldenFabricWarderThirdPhase]がランダムな囚人に付与される\n\n<color=#ff6000><mark=#ff000040><b><u>管理人が特定の行動を取った場合、\n司祭がランダムな囚人に最大体力に比例するダメージを与え、[GoldenNail]を付与</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>体力が50%未満になると、司祭がシステムに干渉し</u></b></mark></color>、\n<color=#ff6000><mark=#ff000040><b><u>自分の体力と精神力を全快し、マイナス効果を全て除去</u></b></mark></color>",
+      "desc": "ターン開始時、[GoldenHideWarderThirdPhase]と[GoldenFabricWarderThirdPhase]がランダムな囚人に付与される\n\n<color=#ff6000><mark=#ff000040><b><u>管理人が特定の行動を取った場合、\n司祭がランダムな囚人に体力最大値に比例するダメージを与え、[GoldenNail]を付与</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>体力が50%未満になると、司祭がシステムに干渉し</u></b></mark></color>、\n<color=#ff6000><mark=#ff000040><b><u>自分の体力と精神力を全快し、マイナス効果を全て除去</u></b></mark></color>",
       "flavor": "「システムが常に完璧とはいかないにせよ、これほどのバグが生じるとは思わなかったな。ちっ、保守チームを呼ばねばならんか。」",
       "summary": "毎ターン、ランダムな囚人に[GoldenHideWarderThirdPhase]、[GoldenFabricWarderThirdPhase]を付与\n体力が50%未満になると完全回復し、マイナス効果を除去"
     },
@@ -130,7 +130,7 @@
     {
       "id": 148706,
       "name": "さあ、そろそろ退勤しようか",
-      "desc": "ターン終了時、[ChargeNoir]威力が10を超えていれば、\n超過した数値だけ[ChargeNoir]威力を消耗し、消耗した数値だけ[Dominion]を得る\n- このパッシブ効果で[Dominion]を全て消耗した後は、この効果は発動しない\n\n自分の体力が初めて<color=#ff6000><mark=#ff000040><b><u>33%以下になると、行動パターンが変更</u></b></mark></color>される\n- 保有する[Dominion]を全て消耗し、自分の<color=#ff6000><mark=#ff000040><b><u>最大体力の(25 + [Dominion]の数値)%だけ不揮発性バリアを得る</u></b></mark></color>\n- 消耗した[Dominion]の数値だけ、防御レベルが永続的に減少",
+      "desc": "ターン終了時、[ChargeNoir]威力が10を超えていれば、\n超過した数値だけ[ChargeNoir]威力を消耗し、消耗した数値だけ[Dominion]を得る\n- このパッシブ効果で[Dominion]を全て消耗した後は、この効果は発動しない\n\n自分の体力が初めて<color=#ff6000><mark=#ff000040><b><u>33%以下になると、行動パターンが変更</u></b></mark></color>される\n- 保有する[Dominion]を全て消耗し、自分の<color=#ff6000><mark=#ff000040><b><u>体力最大値の(25 + [Dominion]の数値)%だけ不揮発性バリアを得る</u></b></mark></color>\n- 消耗した[Dominion]の数値だけ、防御レベルが永続的に減少",
       "flavor": "「何だかんだ言っても、シーシュポスシステムはN社に絶対に必要だ。このシステムが崩れれば…また野蛮な時代に戻らなきゃならないんだ。」\n\n「だからマニュアルどおり、君たちはこの百貨店から出られない。例外はないということだ。」",
       "summary": "[ChargeNoir]威力の10を超えた分が[Dominion]になる\n体力が33%以下になると行動パターンを変更し、バリアを得る"
     },
@@ -149,7 +149,7 @@
     {
       "id": 152203,
       "name": "サルトル",
-      "desc": "<color=#ff6000><mark color=#ff000040><b><u>3ターンごとにシーシュポス百貨店の設計図を3人召喚</color></mark></b></u>し、自分の最大体力だけバリアを得る\n- そのターンの間、混乱状態なら混乱を解除し、混乱状態にならない\n\n<color=#ff6000><mark color=#ff000040><b><u>シーシュポス百貨店の設計図を「捕捉」で倒したなら、[JeanneDesign]を得る</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>自分の[JeanneDesign]が3なら、[JeanneManager]に変更される</color></mark></b></u>\nシーシュポス百貨店の設計図を<color=#ff6000><mark color=#ff000040><b><u>自分の「捕捉」で1人も倒せなければ、</color></mark></b></u>次のターンに[Vulnerable]1を得る",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>3ターンごとにシーシュポス百貨店の設計図を3人召喚</color></mark></b></u>し、自分の体力最大値だけバリアを得る\n- そのターンの間、混乱状態なら混乱を解除し、混乱状態にならない\n\n<color=#ff6000><mark color=#ff000040><b><u>シーシュポス百貨店の設計図を「捕捉」で倒したなら、[JeanneDesign]を得る</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>自分の[JeanneDesign]が3なら、[JeanneManager]に変更される</color></mark></b></u>\nシーシュポス百貨店の設計図を<color=#ff6000><mark color=#ff000040><b><u>自分の「捕捉」で1人も倒せなければ、</color></mark></b></u>次のターンに[Vulnerable]1を得る",
       "flavor": "シーシュポスの塔にいる四人の巨人の一人。\n\nその中でもシーシュポスシステムの設計を担う建築家であり、裁断士。自らの観点どおりに積み上げていく役割、職業、あるいは何か。\n\nサルトリアルに裁断し、釘を刺し、縫い合わせて築き上げた、ジャンヌに吐き気を起こさせない場所。\n\nシーシュポス百貨店。"
     },
     {
@@ -228,7 +228,7 @@
     {
       "id": 151703,
       "name": "ル・モワ(le moi)",
-      "desc": "[BuffetScruple]を持つ囚人が特定スキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]1を得る</u></b></mark></color>\n[BuffetDream]が5になると行動パターンが変わり、変更された行動パターンのスキルとのマッチに勝利すると戦闘に勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の威力が最大50まで累積し、回数は最大15まで累積する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
+      "desc": "[BuffetScruple]を保有する囚人が特定スキルとのマッチに勝利すると\n<color=#ff6000><mark=#ff000040><b><u>赤き神が[BuffetDream]1を得る</u></b></mark></color>\n[BuffetDream]が5になると行動パターンが変わり、変更された行動パターンのスキルとのマッチに勝利すると戦闘に勝利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]の威力が最大50まで累積し、回数は最大15まで累積する\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]による体力・精神力への被ダメージ量 -50%\nパニック変更不可\nターン終了時にパニック状態なら精神力が0になる",
       "flavor": "私。水に映った私の姿を見た。私は完全な身体を持っている…。"
     },
     {

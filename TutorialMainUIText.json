@@ -5419,6 +5419,482 @@
     {
       "id": "TutoRailway2BokGak_P21_D3",
       "content": "それ以降は、追加のエンケファリンモジュールの消費なしに、いつでも報酬を獲得することができます。"
+    },
+    {
+      "id": "TutoSchemacraft_Title",
+      "content": "スキーマ構築"
+    },
+    {
+      "id": "TutoSchemacraft_P1_T1",
+      "content": "スキーマ構築"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D1",
+      "content": "スキーマ構築は、サイコロを振ってスキーマを探索し、戦闘報酬で獲得した人格とE.G.Oで編成を整えて行くコンテンツです。"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D2",
+      "content": "戦闘はオート進行します。どの表象へ進むか、どの報酬を選ぶか、いつE.G.Oを使うかを決めながら、最終ボスの撃破を目指しましょう。"
+    },
+    {
+      "id": "TutoSchemacraft_P1_T2",
+      "content": "入場"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D3",
+      "content": "「入場」を選択すると、初期編成画面に移動します。進行中のスキーマ構築がある場合は、「続きから」で続けるか、「はじめから」でやり直すことができます。"
+    },
+    {
+      "id": "TutoSchemacraft_P1_T3",
+      "content": "スキーマ構築パス"
+    },
+    {
+      "id": "TutoSchemacraft_P1_D4",
+      "content": "スキーマ構築を進めるとパス経験値を獲得でき、レベルに応じた報酬を受け取れます。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_T1",
+      "content": "初期編成"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D1",
+      "content": "スキーマ構築を開始する際、人格を最大4名まで編成します。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_T2",
+      "content": "手動編成"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D2",
+      "content": "コストの範囲内で好きな人格を直接選択します。高コストの人格には編成人数の制限があります。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_T3",
+      "content": "自動編成"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D3",
+      "content": "手動編成よりも多いコストで組まれたランダムな編成が提示されます。提示された編成は「自動編成一覧」に保存され、その中から1つを選択できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D4",
+      "content": "「自動編成更新」で新しい編成を受け取れます。残り回数は毎日リセットされます。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D5",
+      "content": "スキーマ構築を所定のスキーマ以上まで進めてから終了すると、自動編成更新回数を追加で獲得します。"
+    },
+    {
+      "id": "TutoSchemacraft_P2_D6",
+      "content": "自動編成で開始すると、スキーマ構築パス経験値を追加で獲得します。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_T1",
+      "content": "スキーマ探索"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D1",
+      "content": "スキーマ構築は複数のスキーマからなり、各スキーマのボスを倒すと次のスキーマへ進みます。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D2",
+      "content": "表象とは、スキーマ上で移動できる地点です。一般戦闘、精鋭戦闘、ボス戦闘、休息、誘惑、イベントの種類があります。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_T2",
+      "content": "サイコロ"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D3",
+      "content": "サイコロを振ると、出た目の数だけ進める範囲の表象が明らかになり、その中から1つを選んで移動できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_T3",
+      "content": "スキーマ歪曲"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D4",
+      "content": "残り回数と追加ロールを全て使い切った後でもサイコロを振れますが、振るたびにスキーマ歪曲が累積します。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D5",
+      "content": "スキーマ歪曲は現在のスキーマの敵を強化します。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_T4",
+      "content": "編成と構築力"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D6",
+      "content": "人格レベルは編成中の全人格に共通で、戦闘で勝利を重ねるほど上昇します。"
+    },
+    {
+      "id": "TutoSchemacraft_P3_D7",
+      "content": "構築力は現在の編成の強さを表す数値です。表象情報で推奨構築力と比較できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P4_T1",
+      "content": "表象情報"
+    },
+    {
+      "id": "TutoSchemacraft_P4_D1",
+      "content": "表象の種類や敵の平均レベルなどを確認できます。「表象に進む」を選択すると、その表象へ移動します。"
+    },
+    {
+      "id": "TutoSchemacraft_P4_T2",
+      "content": "出現パック一覧"
+    },
+    {
+      "id": "TutoSchemacraft_P4_D2",
+      "content": "戦闘に勝利した際に出現する可能性のあるパックの一覧です。各パックを選択すると詳細を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P5_T1",
+      "content": "戦闘編成"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D1",
+      "content": "戦闘に参加する人格とその順番を決めます。戦闘に出せる人数は、スキーマを進むにつれて増加します。"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D2",
+      "content": "戦闘可能人数を超えた分の人格は待機人員として編成され、味方が死亡すると、編成順に代わって戦闘に参加します。"
+    },
+    {
+      "id": "TutoSchemacraft_P5_T2",
+      "content": "戦闘準備"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D3",
+      "content": "画面下部のボタンから防御方針とブリーフィングを確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P5_D4",
+      "content": "準備を終えたら「戦闘開始」を選択して戦闘を開始します。"
+    },
+    {
+      "id": "TutoSchemacraft_P6_T1",
+      "content": "防御方針"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D1",
+      "content": "防御方針では、各人格が守備スキルを使用する条件を設定できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P6_T2",
+      "content": "守備条件"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D2",
+      "content": "人格を選択してから、一覧で守備スキルを使用する条件を選択します。"
+    },
+    {
+      "id": "TutoSchemacraft_P6_T3",
+      "content": "一括設定"
+    },
+    {
+      "id": "TutoSchemacraft_P6_D3",
+      "content": "編成中の人格の守備条件を一括で初期設定に戻したり、同じ条件に変更したりできます。"
+    },
+    {
+      "id": "TutoSchemacraft_P7_T1",
+      "content": "ブリーフィング"
+    },
+    {
+      "id": "TutoSchemacraft_P7_D1",
+      "content": "戦闘開始前に、味方と敵の平均レベル、出現する敵の数と弱点を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P7_T2",
+      "content": "E.G.O資源"
+    },
+    {
+      "id": "TutoSchemacraft_P7_D2",
+      "content": "最初に出撃する人格のスキルで獲得できるE.G.O資源と、装着したE.G.Oに必要な資源を比較できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P8_T1",
+      "content": "オート戦闘"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D1",
+      "content": "味方と敵はそれぞれの速度に応じて自動で行動し、互いのスキルがぶつかるとマッチが発生します。"
+    },
+    {
+      "id": "TutoSchemacraft_P8_T2",
+      "content": "TURN"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D2",
+      "content": "画面中央のゲージはターンの進行状況を表し、ターン終了時の効果は、ターンが終了するたびに適用されます。"
+    },
+    {
+      "id": "TutoSchemacraft_P8_T3",
+      "content": "戦闘人数"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D3",
+      "content": "出撃中の味方が死亡すると待機人員が投入され、編成した人格が全員死亡すると戦闘に敗北します。"
+    },
+    {
+      "id": "TutoSchemacraft_P8_T4",
+      "content": "適用効果"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D4",
+      "content": "苦難とスキーマ歪曲によって敵に適用されている効果を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P8_T5",
+      "content": "E.G.O資源"
+    },
+    {
+      "id": "TutoSchemacraft_P8_D5",
+      "content": "戦闘開始時、待機中の人格も含め、罪悪属性ごとにスキル2枚につき資源を1つ獲得します。戦闘中もスキルの属性に応じて資源を獲得できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P9_T1",
+      "content": "人格パネル"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D1",
+      "content": "画面下部の人格パネルには、出撃中の人格ごとに、発動中のスキル、待機中のスキル、守備スキルが順に表示されます。"
+    },
+    {
+      "id": "TutoSchemacraft_P9_T2",
+      "content": "E.G.O使用"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D2",
+      "content": "E.G.O資源が足りていれば、人格パネルからE.G.Oを選択して使用でき、対象は自動で決まります。"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D3",
+      "content": "E.G.Oを上にドラッグして敵の上で離すと、対象を直接指定できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D4",
+      "content": "E.G.Oを下にドラッグするとオーバークロックに切り替わり、そのまま離すか、敵の上にドロップして使用できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P9_D5",
+      "content": "E.G.Oを長押ししてから離すと、そのE.G.Oの情報を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P10_T1",
+      "content": "戦闘レポート"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D1",
+      "content": "戦闘レポートでは、陣営ごとの体力の推移、味方の平均精神力、囚人ごとの記録を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P10_T2",
+      "content": "戦闘後の状態"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D2",
+      "content": "戦闘が終了すると死亡した人格も復帰し、体力が全て回復します。精神力は次の戦闘に引き継がれ、0未満なら0まで回復します。"
+    },
+    {
+      "id": "TutoSchemacraft_P10_T3",
+      "content": "再挑戦"
+    },
+    {
+      "id": "TutoSchemacraft_P10_D3",
+      "content": "各戦闘で、決められた回数だけ再挑戦できます。再挑戦回数を使い切った状態で敗北すると、スキーマ構築が終了します。"
+    },
+    {
+      "id": "TutoSchemacraft_P11_T1",
+      "content": "戦闘報酬：パック選択"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D1",
+      "content": "戦闘に勝利すると3つのパックが提示され、その中から1つを選んで人格とE.G.Oを選択できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D2",
+      "content": "各パックには、確定で出現する所属またはキーワードと、コスト別の人格の出現率が表示されます。"
+    },
+    {
+      "id": "TutoSchemacraft_P11_T2",
+      "content": "パック交換"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D3",
+      "content": "更新回数を消費すると、提示されたパックを出現パック一覧にある別のパックと交換できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P11_D4",
+      "content": "更新回数は戦闘に勝利するたびに獲得します。休息の表象などでも追加で獲得できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_T1",
+      "content": "人格とE.G.Oの選択"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D1",
+      "content": "パックを開けると、提示された人格とE.G.Oの中から決められた数を選んで獲得します。更新回数を消費すると、カードごとに1回ずつ引き直すことができます。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_T2",
+      "content": "編成/交換/欠片"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D2",
+      "content": "編成：まだ編成されていない囚人の人格を編成に加えます。編成人数が上限に達している場合は、編成から外す人格を選ぶ必要があります。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D3",
+      "content": "交換：既に編成されている囚人の人格を、選択した人格に入れ替えます。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D4",
+      "content": "欠片：人格を編成する代わりに、その囚人の欠片を獲得します。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_T3",
+      "content": "同期化と欠片"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D5",
+      "content": "編成中の人格と同じ人格を選ぶと、同期化段階が上昇します。アカウントで所持していない人格は、同期化3段階までしか上げられません。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D6",
+      "content": "囚人の欠片が必要数に達すると、その囚人の人格の同期化段階が1段階上昇します。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_T4",
+      "content": "汎用欠片"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D7",
+      "content": "同期化段階が上限に達している囚人の欠片は、汎用欠片に変換されます。"
+    },
+    {
+      "id": "TutoSchemacraft_P12_T5",
+      "content": "E.G.O幻想解析"
+    },
+    {
+      "id": "TutoSchemacraft_P12_D8",
+      "content": "E.G.Oの幻想解析段階には、アカウントで所持しているE.G.Oの段階が適用されます。所持していないE.G.Oには幻想解析1段階が適用されます。"
+    },
+    {
+      "id": "TutoSchemacraft_P13_T1",
+      "content": "精鋭戦闘"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D1",
+      "content": "精鋭戦闘に勝利するとパック報酬に加え、精鋭報酬を1つ選んで獲得できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D2",
+      "content": "人格交換：編成中の囚人の人格を、提示された別の人格に入れ替えます。"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D3",
+      "content": "人格編成：提示された人格を編成に加えます。"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D4",
+      "content": "成長：編成中の囚人を1名選び、欠片を付与します。"
+    },
+    {
+      "id": "TutoSchemacraft_P13_D5",
+      "content": "受け取らない：精鋭報酬を受け取らずに先へ進みます。"
+    },
+    {
+      "id": "TutoSchemacraft_P14_T1",
+      "content": "誘惑"
+    },
+    {
+      "id": "TutoSchemacraft_P14_D1",
+      "content": "誘惑の表象では人格とE.G.Oの提案を受けます。選んだ人格は編成に加わるか、編成中の人格と入れ替わります。"
+    },
+    {
+      "id": "TutoSchemacraft_P14_D2",
+      "content": "「受け取らない」を選んで現在の戦闘編成を維持することもできます。"
+    },
+    {
+      "id": "TutoSchemacraft_P14_D3",
+      "content": "提案によっては、サイコロを振れる回数が差し引かれます。残り回数が足りなくても提案を選択できますが、不足した回数分だけスキーマ歪曲が累積します。"
+    },
+    {
+      "id": "TutoSchemacraft_P15_T1",
+      "content": "イベント"
+    },
+    {
+      "id": "TutoSchemacraft_P15_D1",
+      "content": "イベントの表象では、状況に応じた選択肢が提示されます。その中から1つの効果を選べます。"
+    },
+    {
+      "id": "TutoSchemacraft_P15_D2",
+      "content": "何も選ばずに退出することもでき、その場合は効果も苦難も受けません。"
+    },
+    {
+      "id": "TutoSchemacraft_P15_T2",
+      "content": "苦難"
+    },
+    {
+      "id": "TutoSchemacraft_P15_D3",
+      "content": "選択肢の苦難は、敵の体力または敵の与ダメージ量を増加させ、スキーマ構築が終了するまで累積します。"
+    },
+    {
+      "id": "TutoSchemacraft_P16_T1",
+      "content": "休息"
+    },
+    {
+      "id": "TutoSchemacraft_P16_D1",
+      "content": "休息の表象では、更新回数、同期化段階上昇、サイコロを振れる回数の増加などから、効果を1つ選んで獲得します。"
+    },
+    {
+      "id": "TutoSchemacraft_P16_T2",
+      "content": "汎用欠片を使用"
+    },
+    {
+      "id": "TutoSchemacraft_P16_D2",
+      "content": "汎用欠片を使って、好きな人格の同期化段階を上げられます。上げられる段階は、スキーマを進むにつれて高くなります。"
+    },
+    {
+      "id": "TutoSchemacraft_P17_T1",
+      "content": "最終戦闘結果"
+    },
+    {
+      "id": "TutoSchemacraft_P17_D1",
+      "content": "スキーマ構築が終了すると、スキーマの進行度と戦闘回数、参加した人格のダメージ記録と報酬の記録を確認できます。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_T1",
+      "content": "スキーマ構築パス"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D1",
+      "content": "より深いスキーマへ進むほど、多くのパス経験値を獲得します。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D2",
+      "content": "パス報酬を受け取れるのは、定められた期間までです。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D3",
+      "content": "1週間に獲得できるパス経験値には上限があります。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D4",
+      "content": "週のリセット時には進行中のスキーマ構築が終了しますので、ご注意ください。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D6",
+      "content": "現在開放されている最高レベルに到達すると、次のレベル帯が開放されるまでプレイによるパス経験値を獲得できません。"
+    },
+    {
+      "id": "TutoSchemacraft_P18_T2",
+      "content": "アチーブメント"
+    },
+    {
+      "id": "TutoSchemacraft_P18_D5",
+      "content": "アチーブメントは、今後のアップデートで追加される予定です。"
     }
   ]
 }

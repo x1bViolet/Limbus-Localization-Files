@@ -227,7 +227,7 @@
                   "desc": "[OnSucceedAttack] 対象が<color=#ff6000><mark=#ff000040><b><u>混乱状態</u></b></mark></color>または対象の<color=#ff6000><mark=#ff000040><b><u>[TangleBlackYarn]が20以上</u></b></mark></color>なら、このコインを再使用 (スキルごとに1回)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>対象の最大体力の150%だけ固定ダメージ</u></b></mark></color>"
+                  "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>対象の体力最大値の150%だけ固定ダメージ</u></b></mark></color>"
                 }
               ]
             }
@@ -451,7 +451,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の最大体力の120%だけ固定ダメージ"
+                  "desc": "[OnSucceedAttack] 対象の体力最大値の120%だけ固定ダメージ"
                 }
               ]
             }
@@ -567,7 +567,7 @@
         {
           "level": 1,
           "name": "始動",
-          "desc": "[StartBattle]\n<color=#ff6000><mark color=#ff000040><b><u>- 自分の最大体力の30%だけバリアを得る</color></mark></b></u>\n- 自分の[ChargeKhaki]回数を最大値まで回復\n- 次のターンに[SpreadingDye]1を得る",
+          "desc": "[StartBattle]\n<color=#ff6000><mark color=#ff000040><b><u>- 自分の体力最大値の30%だけバリアを得る</color></mark></b></u>\n- 自分の[ChargeKhaki]回数を最大値まで回復\n- 次のターンに[SpreadingDye]1を得る",
           "coinlist": [
             {
               "coindescs": []
@@ -1174,7 +1174,7 @@
                   "desc": "[OnSucceedAttack] 対象が[NoirShieldPiece]を保有しているなら、"
                 },
                 {
-                  "desc": "- このコインによって受ける最終ダメージ量-95%"
+                  "desc": "- このコインによる最終被ダメージ量-95%"
                 },
                 {
                   "desc": "- このコインのダメージでは対象が混乱しない"
@@ -1304,7 +1304,7 @@
                   "desc": "[OnSucceedAttack] 対象が[NoirShieldPiece]を保有しているなら、"
                 },
                 {
-                  "desc": "- このコインによって受ける最終ダメージ量 -95%"
+                  "desc": "- このコインによる最終被ダメージ量 -95%"
                 },
                 {
                   "desc": "- このコインのダメージでは対象が混乱しない"
@@ -1410,7 +1410,7 @@
         {
           "level": 1,
           "name": "スタンピング[フランネル]",
-          "desc": "ダメージ量+(自分のバリアの数値)% (最大50%)\n[WhenUse] 対象の[Vibration]6につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeNoir]回数を最大15消耗し、\n最大体力の(消耗した[ChargeNoir]回数×2)%だけ、次のターンまで維持されるバリアを得る\n[WhenUse] 自分の[ChargeNoir]回数を10以上消耗したなら、コイン威力+2。全てのコインが[SuperCoin]に変更される",
+          "desc": "ダメージ量+(自分のバリアの数値)% (最大50%)\n[WhenUse] 対象の[Vibration]6につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeNoir]回数を最大15消耗し、\n体力最大値の(消耗した[ChargeNoir]回数×2)%だけ、次のターンまで維持されるバリアを得る\n[WhenUse] 自分の[ChargeNoir]回数を10以上消耗したなら、コイン威力+2。全てのコインが[SuperCoin]に変更される",
           "coinlist": [
             {
               "coindescs": [
@@ -1554,7 +1554,7 @@
         {
           "level": 1,
           "name": "スタンピング[フェルト]",
-          "desc": "ダメージ量+(自分のバリアの数値)% (最大50%)\n[WhenUse] 対象の[Vibration]6につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeNoir]回数を最大15消耗し、\n最大体力の(消耗した[ChargeNoir]回数×2)%だけ、次のターンまで維持されるバリアを得る\n[WhenUse] 自分の[ChargeNoir]回数を10以上消耗したなら、コイン威力+2。全てのコインが[SuperCoin]に変更される",
+          "desc": "ダメージ量+(自分のバリアの数値)% (最大50%)\n[WhenUse] 対象の[Vibration]6につき、最終威力+1 (最大2)\n[WhenUse] 自分の[ChargeNoir]回数を最大15消耗し、\n体力最大値の(消耗した[ChargeNoir]回数×2)%だけ、次のターンまで維持されるバリアを得る\n[WhenUse] 自分の[ChargeNoir]回数を10以上消耗したなら、コイン威力+2。全てのコインが[SuperCoin]に変更される",
           "coinlist": [
             {
               "coindescs": [
@@ -1696,7 +1696,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象が味方なら下記の効果を適用\n- 対象を背中へ戻す\n- 自分の最大体力の1%だけ体力を回復\n- 精神力を20回復\n- 今回のターンと次のターンに[AttackDmgUp]2を得る"
+                  "desc": "[OnSucceedAttack] 対象が味方なら下記の効果を適用\n- 対象を背中へ戻す\n- 自分の体力を最大値の1%だけ回復\n- 精神力を20回復\n- 今回のターンと次のターンに[AttackDmgUp]2を得る"
                 }
               ]
             }
@@ -1710,7 +1710,7 @@
         {
           "level": 1,
           "name": "スプリッティング",
-          "desc": "[EndBattle] 次のターンになめされた罪人を最大2体召喚し、[B3FreshMob]を付与\n\n- 戦場で生存しているなめされた罪人が6名を超えるようには召喚できない。\n- 召喚したなめされた罪人1体につき、最大体力の0.5%を消耗\n- <color=#ff6000><mark=#ff000040><b><u>下記の条件を満たすと、この効果が無効になる</u></b></mark></color>\n· このスキルを使用するスロットをメインターゲットに指定した攻撃スキルが2つ以上\n· 戦場で生存しているなめされた罪人が6体以上",
+          "desc": "[EndBattle] 次のターンになめされた罪人を最大2体召喚し、[B3FreshMob]を付与\n\n- 戦場で生存しているなめされた罪人が6名を超えるようには召喚できない。\n- 召喚したなめされた罪人1体につき、体力最大値の0.5%を消耗\n- <color=#ff6000><mark=#ff000040><b><u>下記の条件を満たすと、この効果が無効になる</u></b></mark></color>\n· このスキルを使用するスロットをメインターゲットに指定した攻撃スキルが2つ以上\n· 戦場で生存しているなめされた罪人が6体以上",
           "flavor": "原罪と原皮を分割する作業",
           "coinlist": [
             {
@@ -1730,7 +1730,7 @@
         {
           "level": 1,
           "name": "マッシブ・スプリッティング",
-          "desc": "[EndBattle] 次のターンになめされた罪人を最大4体召喚し、[B3FreshMob]を付与\n- 戦場で生存しているなめされた罪人が6名を超えるようには召喚できない。\n- 召喚したなめされた罪人1体につき、最大体力の0.5%を消耗\n\n[StartBattle] 全ての味方に次のターンに[AttackDmgUp]1を付与",
+          "desc": "[EndBattle] 次のターンになめされた罪人を最大4体召喚し、[B3FreshMob]を付与\n- 戦場で生存しているなめされた罪人が6名を超えるようには召喚できない。\n- 召喚したなめされた罪人1体につき、体力最大値の0.5%を消耗\n\n[StartBattle] 全ての味方に次のターンに[AttackDmgUp]1を付与",
           "flavor": "",
           "coinlist": [
             {
@@ -1888,7 +1888,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 統制者の最大体力の1%だけ、統制者の部位および本体の体力を回復"
+                  "desc": "[OnSucceedAttack] 統制者の部位および本体の体力を、統制者の体力最大値の1%だけ回復"
                 }
               ]
             },
@@ -1898,7 +1898,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 統制者の最大体力の1%だけ、統制者の部位および本体の体力を回復"
+                  "desc": "[OnSucceedAttack] 統制者の部位および本体の体力を、統制者の体力最大値の1%だけ回復"
                 }
               ]
             }

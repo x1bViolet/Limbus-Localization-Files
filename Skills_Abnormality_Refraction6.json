@@ -70,7 +70,7 @@
         {
           "level": 1,
           "name": "胎動開始",
-          "desc": "[CantDuel]・[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる\n[WhenUse] このターンの間、全てのダメージを受けない\n[EndSkill] ステージ終了",
+          "desc": "[CantDuel]・[CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる\n[WhenUse] このターンの間、全てのダメージを受けない\n[EndSkill] ステージ終了",
           "coinlist": [
             {
               "coindescs": [
@@ -146,7 +146,7 @@
         {
           "level": 1,
           "name": "羽化",
-          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
+          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
           "coinlist": [
             {
               "coindescs": [
@@ -165,7 +165,7 @@
         {
           "level": 1,
           "name": "羽化",
-          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
+          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
           "coinlist": [
             {
               "coindescs": [
@@ -184,7 +184,7 @@
         {
           "level": 1,
           "name": "羽化",
-          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
+          "desc": "[CantDuel] [CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる\n[EndSkill] ステージ終了\n- バリアが破壊されたなら、代わりに次のターンが始まって<color=#ff6000><mark=#ff000040><b><u>特殊な選択肢</u></b></mark></color>が出現し、その後にステージ終了",
           "coinlist": [
             {
               "coindescs": [

@@ -1463,6 +1463,22 @@
     {
       "id": "11017_getCondition_gacksung",
       "content": "楔事務所フィクサー シンクレア 同期化3段階達成"
+    },
+    {
+      "id": "10117_getCondition_normal",
+      "content": "オートクチュール::ル・ノワール B3F 乾燥場 イサン獲得時"
+    },
+    {
+      "id": "10117_getCondition_gacksung",
+      "content": "オートクチュール::ル・ノワール B3F 乾燥場 イサン 同期化3段階達成"
+    },
+    {
+      "id": "11217_getCondition_normal",
+      "content": "オートクチュール::ル・ルージュ B2F 糸玉の巣 グレゴール獲得時"
+    },
+    {
+      "id": "11217_getCondition_gacksung",
+      "content": "オートクチュール::ル・ルージュ B2F 糸玉の巣 グレゴール 同期化3段階達成"
     }
   ]
 }

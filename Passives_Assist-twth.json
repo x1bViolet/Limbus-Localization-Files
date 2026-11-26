@@ -3,7 +3,7 @@
     {
       "id": 40003701,
       "name": "熱線武器",
-      "desc": "ステージ開始時、[HeatingWireOffSpider]を持って始める\n\nターン開始時、自分が保有した[ReinforcedTattooSpiderDaughterTwo]が2以上なら[HeatingWireOnSpiderTwo]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する"
+      "desc": "ステージ開始時、[HeatingWireOffSpider]を保有して始める\n\nターン開始時、自分が保有した[ReinforcedTattooSpiderDaughterTwo]が2以上なら[HeatingWireOnSpiderTwo]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する"
     },
     {
       "id": 40003702,

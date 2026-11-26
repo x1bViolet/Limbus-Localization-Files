@@ -68,7 +68,7 @@
     {
       "id": 145005,
       "name": "肉斬",
-      "desc": "キムサッガッへ与えるクリティカルダメージ量 +20%、キムサッガッから受けるクリティカルダメージ量 +20%",
+      "desc": "キムサッガッへのクリティカルダメージ量 +20%、キムサッガッからのクリティカル被ダメージ量 +20%",
       "flavor": "「肉を削いでくれよう。」"
     },
     {
@@ -95,7 +95,7 @@
     {
       "id": 145105,
       "name": "頭釘甲[サ<size=50%>ル</size>] - 泰山",
-      "desc": "[Combustion], [Laceration], [Vibration], [Burst], [Sinking]で受けるダメージ量 -30% (小数点切り捨て)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nターン開始時、下記効果を適用\n- [ChoiSwordsmanshipOne]であり、[ChoiSwordsmanship]数値が5未満なら、(5 - [ChoiSwordsmanship]数値)だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る\n- [ChoiSwordsmanshipMany]であり、[ChoiSwordsmanship]数値が5超過なら、超過した値だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る",
+      "desc": "[Combustion], [Laceration], [Vibration], [Burst], [Sinking]による被ダメージ量 -30% (小数点切り捨て)\n\n[PanicChangeLock]効果が適用され、ターン終了時にパニック状態なら精神力が45に変更される\n\nターン開始時、下記効果を適用\n- [ChoiSwordsmanshipOne]であり、[ChoiSwordsmanship]数値が5未満なら、(5 - [ChoiSwordsmanship]数値)だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る\n- [ChoiSwordsmanshipMany]であり、[ChoiSwordsmanship]数値が5超過なら、超過した値だけ<color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>を得る",
       "flavor": "S社の基本的な頭釘甲をもとに、サ<size=50%>ル</size>(肉)・ピ(血)・ピョ(骨)の三党派は、それぞれの思想に合わせた頭釘甲を作り上げた。\n昔話によれば、「サ<size=50%>ル</size>」はいつも殺生の始まりを切り開いてきた。彼らは誰よりも先に敵の肉を裂く。\n「ピ」は肉が裂かれるたびに流れ出る血を受け止め、その血を利用して戦闘の持続性を補う。\n「ピョ」は殺生の締めくくりを担う。節と節を断って膝をつかせ、遂には敵の首骨を斬り落として命を終わらせる。"
     },
     {

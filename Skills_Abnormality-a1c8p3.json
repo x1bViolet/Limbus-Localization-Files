@@ -941,7 +941,7 @@
         {
           "level": 1,
           "name": "全黒仙丸 - 混",
-          "desc": "[WhenUse] メイン攻撃対象に付与されたマイナス効果1種につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] 次のターンに[Binding]2, [DefenseDown]6を得る",
+          "desc": "[WhenUse] メインターゲットに付与されたマイナス効果1種につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] 次のターンに[Binding]2, [DefenseDown]6を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1345,7 +1345,7 @@
         {
           "level": 1,
           "name": "極仙搾滴供養",
-          "desc": "[CantIdentify]\nこのスキルは味方にダメージを与えない\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [SupremeEternalLife]を保有する味方1名につき、コイン威力 +2, ダメージ量 +20%\n[WhenUse] [SupremeEternalLife]を持つ味方がいない場合、代わりに全対象へバリア200を付与\n[EndSkill] ターン終了",
+          "desc": "[CantIdentify]\nこのスキルは味方にダメージを与えない\n速度と関係なくこのスキルとマッチができ、このスキルを使用するまで混乱状態にならない\n[WhenUse] [SupremeEternalLife]を保有する味方1名につき、コイン威力 +2, ダメージ量 +20%\n[WhenUse] [SupremeEternalLife]を保有する味方がいない場合、代わりに全対象へバリア200を付与\n[EndSkill] ターン終了",
           "coinlist": [
             {
               "coindescs": [

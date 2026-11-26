@@ -15,7 +15,7 @@
                   "desc": "[OnSucceedAttackHead] 破裂 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の10%分回復"
+                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を最大値の10%だけ回復"
                 }
               ]
             }
@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttackHead] 破裂 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の12%分回復"
+                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を最大値の12%だけ回復"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "[OnSucceedAttack] 破裂 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の15%分回復"
+                  "desc": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を最大値の15%だけ回復"
                 }
               ]
             }

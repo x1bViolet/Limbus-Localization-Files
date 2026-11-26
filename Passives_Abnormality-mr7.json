@@ -23,7 +23,7 @@
     {
       "id": 135505,
       "name": "没入",
-      "desc": "[UnlockBuff_3]を得れば、下記の効果を適用\n- [BlandishmentShinEnemyDelete]、最大体力の50%だけバリアを得る (この戦闘のあいだ維持)\n- [PressureOfPrescript]が[PressureOfPrescript_2nd]に変更され、最大まで増加\n- ターン開始時、[PressureOfPrescript_2nd]1を得る"
+      "desc": "[UnlockBuff_3]を得れば、下記の効果を適用\n- [BlandishmentShinEnemyDelete]、体力最大値の50%だけバリアを得る (この戦闘のあいだ維持)\n- [PressureOfPrescript]が[PressureOfPrescript_2nd]に変更され、最大まで増加\n- ターン開始時、[PressureOfPrescript_2nd]1を得る"
     },
     {
       "id": 141801,
@@ -134,7 +134,7 @@
     {
       "id": 138801,
       "name": "こうすればいいんだよね、パパ！",
-      "desc": "ステージ開始時、[HeatingWireOffSpider]を持って始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n- ターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される\n\n中指の親方 - マティアスが[MiddleFatherSwordFour]保有時、[HeatingWireOffSpider]状態にならない",
+      "desc": "ステージ開始時、[HeatingWireOffSpider]を保有して始める\n\nターン開始時、自分が保有した[GotACompliment]が3以上なら[HeatingWireOnSpider]に代わり、[Laceration]を付与するスキルで[Combustion]を追加で付与する\n- ターン終了時、自分が保有した[GotACompliment]が3未満なら[HeatingWireOnSpider]が[HeatingWireOffSpider]に変換される\n\n中指の親方 - マティアスが[MiddleFatherSwordFour]保有時、[HeatingWireOffSpider]状態にならない",
       "flavor": "「パパはいつも褒めてくれるし、マンガ買ってくれてサイコー」"
     },
     {
@@ -216,7 +216,7 @@
     {
       "id": 138301,
       "name": "私の全ての身体要素は既にティビアへ",
-      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]で受けるダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
+      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]による被ダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
     },
     {
       "id": 138306,

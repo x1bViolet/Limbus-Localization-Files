@@ -732,7 +732,7 @@
           "level": 1,
           "name": "夕焼けの中へ",
           "abName": "夕焼けの旅人",
-          "desc": "[EndSkill] 現体力の比率が最も低い味方2名を、体力最大値の5%回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)",
+          "desc": "[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の5%だけ回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)",
           "coinlist": [
             {
               "coindescs": [
@@ -750,7 +750,7 @@
           "level": 3,
           "name": "夕焼けの中へ",
           "abName": "夕焼けの旅人",
-          "desc": "<style=\"highlight\">[WhenUse] 全対象の[Combustion]と[Laceration]の合計6につき、マッチ威力 +1 (最大2)</style>\n[EndSkill] 現体力の比率が最も低い味方2名を、体力最大値の<style=\"highlight\">8%</style>回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)\n<style=\"highlight\">- 対象が色欲属性スキルを装着しているなら、精神力が3回復</style>",
+          "desc": "<style=\"highlight\">[WhenUse] 全対象の[Combustion]と[Laceration]の合計6につき、マッチ威力 +1 (最大2)</style>\n[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の<style=\"highlight\">8%</style>だけ回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)\n<style=\"highlight\">- 対象が色欲属性スキルを装着しているなら、精神力が3回復</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -768,7 +768,7 @@
           "level": 4,
           "name": "夕焼けの中へ",
           "abName": "夕焼けの旅人",
-          "desc": "[WhenUse] 全対象の[Combustion]と[Laceration]の合計6につき、マッチ威力 +1 (最大2)\n[EndSkill] 現体力の比率が最も低い味方2名を、体力最大値の<style=\"highlight\">10%</style>回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)\n- 対象が色欲属性スキルを装着しているなら、精神力が<style=\"highlight\">6</style>回復",
+          "desc": "[WhenUse] 全対象の[Combustion]と[Laceration]の合計6につき、マッチ威力 +1 (最大2)\n[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の<style=\"highlight\">10%</style>だけ回復して[ScarletMothRodion]2を付与 (最小体力回復量: 1)\n- (色欲共鳴数 - 1)だけ、回復対象数が増加 (最大で2名増加)\n- 対象が色欲属性スキルを装着しているなら、精神力が<style=\"highlight\">6</style>回復",
           "coinlist": [
             {
               "coindescs": [

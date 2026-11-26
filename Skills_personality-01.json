@@ -3282,6 +3282,370 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "皮剥ぎ",
+          "desc": "[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1\n[DefeatDuel] 自分の体力最大値の5%分のバリアを得て、自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が6増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "皮剥ぎ",
+          "desc": "[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +10%</style>\n[DefeatDuel] 自分の体力最大値の5%分のバリアを得て、自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が6増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "皮剥ぎ",
+          "desc": "<style=\"highlight\">[WhenUse] 対象の[Vibration]威力と[MoodooJoesu]の合計4につき、最終威力 +1 (最大3)</style>\n[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +<style=\"highlight\">20%</style>\n[DefeatDuel] 自分の体力最大値の5%分のバリアを得て、自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が6増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "スプリッティング",
+          "desc": "[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が8増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[BulletJoesu]が3以上なら、[HitTakeDamageUp]1を付与 (1ターンにつき1回)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu]を3消耗"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "スプリッティング",
+          "desc": "[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +10%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が8増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[BulletJoesu]が3以上なら、[HitTakeDamageUp]1を付与 (1ターンにつき1回)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu]を3消耗"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration]回数が1増加</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "スプリッティング",
+          "desc": "<style=\"highlight\">[WhenUse] 対象の[Vibration]威力と[MoodooJoesu]の合計が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +1\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +<style=\"highlight\">20%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が8増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[BulletJoesu]が3以上なら、[HitTakeDamageUp]1を付与 (1ターンにつき1回)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu]を3消耗"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">2</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "原罪的脳油タンブリング",
+          "desc": "[BeforeUse] [BulletJoesu]が6なら、[WideAreaRampage]、攻撃加重値 +2 (1ターンにつき1回)\n\n[WhenUse] メインターゲットの[Vibration]威力と[MoodooJoesu]の合計が6以上なら、コイン威力 +1\n[WhenUse] 自分の[ChargeNoirAlly]回数を5消耗し、最終威力 +2\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +10%\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +20% (集中戦闘の場合は部位で判定)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が4増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]4を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu]を6消耗"
+                },
+                {
+                  "desc": "このコインは全攻撃対象に的中する"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "原罪的脳油タンブリング",
+          "desc": "[BeforeUse] [BulletJoesu]が6なら、[WideAreaRampage]、攻撃加重値 +2 (1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] メインターゲットの[Vibration]威力と[MoodooJoesu]の合計6につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の[ChargeNoirAlly]回数を5消耗し、最終威力 +2\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1、ダメージ量 +<style=\"highlight\">20%</style>\n[WhenUse] このスキルの攻撃加重値に対して攻撃対象数が1少ないごとに、ダメージ量 +<style=\"highlight\">30%</style> (集中戦闘の場合は部位で判定)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が4増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]4を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletJoesu]を6消耗"
+                },
+                {
+                  "desc": "このコインは全攻撃対象に的中する"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">2</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "統制ノ為ノ統制",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)\n\n[WhenUse] 対象の[MoodooJoesu]2につき、コイン威力 +1 (最大3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "統制ノ為ノ統制",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)\n\n[WhenUse] 対象の[MoodooJoesu]2につき、コイン威力 +1 (最大3)\n\n<style=\"highlight\">[StartDuel] [RuleSanction]1を得る (1ターンにつき1回)</style>\n<style=\"highlight\">[WinDuel] 対象に[RuleViolation]1を付与 (1ターンにつき1回)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "統制ノ為ノ統制",
+          "desc": "[CanDuelGuard]\n\n[StartBattle] 自分の[ChargeNoirAlly]回数が4増加 (1ターンにつき1回)\n\n<style=\"highlight\">[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、最終威力 +1</style>\n[WhenUse] 対象の[MoodooJoesu]2につき、コイン威力 +1 (最大3)\n\n[StartDuel] [RuleSanction]1を得る (1ターンにつき1回)\n[WinDuel] 対象に[RuleViolation]1を付与 (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011705,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "パニッシング・バーニッシング・フィニッシング",
+          "desc": "[CantDuel]\n[WhenUse] 対象の[Vibration]威力と[MoodooJoesu]の合計4につき、最終威力 +1 (最大2)\n[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +2、ダメージ量 +20%\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、最終威力 +1、ダメージ量 +30%\n\n[EndSkill] [RuleSanction]が3減少",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "ダメージ量 +100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が4増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の([MoodooJoesu] × 4)%だけ打撃ダメージ (最大16%、小数点切り捨て)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "パニッシング・バーニッシング・フィニッシング",
+          "desc": "[CantDuel]\n[WhenUse] 対象の[Vibration]威力と[MoodooJoesu]の合計4につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] 自分の[ChargeNoirAlly]回数を3消耗し、最終威力 +2、ダメージ量 +<style=\"highlight\">40%</style>\n[WhenUse] 自分の[ChargeNoirAlly]威力が3以上なら、最終威力 +<style=\"highlight\">2</style>、ダメージ量 +<style=\"highlight\">60%</style>\n\n[EndSkill] [RuleSanction]が3減少",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "ダメージ量 +<style=\"highlight\">120%</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自分の[ChargeNoirAlly]回数が4増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration]<style=\"highlight\">4</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインの最終ダメージ量の([MoodooJoesu] × <style=\"highlight\">5</style>)%だけ打撃ダメージ (最大<style=\"highlight\">20%</style>、小数点切り捨て)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

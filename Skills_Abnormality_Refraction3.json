@@ -47,7 +47,7 @@
         {
           "level": 1,
           "name": "吸い取る根",
-          "desc": "[CantDuel]\n速度が最も低い[MRcAfBa]を持つ対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加",
+          "desc": "[CantDuel]\n速度が最も低い[MRcAfBa]を保有する対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "撒き散らされる綿花",
-          "desc": "体力が最も低い[MRcAfBa]を持つ対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除",
+          "desc": "体力が最も低い[MRcAfBa]を保有する対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "覆い被さる綿花",
-          "desc": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルの与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる",
+          "desc": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルによる与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる",
           "coinlist": [
             {},
             {
@@ -356,7 +356,7 @@
         {
           "level": 1,
           "name": "火種を焚き付ける",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルによる与ダメージ量が0になる。",
           "coinlist": [
             {},
             {},

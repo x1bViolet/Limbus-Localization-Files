@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "パレードの王子",
-          "desc": "[StartBattle] [Laceration]を持つ対象の数だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
+          "desc": "[StartBattle] [Laceration]を保有する対象の数だけ攻撃加重値が増加(最大5)\n[WhenUse] メインターゲットの[Laceration]が4以上なら、基本威力 +1\n[WhenUse] メインターゲットの[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少",
           "coinlist": [
             {
               "coindescs": [

@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大20%)"
                 }
               ]
             }
@@ -179,7 +179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration])%だけ回復(最大20%)"
                 }
               ]
             }
@@ -305,7 +305,7 @@
                   "desc": "[OnSucceedAttack] [BloodScissor]を最大5消耗し、ダメージ量が(20 × 消耗した[BloodScissor])%増加(最大100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration]威力)%だけ体力回復(最大30%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration]威力)%だけ回復(最大30%)"
                 }
               ]
             }
@@ -431,7 +431,7 @@
                   "desc": "[OnSucceedAttack] [BloodScissor]を最大5消耗し、ダメージ量が(20 × 消耗した[BloodScissor])%増加(最大100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 体力最大値(対象の[Laceration]威力)%だけ体力回復(最大30%)"
+                  "desc": "[OnSucceedAttack] 体力を最大値の(対象の[Laceration]威力)%だけ回復(最大30%)"
                 }
               ]
             }
@@ -712,7 +712,7 @@
                   "desc": "[OnSucceedAttack] [DefenseDown]1を付与"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 対象が[TrulyWeak]を持っているなら、ダメージ量が30%増加"
+                  "desc": "[CriticalOnSucceedAttack] 対象が[TrulyWeak]を保有しているなら、ダメージ量が30%増加"
                 }
               ]
             }

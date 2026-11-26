@@ -463,7 +463,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>最大体力の200%だけ固定ダメージ</u></b></mark></color>を与える"
+                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>体力最大値の200%だけ固定ダメージ</u></b></mark></color>を与える"
                 }
               ]
             }
@@ -731,7 +731,7 @@
         {
           "level": 1,
           "name": "シーシュポスシステムを本当に壊す気か？",
-          "desc": "速度と関係なく、このスキルとマッチできる\n対象の守備スキルを発動させない\nこのスキルを使用するまで混乱しない\n対象の<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]1につき、ダメージ量 +5%</u></b></mark></color> (対象別に判定)\nメインターゲットの<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]が3/6/9以上</u></b></mark></color>なら、<color=#ff6000><mark=#ff000040><b><u>最終威力 +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[GoldenFabricWarderThirdPhase]があれば、\n- 最終威力 -5、マッチ威力 -5</u></b></mark></color>\n- このスキルでターゲットに指定された全対象が<color=#ff6000><mark=#ff000040><b><u>最大体力の50%だけバリアを得る。</u></b></mark></color>攻撃終了時、この効果で得たバリアの数値だけ、囚人が保有するバリアから差し引く\n[WhenUse] [SpreadingVoiceThirdPhase]を最大40消耗\n- 最終威力 +3, ダメージ量 +50%\n[WhenUse] ダメージ量 +(保有する[SpreadingVoiceThirdPhase])%。攻撃終了時、保有する[SpreadingVoiceThirdPhase]を全て消耗\n- <color=#ff6000><mark=#ff000040><b><u>マッチ敗北時、この効果は発動しない</u></b></mark></color>\n[WhenUse] 自分に[ChargeNoir]回数があれば、全て消耗してコイン威力 +2\n[DefeatDuel] [Paralysis]5を得る。ダメージ量 -90%, このスキルのダメージで対象が混乱しない\n[EndSkill]\n- 次のターンに[Vulnerable]2を得る\n- このターンが終了",
+          "desc": "速度と関係なく、このスキルとマッチできる\n対象の守備スキルを発動させない\nこのスキルを使用するまで混乱しない\n対象の<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]1につき、ダメージ量 +5%</u></b></mark></color> (対象別に判定)\nメインターゲットの<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]が3/6/9以上</u></b></mark></color>なら、<color=#ff6000><mark=#ff000040><b><u>最終威力 +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>メインターゲットに[GoldenFabricWarderThirdPhase]があれば、\n- 最終威力 -5、マッチ威力 -5</u></b></mark></color>\n- このスキルでターゲットに指定された全対象が<color=#ff6000><mark=#ff000040><b><u>体力最大値の50%だけバリアを得る。</u></b></mark></color>攻撃終了時、この効果で得たバリアの数値だけ、囚人が保有するバリアから差し引く\n[WhenUse] [SpreadingVoiceThirdPhase]を最大40消耗\n- 最終威力 +3, ダメージ量 +50%\n[WhenUse] ダメージ量 +(保有する[SpreadingVoiceThirdPhase])%。攻撃終了時、保有する[SpreadingVoiceThirdPhase]を全て消耗\n- <color=#ff6000><mark=#ff000040><b><u>マッチ敗北時、この効果は発動しない</u></b></mark></color>\n[WhenUse] 自分に[ChargeNoir]回数があれば、全て消耗してコイン威力 +2\n[DefeatDuel] [Paralysis]5を得る。ダメージ量 -90%, このスキルのダメージで対象が混乱しない\n[EndSkill]\n- 次のターンに[Vulnerable]2を得る\n- このターンが終了",
           "coinlist": [
             {
               "coindescs": []
@@ -781,7 +781,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>最大体力の200%だけ固定ダメージ</u></b></mark></color>を与える"
+                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>体力最大値の200%だけ固定ダメージ</u></b></mark></color>を与える"
                 }
               ]
             }
@@ -823,7 +823,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>最大体力の200%だけ固定ダメージ</u></b></mark></color>を与える"
+                  "desc": "[OnSucceedAttack] 対象の<color=#ff6000><mark=#ff000040><b><u>体力最大値の200%だけ固定ダメージ</u></b></mark></color>を与える"
                 }
               ]
             }
@@ -947,7 +947,7 @@
         {
           "level": 1,
           "name": "観点どおりに",
-          "desc": "[WhenUse] 自分の[ChargeKhaki]回数2につき最終威力 +1 (最大5)\n[OnSucceedEvade] <color=#ff6000><mark color=#ff000040><b><u>自分の最大体力の2%だけ回復</color></mark></b></u>",
+          "desc": "[WhenUse] 自分の[ChargeKhaki]回数2につき最終威力 +1 (最大5)\n[OnSucceedEvade] <color=#ff6000><mark color=#ff000040><b><u>自分の体力を最大値の2%だけ回復</color></mark></b></u>",
           "coinlist": [
             {
               "coindescs": []
@@ -1176,7 +1176,7 @@
         {
           "level": 1,
           "name": "意図したパターンどおりにしなかったじゃない。",
-          "desc": "このスキルは常にクリティカルで発動する\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>対象のコインの裏面確率を100%に固定</color></mark></b></u>\n- 減算コインなら、表面に固定\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>最大体力の50%だけ回復</color></mark></b></u>",
+          "desc": "このスキルは常にクリティカルで発動する\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>対象のコインの裏面確率を100%に固定</color></mark></b></u>\n- 減算コインなら、表面に固定\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>体力を最大値の50%だけ回復</color></mark></b></u>",
           "flavor": "ムル、ギミックはちゃんとこなさなきゃ。",
           "coinlist": [
             {
@@ -1344,7 +1344,7 @@
         {
           "level": 1,
           "name": "パターン：掻き集めよ",
-          "desc": "[WhenUse] 自分の最大体力の25%だけ回復\n- 自分の[ChargeRouge]が2以上なら、代わりに50%だけ回復",
+          "desc": "[WhenUse] 自分の体力を最大値の25%だけ回復\n- 自分の[ChargeRouge]が2以上なら、代わりに50%だけ回復",
           "coinlist": [
             {
               "coindescs": []
@@ -1430,7 +1430,7 @@
         {
           "level": 1,
           "name": "裁断：釘刺されよ",
-          "desc": "[StartBattle] このターンと次のターンの間、自分の最大体力の25%だけバリアを得る (最小1)\n- 自分の[ChargeNoir]が2以上なら、代わりに40%得る",
+          "desc": "[StartBattle] このターンと次のターンの間、自分の体力最大値の25%だけバリアを得る (最小1)\n- 自分の[ChargeNoir]が2以上なら、代わりに40%得る",
           "coinlist": [
             {
               "coindescs": []
@@ -1915,7 +1915,7 @@
         {
           "level": 1,
           "name": "ラ・メタフォール・パテルネル(la métaphore paternelle)",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nこのスキルは一番最後の順番で使用\n[EndSkill] 自分の最大体力の25%だけ体力が回復",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nこのスキルは一番最後の順番で使用\n[EndSkill] 自分の体力を最大値の25%だけ回復",
           "coinlist": [
             {
               "coindescs": [
@@ -1956,7 +1956,7 @@
         {
           "level": 1,
           "name": "赤き…声よ…。",
-          "desc": "バリアがある間、被撃時に対象の[Laceration]回数が1増加\n[StartBattle] 最大体力の25%だけバリアを得る\n[EndBattle] バリアがあれば、自分の[BuffetRevival]が1減少",
+          "desc": "バリアがある間、被撃時に対象の[Laceration]回数が1増加\n[StartBattle] 体力最大値の25%だけバリアを得る\n[EndBattle] バリアがあれば、自分の[BuffetRevival]が1減少",
           "coinlist": [
             {
               "coindescs": []
@@ -2075,7 +2075,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]回数が3増加"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 最大体力の(消耗した数値)%だけ体力が回復"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 体力を最大値の(消耗した数値)%だけ回復"
                 }
               ]
             },
@@ -2085,7 +2085,7 @@
                   "desc": "[OnSucceedAttack] [Laceration]2を付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 最大体力の(消耗した数値)%だけ体力が回復"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 体力を最大値の(消耗した数値)%だけ回復"
                 }
               ]
             },
@@ -2095,7 +2095,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration]1を付与"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 最大体力の(消耗した数値)%だけ体力が回復"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 自分の[ChargeRouge]回数を最大5消耗し、最終ダメージ量の(消耗した数値×3)%だけ斬撃ダメージ (最大15%)\n- 体力を最大値の(消耗した数値)%だけ回復"
                 }
               ]
             },

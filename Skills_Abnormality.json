@@ -4700,7 +4700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象が出血を持っているなら、麻痺 1を付与"
+                  "desc": "[OnSucceedAttack] 対象が出血を保有しているなら、麻痺 1を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 出血 回数が3増加"
@@ -4725,7 +4725,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象が出血を持っているなら、次のターンに束縛 1を付与"
+                  "desc": "[OnSucceedAttack] 対象が出血を保有しているなら、次のターンに束縛 1を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 出血 3を付与"
@@ -4750,7 +4750,7 @@
                   "desc": "[OnSucceedAttack] 出血 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象が出血を持っているなら、体力を20回復"
+                  "desc": "[OnSucceedAttack] 対象が出血を保有しているなら、体力を20回復"
                 }
               ]
             },

@@ -3,8 +3,8 @@
     {
       "id": "PassedPortal_GreenBokGak",
       "name": "毒の沸き立つ次元",
-      "desc": "本体の最大体力が20％増加",
-      "summary": "最大体力が20%増加"
+      "desc": "本体の体力最大値が20％増加",
+      "summary": "体力最大値が20%増加"
     }
   ]
 }

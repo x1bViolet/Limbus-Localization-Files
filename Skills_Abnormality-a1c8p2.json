@@ -530,7 +530,7 @@
         {
           "level": 1,
           "name": "刻呪殺剣 - 瞬歩",
-          "desc": "[BurstAgility]を持つ対象を優先して攻撃する\n[StartBattle] [SupportProtect]1を得る\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[WinDuel] [Burst]回数が2増加",
+          "desc": "[BurstAgility]を保有する対象を優先して攻撃する\n[StartBattle] [SupportProtect]1を得る\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[WinDuel] [Burst]回数が2増加",
           "coinlist": [
             {
               "coindescs": [
@@ -1351,7 +1351,7 @@
         {
           "level": 1,
           "name": "礼を尽くすがよい！",
-          "desc": "[WideAreaRampage]\n[WhenUse] 自分の体力を最大体力の3%だけ消耗(このダメージで死亡しない)",
+          "desc": "[WideAreaRampage]\n[WhenUse] 自分の体力を体力最大値の3%だけ消耗(このダメージで死亡しない)",
           "coinlist": [
             {
               "coindescs": [
@@ -1411,7 +1411,7 @@
         {
           "level": 1,
           "name": "頭を垂れよ！",
-          "desc": "[CantIdentify]\n[WhenUse] 自分の体力を最大体力の5%だけ消耗(このダメージで死亡しない)",
+          "desc": "[CantIdentify]\n[WhenUse] 自分の体力を体力最大値の5%だけ消耗(このダメージで死亡しない)",
           "coinlist": [
             {
               "coindescs": [

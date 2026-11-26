@@ -462,7 +462,7 @@
     },
     {
       "id": "RecoverRatioHpOnly",
-      "content": "<color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>体力最大値の{amount}%だけ体力を</color><color=#ebcaa2>回復</color>"
+      "content": "<color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>体力を最大値の{amount}%だけ</color><color=#ebcaa2>回復</color>"
     }
   ]
 }

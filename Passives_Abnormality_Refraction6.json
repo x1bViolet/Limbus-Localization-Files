@@ -277,7 +277,7 @@
     {
       "id": 955401,
       "name": "私の全ての身体要素は既にティビアへ",
-      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]で受けるダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
+      "desc": "[Combustion]・[Vibration]・[Burst]・[Sinking]による体力・精神力ダメージ量 -30%\n[Laceration]による被ダメージ量 -50%\n\nターン開始時、混乱状態なら混乱を解除。以降、[CrimsonTakeDamageUp]2を得て次のターンまで「設置美術第3号『簡易肋骨』」が使用不可 (戦闘ごとに1回)\n\nターン終了時、自分の[Combustion]4につき次のターンに[DefenseDown]1を得る (最大15)"
     },
     {
       "id": 955301,

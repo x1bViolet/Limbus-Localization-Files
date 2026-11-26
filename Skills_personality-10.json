@@ -2629,7 +2629,7 @@
         {
           "level": 3,
           "name": "ジュ・マブジェクト(je m'abjecte)",
-          "desc": "[TransformSinclair]専用スキル\n[WhenUse] 自分の[ChargeRougeAlly]威力が3以上なら、コイン威力 +1\n\n[BeforeAttack] 自分以外の味方2名の体力を、各対象の最大体力の15%だけ消耗\n- ル・ルージュ所属の味方を優先し、現体力が高い順に指定\n- 体力を消耗した味方1名につき、与ダメージ量 +15%",
+          "desc": "[TransformSinclair]専用スキル\n[WhenUse] 自分の[ChargeRougeAlly]威力が3以上なら、コイン威力 +1\n\n[BeforeAttack] 自分以外の味方2名の体力を、各対象の体力最大値の15%だけ消耗\n- ル・ルージュ所属の味方を優先し、現体力が高い順に指定\n- 体力を消耗した味方1名につき、与ダメージ量 +15%",
           "coinlist": [
             {
               "coindescs": [
@@ -2663,7 +2663,7 @@
         {
           "level": 4,
           "name": "ジュ・マブジェクト(je m'abjecte)",
-          "desc": "[TransformSinclair]専用スキル\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[ChargeRougeAlly]威力が3以上なら、コイン威力 +1\n\n[BeforeAttack] 自分以外の味方2名の体力を、各対象の最大体力の15%だけ消耗\n- ル・ルージュ所属の味方を優先し、現体力が高い順に指定\n- 体力を消耗した味方1名につき、与ダメージ量 +15%",
+          "desc": "[TransformSinclair]専用スキル\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[ChargeRougeAlly]威力が3以上なら、コイン威力 +1\n\n[BeforeAttack] 自分以外の味方2名の体力を、各対象の体力最大値の15%だけ消耗\n- ル・ルージュ所属の味方を優先し、現体力が高い順に指定\n- 体力を消耗した味方1名につき、与ダメージ量 +15%",
           "coinlist": [
             {
               "coindescs": [

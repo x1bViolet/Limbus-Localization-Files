@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "明け方",
-          "desc": "[WhenUse] 指定された対象1名につきダメージ量+20% (最大60%)\n[DefeatDuel]\n- ダメージ量-80%\n- このスキルのダメージで対象は混乱しない\n[EndSkill] 最大体力の(全ターゲットの[Combustion]威力の合計×2)%分、体力を回復 (最大30%)\n[EndSkill] 自分の[DawnOfficeStigmaSOne]と[Combustion]を全て消耗",
+          "desc": "[WhenUse] 指定された対象1名につきダメージ量+20% (最大60%)\n[DefeatDuel]\n- ダメージ量-80%\n- このスキルのダメージで対象は混乱しない\n[EndSkill] 体力を最大値の(全ターゲットの[Combustion]威力の合計×2)%だけ回復 (最大30%)\n[EndSkill] 自分の[DawnOfficeStigmaSOne]と[Combustion]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -186,7 +186,7 @@
         {
           "level": 1,
           "name": "守護者",
-          "desc": "[CanDuelGuard]\n[StartBattle] [SupportProtect]1を得る\n[StartBattle] 自分の最大体力の20%分、バリアを得る\n[StartBattle] [Combustion]を持つ敵の数だけ[Protection]を得る",
+          "desc": "[CanDuelGuard]\n[StartBattle] [SupportProtect]1を得る\n[StartBattle] 自分の体力最大値の20%分、バリアを得る\n[StartBattle] [Combustion]を保有する敵の数だけ[Protection]を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -359,7 +359,7 @@
         {
           "level": 1,
           "name": "射出 - 正午",
-          "desc": "[WideAreaRampage]\n[WhenUse] 指定されたターゲット1名につきダメージ量+20% (最大60%)\n[DefeatDuel]\n- ダメージ量-80%\n- このスキルのダメージで対象は混乱しない\n[BeforeAttack] 全対象を[VibrationIgnition]へ[Switch_Vibration]\n[EndSkill] 最大体力の(全ターゲットの[Combustion]威力の合計)分、体力を回復 (最大15%)\n[EndSkill] 最大体力の(自分の[Combustion]威力)分、体力を回復 (最大15%)\n[EndSkill] 自分の[DawnOfficeStigmaYOne]と[Combustion]を全て消耗",
+          "desc": "[WideAreaRampage]\n[WhenUse] 指定されたターゲット1名につきダメージ量+20% (最大60%)\n[DefeatDuel]\n- ダメージ量-80%\n- このスキルのダメージで対象は混乱しない\n[BeforeAttack] 全対象を[VibrationIgnition]へ[Switch_Vibration]\n[EndSkill] 体力最大値の(全ターゲットの[Combustion]威力の合計)分、体力を回復 (最大15%)\n[EndSkill] 体力最大値の(自分の[Combustion]威力)分、体力を回復 (最大15%)\n[EndSkill] 自分の[DawnOfficeStigmaYOne]と[Combustion]を全て消耗",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
         {
           "level": 1,
           "name": "烙印",
-          "desc": "<color=#ff6000><mark color=#ff000040><b><u>ターン開始時に保有していた自分の[DawnOfficeStigmaYOne]10につき、被撃時にこのスキルを1回再使用 (最大2回)</color></mark></b></u>\n[StartBattle] [DawnOfficeStigmaYOne]2につき最終威力+1 (最大5)\n[StartBattle] [Combustion]を持つ敵の数だけ[DefenseUp]を得る\n[WhenUse] 自分の[DawnOfficeStigmaYOne]10につきマイナス効果の付与量+1",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>ターン開始時に保有していた自分の[DawnOfficeStigmaYOne]10につき、被撃時にこのスキルを1回再使用 (最大2回)</color></mark></b></u>\n[StartBattle] [DawnOfficeStigmaYOne]2につき最終威力+1 (最大5)\n[StartBattle] [Combustion]を保有する敵の数だけ[DefenseUp]を得る\n[WhenUse] 自分の[DawnOfficeStigmaYOne]10につきマイナス効果の付与量+1",
           "coinlist": [
             {
               "coindescs": [
@@ -571,7 +571,7 @@
         {
           "level": 1,
           "name": "回避",
-          "desc": "[WhenUse] 対象の[Combustion]4につき最終威力+1 (最大3)\n<color=#ff6000><mark color=#ff000040><b><u>[OnSucceedEvade] 自分の最大体力の15%分回復</color></mark></b></u>",
+          "desc": "[WhenUse] 対象の[Combustion]4につき最終威力+1 (最大3)\n<color=#ff6000><mark color=#ff000040><b><u>[OnSucceedEvade] 自分の体力を最大値の15%だけ回復</color></mark></b></u>",
           "coinlist": [
             {}
           ]
@@ -646,7 +646,7 @@
         {
           "level": 1,
           "name": "貫く",
-          "desc": "ダメージ量+(<color=#ff6000><mark color=#ff000040><b><u>対象の現在の体力の割合</color></mark></b></u>-50)% (最大50%、最小0%)\nクリティカルダメージ量+(自分の[Breath]威力と対象の[Vibration]威力の合計×2.5)% (最大50%)\n[WhenUse] 自分の[WalpuTenWedgeOffice]が3なら、マッチ威力+6\n[WinDuel] [Breath]2を得て、自分の[Breath]回数が3増加",
+          "desc": "ダメージ量+(<color=#ff6000><mark color=#ff000040><b><u>対象の現体力の比率</color></mark></b></u>-50)% (最大50%、最小0%)\nクリティカルダメージ量+(自分の[Breath]威力と対象の[Vibration]威力の合計×2.5)% (最大50%)\n[WhenUse] 自分の[WalpuTenWedgeOffice]が3なら、マッチ威力+6\n[WinDuel] [Breath]2を得て、自分の[Breath]回数が3増加",
           "coinlist": [
             {
               "coindescs": [
@@ -750,7 +750,7 @@
         {
           "level": 1,
           "name": "下がっていろ",
-          "desc": "[DuelCounter]\n援護防御専用スキル\n[WhenUse] 自分の失った体力20%につき、マッチ威力+1 (最大4)\n[WhenUse]\n- [SupportProtect]した対象の味方と自分の精神力が5回復\n- 最大体力の15%分、バリアを得る (1ターンにつき1回)\n- [Protection]2を得る (1ターンにつき1回)",
+          "desc": "[DuelCounter]\n援護防御専用スキル\n[WhenUse] 自分の失った体力20%につき、マッチ威力+1 (最大4)\n[WhenUse]\n- [SupportProtect]した対象の味方と自分の精神力が5回復\n- 体力最大値の15%分、バリアを得る (1ターンにつき1回)\n- [Protection]2を得る (1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [

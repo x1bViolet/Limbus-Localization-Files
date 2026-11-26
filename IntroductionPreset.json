@@ -2187,6 +2187,22 @@
     {
       "id": "introduce_sentence_274",
       "content": "守れなかった{0}で鍛えたこの剣は…。"
+    },
+    {
+      "id": "introduce_word_275",
+      "content": "欲望"
+    },
+    {
+      "id": "introduce_sentence_275",
+      "content": "{0}に汨没せり。"
+    },
+    {
+      "id": "introduce_word_276",
+      "content": "糸"
+    },
+    {
+      "id": "introduce_sentence_276",
+      "content": "ああ、{0}を紡ぎたいのか？"
     }
   ]
 }

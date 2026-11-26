@@ -1160,7 +1160,7 @@
         {
           "level": 1,
           "name": "キャンディーちょうだい。",
-          "desc": "[GiveMeCandy]を持つ対象を優先して攻撃\n[WhenUse] 対象の[GiveMeCandy]1につきコイン威力 +1(最大5)\n[DefeatDuel] 最終ダメージ量 -50%",
+          "desc": "[GiveMeCandy]を保有する対象を優先して攻撃\n[WhenUse] 対象の[GiveMeCandy]1につきコイン威力 +1(最大5)\n[DefeatDuel] 最終ダメージ量 -50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1188,7 +1188,7 @@
         {
           "level": 1,
           "name": "ない。キャンディー。",
-          "desc": "[BeforeAttack] [GiveMeCandy]を持つ人格の数だけ、攻撃加重値が増加 (最大3)\n[WhenUse] [GiveMeCandy]を持つ人格数だけダメージ量 +10% (最大50%)\n[WhenUse] メインターゲットの保有する[GiveMeCandy]1につき、コイン威力 +1 (最大5)",
+          "desc": "[BeforeAttack] [GiveMeCandy]を保有する人格の数だけ、攻撃加重値が増加 (最大3)\n[WhenUse] [GiveMeCandy]を保有する人格数だけダメージ量 +10% (最大50%)\n[WhenUse] メインターゲットの保有する[GiveMeCandy]1につき、コイン威力 +1 (最大5)",
           "coinlist": [
             {
               "coindescs": [
@@ -1233,7 +1233,7 @@
         {
           "level": 1,
           "name": "ぶるんぶるん",
-          "desc": "[CantDuel]\n[WhenUse] [GiveMeCandy]を持つ人格の数だけダメージ量 +20% (最大100%)",
+          "desc": "[CantDuel]\n[WhenUse] [GiveMeCandy]を保有する人格の数だけダメージ量 +20% (最大100%)",
           "coindescs": [
             {
               "desc": ""
@@ -1267,7 +1267,7 @@
         {
           "level": 1,
           "name": "…コミが、おこった。",
-          "desc": "[BeforeAttack] [GiveMeCandy]を持つ人格の数だけ、攻撃加重値が増加\n[WhenUse] [GiveMeCandy]を持つ人格の数だけダメージ量 +10% (最大50%)\n[WhenUse] [GiveMeCandy]を持つ人格の数だけマッチ威力増加 (最大5)\n[DefeatDuel] 最終ダメージ量 -80%",
+          "desc": "[BeforeAttack] [GiveMeCandy]を保有する人格の数だけ、攻撃加重値が増加\n[WhenUse] [GiveMeCandy]を保有する人格の数だけダメージ量 +10% (最大50%)\n[WhenUse] [GiveMeCandy]を保有する人格の数だけマッチ威力増加 (最大5)\n[DefeatDuel] 最終ダメージ量 -80%",
           "coinlist": [
             {
               "coindescs": [

@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "対象指定射撃",
-          "desc": "[FellBulletMark]を持つ対象を攻撃\n自分の[Breath]5につき、コイン威力 +1(最大2)\n自分の[Breath]回数3につき、基本威力 +1(最大3)\n[WhenUse] メインターゲットに[FellBulletMark]が無ければ、[Paralysis]1, [Vulnerable]3を得る\n[EndSkill] 対象が死亡したなら、[Breath]10を得る、全ての敵の精神力を15減少",
+          "desc": "[FellBulletMark]を保有する対象を攻撃\n自分の[Breath]5につき、コイン威力 +1(最大2)\n自分の[Breath]回数3につき、基本威力 +1(最大3)\n[WhenUse] メインターゲットに[FellBulletMark]が無ければ、[Paralysis]1, [Vulnerable]3を得る\n[EndSkill] 対象が死亡したなら、[Breath]10を得る、全ての敵の精神力を15減少",
           "coinlist": [
             {
               "coindescs": [

@@ -489,7 +489,7 @@
         {
           "level": 1,
           "name": "安息のエコー",
-          "desc": "[CantIdentify]\n味方を優先指定し、その中で現体力が最も低い味方をメインターゲットに指定\n対象が味方ならダメージ量が0に固定\n対象の[Sinking]3につき、マッチ威力 +1 (最大4)\n[StartBattle] 対象が味方なら、対象の最大体力20%だけ体力を回復",
+          "desc": "[CantIdentify]\n味方を優先指定し、その中で現体力が最も低い味方をメインターゲットに指定\n対象が味方ならダメージ量が0に固定\n対象の[Sinking]3につき、マッチ威力 +1 (最大4)\n[StartBattle] 対象が味方なら、対象の体力を最大値の20%だけ回復",
           "coinlist": [
             {
               "coindescs": [
@@ -698,7 +698,7 @@
         {
           "level": 1,
           "name": "かの者らが信じる善意が価値を失う前に",
-          "desc": "[NervousImpairment]が最も高い対象を優先指定\nメインターゲットの[NervousImpairment]3につき、基本威力 +1 (最大9)\n速度と関係なく、このスキルとマッチできる\n[DefeatDuel]\n- [ResultReduction]3, [Paralysis]3を得る\n- ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n- このスキルで付与する[NervousImpairment]付与量が半減して[Sinking]・[Sinking]回数を付与しない\n- このスキルで得る[AbyssalVitality]、バリアが半減\n[EndSkill] [AbyssalVitality]を100得る\n- 最大体力の20%だけバリアを得る\n- このターンが終了\n[EndBattle] 次のターン開始時、戦場全体に[NetherseaBrandUnit]を生成",
+          "desc": "[NervousImpairment]が最も高い対象を優先指定\nメインターゲットの[NervousImpairment]3につき、基本威力 +1 (最大9)\n速度と関係なく、このスキルとマッチできる\n[DefeatDuel]\n- [ResultReduction]3, [Paralysis]3を得る\n- ダメージ量が80%だけ減少し、このスキルのダメージで対象が混乱しない\n- このスキルで付与する[NervousImpairment]付与量が半減して[Sinking]・[Sinking]回数を付与しない\n- このスキルで得る[AbyssalVitality]、バリアが半減\n[EndSkill] [AbyssalVitality]を100得る\n- 体力最大値の20%だけバリアを得る\n- このターンが終了\n[EndBattle] 次のターン開始時、戦場全体に[NetherseaBrandUnit]を生成",
           "coinlist": [
             {
               "coindescs": [
@@ -762,7 +762,7 @@
         {
           "level": 1,
           "name": "安息のエコー",
-          "desc": "[CantIdentify]\n味方を優先指定し、その中で現体力が最も低い味方をメインターゲットに指定\n対象が味方ならダメージ量が0に固定\n対象の[Sinking]3につき、マッチ威力 +1 (最大4)\n[StartBattle] 対象が味方なら、対象の最大体力20%だけ体力を回復",
+          "desc": "[CantIdentify]\n味方を優先指定し、その中で現体力が最も低い味方をメインターゲットに指定\n対象が味方ならダメージ量が0に固定\n対象の[Sinking]3につき、マッチ威力 +1 (最大4)\n[StartBattle] 対象が味方なら、対象の体力を最大値の20%だけ回復",
           "coinlist": [
             {
               "coindescs": [

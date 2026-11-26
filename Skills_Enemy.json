@@ -15,7 +15,7 @@
         {
           "level": 1,
           "name": "無力化",
-          "desc": "[OnSucceedAttack] 束縛 2を付与。体力最大値の5%体力を回復"
+          "desc": "[OnSucceedAttack] 束縛 2を付与。体力を最大値の5%だけ回復"
         }
       ]
     },
@@ -4306,7 +4306,7 @@
         {
           "level": 1,
           "name": "液体塞ぎ",
-          "desc": "[WhenUse] 体力最大値の5%分回復\n次のターンに脆弱 2を得る。\n[EndBattle] 酔い が全て消滅",
+          "desc": "[WhenUse] 体力を最大値の5%だけ回復\n次のターンに脆弱 2を得る。\n[EndBattle] 酔い が全て消滅",
           "coinlist": [
             {
               "coindescs": [
